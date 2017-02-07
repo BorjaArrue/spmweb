@@ -6,11 +6,11 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
 		<!-- Bootstrap CSS -->
-		<link rel="stylesheet" href="css/bootstrap.min.css">
+		<link rel="stylesheet" href="/css/bootstrap.min.css">
 		<!-- Carga de Font Awesome -->
-		<link rel="stylesheet" href="css/font-awesome.min.css">
+		<link rel="stylesheet" href="/css/font-awesome.min.css">
 		<!-- Carga de estilos personalizados -->
-		<link rel="stylesheet" href="css/styles.css">
+		<link rel="stylesheet" href="/css/styles.css">
 
 		<!-- Fonts -->
 		<link rel="stylesheet" id="googlefonts-css" href="http://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,600,600italic" type="text/css" media="all">
@@ -19,34 +19,6 @@
 	<body>
 		<div class="container">
 			<section class="header">
-				<nav class="navbar navbar-toggleable-md navbar-light">
-					<button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
-					<span class="navbar-toggler-icon"></span>
-					</button>
-					<a class="navbar-brand" href="#"><img src="images/logo.jpg" alt="Spatial Manager logo" width="260" height="50"></a>
-
-					<div class="collapse navbar-collapse float-md-right" id="navbarTogglerDemo02">
-						<ul class="navbar-nav ml-auto">
-					    	<li class="nav-item mr-lg-3 active">
-					    		<a class="nav-link" href="#">Product tour</a>
-							</li>
-				    		<li class="nav-item mr-lg-3">
-						    	<a class="nav-link" href="#">Pricing</a>
-						    </li>
-					    	<li class="nav-item mr-lg-3">
-						    	<a class="nav-link" href="#">Support</a>
-						    </li>
-							<li class="nav-item mr-lg-3">
-						    	<a class="nav-link" href="#">Blog</a>
-						    </li>
-					    	<li>
-					    		<a href="#" class="btn btn-tryit mr-lg-3 mt-lg-1">TRY IT FOR FREE</a>
-					    	</li>
-					    	<li>
-					    		<a href="#" class="btn btn-secondary mr-lg-3 mt-lg-1 mt-2"><i class="fa fa-shopping-cart" aria-hidden="true"></i> Cart (0)</a>
-					    	</li>
-					    </ul>
-					</div>
-				</nav>
+				{% include nav.html %}
 			</section>
 		</div>	
