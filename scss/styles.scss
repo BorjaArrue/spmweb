@@ -1,0 +1,41 @@
+body{
+	    font-family: 'Open Sans',sans-serif,Tahoma;
+}
+
+.btn-tryit:visited{
+    color: #FFF;
+}
+
+.btn-tryit{
+	background-color: #3F92FF;
+}
+
+.btn-tryit:hover{
+	background-color: #286eca;
+	color: #FFF;
+}
+
+.main{
+	padding-top: 60px;
+    padding-bottom: 60px;
+	background-color: #f7f8fa;
+}
+
+.gradient{
+	background: linear-gradient(#e6e6e6, #f7f8fa);
+}
+
+.underline-handwriting {
+    text-decoration: none;
+    background: url(../images/line2x.png) no-repeat center bottom;
+    background-size: 100% auto;
+}
+
+nav .btn{
+	font-size: 0.8rem;
+}
+
+#FeatureSlider img{
+	height: 404px;
+    width: 609px;
+}
