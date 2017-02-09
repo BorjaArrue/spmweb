@@ -1,0 +1,26 @@
+body{
+	font-family: 'Open Sans',sans-serif,Tahoma;
+}
+
+.gradient{
+	background: linear-gradient(#e6e6e6, #f7f8fa);
+}
+
+.top-line{
+	border-top: 1px solid #ccc;	
+}
+
+.bottom-line{
+	border-bottom: 1px solid #ccc;
+}
+
+.underline-handwriting {
+	text-decoration: none;
+	background: url(../images/line2x.png) no-repeat center bottom;
+	background-size: 100% auto;
+}
+
+#FeatureSlider img{
+	height: 404px;
+    width: 609px;
+}

@@ -1,0 +1,21 @@
+#navbar_main .btn{
+	font-size: 0.9rem;
+}
+
+#nav_main, #nav_product{
+	padding-left: 0rem;
+	padding-right: 0rem;
+}
+
+#nav_product>.navbar-brand{
+	font-weight: 300;
+    font-size: 1.5rem;
+}
+
+#nav_product .btn{
+	    font-size: 0.8rem;
+}
+
+#nav_main .dropdown{
+	z-index: 10000;
+}

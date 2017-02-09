@@ -3,4 +3,4 @@ markdown: redcarpet
 # Sass settings
 sass:
     sass_dir: css
-    style: compressed
+#    style: compressed
