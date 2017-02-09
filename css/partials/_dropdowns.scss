@@ -1,0 +1,21 @@
+.products-dropdown-menu::before {
+    border-bottom: 7px solid rgba(0, 0, 0, 0.2);
+    border-left: 7px solid transparent;
+    border-right: 7px solid transparent;
+    content: "";
+    display: inline-block;
+    left: 78px;
+    position: absolute;
+    top: -7px;
+}
+
+.products-dropdown-menu::after {
+  position: absolute;
+  top: -6px;
+  left: 79px;
+  display: inline-block;
+  border-right: 6px solid transparent;
+  border-bottom: 6px solid white;
+  border-left: 6px solid transparent;
+  content: '';
+}

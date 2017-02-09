@@ -1,5 +1,10 @@
-#navbar_main .btn{
-	font-size: 0.9rem;
+#navbar_main .btn, #nav_product .btn{
+	font-size: 0.8rem;
+	width: 130px;
+}
+
+#nav_main .dropdown{
+	z-index: 10000;
 }
 
 #nav_main, #nav_product{
@@ -10,12 +15,4 @@
 #nav_product>.navbar-brand{
 	font-weight: 300;
     font-size: 1.5rem;
-}
-
-#nav_product .btn{
-	    font-size: 0.8rem;
-}
-
-#nav_main .dropdown{
-	z-index: 10000;
 }
