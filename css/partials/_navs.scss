@@ -10,9 +10,11 @@
 #nav_main, #nav_product{
 	padding-left: 0rem;
 	padding-right: 0rem;
+	height: 68px;
 }
 
 #nav_product>.navbar-brand{
-	font-weight: 300;
-    font-size: 1.5rem;
+	color: rgb(132, 132, 132);
+    font-size: 1.4rem;
+    font-weight: 300;
 }
