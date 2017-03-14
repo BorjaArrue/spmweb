@@ -1,27 +1,77 @@
-body{
-	font-family: 'Open Sans',sans-serif,Tahoma;
+body {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    position: relative;
 }
-
-.gradient{
-	background: linear-gradient(#e6e6e6, #f7f8fa);
+.gradient {
+    background: linear-gradient(#e6e6e6, #f7f8fa);
 }
-
-.top-line{
-	border-top: 1px solid #ccc;	
+.top-line {
+    border-top: 1px solid #ccc;
 }
-
-.bottom-line{
-	border-bottom: 1px solid #ccc;
+.bottom-line {
+    border-bottom: 1px solid #ccc;
 }
-
 .underline-handwriting {
-	text-decoration: none;
-	background: url(../images/line2x.png) no-repeat center bottom;
-	background-size: 100% auto;
+    text-decoration: none;
+    background: url("../images/underline.svg") no-repeat center bottom;
+    background-size: 100% auto;
+}
+#FeatureSlider img {
+    height: 404px;
+    width: 609px;
+}
+.product_header {
+    background: url("../../images/fondo_br.jpg") no-repeat center top;
+    background-size: cover;
+    background-attachment: fixed !important;
+    color: #fff;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
 }
 
-#FeatureSlider img{
-	height: 404px;
-    width: 609px;
+.product_header .content{
+    display: flex;
+    flex-direction: column;
+    flex: 1 1 auto;
+}
+
+.product_header .main{
+    flex: 1 1 auto;
+}
+
+.product_header .h1{
+    font-size: 3.5rem;
+}
+
+.product_header .h1, .h2{
+    font-weight: 300;
+}
+
+.product_header .down_arrow a{
+    display: inline-block;
+    color: #fff;
+    font-size: 4rem;
+    animation: down-arrow-animated 1.5s ease-in-out infinite;
+}
+
+@keyframes down-arrow-animated{
+    from{
+        transform: translateY(0);
+    }
+    50%{
+        transform: translateY(6px);
+    }
+    to{
+        transform: translateY(0);
+    }
+}
+
+.product_features {}
+
+.editions {
+    background: #cdced2;
+    min-height: 700px;
 }
 

@@ -1,20 +1,91 @@
-#navbar_main .btn, #nav_product .btn{
-	font-size: 0.8rem;
-	width: 130px;
+.nav_main{
+    padding-left: 0rem;
+    padding-right: 0rem;
+    height: 68px;
+    background-color: rgba(0,0,0,0.6);
 }
 
-#nav_main .dropdown{
-	z-index: 10000;
+.nav_main .container{
+    display: flex;
+    height: 100%;
+    padding: 0;
+    align-items: center;
 }
 
-#nav_main, #nav_product{
-	padding-left: 0rem;
-	padding-right: 0rem;
-	height: 68px;
+.nav_main a{
+    flex: 1 1 auto;
 }
 
-#nav_product>.navbar-brand{
-	color: rgb(132, 132, 132);
-    font-size: 1.4rem;
-    font-weight: 300;
+.nav_main ul {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    align-items: center;
+}
+
+.nav_main ul li{
+    margin-left: 2rem;
+    text-transform: uppercase;
+    color: #fff;
+}
+
+.nav_main ul li a,
+.nav_main ul li a:hover{
+    color: #fff;
+    text-decoration: none;
+}
+
+.nav_main .btn{
+    background: #000;
+    color: #fff;
+    border-radius: 0;
+    padding: 0.4rem 0.5rem;
+    margin-left: 2rem;
+}
+
+.nav_product {
+    flex-direction: row;
+    justify-content: center;
+    padding: 0;
+    height: 60px;
+    display: none;
+    background: rgba(255, 255, 255, 0.95);
+    border-bottom: 1px solid #e5e5e5;    
+}
+
+.nav_product .navbar{
+    flex-direction: row;
+    padding: 0;
+}
+
+.nav_product .nav{
+    height: 100%;
+    align-items: center;
+}
+
+.nav_product .navbar-brand{
+    font-weight: 400;
+    display: flex;
+    align-items: center;
+}
+
+.nav_product .navbar-brand img{
+    margin-right: 15px;
+}
+
+.nav_product .nav-link{
+    color: black;
+    border-radius: 0px;
+    padding: 0 1rem;
+    line-height: 60px;
+}
+
+.nav_product .nav-link.active {
+    color: black;
+    background: rgba(225, 229, 234, .7);
+}
+
+.nav_product .btn-tryit{
+    margin-left: 1rem;
 }
