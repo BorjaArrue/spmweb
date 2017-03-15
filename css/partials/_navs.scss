@@ -1,8 +1,7 @@
 .nav_main{
-    padding-left: 0rem;
-    padding-right: 0rem;
-    height: 68px;
-    background-color: rgba(0,0,0,0.6);
+    padding: 0;
+    height: 48px; /* Era 68px */
+    background-color: rgba(0,0,0,1);
 }
 
 .nav_main .container{
@@ -28,12 +27,20 @@
     margin-left: 2rem;
     text-transform: uppercase;
     color: #fff;
+    position: relative;
 }
 
 .nav_main ul li a,
 .nav_main ul li a:hover{
     color: #fff;
     text-decoration: none;
+    font-weight: 400;
+    font-size: .8rem;
+}
+
+.nav_main .dropdown-item,
+.nav_main .dropdown-item:hover {
+    color: black;
 }
 
 .nav_main .btn{
@@ -42,6 +49,7 @@
     border-radius: 0;
     padding: 0.4rem 0.5rem;
     margin-left: 2rem;
+    font-size: .8rem;
 }
 
 .nav_product {
