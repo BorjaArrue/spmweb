@@ -1,0 +1,89 @@
+@import "variables";
+
+@font-face {
+  font-family: 'spm_fonts';
+  src:  url('#{$icomoon-font-path}/spm_fonts.eot?l09cxm');
+  src:  url('#{$icomoon-font-path}/spm_fonts.eot?l09cxm#iefix') format('embedded-opentype'),
+    url('#{$icomoon-font-path}/spm_fonts.ttf?l09cxm') format('truetype'),
+    url('#{$icomoon-font-path}/spm_fonts.woff?l09cxm') format('woff'),
+    url('#{$icomoon-font-path}/spm_fonts.svg?l09cxm#spm_fonts') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+i {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'spm_fonts' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-chevron-down {
+  &:before {
+    content: $icon-chevron-down;
+  }
+}
+.icon-shopping-cart {
+  &:before {
+    content: $icon-shopping-cart;
+  }
+}
+.icon-arrow-circle-o-right {
+  &:before {
+    content: $icon-arrow-circle-o-right;
+  }
+}
+.icon-features-export {
+  &:before {
+    content: $icon-features-export;
+  }
+}
+.icon-features-license {
+  &:before {
+    content: $icon-features-license;
+  }
+}
+.icon-feaures-earth {
+  &:before {
+    content: $icon-feaures-earth;
+  }
+}
+.icon-features-data {
+  &:before {
+    content: $icon-features-data;
+  }
+}
+.icon-features-translate {
+  &:before {
+    content: $icon-features-translate;
+  }
+}
+.icon-features-bgmaps {
+  &:before {
+    content: $icon-features-bgmaps;
+  }
+}
+.icon-features-tasks {
+  &:before {
+    content: $icon-features-tasks;
+  }
+}
+.icon-features-coordinates {
+  &:before {
+    content: $icon-features-coordinates;
+  }
+}
+.icon-features-import {
+  &:before {
+    content: $icon-features-import;
+  }
+}
+
