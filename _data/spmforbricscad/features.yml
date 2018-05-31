@@ -1,0 +1,44 @@
+- name: Import spatial data into BricsCAD
+  description: Imports spatial data, into new or existing BricsCAD drawings, as BricsCAD entities and Extended Entity Data (EED).
+  icon: icon-features-import
+  edition: bas std pro
+
+- name: Export spatial data from BricsCAD
+  description: Export entities from the drawing to spatial files or databases, and saves their Extended Entity Data (EED) as alphanumeric data tables.
+  icon: icon-features-export
+  edition: pro
+  
+- name: Data management, query and edition
+  description: Manage the alphanumeric data linked to the entities, design and edit the structure which will be used to store the data.
+  icon: icon-features-data
+  edition: std pro
+ 
+- name: Coordinates transformation
+  description: Calculate geometric transformations of the features in line with the import and export processes.
+  icon: icon-features-coordinates
+  edition: bas std pro
+  
+- name: Background Maps
+  description: Choose from among many Backgrounds Maps from many providers such as OpenStreetMap, Bing, MapBox, Ordnance Survey, etc.
+  icon: icon-features-bgmaps
+  edition: std pro
+  
+- name: Publishing to Google Earth
+  description: Export all or part of the entities in the visible Layers of the drawing and their data, to a KML or KMZ file.
+  icon: icon-feaures-earth
+  edition: std pro
+ 
+- name: Import tasks
+  description: Save Tasks to replay the import processes so many times as desired.
+  icon: icon-features-tasks
+  edition: pro
+  
+- name: Multi language
+  description: Translated into English, German, Spanish and Portuguese.
+  icon: icon-features-translate
+  edition: bas std pro
+  
+- name: Perpetual Licence
+  description: Pay once, no periodic fees.
+  icon: icon-features-license
+  edition: bas std pro 

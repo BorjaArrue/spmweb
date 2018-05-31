@@ -1,5 +1,5 @@
----
-layout: default
+--- 
+layout: default 
 title: Spatial Manager for BricsCAD
 ---
 
@@ -45,125 +45,64 @@ title: Spatial Manager for BricsCAD
     <div class="container">
         <h2 class="h2 mb-5">Key Features</h2>
         <div class="row mb-5">
-            <div class="col-md-6 col-lg-4 feature wow bounceInUp">
-                <i class="icon-features-import"></i>
+            {% for feature in site.data.spmforbricscad.features %}
+            <div class="col-md-6 col-lg-4 feature wow bounceIn">
+                <i class="{{ feature.icon }}"></i>
                 <div class="text">
-                    <h3 class="h3">Import spatial data into BricsCAD</h3>
-                    <p>Imports spatial data, into new or existing BricsCAD drawings, as BricsCAD entities and Extended Entity Data (EED).</p>
+                    <h3 class="h3">{{ feature.name }}</h3>
+                    <p>{{ feature.description }}</p>
                 </div>
             </div>
-            <div class="col-md-6 col-lg-4 feature wow bounceInUp">
-                <i class="icon-features-export"></i>
-                <div class="text">
-                    <h3 class="h3">Export spatial data from BricsCAD</h3>
-                    <p>Export entities from the drawing to spatial files or databases, and saves their Extended Entity Data (EED) as alphanumeric data tables.</p>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-4 feature wow bounceInUp">
-                <i class="icon-features-data"></i>
-                <div class="text">
-                    <h3 class="h3">Data management, query and edition</h3>
-                    <p>Manage the alphanumeric data  linked to the entities, design and edit the structure which will be used to store the data.</p>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-4 feature wow bounceInUp">
-                <i class="icon-features-coordinates"></i>
-                <div class="text">
-                    <h3 class="h3">Coordinates transformation</h3>
-                    <p>Calculate geometric transformations of the features in line with the import and export processes.</p>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-4 feature wow bounceInUp">
-                <i class="icon-features-bgmaps"></i>
-                <div class="text">
-                    <h3 class="h3">Background Maps</h3>
-                    <p>Choose from among many Backgrounds Maps from many providers such as OpenStreetMap, Bing, MapBox, Ordnance Survey, etc.</p>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-4 feature wow bounceInUp">
-                <i class="icon-feaures-earth"></i>
-                <div class="text">
-                    <h3 class="h3">Publishing to Google Earth</h3>
-                    <p>Export all or part of the entities in the visible Layers of the drawing and their data, to a KML or KMZ file.</p>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-4 feature wow bounceInUp">
-                <i class="icon-features-tasks"></i>
-                <div class="text">
-                    <h3 class="h3">Import tasks</h3>
-                    <p>Save Tasks to replay the import processes so many times as desired.</p>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-4 feature wow bounceInUp">
-                <i class="icon-features-translate"></i>
-                <div class="text">
-                    <h3 class="h3">Multi language</h3>
-                    <p>Translated into English, German, Spanish and Portuguese.</p>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-4 feature wow bounceInUp">
-                <i class="icon-features-license"></i>
-                <div class="text">
-                    <h3 class="h3">Perpetual Licence</h3>
-                    <p>Pay once, no periodic fees.</p>
-                </div>
-            </div>
+            {% endfor %}
         </div>
         <a class="show_all" href="#"><i class="icon-arrow-circle-o-right"></i> Show complete feature list</a>
     </div>
 
 </section>
 
-<section class="sec_pricing py-5" id="pricing" >
+<section class="sec_pricing py-5" id="pricing">
     <div class="container">
         <h2 class="h2 mb-5">Pricing</h2>
-        <div class="row">
-            <div class="col-md-4">
-                <div class="head">Basic Edition</div>  
+        <div class="big_table hidden-sm-down">
+                <div class="feature-col">
+                    <div>&nbsp;</div>
+                    {% for feature in site.data.spmforbricscad.features %}
+                    <div>{{ feature.name }}</div>
+                    {% endfor %}
+                </div>
+                {% for edition in site.data.spmforbricscad.editions %}
+                <div class="edition-col text-center">
+                    <div>{{ edition.name }}</div>
+                    {% for feature in site.data.spmforbricscad.features %} {% if feature.edition contains edition.abbr %}
+                    <div><i class="icon-check"></i></div>
+                    {% else %}
+                    <div><i class="icon-uncheck"></i></div>
+                    {% endif %} {% endfor %}
+                </div>
+                {% endfor %}
+        </div>
+        <div class="small_table hidden-md-up">
+            {% for edition in site.data.spmforbricscad.editions %}
+            <div class="product">
+                <div class="head">{{ edition.name }}</div>
                 <div class="price">
-                    <p class="amount">129€</p>
+                    <p class="amount">{{ edition.price }}€</p>
                     <a href="#" class="btn btn-buynow">Buy Now</a>
                     <p class="volume">Volume pricing available</p>
                 </div>
                 <div class="features">
                     <ul>
-                        <li>Import spatial data in BricsCAD drawings</li>
-                        <li>Transformation of coordinates when importing</li>
-                        <li>Access to spatial data files</li>
+                        {% for feature in site.data.spmforbricscad.features %} {% if feature.edition contains edition.abbr %}
+                        <li class="check">{{ feature.name }}</li>
+                        {% else %}
+                        <li class="uncheck">{{ feature.name }}</li>
+                        {% endif %} {% endfor %}
                     </ul>
                 </div>
             </div>
-            <div class="col-md-4">
-                <div class="head">Basic Edition</div>  
-                <div class="price">
-                    <p class="amount">129€</p>
-                    <a href="#" class="btn btn-buynow">Buy Now</a>
-                    <p class="volume">Volume pricing available</p>
-                </div>
-                <div class="features">
-                    <ul>
-                        <li>Import spatial data in BricsCAD drawings</li>
-                        <li>Transformation of coordinates when importing</li>
-                        <li>Access to spatial data files</li>
-                    </ul>
-                </div>
-            </div>
-                <div class="col-md-4">
-                <div class="head">Basic Edition</div>  
-                <div class="price">
-                    <p class="amount">129€</p>
-                    <a href="#" class="btn btn-buynow">Buy Now</a>
-                    <p class="volume">Volume pricing available</p>
-                </div>
-                <div class="features">
-                    <ul>
-                        <li>Import spatial data in BricsCAD drawings</li>
-                        <li>Transformation of coordinates when importing</li>
-                        <li>Access to spatial data files</li>
-                    </ul>
-                </div>
-            </div>
-        </div>  
+            {% endfor %}
+        </div>
+    </div>
 </section>
 
 <script src="/js/jquery.min.js"></script>

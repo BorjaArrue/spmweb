@@ -2,11 +2,11 @@
 
 @font-face {
   font-family: 'spm_fonts';
-  src:  url('#{$icomoon-font-path}/spm_fonts.eot?l09cxm');
-  src:  url('#{$icomoon-font-path}/spm_fonts.eot?l09cxm#iefix') format('embedded-opentype'),
-    url('#{$icomoon-font-path}/spm_fonts.ttf?l09cxm') format('truetype'),
-    url('#{$icomoon-font-path}/spm_fonts.woff?l09cxm') format('woff'),
-    url('#{$icomoon-font-path}/spm_fonts.svg?l09cxm#spm_fonts') format('svg');
+  src:  url('#{$icomoon-font-path}/spm_fonts.eot?bx56j0');
+  src:  url('#{$icomoon-font-path}/spm_fonts.eot?bx56j0#iefix') format('embedded-opentype'),
+    url('#{$icomoon-font-path}/spm_fonts.ttf?bx56j0') format('truetype'),
+    url('#{$icomoon-font-path}/spm_fonts.woff?bx56j0') format('woff'),
+    url('#{$icomoon-font-path}/spm_fonts.svg?bx56j0#spm_fonts') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -26,6 +26,16 @@ i {
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-check {
+  &:before {
+    content: $icon-check;
+  }
+}
+.icon-uncheck {
+  &:before {
+    content: $icon-uncheck;
+  }
+}
 .icon-chevron-down {
   &:before {
     content: $icon-chevron-down;
