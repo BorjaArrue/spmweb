@@ -36,11 +36,6 @@ i {
     content: $icon-uncheck;
   }
 }
-.icon-chevron-down {
-  &:before {
-    content: $icon-chevron-down;
-  }
-}
 .icon-shopping-cart {
   &:before {
     content: $icon-shopping-cart;
@@ -96,4 +91,8 @@ i {
     content: $icon-features-import;
   }
 }
-
+.icon-logo_apps {
+  &:before {
+    content: $icon-logo_apps;
+  }
+}

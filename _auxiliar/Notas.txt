@@ -1,0 +1,3 @@
+Las fuentes de letras las hago con https://icomoon.io/app/#/select
+
+- Se suben SVGs a la aplicación, antes hay que importar el archivo JSON que está dentro de spm_fonts.zip para que recargue el proyecto

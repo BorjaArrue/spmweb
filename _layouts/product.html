@@ -1,0 +1,193 @@
+--- 
+layout: default 
+title: {{ page.product_name }}
+---
+<style type='text/css'>
+    .btn-tryit{
+        background-color: {{ page.product_color }};
+    }
+</style>
+
+<header class="product_header">
+    <div class="container">
+        <div class="row my-3 my-md-5 py-lg-5">
+            <div class="col-md-12 col-lg-7 text-center">
+                <h1 class="h1 mb-3">{{ page.header_h1_text }}</h1>
+                <h2 class="h2">{{ page.header_lead_text }}</h2>
+                <a href="#" class="btn btn-lg btn-tryit my-4">TRY IT FOR FREE</a>
+            </div>
+        </div>
+    </div>
+</header>
+
+<div class="nav_product" id="nav_product">
+    <div class="container">
+        <nav class="navbar">
+            <div class="navbar-brand"><i class="mr-2 icon-logo_apps"></i>{{ page.product_name }}</div>
+
+            <ul class="nav nav-pills ml-auto">
+                <li class="nav-item">
+                    <a data-scroll class="nav-link" href="#overview">Overview</a>
+                </li>
+                <li class="nav-item">
+                    <a data-scroll class="nav-link" href="#features">Features</a>
+                </li>
+                <li class="nav-item">
+                    <a data-scroll class="nav-link" href="#pricing">Pricing</a>
+                </li>
+                <li class="nav-item">
+                    <a data-scroll class="nav-link" href="#faqs">FAQs</a>
+                </li>
+            </ul>
+
+            <a href="#" class="btn btn-tryit my-auto">TRY IT FOR FREE</a>
+        </nav>
+    </div>
+</div>
+
+<section class="sec_overview py-5>" id="overview">
+    <div class="container">
+        <h2 class="h2 mb-5 text-center">Overview</h2>
+        
+    </div>
+</section>
+
+<section class="sec_features py-5" id="features">
+    <div class="container">
+        <h2 class="h2 mb-5 text-center">Key Features</h2>
+        <div class="row mb-5">
+            {% for feature in site.data.spmforbricscad.features %}
+            <div class="col-md-6 col-lg-4 feature wow bounceIn">
+                <i class="{{ feature.icon }}"></i>
+                <div class="text">
+                    <h3 class="h3">{{ feature.name }}</h3>
+                    <p>{{ feature.description }}</p>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+        <a class="show_all" href="#"><i class="icon-arrow-circle-o-right"></i> Show complete feature list</a>
+    </div>
+</section>
+
+<section class="sec_pricing py-5" id="pricing">
+    <div class="container">
+        <h2 class="h2 mb-5 text-center">Pricing</h2>
+        <div class="big_table hidden-sm-down">
+                <div class="feature-col">
+                    <div>&nbsp;</div>
+                    {% for feature in site.data.spmforbricscad.features %}
+                    <div>{{ feature.name }}</div>
+                    {% endfor %}
+                </div>
+                {% for edition in site.data.spmforbricscad.editions %}
+                <div class="edition-col text-center">
+                    <div>{{ edition.name }}</div>
+                    {% for feature in site.data.spmforbricscad.features %} {% if feature.edition contains edition.abbr %}
+                    <div><i class="icon-check"></i></div>
+                    {% else %}
+                    <div><i class="icon-uncheck"></i></div>
+                    {% endif %} {% endfor %}
+                </div>
+                {% endfor %}
+        </div>
+        <div class="small_table hidden-md-up">
+            {% for edition in site.data.spmforbricscad.editions %}
+            <div class="product shadow-sm">
+                <div class="head">{{ edition.name }}</div>
+                <div class="price">
+                    <p class="amount">{{ edition.price }}€</p>
+                    <a href="#" class="btn btn-buynow">Buy Now</a>
+                    <p class="volume">Volume pricing available</p>
+                </div>
+                <div class="features">
+                    <ul>
+                        {% for feature in site.data.spmforbricscad.features %} {% if feature.edition contains edition.abbr %}
+                        <li class="check">{{ feature.name }}</li>
+                        {% else %}
+                        <li class="uncheck">{{ feature.name }}</li>
+                        {% endif %} {% endfor %}
+                    </ul>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+</section>
+
+<section class="sec_faqs py-5" id="faqs">
+    <div class="container">
+        <h2 class="h2 mb-5 text-center">Frequently Asked Questions</h2>
+        <div class="accordion" id="accordionExample">
+            <div class="card">
+                <div class="card-header" id="headingOne">
+                    <h2 class="mb-0">
+                        <button type="button" class="btn btn-link" data-toggle="collapse" data-target="#collapseOne">1. What is HTML?</button>                                  
+                    </h2>
+                </div>
+                <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
+                    <div class="card-body">
+                        <p>HTML stands for HyperText Markup Language. HTML is the standard markup language for describing the structure of web pages. <a href="https://www.tutorialrepublic.com/html-tutorial/" target="_blank">Learn more.</a></p>
+                    </div>
+                </div>
+            </div>
+            <div class="card">
+                <div class="card-header" id="headingTwo">
+                    <h2 class="mb-0">
+                        <button type="button" class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseTwo">2. What is Bootstrap?</button>
+                    </h2>
+                </div>
+                <div id="collapseTwo" class="collapse show" aria-labelledby="headingTwo" data-parent="#accordionExample">
+                    <div class="card-body">
+                        <p>Bootstrap is a sleek, intuitive, and powerful front-end framework for faster and easier web development. It is a collection of CSS and HTML conventions. <a href="https://www.tutorialrepublic.com/twitter-bootstrap-tutorial/" target="_blank">Learn more.</a></p>
+                    </div>
+                </div>
+            </div>
+            <div class="card">
+                <div class="card-header" id="headingThree">
+                    <h2 class="mb-0">
+                        <button type="button" class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseThree">3. What is CSS?</button>                     
+                    </h2>
+                </div>
+                <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
+                    <div class="card-body">
+                        <p>CSS stands for Cascading Style Sheet. CSS allows you to specify various style properties for a given HTML element such as colors, backgrounds, fonts etc. <a href="https://www.tutorialrepublic.com/css-tutorial/" target="_blank">Learn more.</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<script src="/js/jquery.min.js"></script>
+<script type="text/javascript">
+    /* Show/Hide nav_product bar on Scroll down */
+    $(document).scroll(function() {
+        var t = document.getElementById("overview").offsetTop - 70;
+
+        if ($(this).scrollTop() >= t) {
+            document.getElementById("nav_product").classList.add("fixed-top");
+        } else {
+            document.getElementById("nav_product").classList.remove("fixed-top");
+        }
+    });
+
+
+
+    // /* Adds Scroll-spy funcionality */
+    // $(document).ready(function() {
+    //     $("body").scrollspy({
+    //         target: ".nav_product",
+    //         offset: 70
+    //     })
+    // });
+
+</script>
+
+<script src="/js/smooth-scroll.min.js"></script>
+<script type="text/javascript">
+    smoothScroll.init({
+        speed: 500,
+        offset: 70,
+    });
+</script>
