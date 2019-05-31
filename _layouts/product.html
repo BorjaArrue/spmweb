@@ -49,7 +49,7 @@ title: {{ page.product_name }}
 
 <section class="sec_features py-5" id="features">
     <div class="container">
-        <h2 class="h2 mb-5 text-center">Key Features</h2>
+        <h2 class="h2 mb-5 text-center ">Key Features</h2>
         <div class="row mb-5">
             {% for feature in site.data.spmforbricscad.features %}
             <div class="col-md-6 col-lg-4 feature wow bounceIn">
@@ -70,21 +70,23 @@ title: {{ page.product_name }}
         <h2 class="h2 mb-5 text-center">Pricing</h2>
         <div class="row table">
             {% for edition in site.data.spmforbricscad.editions %}
-            <div class="col-md-6 col-lg-4 product">
-                <div class="head">{{ edition.name }}</div>
-                <div class="price">
-                    <p class="amount">{{ edition.price }}€</p>
-                    <a href="#" class="btn btn-buynow">Buy Now</a>
-                    <p class="volume">Volume pricing available</p>
-                </div>
-                <div class="features">
-                    <ul>
-                        {% for feature in site.data.spmforbricscad.features %} {% if feature.edition contains edition.abbr %}
-                        <li class="check">{{ feature.name }}</li>
-                        {% else %}
-                        <li class="uncheck">{{ feature.name }}</li>
-                        {% endif %} {% endfor %}
-                    </ul>
+            <div class="col-md-6 col-lg-4">
+                <div class="product shadow">
+                    <div class="head">{{ edition.name }}</div>
+                    <div class="price">
+                        <p class="amount">{{ edition.price }}€</p>
+                        <a href="#" class="btn btn-buynow">Buy Now</a>
+                        <p class="volume">Volume pricing available</p>
+                    </div>
+                    <div class="features">
+                        <ul>
+                            {% for feature in site.data.spmforbricscad.features %} {% if feature.edition contains edition.abbr %}
+                            <li class="check">{{ feature.name }}</li>
+                            {% else %}
+                            <li class="uncheck">{{ feature.name }}</li>
+                            {% endif %} {% endfor %}
+                        </ul>
+                    </div>
                 </div>
             </div>
             {% endfor %}
@@ -136,7 +138,7 @@ title: {{ page.product_name }}
     </div>
 </section>
 
-<script src="/js/jquery.min.js"></script>
+<script src="/js/jquery-slim.min.js"></script>
 <script type="text/javascript">
     /* Show/Hide nav_product bar on Scroll down */
     $(document).scroll(function() {
