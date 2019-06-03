@@ -26,79 +26,103 @@ i {
   -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-check {
+.icon-logo_apps {
   &:before {
-    content: $icon-check;
-  }
-}
-.icon-uncheck {
-  &:before {
-    content: $icon-uncheck;
-  }
-}
-.icon-shopping-cart {
-  &:before {
-    content: $icon-shopping-cart;
-  }
-}
-.icon-arrow-circle-o-right {
-  &:before {
-    content: $icon-arrow-circle-o-right;
+    content: $icon-logo_apps; 
   }
 }
 .icon-features-export {
   &:before {
-    content: $icon-features-export;
+    content: $icon-features-export; 
   }
 }
 .icon-features-license {
   &:before {
-    content: $icon-features-license;
+    content: $icon-features-license; 
   }
 }
 .icon-feaures-earth {
   &:before {
-    content: $icon-feaures-earth;
+    content: $icon-feaures-earth; 
   }
 }
 .icon-features-data {
   &:before {
-    content: $icon-features-data;
+    content: $icon-features-data; 
   }
 }
 .icon-features-translate {
   &:before {
-    content: $icon-features-translate;
+    content: $icon-features-translate; 
   }
 }
 .icon-features-bgmaps {
   &:before {
-    content: $icon-features-bgmaps;
+    content: $icon-features-bgmaps; 
   }
 }
 .icon-features-tasks {
   &:before {
-    content: $icon-features-tasks;
+    content: $icon-features-tasks; 
   }
 }
 .icon-features-coordinates {
   &:before {
-    content: $icon-features-coordinates;
+    content: $icon-features-coordinates; 
   }
 }
 .icon-features-import {
   &:before {
-    content: $icon-features-import;
+    content: $icon-features-import; 
   }
 }
-.icon-logo_apps {
+.icon-angle-double-right-solid {
   &:before {
-    content: $icon-logo_apps;
+    content: $icon-angle-double-right-solid; 
   }
 }
-
-.shadow {
-  -webkit-box-shadow: 0px 0px 15px -5px rgba(0,0,0,0.75);
-  -moz-box-shadow: 0px 0px 15px -5px rgba(0,0,0,0.75);
-  box-shadow: 0px 0px 15px -5px rgba(0,0,0,0.75);
+.icon-facebook-f-brands {
+  &:before {
+    content: $icon-facebook-f-brands; 
+  }
+}
+.icon-linkedin-brands {
+  &:before {
+    content: $icon-linkedin-brands; 
+  }
+}
+.icon-twitter-brands {
+  &:before {
+    content: $icon-twitter-brands; 
+  }
+}
+.icon-youtube-brands {
+  &:before {
+    content: $icon-youtube-brands; 
+  }
+}
+.icon-check {
+  &:before {
+    content: $icon-check; 
+  }
+}
+.icon-uncheck {
+  &:before {
+    content: $icon-uncheck; 
+  }
+}
+.icon-chevron-down {
+  &:before {
+    content: $icon-chevron-down; 
+  }
+}
+.icon-shopping-cart {
+  &:before {
+    content: $icon-shopping-cart; 
+  }
+}
+.icon-arrow-circle-o-right {
+  &:before {
+    content: $icon-arrow-circle-o-right; 
+  }
 }
