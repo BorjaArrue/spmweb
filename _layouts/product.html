@@ -43,7 +43,15 @@ title: {{ page.product_name }}
 <section class="sec_overview py-5>" id="overview">
     <div class="container">
         <h2 class="h2 mb-5 text-center">Overview</h2>
-        
+        <div class="row mb-5">
+            <div class="col-12 col-xl-6 embed-responsive embed-responsive-16by9 shadow" id="video">
+                <iframe class="embed-responsive-item" src= "https://www.youtube.com/embed/{{ page.overview_video }}?rel=0" allowfullscreen></iframe>
+            </div>
+            <div class="col-12 col-xl-6 pl-xl-4 mt-4 mt-xl-0" id="text">
+                <h3 class="mb-4">{{ page.overview_text_1 }}</h3>
+                <h3>{{ page.overview_text_2 }}</h3>
+            </div>
+        </div>
     </div>
 </section>
 
