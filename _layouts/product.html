@@ -51,7 +51,7 @@ title: {{ page.product_name }}
     <div class="container">
         <h2 class="h2 mb-5 text-center ">Key Features</h2>
         <div class="row mb-5">
-            {% for feature in site.data.spm-forbricscad.features %}
+            {% for feature in site.data.apps_data[page.product_abbr]['features'] %}
             <div class="col-md-6 col-lg-4 feature wow bounceIn">
                 <i class="{{ feature.icon }}"></i>
                 <div class="text">
@@ -69,7 +69,7 @@ title: {{ page.product_name }}
     <div class="container">
         <h2 class="h2 mb-5 text-center">Pricing</h2>
         <div class="row pricing_table">
-            {% for edition in site.data.spm-forbricscad.editions %}
+            {% for edition in site.data.apps_data[page.product_abbr]['editions'] %}
             <div class="col-md-6 col-lg-4">
                 <div class="product shadow">
                     <div class="head">{{ edition.name }}</div>
@@ -79,7 +79,7 @@ title: {{ page.product_name }}
                     </div>
                     <div class="features">
                         <ul>
-                            {% for feature in site.data.spm-forbricscad.features %} {% if feature.edition contains edition.abbr %}
+                            {% for feature in site.data.apps_data[page.product_abbr]['features'] %} {% if feature.edition contains edition.abbr %}
                             <li class="check">{{ feature.name }}</li>
                             {% else %}
                             <li class="uncheck">{{ feature.name }}</li>
