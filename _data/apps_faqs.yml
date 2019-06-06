@@ -1,0 +1,65 @@
+spm_desktop:
+spm_forautocad:
+  - question: Question 1
+    answer: Answer 1
+
+  - question: Question 2
+    answer: Answer 2
+
+  - question: Question 3
+    answer: Answer 3
+
+spm_forbricscad:
+  - question: What are the system requirements?
+    answer: 'BricsCAD for Windows (not MacOS or Linux):<br />
+            - Pro or Platinum editions<br />
+            - Versions: 13, 14, 15, 16, 17, 18 and 19<br />
+            <br />
+            Windows 7 or higher<br />
+            - 100 MB free disk space, or more<br />
+            - Windows Installer 3.1 or later<br />'
+
+  - question: Which are the current available data Providers?
+    answer:  'The available standard data Providers for Spatial Manager™ for BricsCAD at this time are the following:<br />
+              <br />
+              <b>Spatial files</b><br />
+              - ESRI Shape file - (SHP)<br />
+              - Google Earth file - (KML, KMZ)<br />
+              - OpenStreetMap file - (OSM, PBF) (1)<br />
+              - LiDAR file - (LAS, LAZ) (1)<br />
+              - GPS exchange format file - (GPX) (1)<br />
+              - ASCII text file - (ASC, CSV, NEZ, TXT, XYZ, UPT)<br />
+              - SQLite file - (SQLITE, DB)<br />
+              - GML file - (GML, GZ, XML)<br />
+              - Raster image file - (TIF, PNG, JPG, JPEG, TIFF) (1)<br />
+              - Autodesk SDF file - (SDF) (3)<br />
+              - MicroStation v.7 file - (DGN) (2)<br />
+              - AutoCAD DXF file - (DXF) (2)<br />
+              - ESRI ArcInfo export file (ASCII) - (E00) (1) (2)<br />
+              - MapInfo file - (TAB) (2)<br />
+              - MapInfo interchange format file - (MIF/MID) (2)<br />
+              - GeoJSON file - (GEO.JSON) (1) (2)<br />
+              - <br />
+              <b>Spatial data servers</b><br />
+              - PostGIS database<br />
+              - Microsoft SQL Server Spatial database<br />
+              - MySQL database (1) (3)<br />
+              <br />
+              <b>Other spatial data sources</b><br />
+              - Open Database Connectivity ODBC (1)<br />
+              - WFS data store (1) (2 and 3) (4)<br />
+              <br />
+              <small>(1) Importing only (Read-only)<br />
+              (2) OGR data source<br />
+              (3) FDO provider<br />
+              (4) OGR for WFS data stores will not be found in the data Provider list under some circumstances (certain AutoCAD Map versions and others). Please, use FDO for this data Provider<br />
+              <br />
+              Note: certain data Providers are only valid for some Editions of the application</small><br />'
+
+  - question: Question 3
+    answer: Answer 3
+
+  - question: Question 4
+    answer: Answer 4
+
+spm_forzwcad:

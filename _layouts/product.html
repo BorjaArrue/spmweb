@@ -10,7 +10,8 @@ title: {{ page.product_name }}
         background-color: #{{ page.product_color }};
     }
     
-    .nav_product .icon-logo_apps{
+    .nav_product .icon-logo_apps,
+    .sec_faqs .card-header .icon{
         color: #{{ page.product_color }};
     }
 </style>
@@ -72,13 +73,13 @@ title: {{ page.product_name }}
         <h2 class="h2 mb-5 text-center ">Key Features</h2>
         <div class="row mb-5">
             {% for feature in site.data.apps_data[page.product_abbr]['features'] %}
-            <div class="col-md-6 col-lg-4 feature wow bounceIn">
-                <i class="{{ feature.icon }}"></i>
-                <div class="text">
-                    <h3 class="h3">{{ feature.name }}</h3>
-                    <p>{{ feature.description }}</p>
+                <div class="col-md-6 col-lg-4 feature wow bounceIn">
+                    <i class="{{ feature.icon }}"></i>
+                    <div class="text">
+                        <h3 class="h3">{{ feature.name }}</h3>
+                        <p>{{ feature.description }}</p>
+                    </div>
                 </div>
-            </div>
             {% endfor %}
         </div>
         <a class="show_all" href="#"><i class="icon-arrow-circle-o-right"></i> Show complete feature list</a>
@@ -113,45 +114,25 @@ title: {{ page.product_name }}
     </div>
 </section>
 
-<section class="sec_faqs py-5" id="faqs">
+<section class="sec_faqs p-5" id="faqs">
     <div class="container">
         <h2 class="h2 mb-5 text-center">Frequently Asked Questions</h2>
-        <div class="accordion" id="accordionExample">
-            <div class="card">
-                <div class="card-header" id="headingOne">
-                    <h2 class="mb-0">
-                        <button type="button" class="btn btn-link" data-toggle="collapse" data-target="#collapseOne">1. What is HTML?</button>                                  
-                    </h2>
-                </div>
-                <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
-                    <div class="card-body">
-                        <p>HTML stands for HyperText Markup Language. HTML is the standard markup language for describing the structure of web pages. <a href="https://www.tutorialrepublic.com/html-tutorial/" target="_blank">Learn more.</a></p>
+        <div class="accordion" id="accordionFAQS">
+            {% for faq in site.data.apps_faqs[page.product_abbr] %}
+                <div class="card mb-3 mx-lg-5">
+                    <div class="card-header" id="heading{{ forloop.index }}">
+                        <div class="collapsed question" data-toggle="collapse" data-target="#collapse{{ forloop.index }}">
+                            <i class="icon" aria-hidden="true"></i>
+                            <span class="text" >{{ faq.question }}</span>
+                        </div>
+                    </div>
+                    <div id="collapse{{ forloop.index }}" class="collapse" aria-labelledby="heading{{ forloop.index }}" data-parent="#accordionFAQS">
+                        <div class="card-body">
+                            <span class="answer">{{ faq.answer }}</span>
+                        </div>
                     </div>
                 </div>
-            </div>
-            <div class="card">
-                <div class="card-header" id="headingTwo">
-                    <h2 class="mb-0">
-                        <button type="button" class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseTwo">2. What is Bootstrap?</button>
-                    </h2>
-                </div>
-                <div id="collapseTwo" class="collapse show" aria-labelledby="headingTwo" data-parent="#accordionExample">
-                    <div class="card-body">
-                        <p>Bootstrap is a sleek, intuitive, and powerful front-end framework for faster and easier web development. It is a collection of CSS and HTML conventions. <a href="https://www.tutorialrepublic.com/twitter-bootstrap-tutorial/" target="_blank">Learn more.</a></p>
-                    </div>
-                </div>
-            </div>
-            <div class="card">
-                <div class="card-header" id="headingThree">
-                    <h2 class="mb-0">
-                        <button type="button" class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseThree">3. What is CSS?</button>                     
-                    </h2>
-                </div>
-                <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
-                    <div class="card-body">
-                        <p>CSS stands for Cascading Style Sheet. CSS allows you to specify various style properties for a given HTML element such as colors, backgrounds, fonts etc. <a href="https://www.tutorialrepublic.com/css-tutorial/" target="_blank">Learn more.</a></p>
-                    </div>
-                </div>
+            {% endfor %}
             </div>
         </div>
     </div>
@@ -169,17 +150,6 @@ title: {{ page.product_name }}
             document.getElementById("nav_product").classList.remove("fixed-top");
         }
     });
-
-
-
-    // /* Adds Scroll-spy funcionality */
-    // $(document).ready(function() {
-    //     $("body").scrollspy({
-    //         target: ".nav_product",
-    //         offset: 70
-    //     })
-    // });
-
 </script>
 
 <script src="/js/smooth-scroll.min.js"></script>
