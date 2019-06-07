@@ -2,6 +2,7 @@
 layout: product
 
 product_name: Spatial Manager for ZWCAD
+product_shortname: SPM for ZWCAD
 product_abbr: spm_forzwcad
 product_color: 296CA8
 

@@ -2,6 +2,7 @@
 layout: product
 
 product_name: Spatial Manager for AutoCAD
+product_shortname: SPM for AutoCAD
 product_abbr: spm_forautocad
 product_color: 2D8A2F
 

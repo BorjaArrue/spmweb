@@ -1,38 +1,52 @@
-<nav class="navbar nav_main">
+<nav class="navbar navbar-expand-lg navbar-dark" id="nav_main">
     <div class="container">
-        <a href="{{ site.url }}">
-            <img src="/images/logo_oc.svg" alt="Opencartis logo" width="170" height="auto"> <!--Era 252px -->
+        <a class="navbar-brand" href="{{ site.url }}">
+            <img src="/images/logo_oc.svg" alt="Opencartis logo" width="170" height="auto">
         </a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#nav_mainSupportedContent" aria-controls="nav_mainSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon text-white"></span>
+        </button>
 
-        <ul>
-            <li>
-                <a class="dropdown-toggle" id="dropdownMenu1" data-toggle="dropdown" href="#">Products</a>
-                <div class="dropdown-menu dropdown-menu" aria-labelledby="dropdownMenu1">
-                    <a class="dropdown-item" href="/spm-desktop/">SPM Desktop</a>
-                    <a class="dropdown-item" href="/spm-forautocad/">SPM for AutoCAD</a>
-                    <a class="dropdown-item" href="/spm-forbricscad/">SPM for BricsCAD</a>
-                    <a class="dropdown-item" href="/spm-forzwcad/">SPM for ZWCAD</a>
-                </div>
-            </li>
-            <li>
-                <a class="dropdown-toggle" id="dropdownMenu1" data-toggle="dropdown" href="#">Resources</a>
-                <div class="dropdown-menu dropdown-menu" aria-labelledby="dropdownMenu1">
-                    <a class="dropdown-item" href="http://wiki.spatialmanager.com/" target="_blank">Wiki</a>
-                    <a class="dropdown-item" href="#">Blog</a>
-                    <a class="dropdown-item" href="#">Downloads</a>
-                </div>
-            </li>
-            <li>
-                <a class="dropdown-toggle" id="dropdownMenu1" data-toggle="dropdown" href="#">Support</a>
-                <div class="dropdown-menu dropdown-menu" aria-labelledby="dropdownMenu1">
-                    <a class="dropdown-item" href="#">Contact Us</a>
-                    <a class="dropdown-item" href="#">Support</a>
-                </div>
-            </li>            
-            <li><a href="#">Prices</a></li>
+      <div class="collapse navbar-collapse" id="nav_mainSupportedContent">
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item dropdown active">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              Products
+            </a>
+            <div class="dropdown-menu rounded-0" aria-labelledby="navbarDropdown">
+                <a class="dropdown-item" href="/spm-desktop/">SPM Desktop</a>
+                <div class="dropdown-divider"></div>
+                <a class="dropdown-item " href="/spm-forautocad/">SPM for AutoCAD</a>
+                <a class="dropdown-item" href="/spm-forbricscad/">SPM for BricsCAD</a>
+                <a class="dropdown-item" href="/spm-forzwcad/">SPM for ZWCAD</a>
+            </div>
+          </li>
+
+          <li class="nav-item dropdown active">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              Resources
+            </a>
+            <div class="dropdown-menu rounded-0" aria-labelledby="navbarDropdown">
+                <a class="dropdown-item" href="http://wiki.spatialmanager.com/" target="_blank">Wiki</a>
+                <a class="dropdown-item" href="#">Blog</a>
+                <a class="dropdown-item" href="#">Downloads</a>
+            </div>
+          </li>
+
+        <li class="nav-item dropdown active">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              Support
+            </a>
+            <div class="dropdown-menu rounded-0" aria-labelledby="navbarDropdown">
+                <a class="dropdown-item" href="#">Contact Us</a>
+                <a class="dropdown-item" href="#">Support</a>
+            </div>
+          </li>
+
         </ul>
-
-        <button class="btn btn-secondary"><i class="icon-shopping-cart"></i> Cart (0)</button>
-    </div>
+        <form class="form-inline ml-lg-4 my-2 my-lg-0">
+            <button class="btn btn-secondary" id="ShopingCart"><i class="icon-shopping-cart"></i> Cart (0)</button>
+        </form>
+      </div>
     </div>
 </nav>

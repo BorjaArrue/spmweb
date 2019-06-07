@@ -2,6 +2,7 @@
 layout: product
 
 product_name: Spatial Manager for BricsCAD
+product_shortname: SPM for BricsCAD
 product_abbr: spm_forbricscad
 product_color: 3F92FF
 

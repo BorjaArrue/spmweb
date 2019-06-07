@@ -2,6 +2,7 @@
 layout: product
 
 product_name: Spatial Manager Desktop
+product_shortname: SPM Desktop
 product_abbr: spm_desktop
 product_color: 0054A0
 
