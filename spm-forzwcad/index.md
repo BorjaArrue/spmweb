@@ -2,7 +2,7 @@
 layout: product
 
 product_name: Spatial Manager for ZWCAD
-product_abbr: spm_forbricscad
+product_abbr: spm_forzwcad
 product_color: 296CA8
 
 header_h1_text: Spatial Manager for ZWCAD H1 Text

@@ -2,7 +2,7 @@
 layout: product
 
 product_name: Spatial Manager Desktop
-product_abbr: spm_forbricscad
+product_abbr: spm_desktop
 product_color: 0054A0
 
 header_h1_text: Spatial Manager Desktop H1 Text
