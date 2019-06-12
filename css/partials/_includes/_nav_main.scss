@@ -13,3 +13,12 @@
     color: #fff;
     background-color: #000
 }
+
+@media (min-width: 992px){
+	#nav_main .dropdown:hover>.dropdown-menu {
+		display: block;
+	}
+	#nav_main .dropdown>.dropdown-toggle:active {
+		pointer-events: none;   // Add this, to prevent clicking dropdown's default click function
+	}
+}
