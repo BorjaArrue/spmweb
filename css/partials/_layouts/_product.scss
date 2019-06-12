@@ -28,6 +28,9 @@ section .h2 {
 #nav_product .icon-logo_apps{
     font-size: 2.8rem;
 }
+.fixed-top + section{
+    margin-top: 70px
+}
 .sec_overview h3{
     font-size: 1.2rem;
     text-align: justify;

@@ -62,7 +62,7 @@ title: {{ page.product_name }}
     </div>
 </nav>
 
-<section class="sec_overview py-5>" id="overview">
+<section class="sec_overview py-5" id="overview">
     <div class="container">
         <h2 class="h2 mb-5 text-center">Overview</h2>
         <div class="row mb-5">
@@ -147,18 +147,32 @@ title: {{ page.product_name }}
     </div>
 </section>
 
-<script src="/js/jquery-slim.min.js"></script>
 <script type="text/javascript">
-    /* Show/Hide nav_product bar on Scroll down */
-    $(document).scroll(function() {
-        var t = document.getElementById("overview").offsetTop - 70;
+    window.onscroll = function() {fixTopNav()};
+    window.onresize = function() {getHeaderOffet()};
 
-        if ($(this).scrollTop() >= t) {
-            document.getElementById("nav_product").classList.add("fixed-top");
-        } else {
-            document.getElementById("nav_product").classList.remove("fixed-top");
+    var header = document.getElementById("nav_product");
+    var headerOffset = header.offsetTop;
+
+    function getHeaderOffet()
+    {
+        if (!header.classList.contains("fixed-top"))
+        {
+            headerOffset = header.offsetTop;
         }
-    });
+    }
+
+    function fixTopNav()
+    {
+        if (window.pageYOffset > headerOffset)
+        {
+            header.classList.add("fixed-top");
+        }
+        else
+        {
+            header.classList.remove("fixed-top");
+        }
+    }
 </script>
 
 <script src="/js/smooth-scroll.min.js"></script>
