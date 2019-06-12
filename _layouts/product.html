@@ -164,7 +164,7 @@ title: {{ page.product_name }}
 
     function fixTopNav()
     {
-        if (window.pageYOffset > headerOffset)
+        if (window.pageYOffset >= headerOffset)
         {
             header.classList.add("fixed-top");
         }
