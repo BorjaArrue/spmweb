@@ -1,0 +1,29 @@
+<section class="customer_quotes py-5">
+    <div class="container">
+        <h2 class="h2 text-center">What our customers are saying</h2>
+        <div class="row">
+            <div class="col-12 col-center m-auto">
+                <div id="myCarousel" class="carousel slide" data-ride="carousel">
+                    <div class="carousel-inner">
+                        {% for quote in site.data.customer_quotes %}
+                            {% if forloop.first %}
+                                <div class="item carousel-item active">
+                            {% else %}
+                                <div class="item carousel-item">
+                            {% endif %}
+                            <p class="testimonial">{{ quote.text }}</p>
+                            <p class="overview"><b>{{ quote.name }}</b>{% if quote.company != '' %}<br /><small> {{ quote.company }}{% endif %}</small></p>
+                        </div>
+                        {% endfor %}
+                    </div>
+                    <a class="carousel-control left carousel-control-prev" href="#myCarousel" data-slide="prev">
+                        <i class="icon-chevron-left"></i>
+                    </a>
+                    <a class="carousel-control right carousel-control-next" href="#myCarousel" data-slide="next">
+                        <i class="icon-chevron-right"></i>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

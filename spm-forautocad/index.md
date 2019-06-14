@@ -5,6 +5,7 @@ product_name: Spatial Manager for AutoCAD
 product_shortname: SPM for AutoCAD
 product_abbr: spm_forautocad
 product_color: 2D8A2F
+product_rgbcolor: '45,138,47'
 
 header_h1_text: Spatial Manager for AutoCAD H1 Text
 header_lead_text: Spatial Manager for AutoCAD lead text. Spatial Manager for AutoCAD lead text. Spatial Manager for AutoCAD lead text.

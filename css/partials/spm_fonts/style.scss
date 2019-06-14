@@ -2,11 +2,11 @@
 
 @font-face {
   font-family: '#{$icomoon-font-family}';
-  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?e7ms40');
-  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?e7ms40#iefix') format('embedded-opentype'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?e7ms40') format('truetype'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?e7ms40') format('woff'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?e7ms40##{$icomoon-font-family}') format('svg');
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?ff925i');
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?ff925i#iefix') format('embedded-opentype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?ff925i') format('truetype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?ff925i') format('woff'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?ff925i##{$icomoon-font-family}') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -76,6 +76,21 @@ i {
     content: $icon-features-import; 
   }
 }
+.icon-chevron-left {
+  &:before {
+    content: $icon-chevron-left; 
+  }
+}
+.icon-quote-left-solid {
+  &:before {
+    content: $icon-quote-left-solid; 
+  }
+}
+.icon-quote-right-solid {
+  &:before {
+    content: $icon-quote-right-solid; 
+  }
+}
 .icon-chevron-right {
   &:before {
     content: $icon-chevron-right; 
@@ -118,7 +133,7 @@ i {
 }
 .icon-chevron-down {
   &:before {
-    content: $icon-chevron-right; 
+    content: $icon-chevron-down; 
   }
 }
 .icon-shopping-cart {

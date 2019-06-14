@@ -5,6 +5,7 @@ product_name: Spatial Manager Desktop
 product_shortname: SPM Desktop
 product_abbr: spm_desktop
 product_color: 0054A0
+product_rgbcolor: '0,84,160'
 
 header_h1_text: Spatial Manager Desktop H1 Text
 header_lead_text: Spatial Manager Desktop lead text. Spatial Manager Desktop lead text. Spatial Manager Desktop lead text.

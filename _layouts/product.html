@@ -10,6 +10,10 @@ title: {{ page.product_name }}
         background-color: #{{ page.product_color }};
     }
     
+    .customer_quotes{
+        background-color: rgba({{ page.product_rgbcolor }}, 1);
+    }
+
     #nav_product .icon-logo_apps,
     .sec_faqs .card-header .icon,
     .sec_faqs .question:hover{
@@ -122,6 +126,8 @@ title: {{ page.product_name }}
         </div>
     </div>
 </section>
+
+{% include customer_quotes.html %}
 
 <section class="sec_faqs px-lg-5 py-5" id="faqs">
     <div class="container">

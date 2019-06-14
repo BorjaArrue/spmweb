@@ -5,6 +5,7 @@ product_name: Spatial Manager for ZWCAD
 product_shortname: SPM for ZWCAD
 product_abbr: spm_forzwcad
 product_color: 296CA8
+product_rgbcolor: '41,108,168'
 
 header_h1_text: Spatial Manager for ZWCAD H1 Text
 header_lead_text: Spatial Manager for ZWCAD lead text. Spatial Manager for ZWCAD lead text. Spatial Manager for ZWCAD lead text.
