@@ -1,14 +1,11 @@
 ---
 layout: post
 title: Post title
-image: /images/post_image.png
+date:
+author:
 permalink: /permalink-path/
 published: false
-date: YYYY-MM-DD
+image:
 categories:
-  - Category 1
-  - Category 2
 tags:
-  - Tag 1
-  - Tag 2
 ---
