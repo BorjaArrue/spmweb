@@ -101,18 +101,6 @@ tags:
   The above videos will show you an example of how to export to GML and the resulting file
 </p>
 
-<h2>
-</h2>
-
-<h2>
-</h2>
-
-<h2>
-</h2>
-
-<h2>
-</h2>
-
 <p>
   <em>Learn more about Exporting objects to GML and others geo spatial targets in ‘Spatial Manager’:</em>
 </p>
