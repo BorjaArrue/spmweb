@@ -2,15 +2,15 @@
 # Front matter comment to ensure Jekyll properly reads file.
 ---
 
-@import "partials/general/base.scss";
-@import "partials/general/buttons.scss";
-@import "partials/general/effects.scss";
+@import "_partials/general/base.scss";
+@import "_partials/general/buttons.scss";
+@import "_partials/general/effects.scss";
 
-@import "partials/_includes/customer_quotes.scss";
-@import "partials/_includes/footer.scss";
-@import "partials/_includes/nav_main.scss";
+@import "_partials/includes/customer_quotes.scss";
+@import "_partials/includes/footer.scss";
+@import "_partials/includes/nav_main.scss";
 
-@import "partials/_layouts/product.scss";
-@import "partials/_layouts/post.scss";
+@import "_partials/layouts/product.scss";
+@import "_partials/layouts/post.scss";
 
-@import "partials/spm_fonts/style.scss";
+@import "_partials/spm_fonts/style.scss";
