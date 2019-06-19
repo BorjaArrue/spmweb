@@ -9,3 +9,7 @@ collections:
   articles:
     output: true
     permalink: :path/
+
+  pages:
+    output: true
+    permalink: :path/
