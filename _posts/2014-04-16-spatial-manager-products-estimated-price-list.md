@@ -3,10 +3,10 @@ id: 1005
 title: Spatial Manager™ products estimated price list
 date: 2014-04-16T09:24:28+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://www.spatialmanager.com/?p=1005
 permalink: /spatial-manager-products-estimated-price-list/
-image: /wp-content/uploads/2014/04/Logo-2013-badget-85.jpg
+image: /images/blog/2014/04/Logo-2013-badget-85.jpg
 categories:
   - Announcement
 tags:

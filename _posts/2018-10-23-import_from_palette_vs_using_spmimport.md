@@ -3,10 +3,10 @@ id: 5903
 title: Import from Palette vs using SPMIMPORT
 date: 2018-10-23T12:44:05+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://www.spatialmanager.com/?p=5903
 permalink: /import_from_palette_vs_using_spmimport/
-image: /wp-content/uploads/2018/10/SPMIMPORT_vs_PaletteImportIcon.png
+image: /images/blog/2018/10/SPMIMPORT_vs_PaletteImportIcon.png
 categories:
   - CAD L1 (Basic)
 tags:
@@ -26,7 +26,7 @@ tags:
 </h2>
 
 <div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2018/10/SPMIMPORT_vs_PaletteImport.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2018/10/SPMIMPORT_vs_PaletteImport-1024x576.png" alt="'Spatial Manager' - Import from the application palette or execute SPMIMPORT" width="625" height="352" srcset="http://www.spatialmanager.com/wp-content/uploads/2018/10/SPMIMPORT_vs_PaletteImport-1024x576.png 1024w, http://www.spatialmanager.com/wp-content/uploads/2018/10/SPMIMPORT_vs_PaletteImport-300x169.png 300w, http://www.spatialmanager.com/wp-content/uploads/2018/10/SPMIMPORT_vs_PaletteImport-768x432.png 768w, http://www.spatialmanager.com/wp-content/uploads/2018/10/SPMIMPORT_vs_PaletteImport-624x351.png 624w, http://www.spatialmanager.com/wp-content/uploads/2018/10/SPMIMPORT_vs_PaletteImport.png 1280w" sizes="(max-width: 625px) 100vw, 625px" /></a>
+  <a href="/images/blog/2018/10/SPMIMPORT_vs_PaletteImport.png" target="_blank" rel="nofollow"><img src="/images/blog/2018/10/SPMIMPORT_vs_PaletteImport-1024x576.png" alt="'Spatial Manager' - Import from the application palette or execute SPMIMPORT" width="625" height="352" srcset="/images/blog/2018/10/SPMIMPORT_vs_PaletteImport-1024x576.png 1024w, /images/blog/2018/10/SPMIMPORT_vs_PaletteImport-300x169.png 300w, /images/blog/2018/10/SPMIMPORT_vs_PaletteImport-768x432.png 768w, /images/blog/2018/10/SPMIMPORT_vs_PaletteImport-624x351.png 624w, /images/blog/2018/10/SPMIMPORT_vs_PaletteImport.png 1280w" sizes="(max-width: 625px) 100vw, 625px" /></a>
   
   <p>
     &#8216;Spatial Manager&#8217; &#8211; Import from the application palette or execute SPMIMPORT

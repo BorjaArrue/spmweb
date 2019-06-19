@@ -3,10 +3,10 @@ id: 6210
 title: 'Tip &#8211; WFS servers return GML data'
 date: 2019-02-22T12:51:54+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://www.spatialmanager.com/?p=6210
 permalink: /tip-wfs-servers-return-gml-data/
-image: /wp-content/uploads/2019/02/WFSasGML85.png
+image: /images/blog/2019/02/WFSasGML85.png
 categories:
   - CAD L3 (Advanced)
   - Desktop L3 (Advanced)
@@ -25,7 +25,7 @@ tags:
 </p>
 
 <div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2019/02/WFS_as_GMData2.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2019/02/WFS_as_GMData2-1024x511.png" alt="Import GML data from WFS servers" width="625" height="312" srcset="http://www.spatialmanager.com/wp-content/uploads/2019/02/WFS_as_GMData2-1024x511.png 1024w, http://www.spatialmanager.com/wp-content/uploads/2019/02/WFS_as_GMData2-300x150.png 300w, http://www.spatialmanager.com/wp-content/uploads/2019/02/WFS_as_GMData2-768x383.png 768w, http://www.spatialmanager.com/wp-content/uploads/2019/02/WFS_as_GMData2-624x312.png 624w, http://www.spatialmanager.com/wp-content/uploads/2019/02/WFS_as_GMData2.png 1264w" sizes="(max-width: 625px) 100vw, 625px" /></a>
+  <a href="/images/blog/2019/02/WFS_as_GMData2.png" target="_blank" rel="nofollow"><img src="/images/blog/2019/02/WFS_as_GMData2-1024x511.png" alt="Import GML data from WFS servers" width="625" height="312" srcset="/images/blog/2019/02/WFS_as_GMData2-1024x511.png 1024w, /images/blog/2019/02/WFS_as_GMData2-300x150.png 300w, /images/blog/2019/02/WFS_as_GMData2-768x383.png 768w, /images/blog/2019/02/WFS_as_GMData2-624x312.png 624w, /images/blog/2019/02/WFS_as_GMData2.png 1264w" sizes="(max-width: 625px) 100vw, 625px" /></a>
   
   <p>
     Import GML data from WFS servers
@@ -40,7 +40,7 @@ tags:
 </p>
 
 <div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2019/02/SPMDataProviders.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2019/02/SPMDataProviders.png" alt="'Spatial Manager' data providers" width="563" height="673" srcset="http://www.spatialmanager.com/wp-content/uploads/2019/02/SPMDataProviders.png 563w, http://www.spatialmanager.com/wp-content/uploads/2019/02/SPMDataProviders-251x300.png 251w" sizes="(max-width: 563px) 100vw, 563px" /></a>
+  <a href="/images/blog/2019/02/SPMDataProviders.png" target="_blank" rel="nofollow"><img src="/images/blog/2019/02/SPMDataProviders.png" alt="'Spatial Manager' data providers" width="563" height="673" srcset="/images/blog/2019/02/SPMDataProviders.png 563w, /images/blog/2019/02/SPMDataProviders-251x300.png 251w" sizes="(max-width: 563px) 100vw, 563px" /></a>
   
   <p>
     &#8216;Spatial Manager&#8217; data providers
@@ -81,7 +81,7 @@ tags:
 </h2>
 
 <p>
-  <img src="http://www.spatialmanager.com/wp-content/uploads/2019/02/XMLLayersList.png" alt="XMLLayersList" width="438" height="191" srcset="http://www.spatialmanager.com/wp-content/uploads/2019/02/XMLLayersList.png 438w, http://www.spatialmanager.com/wp-content/uploads/2019/02/XMLLayersList-300x131.png 300w" sizes="(max-width: 438px) 100vw, 438px" />
+  <img src="/images/blog/2019/02/XMLLayersList.png" alt="XMLLayersList" width="438" height="191" srcset="/images/blog/2019/02/XMLLayersList.png 438w, /images/blog/2019/02/XMLLayersList-300x131.png 300w" sizes="(max-width: 438px) 100vw, 438px" />
 </p>
 
 <h2>
@@ -123,7 +123,7 @@ tags:
 </h2>
 
 <p>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2019/02/XMLAcceptVersions.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2019/02/XMLAcceptVersions.png" alt="XMLAcceptVersions" width="295" height="108" /></a>
+  <a href="/images/blog/2019/02/XMLAcceptVersions.png" target="_blank" rel="nofollow"><img src="/images/blog/2019/02/XMLAcceptVersions.png" alt="XMLAcceptVersions" width="295" height="108" /></a>
 </p>
 
 <h2>

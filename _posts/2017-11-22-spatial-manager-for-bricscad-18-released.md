@@ -3,10 +3,10 @@ id: 4593
 title: 'Spatial Manager for &#8216;BricsCAD 18&#8217; released'
 date: 2017-11-22T19:45:11+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://www.spatialmanager.com/?p=4593
 permalink: /spatial-manager-for-bricscad-18-released/
-image: /wp-content/uploads/2017/11/SPM-BCAD18-85.png
+image: /images/blog/2017/11/SPM-BCAD18-85.png
 categories:
   - Announcement
   - for BricsCAD
@@ -20,7 +20,7 @@ The new release 4.1 of &#8216;Spatial Manager™ for BricsCAD&#8217; is &#8216;B
 ## 
 
 <div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2017/11/SPM_BCAD18_V4.1.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2017/11/SPM_BCAD18_V4.1-1024x576.png" alt="Spatial Manager for BricsCAD 18" width="625" height="352" srcset="http://www.spatialmanager.com/wp-content/uploads/2017/11/SPM_BCAD18_V4.1-1024x576.png 1024w, http://www.spatialmanager.com/wp-content/uploads/2017/11/SPM_BCAD18_V4.1-300x169.png 300w, http://www.spatialmanager.com/wp-content/uploads/2017/11/SPM_BCAD18_V4.1-768x432.png 768w, http://www.spatialmanager.com/wp-content/uploads/2017/11/SPM_BCAD18_V4.1-624x351.png 624w, http://www.spatialmanager.com/wp-content/uploads/2017/11/SPM_BCAD18_V4.1.png 1280w" sizes="(max-width: 625px) 100vw, 625px" /></a>
+  <a href="/images/blog/2017/11/SPM_BCAD18_V4.1.png" target="_blank" rel="nofollow"><img src="/images/blog/2017/11/SPM_BCAD18_V4.1-1024x576.png" alt="Spatial Manager for BricsCAD 18" width="625" height="352" srcset="/images/blog/2017/11/SPM_BCAD18_V4.1-1024x576.png 1024w, /images/blog/2017/11/SPM_BCAD18_V4.1-300x169.png 300w, /images/blog/2017/11/SPM_BCAD18_V4.1-768x432.png 768w, /images/blog/2017/11/SPM_BCAD18_V4.1-624x351.png 624w, /images/blog/2017/11/SPM_BCAD18_V4.1.png 1280w" sizes="(max-width: 625px) 100vw, 625px" /></a>
   
   <p>
     Spatial Manager for BricsCAD 18

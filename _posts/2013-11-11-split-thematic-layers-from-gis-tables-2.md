@@ -3,10 +3,10 @@ id: 288
 title: Separate thematic Layers from GIS Tables
 date: 2013-11-11T18:00:22+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://berlin.opencartis.com/wordpress/?p=288
 permalink: /split-thematic-layers-from-gis-tables-2/
-image: /wp-content/uploads/2013/11/Blog1-85px2.png
+image: /images/blog/2013/11/Blog1-85px2.png
 categories:
   - Desktop L1 (Basic)
 tags:

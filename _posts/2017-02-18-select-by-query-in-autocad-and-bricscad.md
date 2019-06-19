@@ -3,10 +3,10 @@ id: 3796
 title: Select by query in AutoCAD and BricsCAD
 date: 2017-02-18T11:22:53+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://www.spatialmanager.com/?p=3796
 permalink: /select-by-query-in-autocad-and-bricscad/
-image: /wp-content/uploads/2017/02/Query-DWG-85.png
+image: /images/blog/2017/02/Query-DWG-85.png
 categories:
   - CAD L2 (Medium)
 tags:
@@ -22,7 +22,7 @@ tags:
 ## 
 
 <div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2017/02/Spatial-Manager-Select-by-query-BCAD.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2017/02/Spatial-Manager-Select-by-query-BCAD-1024x567.png" alt="Spatial Manager - Select by query BCAD" width="625" height="346" srcset="http://www.spatialmanager.com/wp-content/uploads/2017/02/Spatial-Manager-Select-by-query-BCAD-1024x567.png 1024w, http://www.spatialmanager.com/wp-content/uploads/2017/02/Spatial-Manager-Select-by-query-BCAD-300x166.png 300w, http://www.spatialmanager.com/wp-content/uploads/2017/02/Spatial-Manager-Select-by-query-BCAD-768x425.png 768w, http://www.spatialmanager.com/wp-content/uploads/2017/02/Spatial-Manager-Select-by-query-BCAD-624x346.png 624w, http://www.spatialmanager.com/wp-content/uploads/2017/02/Spatial-Manager-Select-by-query-BCAD.png 1136w" sizes="(max-width: 625px) 100vw, 625px" /></a>
+  <a href="/images/blog/2017/02/Spatial-Manager-Select-by-query-BCAD.png" target="_blank" rel="nofollow"><img src="/images/blog/2017/02/Spatial-Manager-Select-by-query-BCAD-1024x567.png" alt="Spatial Manager - Select by query BCAD" width="625" height="346" srcset="/images/blog/2017/02/Spatial-Manager-Select-by-query-BCAD-1024x567.png 1024w, /images/blog/2017/02/Spatial-Manager-Select-by-query-BCAD-300x166.png 300w, /images/blog/2017/02/Spatial-Manager-Select-by-query-BCAD-768x425.png 768w, /images/blog/2017/02/Spatial-Manager-Select-by-query-BCAD-624x346.png 624w, /images/blog/2017/02/Spatial-Manager-Select-by-query-BCAD.png 1136w" sizes="(max-width: 625px) 100vw, 625px" /></a>
   
   <p>
     BricsCAD sample
@@ -30,7 +30,7 @@ tags:
 </div>
 
 <div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2017/02/Spatial-Manager-Select-by-query.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2017/02/Spatial-Manager-Select-by-query-1024x576.png" alt="Spatial Manager - Select by query" width="625" height="352" srcset="http://www.spatialmanager.com/wp-content/uploads/2017/02/Spatial-Manager-Select-by-query-1024x576.png 1024w, http://www.spatialmanager.com/wp-content/uploads/2017/02/Spatial-Manager-Select-by-query-300x169.png 300w, http://www.spatialmanager.com/wp-content/uploads/2017/02/Spatial-Manager-Select-by-query-768x432.png 768w, http://www.spatialmanager.com/wp-content/uploads/2017/02/Spatial-Manager-Select-by-query-624x351.png 624w, http://www.spatialmanager.com/wp-content/uploads/2017/02/Spatial-Manager-Select-by-query.png 1280w" sizes="(max-width: 625px) 100vw, 625px" /></a>
+  <a href="/images/blog/2017/02/Spatial-Manager-Select-by-query.png" target="_blank" rel="nofollow"><img src="/images/blog/2017/02/Spatial-Manager-Select-by-query-1024x576.png" alt="Spatial Manager - Select by query" width="625" height="352" srcset="/images/blog/2017/02/Spatial-Manager-Select-by-query-1024x576.png 1024w, /images/blog/2017/02/Spatial-Manager-Select-by-query-300x169.png 300w, /images/blog/2017/02/Spatial-Manager-Select-by-query-768x432.png 768w, /images/blog/2017/02/Spatial-Manager-Select-by-query-624x351.png 624w, /images/blog/2017/02/Spatial-Manager-Select-by-query.png 1280w" sizes="(max-width: 625px) 100vw, 625px" /></a>
   
   <p>
     AutoCAD sample
@@ -55,7 +55,7 @@ tags:
 </p>
 
 <p>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2017/02/SelectByQuery36.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2017/02/SelectByQuery36.png" alt="SelectByQuery36" width="609" height="434" srcset="http://www.spatialmanager.com/wp-content/uploads/2017/02/SelectByQuery36.png 609w, http://www.spatialmanager.com/wp-content/uploads/2017/02/SelectByQuery36-300x214.png 300w" sizes="(max-width: 609px) 100vw, 609px" /></a>
+  <a href="/images/blog/2017/02/SelectByQuery36.png" target="_blank" rel="nofollow"><img src="/images/blog/2017/02/SelectByQuery36.png" alt="SelectByQuery36" width="609" height="434" srcset="/images/blog/2017/02/SelectByQuery36.png 609w, /images/blog/2017/02/SelectByQuery36-300x214.png 300w" sizes="(max-width: 609px) 100vw, 609px" /></a>
 </p>
 
 <h2>
@@ -82,7 +82,7 @@ tags:
 </p>
 
 <p>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2017/02/SelectByCommands.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2017/02/SelectByCommands.png" alt="SelectByCommands" width="225" height="198" /></a>
+  <a href="/images/blog/2017/02/SelectByCommands.png" target="_blank" rel="nofollow"><img src="/images/blog/2017/02/SelectByCommands.png" alt="SelectByCommands" width="225" height="198" /></a>
 </p>
 
 <h2>

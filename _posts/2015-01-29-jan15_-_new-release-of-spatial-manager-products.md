@@ -3,10 +3,10 @@ id: 2125
 title: 'JAN15 &#8211; New releases of Spatial Manager products'
 date: 2015-01-29T08:37:55+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://www.spatialmanager.com/?p=2125
 permalink: /jan15_-_new-release-of-spatial-manager-products/
-image: /wp-content/uploads/2014/06/Logo-Grey85.png
+image: /images/blog/2014/06/Logo-Grey85.png
 categories:
   - Announcement
 tags:
@@ -25,7 +25,7 @@ Check all news for these and previous releases in our Wiki:
 <a title="Spatial Manager™ for AutoCAD Wiki Changelog" href="http://wiki.spatialmanager.com/index.php/Spatial_Manager%E2%84%A2_for_AutoCAD_Changelog" target="_blank" rel="nofollow"><span>Spatial Manager™ for AutoCAD Changelog</span></a>
 
 <p>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2015/01/JAN15-New-release-New-KML-parameters.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2015/01/JAN15-New-release-New-KML-parameters.png" alt="JAN15 - New release New KML parameters" width="411" height="500" srcset="http://www.spatialmanager.com/wp-content/uploads/2015/01/JAN15-New-release-New-KML-parameters.png 411w, http://www.spatialmanager.com/wp-content/uploads/2015/01/JAN15-New-release-New-KML-parameters-246x300.png 246w" sizes="(max-width: 411px) 100vw, 411px" /></a>
+  <a href="/images/blog/2015/01/JAN15-New-release-New-KML-parameters.png" target="_blank" rel="nofollow"><img src="/images/blog/2015/01/JAN15-New-release-New-KML-parameters.png" alt="JAN15 - New release New KML parameters" width="411" height="500" srcset="/images/blog/2015/01/JAN15-New-release-New-KML-parameters.png 411w, /images/blog/2015/01/JAN15-New-release-New-KML-parameters-246x300.png 246w" sizes="(max-width: 411px) 100vw, 411px" /></a>
 </p>
 
 <p>

@@ -3,10 +3,10 @@ id: 377
 title: Drag and drop of SHP, KML, GPX, etc., files to a Map
 date: 2013-12-17T11:09:31+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://berlin.opencartis.com/wordpress/?p=377
 permalink: /drag-and-drop-of-shp-kml-gpx-etc-files-to-a-map/
-image: /wp-content/uploads/2013/12/Blog-7-85.png
+image: /images/blog/2013/12/Blog-7-85.png
 categories:
   - Desktop L1 (Basic)
 tags:

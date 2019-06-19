@@ -3,10 +3,10 @@ id: 3891
 title: '&#8216;Spatial Manager&#8217; is AutoCAD 2018 compatible'
 date: 2017-03-27T08:39:48+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://www.spatialmanager.com/?p=3891
 permalink: /spatial-manager-for-autocad-2018-compatible/
-image: /wp-content/uploads/2017/03/AC2018-85.png
+image: /images/blog/2017/03/AC2018-85.png
 categories:
   - Announcement
   - for AutoCAD
@@ -33,7 +33,7 @@ tags:
 </h2>
 
 <div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2017/03/SPM-AutoCAD-2018-3.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2017/03/SPM-AutoCAD-2018-3-1024x576.png" alt="Spatial Manager for AutoCAD 2018 compatible" width="625" height="352" srcset="http://www.spatialmanager.com/wp-content/uploads/2017/03/SPM-AutoCAD-2018-3-1024x576.png 1024w, http://www.spatialmanager.com/wp-content/uploads/2017/03/SPM-AutoCAD-2018-3-300x169.png 300w, http://www.spatialmanager.com/wp-content/uploads/2017/03/SPM-AutoCAD-2018-3-768x432.png 768w, http://www.spatialmanager.com/wp-content/uploads/2017/03/SPM-AutoCAD-2018-3-624x351.png 624w, http://www.spatialmanager.com/wp-content/uploads/2017/03/SPM-AutoCAD-2018-3.png 1280w" sizes="(max-width: 625px) 100vw, 625px" /></a>
+  <a href="/images/blog/2017/03/SPM-AutoCAD-2018-3.png" target="_blank" rel="nofollow"><img src="/images/blog/2017/03/SPM-AutoCAD-2018-3-1024x576.png" alt="Spatial Manager for AutoCAD 2018 compatible" width="625" height="352" srcset="/images/blog/2017/03/SPM-AutoCAD-2018-3-1024x576.png 1024w, /images/blog/2017/03/SPM-AutoCAD-2018-3-300x169.png 300w, /images/blog/2017/03/SPM-AutoCAD-2018-3-768x432.png 768w, /images/blog/2017/03/SPM-AutoCAD-2018-3-624x351.png 624w, /images/blog/2017/03/SPM-AutoCAD-2018-3.png 1280w" sizes="(max-width: 625px) 100vw, 625px" /></a>
   
   <p>
     Spatial Manager for AutoCAD 2018 compatible

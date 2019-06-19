@@ -3,10 +3,10 @@ id: 4436
 title: Command-line Importing. Scripts
 date: 2017-11-02T11:26:36+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://www.spatialmanager.com/?p=4436
 permalink: /command-line_importing_scripts/
-image: /wp-content/uploads/2017/10/SCR-SPMIMPORT-Logo85.png
+image: /images/blog/2017/10/SCR-SPMIMPORT-Logo85.png
 categories:
   - CAD L2 (Medium)
 tags:
@@ -32,7 +32,7 @@ tags:
 </p>
 
 <div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2017/10/Spatial-Manager-Task-Manager.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2017/10/Spatial-Manager-Task-Manager.png" alt="Spatial Manager Task Manager" width="349" height="548" srcset="http://www.spatialmanager.com/wp-content/uploads/2017/10/Spatial-Manager-Task-Manager.png 349w, http://www.spatialmanager.com/wp-content/uploads/2017/10/Spatial-Manager-Task-Manager-191x300.png 191w" sizes="(max-width: 349px) 100vw, 349px" /></a>
+  <a href="/images/blog/2017/10/Spatial-Manager-Task-Manager.png" target="_blank" rel="nofollow"><img src="/images/blog/2017/10/Spatial-Manager-Task-Manager.png" alt="Spatial Manager Task Manager" width="349" height="548" srcset="/images/blog/2017/10/Spatial-Manager-Task-Manager.png 349w, /images/blog/2017/10/Spatial-Manager-Task-Manager-191x300.png 191w" sizes="(max-width: 349px) 100vw, 349px" /></a>
   
   <p>
     Spatial Manager Task Manager

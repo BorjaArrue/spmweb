@@ -3,10 +3,10 @@ id: 372
 title: From WFS servers to SHP files easily
 date: 2013-12-13T17:27:41+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://berlin.opencartis.com/wordpress/?p=372
 permalink: /from-wfs-servers-to-shp-files-easily/
-image: /wp-content/uploads/2013/12/WFS-in-center-85.png
+image: /images/blog/2013/12/WFS-in-center-85.png
 categories:
   - Desktop L3 (Advanced)
 tags:

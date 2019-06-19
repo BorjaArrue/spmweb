@@ -3,10 +3,10 @@ id: 3621
 title: '&#8216;Import all&#8217; from a folder and more: new version 3.3.1'
 date: 2016-12-01T19:40:26+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://www.spatialmanager.com/?p=3621
 permalink: /import-all-from-a-folder-version-3-3-1/
-image: /wp-content/uploads/2016/11/Import_all_SPM-85-5.png
+image: /images/blog/2016/11/Import_all_SPM-85-5.png
 categories:
   - Announcement
 tags:
@@ -19,7 +19,7 @@ tags:
 <!--more-->
 
 <div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2016/11/Spatial-Manager-Import-All.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2016/11/Spatial-Manager-Import-All-1024x576.png" alt="spatial-manager-import-all" width="625" height="352" srcset="http://www.spatialmanager.com/wp-content/uploads/2016/11/Spatial-Manager-Import-All-1024x576.png 1024w, http://www.spatialmanager.com/wp-content/uploads/2016/11/Spatial-Manager-Import-All-300x169.png 300w, http://www.spatialmanager.com/wp-content/uploads/2016/11/Spatial-Manager-Import-All-768x432.png 768w, http://www.spatialmanager.com/wp-content/uploads/2016/11/Spatial-Manager-Import-All-624x351.png 624w, http://www.spatialmanager.com/wp-content/uploads/2016/11/Spatial-Manager-Import-All.png 1280w" sizes="(max-width: 625px) 100vw, 625px" /></a>
+  <a href="/images/blog/2016/11/Spatial-Manager-Import-All.png" target="_blank" rel="nofollow"><img src="/images/blog/2016/11/Spatial-Manager-Import-All-1024x576.png" alt="spatial-manager-import-all" width="625" height="352" srcset="/images/blog/2016/11/Spatial-Manager-Import-All-1024x576.png 1024w, /images/blog/2016/11/Spatial-Manager-Import-All-300x169.png 300w, /images/blog/2016/11/Spatial-Manager-Import-All-768x432.png 768w, /images/blog/2016/11/Spatial-Manager-Import-All-624x351.png 624w, /images/blog/2016/11/Spatial-Manager-Import-All.png 1280w" sizes="(max-width: 625px) 100vw, 625px" /></a>
   
   <p>
     AutoCAD and BricsCAD: The new &#8220;Import all&#8221; functionality allows you import all the files in a folder on a click
@@ -51,7 +51,7 @@ _· First version in BETA state including minimum parameters_
 · Added a button to remove all query conditions from the list (clean)
 
 <div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2016/11/SelectByQuery-Improved.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2016/11/SelectByQuery-Improved.png" alt="selectbyquery-improved" width="551" height="332" srcset="http://www.spatialmanager.com/wp-content/uploads/2016/11/SelectByQuery-Improved.png 685w, http://www.spatialmanager.com/wp-content/uploads/2016/11/SelectByQuery-Improved-300x181.png 300w, http://www.spatialmanager.com/wp-content/uploads/2016/11/SelectByQuery-Improved-624x376.png 624w" sizes="(max-width: 551px) 100vw, 551px" /></a>
+  <a href="/images/blog/2016/11/SelectByQuery-Improved.png" target="_blank" rel="nofollow"><img src="/images/blog/2016/11/SelectByQuery-Improved.png" alt="selectbyquery-improved" width="551" height="332" srcset="/images/blog/2016/11/SelectByQuery-Improved.png 685w, /images/blog/2016/11/SelectByQuery-Improved-300x181.png 300w, /images/blog/2016/11/SelectByQuery-Improved-624x376.png 624w" sizes="(max-width: 551px) 100vw, 551px" /></a>
   
   <p>
     Improved Select by Query function

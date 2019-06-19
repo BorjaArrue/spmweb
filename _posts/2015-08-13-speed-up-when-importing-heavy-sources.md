@@ -3,10 +3,10 @@ id: 2553
 title: Speed up when importing heavy sources
 date: 2015-08-13T10:11:07+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://www.spatialmanager.com/?p=2553
 permalink: /speed-up-when-importing-heavy-sources/
-image: /wp-content/uploads/2015/06/Spatial-Manager-AutoCAD-BricsCAD-Speed-Up-3-85.png
+image: /images/blog/2015/06/Spatial-Manager-AutoCAD-BricsCAD-Speed-Up-3-85.png
 categories:
   - CAD L2 (Medium)
 tags:
@@ -32,7 +32,7 @@ If you do not need to define these parameters, it is not necessary to waste time
 Spatial Manager™ has a **&#8220;Skip&#8221; button** to quickly cancel reading fields and go directly to the import parameters window which will accelerate the global process when you do not want to define any parameter based on the field values
 
 <p>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2015/06/Spatial-Manager-AutoCAD-BricsCAD-Skip-Button.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2015/06/Spatial-Manager-AutoCAD-BricsCAD-Skip-Button.png" alt="Spatial Manager AutoCAD-BricsCAD Skip Button" width="567" height="574" srcset="http://www.spatialmanager.com/wp-content/uploads/2015/06/Spatial-Manager-AutoCAD-BricsCAD-Skip-Button.png 567w, http://www.spatialmanager.com/wp-content/uploads/2015/06/Spatial-Manager-AutoCAD-BricsCAD-Skip-Button-296x300.png 296w" sizes="(max-width: 567px) 100vw, 567px" /></a>
+  <a href="/images/blog/2015/06/Spatial-Manager-AutoCAD-BricsCAD-Skip-Button.png" target="_blank" rel="nofollow"><img src="/images/blog/2015/06/Spatial-Manager-AutoCAD-BricsCAD-Skip-Button.png" alt="Spatial Manager AutoCAD-BricsCAD Skip Button" width="567" height="574" srcset="/images/blog/2015/06/Spatial-Manager-AutoCAD-BricsCAD-Skip-Button.png 567w, /images/blog/2015/06/Spatial-Manager-AutoCAD-BricsCAD-Skip-Button-296x300.png 296w" sizes="(max-width: 567px) 100vw, 567px" /></a>
 </p>
 
 ## Please, watch the videos:

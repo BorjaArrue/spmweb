@@ -3,10 +3,10 @@ id: 3672
 title: 'Labeling Polylines too. &#8216;Smart&#8217; labels and &#8230;'
 date: 2016-12-11T14:40:06+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://www.spatialmanager.com/?p=3672
 permalink: /labeling-polylines-smart-labels/
-image: /wp-content/uploads/2016/12/Label-Polylines-while-importing-Spatial-Manager-AutoCAD-BricsCAD-85.png
+image: /images/blog/2016/12/Label-Polylines-while-importing-Spatial-Manager-AutoCAD-BricsCAD-85.png
 categories:
   - CAD L2 (Medium)
 tags:
@@ -20,7 +20,7 @@ tags:
 <!--more-->
 
 <div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2016/12/Labeling-Polylines-SPM-AutoCAD.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2016/12/Labeling-Polylines-SPM-AutoCAD-1024x576.png" alt="labeling-polylines-spm-autocad" width="625" height="352" srcset="http://www.spatialmanager.com/wp-content/uploads/2016/12/Labeling-Polylines-SPM-AutoCAD-1024x576.png 1024w, http://www.spatialmanager.com/wp-content/uploads/2016/12/Labeling-Polylines-SPM-AutoCAD-300x169.png 300w, http://www.spatialmanager.com/wp-content/uploads/2016/12/Labeling-Polylines-SPM-AutoCAD-768x432.png 768w, http://www.spatialmanager.com/wp-content/uploads/2016/12/Labeling-Polylines-SPM-AutoCAD-624x351.png 624w, http://www.spatialmanager.com/wp-content/uploads/2016/12/Labeling-Polylines-SPM-AutoCAD.png 1280w" sizes="(max-width: 625px) 100vw, 625px" /></a>
+  <a href="/images/blog/2016/12/Labeling-Polylines-SPM-AutoCAD.png" target="_blank" rel="nofollow"><img src="/images/blog/2016/12/Labeling-Polylines-SPM-AutoCAD-1024x576.png" alt="labeling-polylines-spm-autocad" width="625" height="352" srcset="/images/blog/2016/12/Labeling-Polylines-SPM-AutoCAD-1024x576.png 1024w, /images/blog/2016/12/Labeling-Polylines-SPM-AutoCAD-300x169.png 300w, /images/blog/2016/12/Labeling-Polylines-SPM-AutoCAD-768x432.png 768w, /images/blog/2016/12/Labeling-Polylines-SPM-AutoCAD-624x351.png 624w, /images/blog/2016/12/Labeling-Polylines-SPM-AutoCAD.png 1280w" sizes="(max-width: 625px) 100vw, 625px" /></a>
   
   <p>
     Parameters window for Labels in AutoCAD and BricsCAD

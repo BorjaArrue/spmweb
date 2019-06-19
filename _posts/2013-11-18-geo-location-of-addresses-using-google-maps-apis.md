@@ -3,10 +3,10 @@ id: 291
 title: Geo-location of addresses using Google Maps APIs
 date: 2013-11-18T18:29:58+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://berlin.opencartis.com/wordpress/?p=291
 permalink: /geo-location-of-addresses-using-google-maps-apis/
-image: /wp-content/uploads/2013/11/Blog1-85px3.png
+image: /images/blog/2013/11/Blog1-85px3.png
 categories:
   - Desktop L2 (Medium)
 tags:

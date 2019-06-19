@@ -3,10 +3,10 @@ id: 2913
 title: Quick Thematics in AutoCAD or BricsCAD
 date: 2015-12-01T17:51:27+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://www.spatialmanager.com/?p=2913
 permalink: /quick-thematics-in-autocad-or-bricscad/
-image: /wp-content/uploads/2015/12/Thema-85.png
+image: /images/blog/2015/12/Thema-85.png
 categories:
   - CAD L2 (Medium)
 tags:
@@ -35,7 +35,7 @@ tags:
 </p>
 
 <p>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2015/12/Import-Parameters-2016.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2015/12/Import-Parameters-2016.png" alt="Spatial Manager Import Parameters Thematic trick" width="553" height="587" srcset="http://www.spatialmanager.com/wp-content/uploads/2015/12/Import-Parameters-2016.png 553w, http://www.spatialmanager.com/wp-content/uploads/2015/12/Import-Parameters-2016-283x300.png 283w" sizes="(max-width: 553px) 100vw, 553px" /></a>
+  <a href="/images/blog/2015/12/Import-Parameters-2016.png" target="_blank" rel="nofollow"><img src="/images/blog/2015/12/Import-Parameters-2016.png" alt="Spatial Manager Import Parameters Thematic trick" width="553" height="587" srcset="/images/blog/2015/12/Import-Parameters-2016.png 553w, /images/blog/2015/12/Import-Parameters-2016-283x300.png 283w" sizes="(max-width: 553px) 100vw, 553px" /></a>
 </p>
 
 <h2>
@@ -71,5 +71,5 @@ tags:
 </p>
 
 <p>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2015/12/ThemaDWG-BricsCAD3.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2015/12/ThemaDWG-BricsCAD3.png" alt="Spatial Manager Legend" width="563" height="266" srcset="http://www.spatialmanager.com/wp-content/uploads/2015/12/ThemaDWG-BricsCAD3.png 563w, http://www.spatialmanager.com/wp-content/uploads/2015/12/ThemaDWG-BricsCAD3-300x142.png 300w" sizes="(max-width: 563px) 100vw, 563px" /></a>
+  <a href="/images/blog/2015/12/ThemaDWG-BricsCAD3.png" target="_blank" rel="nofollow"><img src="/images/blog/2015/12/ThemaDWG-BricsCAD3.png" alt="Spatial Manager Legend" width="563" height="266" srcset="/images/blog/2015/12/ThemaDWG-BricsCAD3.png 563w, /images/blog/2015/12/ThemaDWG-BricsCAD3-300x142.png 300w" sizes="(max-width: 563px) 100vw, 563px" /></a>
 </p>

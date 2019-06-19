@@ -3,10 +3,10 @@ id: 6078
 title: Adding OpenStreetMap or Google Maps objects to your maps
 date: 2018-12-05T10:03:20+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://www.spatialmanager.com/?p=6078
 permalink: /adding-openstreetmap-or-google-maps-objects-to-your-maps/
-image: /wp-content/uploads/2018/12/DWG-OSM-GMAPS85.png
+image: /images/blog/2018/12/DWG-OSM-GMAPS85.png
 categories:
   - CAD L1 (Basic)
 tags:
@@ -28,11 +28,11 @@ tags:
 </h2>
 
 <h2>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2018/12/Supplement.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2018/12/Supplement.png" width="689" height="296" srcset="http://www.spatialmanager.com/wp-content/uploads/2018/12/Supplement.png 689w, http://www.spatialmanager.com/wp-content/uploads/2018/12/Supplement-300x129.png 300w, http://www.spatialmanager.com/wp-content/uploads/2018/12/Supplement-624x268.png 624w" sizes="(max-width: 689px) 100vw, 689px" /></a>
+  <a href="/images/blog/2018/12/Supplement.png" target="_blank" rel="nofollow"><img src="/images/blog/2018/12/Supplement.png" width="689" height="296" srcset="/images/blog/2018/12/Supplement.png 689w, /images/blog/2018/12/Supplement-300x129.png 300w, /images/blog/2018/12/Supplement-624x268.png 624w" sizes="(max-width: 689px) 100vw, 689px" /></a>
 </h2>
 
 <div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2018/12/Complete.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2018/12/Complete.png" alt="Supplement drawings and maps info with 'Spatial Manager'" width="400" height="537" srcset="http://www.spatialmanager.com/wp-content/uploads/2018/12/Complete.png 689w, http://www.spatialmanager.com/wp-content/uploads/2018/12/Complete-223x300.png 223w, http://www.spatialmanager.com/wp-content/uploads/2018/12/Complete-624x838.png 624w" sizes="(max-width: 400px) 100vw, 400px" /></a>
+  <a href="/images/blog/2018/12/Complete.png" target="_blank" rel="nofollow"><img src="/images/blog/2018/12/Complete.png" alt="Supplement drawings and maps info with 'Spatial Manager'" width="400" height="537" srcset="/images/blog/2018/12/Complete.png 689w, /images/blog/2018/12/Complete-223x300.png 223w, /images/blog/2018/12/Complete-624x838.png 624w" sizes="(max-width: 400px) 100vw, 400px" /></a>
   
   <p>
     Supplement drawings and maps info with &#8216;Spatial Manager&#8217;

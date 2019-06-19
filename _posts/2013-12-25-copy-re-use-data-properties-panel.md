@@ -3,10 +3,10 @@ id: 399
 title: How to Copy and re-use data from the Properties Panel
 date: 2013-12-25T11:07:54+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://berlin.opencartis.com/wordpress/?p=399
 permalink: /copy-re-use-data-properties-panel/
-image: /wp-content/uploads/2013/12/Properties.png
+image: /images/blog/2013/12/Properties.png
 categories:
   - Desktop L1 (Basic)
 tags:
@@ -34,9 +34,9 @@ tags:
 </p>
 
 <p>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2013/12/Image1.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2013/12/Image1-1024x576.png" alt="Spatial Manager - Copy data in the Properties panel" width="625" height="351" srcset="http://www.spatialmanager.com/wp-content/uploads/2013/12/Image1-1024x576.png 1024w, http://www.spatialmanager.com/wp-content/uploads/2013/12/Image1-300x168.png 300w, http://www.spatialmanager.com/wp-content/uploads/2013/12/Image1-624x351.png 624w" sizes="(max-width: 625px) 100vw, 625px" /></a>
+  <a href="/images/blog/2013/12/Image1.png" target="_blank" rel="nofollow"><img src="/images/blog/2013/12/Image1-1024x576.png" alt="Spatial Manager - Copy data in the Properties panel" width="625" height="351" srcset="/images/blog/2013/12/Image1-1024x576.png 1024w, /images/blog/2013/12/Image1-300x168.png 300w, /images/blog/2013/12/Image1-624x351.png 624w" sizes="(max-width: 625px) 100vw, 625px" /></a>
 </p>
 
 <p>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2013/12/Image2.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2013/12/Image2-1024x576.png" alt="Image2" width="625" height="351" srcset="http://www.spatialmanager.com/wp-content/uploads/2013/12/Image2-1024x576.png 1024w, http://www.spatialmanager.com/wp-content/uploads/2013/12/Image2-300x168.png 300w, http://www.spatialmanager.com/wp-content/uploads/2013/12/Image2-624x351.png 624w" sizes="(max-width: 625px) 100vw, 625px" /></a>
+  <a href="/images/blog/2013/12/Image2.png" target="_blank" rel="nofollow"><img src="/images/blog/2013/12/Image2-1024x576.png" alt="Image2" width="625" height="351" srcset="/images/blog/2013/12/Image2-1024x576.png 1024w, /images/blog/2013/12/Image2-300x168.png 300w, /images/blog/2013/12/Image2-624x351.png 624w" sizes="(max-width: 625px) 100vw, 625px" /></a>
 </p>

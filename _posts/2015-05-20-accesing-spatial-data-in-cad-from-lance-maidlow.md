@@ -3,10 +3,10 @@ id: 2509
 title: Accesing Spatial Data in CAD
 date: 2015-05-20T12:29:25+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://www.spatialmanager.com/?p=2509
 permalink: /accesing-spatial-data-in-cad-from-lance-maidlow/
-image: /wp-content/uploads/2015/05/Logo-SPM-BricsCAD-and-glass85.png
+image: /images/blog/2015/05/Logo-SPM-BricsCAD-and-glass85.png
 categories:
   - CAD L1 (Basic)
 tags:
@@ -27,5 +27,5 @@ _Lance brings a focus on practicality to ChasmTech’s solutions and makes sure 
 <span>Please, <strong>read</strong></span> <span><strong>the Lance&#8217;s conclusions</strong></span><span>:</span>
 
 <p>
-  <a href="https://chasmtech.wordpress.com/2015/05/14/accessing-spatial-data-in-cad-without-autocad-map/" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2015/05/SPM-roads.png" alt="SPM roads" width="400" height="460" srcset="http://www.spatialmanager.com/wp-content/uploads/2015/05/SPM-roads.png 587w, http://www.spatialmanager.com/wp-content/uploads/2015/05/SPM-roads-260x300.png 260w" sizes="(max-width: 400px) 100vw, 400px" /></a>
+  <a href="https://chasmtech.wordpress.com/2015/05/14/accessing-spatial-data-in-cad-without-autocad-map/" target="_blank" rel="nofollow"><img src="/images/blog/2015/05/SPM-roads.png" alt="SPM roads" width="400" height="460" srcset="/images/blog/2015/05/SPM-roads.png 587w, /images/blog/2015/05/SPM-roads-260x300.png 260w" sizes="(max-width: 400px) 100vw, 400px" /></a>
 </p>

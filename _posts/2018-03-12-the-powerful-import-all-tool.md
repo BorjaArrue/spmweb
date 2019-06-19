@@ -3,10 +3,10 @@ id: 5180
 title: 'The powerful &#8216;Import-all&#8217; tool'
 date: 2018-03-12T08:00:29+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://www.spatialmanager.com/?p=5180
 permalink: /the-powerful-import-all-tool/
-image: /wp-content/uploads/2018/03/SPM-Import-All85.png
+image: /images/blog/2018/03/SPM-Import-All85.png
 categories:
   - CAD L1 (Basic)
 tags:
@@ -28,7 +28,7 @@ tags:
 * * *
 
 <div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2018/03/Import-all-SPM-tool.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2018/03/Import-all-SPM-tool-1024x517.png" alt="Import-all tool - 'Spatial Manager'" width="625" height="316" srcset="http://www.spatialmanager.com/wp-content/uploads/2018/03/Import-all-SPM-tool-1024x517.png 1024w, http://www.spatialmanager.com/wp-content/uploads/2018/03/Import-all-SPM-tool-300x151.png 300w, http://www.spatialmanager.com/wp-content/uploads/2018/03/Import-all-SPM-tool-768x388.png 768w, http://www.spatialmanager.com/wp-content/uploads/2018/03/Import-all-SPM-tool-624x315.png 624w, http://www.spatialmanager.com/wp-content/uploads/2018/03/Import-all-SPM-tool.png 1280w" sizes="(max-width: 625px) 100vw, 625px" /></a>
+  <a href="/images/blog/2018/03/Import-all-SPM-tool.png" target="_blank" rel="nofollow"><img src="/images/blog/2018/03/Import-all-SPM-tool-1024x517.png" alt="Import-all tool - 'Spatial Manager'" width="625" height="316" srcset="/images/blog/2018/03/Import-all-SPM-tool-1024x517.png 1024w, /images/blog/2018/03/Import-all-SPM-tool-300x151.png 300w, /images/blog/2018/03/Import-all-SPM-tool-768x388.png 768w, /images/blog/2018/03/Import-all-SPM-tool-624x315.png 624w, /images/blog/2018/03/Import-all-SPM-tool.png 1280w" sizes="(max-width: 625px) 100vw, 625px" /></a>
   
   <p>
     Import-all tool &#8211; &#8216;Spatial Manager&#8217;

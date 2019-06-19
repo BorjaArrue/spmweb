@@ -3,10 +3,10 @@ id: 2432
 title: 'MAY15 – New releases. The powerful &#8220;Tasks&#8221; come in'
 date: 2015-05-08T16:50:44+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://www.spatialmanager.com/?p=2432
 permalink: /may15-new-releases-the-powerful-tasks-technology/
-image: /wp-content/uploads/2014/06/Logo-Grey85.png
+image: /images/blog/2014/06/Logo-Grey85.png
 categories:
   - Announcement
 tags:

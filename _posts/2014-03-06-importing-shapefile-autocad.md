@@ -3,10 +3,10 @@ id: 780
 title: Importing shapefile (SHP) into AutoCAD
 date: 2014-03-06T07:39:22+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://www.spatialmanager.com/?p=780
 permalink: /importing-shapefile-autocad/
-image: /wp-content/uploads/2014/03/DWG-SHP2-85.png
+image: /images/blog/2014/03/DWG-SHP2-85.png
 categories:
   - CAD L1 (Basic)
 tags:

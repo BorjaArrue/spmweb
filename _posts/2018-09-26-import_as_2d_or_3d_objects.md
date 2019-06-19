@@ -3,10 +3,10 @@ id: 5831
 title: Import as 2D or 3D objects
 date: 2018-09-26T11:59:30+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://www.spatialmanager.com/?p=5831
 permalink: /import_as_2d_or_3d_objects/
-image: /wp-content/uploads/2018/09/SPM2D-3D85.png
+image: /images/blog/2018/09/SPM2D-3D85.png
 categories:
   - CAD L2 (Medium)
 tags:
@@ -23,7 +23,7 @@ tags:
 </p>
 
 <div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2018/09/SPM_Importas2D.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2018/09/SPM_Importas2D-1024x576.png" alt="'Spatial Manager' - Import as 2D option" width="625" height="352" srcset="http://www.spatialmanager.com/wp-content/uploads/2018/09/SPM_Importas2D-1024x576.png 1024w, http://www.spatialmanager.com/wp-content/uploads/2018/09/SPM_Importas2D-300x169.png 300w, http://www.spatialmanager.com/wp-content/uploads/2018/09/SPM_Importas2D-768x432.png 768w, http://www.spatialmanager.com/wp-content/uploads/2018/09/SPM_Importas2D-624x351.png 624w, http://www.spatialmanager.com/wp-content/uploads/2018/09/SPM_Importas2D.png 1280w" sizes="(max-width: 625px) 100vw, 625px" /></a>
+  <a href="/images/blog/2018/09/SPM_Importas2D.png" target="_blank" rel="nofollow"><img src="/images/blog/2018/09/SPM_Importas2D-1024x576.png" alt="'Spatial Manager' - Import as 2D option" width="625" height="352" srcset="/images/blog/2018/09/SPM_Importas2D-1024x576.png 1024w, /images/blog/2018/09/SPM_Importas2D-300x169.png 300w, /images/blog/2018/09/SPM_Importas2D-768x432.png 768w, /images/blog/2018/09/SPM_Importas2D-624x351.png 624w, /images/blog/2018/09/SPM_Importas2D.png 1280w" sizes="(max-width: 625px) 100vw, 625px" /></a>
   
   <p>
     &#8216;Spatial Manager&#8217; &#8211; Import as 2D option

@@ -3,10 +3,10 @@ id: 3319
 title: 'Data Structure Management &#8211; Create, Modify, Select, Delete'
 date: 2016-06-28T10:56:42+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://www.spatialmanager.com/?p=3319
 permalink: /data_structure_management/
-image: /wp-content/uploads/2016/06/Data-SPM4-85.png
+image: /images/blog/2016/06/Data-SPM4-85.png
 categories:
   - CAD L2 (Medium)
 tags:
@@ -22,7 +22,7 @@ tags:
 </p>
 
 <p>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2016/06/SPM-Data-Structure-Management.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2016/06/SPM-Data-Structure-Management-1024x577.png" alt="SPM Data Structure Management" width="625" height="352" srcset="http://www.spatialmanager.com/wp-content/uploads/2016/06/SPM-Data-Structure-Management-1024x577.png 1024w, http://www.spatialmanager.com/wp-content/uploads/2016/06/SPM-Data-Structure-Management-300x169.png 300w, http://www.spatialmanager.com/wp-content/uploads/2016/06/SPM-Data-Structure-Management-768x433.png 768w, http://www.spatialmanager.com/wp-content/uploads/2016/06/SPM-Data-Structure-Management-624x351.png 624w, http://www.spatialmanager.com/wp-content/uploads/2016/06/SPM-Data-Structure-Management.png 1266w" sizes="(max-width: 625px) 100vw, 625px" /></a>
+  <a href="/images/blog/2016/06/SPM-Data-Structure-Management.png" target="_blank" rel="nofollow"><img src="/images/blog/2016/06/SPM-Data-Structure-Management-1024x577.png" alt="SPM Data Structure Management" width="625" height="352" srcset="/images/blog/2016/06/SPM-Data-Structure-Management-1024x577.png 1024w, /images/blog/2016/06/SPM-Data-Structure-Management-300x169.png 300w, /images/blog/2016/06/SPM-Data-Structure-Management-768x433.png 768w, /images/blog/2016/06/SPM-Data-Structure-Management-624x351.png 624w, /images/blog/2016/06/SPM-Data-Structure-Management.png 1266w" sizes="(max-width: 625px) 100vw, 625px" /></a>
 </p>
 
 <h2>
@@ -50,7 +50,7 @@ tags:
 </p>
 
 <p>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2016/06/SPM-Data-Structure-Management-Ribbon.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2016/06/SPM-Data-Structure-Management-Ribbon.png" alt="SPM Data Structure Management Ribbon" width="185" height="94" /></a><br /> &#8211; SPMDATATABLEDEFINE (Define Table). Define, modify or delete a data table or its fields<br /> &#8211; SPMDATATABLEATTACH (Attach). Attach one or more objects to a data table<br /> &#8211; SPMDATATABLEDETACH (Detach). Detach one or more objects from their corresponding attached data table<br /> &#8211; SPMSELECTBYTABLE (By Table). Select all the objects attached to a specific data table
+  <a href="/images/blog/2016/06/SPM-Data-Structure-Management-Ribbon.png" target="_blank" rel="nofollow"><img src="/images/blog/2016/06/SPM-Data-Structure-Management-Ribbon.png" alt="SPM Data Structure Management Ribbon" width="185" height="94" /></a><br /> &#8211; SPMDATATABLEDEFINE (Define Table). Define, modify or delete a data table or its fields<br /> &#8211; SPMDATATABLEATTACH (Attach). Attach one or more objects to a data table<br /> &#8211; SPMDATATABLEDETACH (Detach). Detach one or more objects from their corresponding attached data table<br /> &#8211; SPMSELECTBYTABLE (By Table). Select all the objects attached to a specific data table
 </p>
 
 <h2>

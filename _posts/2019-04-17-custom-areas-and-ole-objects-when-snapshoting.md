@@ -3,10 +3,10 @@ id: 6386
 title: Custom areas and OLE objects when Snapshotting
 date: 2019-04-17T10:53:51+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://www.spatialmanager.com/?p=6386
 permalink: /custom-areas-and-ole-objects-when-snapshoting/
-image: /wp-content/uploads/2019/04/SPMSnapshot385.png
+image: /images/blog/2019/04/SPMSnapshot385.png
 categories:
   - CAD L1 (Basic)
 tags:
@@ -25,7 +25,7 @@ tags:
 </h2>
 
 <div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2019/04/SPMCaptureUserOLE.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2019/04/SPMCaptureUserOLE-1024x615.png" alt="Background Maps Snapshots - Custom area and OLE object" width="625" height="375" srcset="http://www.spatialmanager.com/wp-content/uploads/2019/04/SPMCaptureUserOLE-1024x615.png 1024w, http://www.spatialmanager.com/wp-content/uploads/2019/04/SPMCaptureUserOLE-300x180.png 300w, http://www.spatialmanager.com/wp-content/uploads/2019/04/SPMCaptureUserOLE-768x461.png 768w, http://www.spatialmanager.com/wp-content/uploads/2019/04/SPMCaptureUserOLE-624x374.png 624w, http://www.spatialmanager.com/wp-content/uploads/2019/04/SPMCaptureUserOLE.png 1488w" sizes="(max-width: 625px) 100vw, 625px" /></a>
+  <a href="/images/blog/2019/04/SPMCaptureUserOLE.png" target="_blank" rel="nofollow"><img src="/images/blog/2019/04/SPMCaptureUserOLE-1024x615.png" alt="Background Maps Snapshots - Custom area and OLE object" width="625" height="375" srcset="/images/blog/2019/04/SPMCaptureUserOLE-1024x615.png 1024w, /images/blog/2019/04/SPMCaptureUserOLE-300x180.png 300w, /images/blog/2019/04/SPMCaptureUserOLE-768x461.png 768w, /images/blog/2019/04/SPMCaptureUserOLE-624x374.png 624w, /images/blog/2019/04/SPMCaptureUserOLE.png 1488w" sizes="(max-width: 625px) 100vw, 625px" /></a>
   
   <p>
     Background Maps Snapshots &#8211; Custom area and OLE object
@@ -51,7 +51,7 @@ tags:
 </h2>
 
 <div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2019/04/SPMCaptureOptions.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2019/04/SPMCaptureOptions.png" alt="OLE vs. External Raster Image" width="919" height="317" srcset="http://www.spatialmanager.com/wp-content/uploads/2019/04/SPMCaptureOptions.png 919w, http://www.spatialmanager.com/wp-content/uploads/2019/04/SPMCaptureOptions-300x103.png 300w, http://www.spatialmanager.com/wp-content/uploads/2019/04/SPMCaptureOptions-768x265.png 768w, http://www.spatialmanager.com/wp-content/uploads/2019/04/SPMCaptureOptions-624x215.png 624w" sizes="(max-width: 919px) 100vw, 919px" /></a>
+  <a href="/images/blog/2019/04/SPMCaptureOptions.png" target="_blank" rel="nofollow"><img src="/images/blog/2019/04/SPMCaptureOptions.png" alt="OLE vs. External Raster Image" width="919" height="317" srcset="/images/blog/2019/04/SPMCaptureOptions.png 919w, /images/blog/2019/04/SPMCaptureOptions-300x103.png 300w, /images/blog/2019/04/SPMCaptureOptions-768x265.png 768w, /images/blog/2019/04/SPMCaptureOptions-624x215.png 624w" sizes="(max-width: 919px) 100vw, 919px" /></a>
   
   <p>
     OLE vs. External Raster Image

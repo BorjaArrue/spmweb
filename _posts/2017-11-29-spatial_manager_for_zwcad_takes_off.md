@@ -3,10 +3,10 @@ id: 4487
 title: '&#8216;Spatial Manager for ZWCAD&#8217; takes off'
 date: 2017-11-29T21:18:20+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://www.spatialmanager.com/?p=4487
 permalink: /spatial_manager_for_zwcad_takes_off/
-image: /wp-content/uploads/2017/11/SPM-ZWCAD85.jpg
+image: /images/blog/2017/11/SPM-ZWCAD85.jpg
 categories:
   - Announcement
   - for ZWCAD
@@ -18,7 +18,7 @@ tags:
 </p>
 
 <div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2017/11/SPM_ZCAD2.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2017/11/SPM_ZCAD2-1024x576.png" alt="Spatial Manager for ZWCAD" width="625" height="352" srcset="http://www.spatialmanager.com/wp-content/uploads/2017/11/SPM_ZCAD2-1024x576.png 1024w, http://www.spatialmanager.com/wp-content/uploads/2017/11/SPM_ZCAD2-300x169.png 300w, http://www.spatialmanager.com/wp-content/uploads/2017/11/SPM_ZCAD2-768x432.png 768w, http://www.spatialmanager.com/wp-content/uploads/2017/11/SPM_ZCAD2-624x351.png 624w, http://www.spatialmanager.com/wp-content/uploads/2017/11/SPM_ZCAD2.png 1280w" sizes="(max-width: 625px) 100vw, 625px" /></a>
+  <a href="/images/blog/2017/11/SPM_ZCAD2.png" target="_blank" rel="nofollow"><img src="/images/blog/2017/11/SPM_ZCAD2-1024x576.png" alt="Spatial Manager for ZWCAD" width="625" height="352" srcset="/images/blog/2017/11/SPM_ZCAD2-1024x576.png 1024w, /images/blog/2017/11/SPM_ZCAD2-300x169.png 300w, /images/blog/2017/11/SPM_ZCAD2-768x432.png 768w, /images/blog/2017/11/SPM_ZCAD2-624x351.png 624w, /images/blog/2017/11/SPM_ZCAD2.png 1280w" sizes="(max-width: 625px) 100vw, 625px" /></a>
   
   <p>
     Spatial Manager for ZWCAD

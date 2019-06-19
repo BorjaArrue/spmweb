@@ -3,10 +3,10 @@ id: 6269
 title: Spatial Manager for AutoCAD 2020 compatible
 date: 2019-04-05T08:04:51+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://www.spatialmanager.com/?p=6269
 permalink: /spatial-manager-for-autocad-2020-compatible/
-image: /wp-content/uploads/2019/04/AutoCAD-2020SPM52-85.jpg
+image: /images/blog/2019/04/AutoCAD-2020SPM52-85.jpg
 categories:
   - Announcement
   - for AutoCAD
@@ -33,7 +33,7 @@ tags:
 </h2>
 
 <div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2019/04/AC2020SPM52-CaptureOLE.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2019/04/AC2020SPM52-CaptureOLE-1024x576.png" alt="New Capture Custom Area and OLE in AutoCAD 2020" width="625" height="352" srcset="http://www.spatialmanager.com/wp-content/uploads/2019/04/AC2020SPM52-CaptureOLE-1024x576.png 1024w, http://www.spatialmanager.com/wp-content/uploads/2019/04/AC2020SPM52-CaptureOLE-300x169.png 300w, http://www.spatialmanager.com/wp-content/uploads/2019/04/AC2020SPM52-CaptureOLE-768x432.png 768w, http://www.spatialmanager.com/wp-content/uploads/2019/04/AC2020SPM52-CaptureOLE-624x351.png 624w, http://www.spatialmanager.com/wp-content/uploads/2019/04/AC2020SPM52-CaptureOLE.png 1280w" sizes="(max-width: 625px) 100vw, 625px" /></a>
+  <a href="/images/blog/2019/04/AC2020SPM52-CaptureOLE.png" target="_blank" rel="nofollow"><img src="/images/blog/2019/04/AC2020SPM52-CaptureOLE-1024x576.png" alt="New Capture Custom Area and OLE in AutoCAD 2020" width="625" height="352" srcset="/images/blog/2019/04/AC2020SPM52-CaptureOLE-1024x576.png 1024w, /images/blog/2019/04/AC2020SPM52-CaptureOLE-300x169.png 300w, /images/blog/2019/04/AC2020SPM52-CaptureOLE-768x432.png 768w, /images/blog/2019/04/AC2020SPM52-CaptureOLE-624x351.png 624w, /images/blog/2019/04/AC2020SPM52-CaptureOLE.png 1280w" sizes="(max-width: 625px) 100vw, 625px" /></a>
   
   <p>
     New Capture Custom Area and OLE in AutoCAD 2020
@@ -44,7 +44,7 @@ tags:
 </h2>
 
 <div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2019/04/AC2020SPM52-BGColorBGMaps.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2019/04/AC2020SPM52-BGColorBGMaps-1024x576.png" alt="Background color/transparent options for Background Maps" width="625" height="352" srcset="http://www.spatialmanager.com/wp-content/uploads/2019/04/AC2020SPM52-BGColorBGMaps-1024x576.png 1024w, http://www.spatialmanager.com/wp-content/uploads/2019/04/AC2020SPM52-BGColorBGMaps-300x169.png 300w, http://www.spatialmanager.com/wp-content/uploads/2019/04/AC2020SPM52-BGColorBGMaps-768x432.png 768w, http://www.spatialmanager.com/wp-content/uploads/2019/04/AC2020SPM52-BGColorBGMaps-624x351.png 624w, http://www.spatialmanager.com/wp-content/uploads/2019/04/AC2020SPM52-BGColorBGMaps.png 1280w" sizes="(max-width: 625px) 100vw, 625px" /></a>
+  <a href="/images/blog/2019/04/AC2020SPM52-BGColorBGMaps.png" target="_blank" rel="nofollow"><img src="/images/blog/2019/04/AC2020SPM52-BGColorBGMaps-1024x576.png" alt="Background color/transparent options for Background Maps" width="625" height="352" srcset="/images/blog/2019/04/AC2020SPM52-BGColorBGMaps-1024x576.png 1024w, /images/blog/2019/04/AC2020SPM52-BGColorBGMaps-300x169.png 300w, /images/blog/2019/04/AC2020SPM52-BGColorBGMaps-768x432.png 768w, /images/blog/2019/04/AC2020SPM52-BGColorBGMaps-624x351.png 624w, /images/blog/2019/04/AC2020SPM52-BGColorBGMaps.png 1280w" sizes="(max-width: 625px) 100vw, 625px" /></a>
   
   <p>
     Background color/transparent options for Background Maps

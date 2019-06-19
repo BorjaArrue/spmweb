@@ -3,10 +3,10 @@ id: 585
 title: 'Properties: how to change the focus'
 date: 2014-02-02T13:14:56+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://www.spatialmanager.com/?p=585
 permalink: /properties-change-focus/
-image: /wp-content/uploads/2013/12/Properties.png
+image: /images/blog/2013/12/Properties.png
 categories:
   - CAD L1 (Basic)
   - Desktop L1 (Basic)

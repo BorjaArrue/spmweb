@@ -3,10 +3,10 @@ id: 2281
 title: 'MAR15 &#8211; New releases (EXPORT and many more)'
 date: 2015-03-15T18:39:15+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://www.spatialmanager.com/?p=2281
 permalink: /mar15-new-releases-of-spatial-manager-products/
-image: /wp-content/uploads/2014/06/Logo-Grey85.png
+image: /images/blog/2014/06/Logo-Grey85.png
 categories:
   - Announcement
 tags:
@@ -42,7 +42,7 @@ New releases (1.0.5) of Spatial Manager ™ for AutoCAD and Spatial Manager �
   
 \*** You can review all the Export possibilities and watch various sample videos here: <a title="Export blog post" href="http://wp.me/p43jav-Ad" target="_blank" rel="nofollow"><em>Export post</em></a>
 
-<a href="http://www.spatialmanager.com/wp-content/uploads/2015/03/MAR15-New-release.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2015/03/MAR15-New-release.png" alt="MAR15 - New release" width="625" height="782" srcset="http://www.spatialmanager.com/wp-content/uploads/2015/03/MAR15-New-release.png 701w, http://www.spatialmanager.com/wp-content/uploads/2015/03/MAR15-New-release-239x300.png 239w, http://www.spatialmanager.com/wp-content/uploads/2015/03/MAR15-New-release-624x780.png 624w" sizes="(max-width: 625px) 100vw, 625px" /></a>
+<a href="/images/blog/2015/03/MAR15-New-release.png" target="_blank" rel="nofollow"><img src="/images/blog/2015/03/MAR15-New-release.png" alt="MAR15 - New release" width="625" height="782" srcset="/images/blog/2015/03/MAR15-New-release.png 701w, /images/blog/2015/03/MAR15-New-release-239x300.png 239w, /images/blog/2015/03/MAR15-New-release-624x780.png 624w" sizes="(max-width: 625px) 100vw, 625px" /></a>
 
 _<span><span><em>Click on the image to expand it and review the new Export function on this edition</em><br /> </span></span>_
 

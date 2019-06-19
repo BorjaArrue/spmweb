@@ -3,10 +3,10 @@ id: 4230
 title: 'New v.4 &#8211; Enjoy the most superb set of geo-functions'
 date: 2017-10-05T10:18:09+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://www.spatialmanager.com/?p=4230
 permalink: /new-v-4-enjoy-the-most-superb-set-of-geo-functions/
-image: /wp-content/uploads/2017/10/Logo-SPM4_85.png
+image: /images/blog/2017/10/Logo-SPM4_85.png
 categories:
   - Announcement
 tags:
@@ -23,7 +23,7 @@ The main version 4 (_October 2017_) collects and improves all the tools included
 <!--more-->
 
 <div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2017/10/SPM_New_Preset_BGMaps__Tables_V4.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2017/10/SPM_New_Preset_BGMaps__Tables_V4-1024x576.png" alt="Spatial Manager - Background Maps and data Tables" width="625" height="352" srcset="http://www.spatialmanager.com/wp-content/uploads/2017/10/SPM_New_Preset_BGMaps__Tables_V4-1024x576.png 1024w, http://www.spatialmanager.com/wp-content/uploads/2017/10/SPM_New_Preset_BGMaps__Tables_V4-300x169.png 300w, http://www.spatialmanager.com/wp-content/uploads/2017/10/SPM_New_Preset_BGMaps__Tables_V4-768x432.png 768w, http://www.spatialmanager.com/wp-content/uploads/2017/10/SPM_New_Preset_BGMaps__Tables_V4-624x351.png 624w, http://www.spatialmanager.com/wp-content/uploads/2017/10/SPM_New_Preset_BGMaps__Tables_V4.png 1280w" sizes="(max-width: 625px) 100vw, 625px" /></a>
+  <a href="/images/blog/2017/10/SPM_New_Preset_BGMaps__Tables_V4.png" target="_blank" rel="nofollow"><img src="/images/blog/2017/10/SPM_New_Preset_BGMaps__Tables_V4-1024x576.png" alt="Spatial Manager - Background Maps and data Tables" width="625" height="352" srcset="/images/blog/2017/10/SPM_New_Preset_BGMaps__Tables_V4-1024x576.png 1024w, /images/blog/2017/10/SPM_New_Preset_BGMaps__Tables_V4-300x169.png 300w, /images/blog/2017/10/SPM_New_Preset_BGMaps__Tables_V4-768x432.png 768w, /images/blog/2017/10/SPM_New_Preset_BGMaps__Tables_V4-624x351.png 624w, /images/blog/2017/10/SPM_New_Preset_BGMaps__Tables_V4.png 1280w" sizes="(max-width: 625px) 100vw, 625px" /></a>
   
   <p>
     Spatial Manager &#8211; Background Maps and data Tables
@@ -44,7 +44,7 @@ The main version 4 (_October 2017_) collects and improves all the tools included
 ## 
 
 <div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2017/10/SPM_New_WMS-WMTS_User_BGMaps_V4.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2017/10/SPM_New_WMS-WMTS_User_BGMaps_V4-300x138.png" alt="Spatial Manager - New WMS/WMTS User Maps" width="625" height="287" srcset="http://www.spatialmanager.com/wp-content/uploads/2017/10/SPM_New_WMS-WMTS_User_BGMaps_V4-300x138.png 300w, http://www.spatialmanager.com/wp-content/uploads/2017/10/SPM_New_WMS-WMTS_User_BGMaps_V4-768x352.png 768w, http://www.spatialmanager.com/wp-content/uploads/2017/10/SPM_New_WMS-WMTS_User_BGMaps_V4-624x286.png 624w, http://www.spatialmanager.com/wp-content/uploads/2017/10/SPM_New_WMS-WMTS_User_BGMaps_V4.png 977w" sizes="(max-width: 625px) 100vw, 625px" /></a>
+  <a href="/images/blog/2017/10/SPM_New_WMS-WMTS_User_BGMaps_V4.png" target="_blank" rel="nofollow"><img src="/images/blog/2017/10/SPM_New_WMS-WMTS_User_BGMaps_V4-300x138.png" alt="Spatial Manager - New WMS/WMTS User Maps" width="625" height="287" srcset="/images/blog/2017/10/SPM_New_WMS-WMTS_User_BGMaps_V4-300x138.png 300w, /images/blog/2017/10/SPM_New_WMS-WMTS_User_BGMaps_V4-768x352.png 768w, /images/blog/2017/10/SPM_New_WMS-WMTS_User_BGMaps_V4-624x286.png 624w, /images/blog/2017/10/SPM_New_WMS-WMTS_User_BGMaps_V4.png 977w" sizes="(max-width: 625px) 100vw, 625px" /></a>
   
   <p>
     Spatial Manager &#8211; New WMS/WMTS User Maps
@@ -66,7 +66,7 @@ The main version 4 (_October 2017_) collects and improves all the tools included
   * **Column headers**
 
 <div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2017/10/SPM_New_ASCII_Data_Provider_V4.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2017/10/SPM_New_ASCII_Data_Provider_V4-1024x579.png" alt="Spatial Manager - Import Points using the enhanced data Provider" width="625" height="353" srcset="http://www.spatialmanager.com/wp-content/uploads/2017/10/SPM_New_ASCII_Data_Provider_V4-1024x579.png 1024w, http://www.spatialmanager.com/wp-content/uploads/2017/10/SPM_New_ASCII_Data_Provider_V4-300x170.png 300w, http://www.spatialmanager.com/wp-content/uploads/2017/10/SPM_New_ASCII_Data_Provider_V4-768x434.png 768w, http://www.spatialmanager.com/wp-content/uploads/2017/10/SPM_New_ASCII_Data_Provider_V4-624x353.png 624w, http://www.spatialmanager.com/wp-content/uploads/2017/10/SPM_New_ASCII_Data_Provider_V4.png 1167w" sizes="(max-width: 625px) 100vw, 625px" /></a>
+  <a href="/images/blog/2017/10/SPM_New_ASCII_Data_Provider_V4.png" target="_blank" rel="nofollow"><img src="/images/blog/2017/10/SPM_New_ASCII_Data_Provider_V4-1024x579.png" alt="Spatial Manager - Import Points using the enhanced data Provider" width="625" height="353" srcset="/images/blog/2017/10/SPM_New_ASCII_Data_Provider_V4-1024x579.png 1024w, /images/blog/2017/10/SPM_New_ASCII_Data_Provider_V4-300x170.png 300w, /images/blog/2017/10/SPM_New_ASCII_Data_Provider_V4-768x434.png 768w, /images/blog/2017/10/SPM_New_ASCII_Data_Provider_V4-624x353.png 624w, /images/blog/2017/10/SPM_New_ASCII_Data_Provider_V4.png 1167w" sizes="(max-width: 625px) 100vw, 625px" /></a>
   
   <p>
     Spatial Manager &#8211; Import Points using the enhanced data Provider

@@ -3,10 +3,10 @@ id: 6343
 title: Traffic and transit in Google Maps
 date: 2019-04-11T11:30:58+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://www.spatialmanager.com/?p=6343
 permalink: /traffic-and-transit-in-google-maps/
-image: /wp-content/uploads/2019/04/GMaps_Traffic_Transit85.png
+image: /images/blog/2019/04/GMaps_Traffic_Transit85.png
 categories:
   - CAD L2 (Medium)
   - Desktop L2 (Medium)
@@ -45,7 +45,7 @@ tags:
 </h2>
 
 <div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2019/04/GMaps-Standard-Traffic.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2019/04/GMaps-Standard-Traffic-1024x502.png" alt="Google Maps Standard + Traffic" width="625" height="306" srcset="http://www.spatialmanager.com/wp-content/uploads/2019/04/GMaps-Standard-Traffic-1024x502.png 1024w, http://www.spatialmanager.com/wp-content/uploads/2019/04/GMaps-Standard-Traffic-300x147.png 300w, http://www.spatialmanager.com/wp-content/uploads/2019/04/GMaps-Standard-Traffic-768x376.png 768w, http://www.spatialmanager.com/wp-content/uploads/2019/04/GMaps-Standard-Traffic-624x306.png 624w, http://www.spatialmanager.com/wp-content/uploads/2019/04/GMaps-Standard-Traffic.png 1249w" sizes="(max-width: 625px) 100vw, 625px" /></a>
+  <a href="/images/blog/2019/04/GMaps-Standard-Traffic.png" target="_blank" rel="nofollow"><img src="/images/blog/2019/04/GMaps-Standard-Traffic-1024x502.png" alt="Google Maps Standard + Traffic" width="625" height="306" srcset="/images/blog/2019/04/GMaps-Standard-Traffic-1024x502.png 1024w, /images/blog/2019/04/GMaps-Standard-Traffic-300x147.png 300w, /images/blog/2019/04/GMaps-Standard-Traffic-768x376.png 768w, /images/blog/2019/04/GMaps-Standard-Traffic-624x306.png 624w, /images/blog/2019/04/GMaps-Standard-Traffic.png 1249w" sizes="(max-width: 625px) 100vw, 625px" /></a>
   
   <p>
     Google Maps Standard + Traffic
@@ -60,7 +60,7 @@ tags:
 </p>
 
 <div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2019/04/GMaps-SatelliteHybrid-Traffic.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2019/04/GMaps-SatelliteHybrid-Traffic-1024x502.png" alt="Google Maps Satellite Hybrid + Traffic" width="625" height="306" srcset="http://www.spatialmanager.com/wp-content/uploads/2019/04/GMaps-SatelliteHybrid-Traffic-1024x502.png 1024w, http://www.spatialmanager.com/wp-content/uploads/2019/04/GMaps-SatelliteHybrid-Traffic-300x147.png 300w, http://www.spatialmanager.com/wp-content/uploads/2019/04/GMaps-SatelliteHybrid-Traffic-768x376.png 768w, http://www.spatialmanager.com/wp-content/uploads/2019/04/GMaps-SatelliteHybrid-Traffic-624x306.png 624w, http://www.spatialmanager.com/wp-content/uploads/2019/04/GMaps-SatelliteHybrid-Traffic.png 1249w" sizes="(max-width: 625px) 100vw, 625px" /></a>
+  <a href="/images/blog/2019/04/GMaps-SatelliteHybrid-Traffic.png" target="_blank" rel="nofollow"><img src="/images/blog/2019/04/GMaps-SatelliteHybrid-Traffic-1024x502.png" alt="Google Maps Satellite Hybrid + Traffic" width="625" height="306" srcset="/images/blog/2019/04/GMaps-SatelliteHybrid-Traffic-1024x502.png 1024w, /images/blog/2019/04/GMaps-SatelliteHybrid-Traffic-300x147.png 300w, /images/blog/2019/04/GMaps-SatelliteHybrid-Traffic-768x376.png 768w, /images/blog/2019/04/GMaps-SatelliteHybrid-Traffic-624x306.png 624w, /images/blog/2019/04/GMaps-SatelliteHybrid-Traffic.png 1249w" sizes="(max-width: 625px) 100vw, 625px" /></a>
   
   <p>
     Google Maps Satellite Hybrid + Traffic
@@ -75,7 +75,7 @@ tags:
 </p>
 
 <div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2019/04/GMaps-Roads-Transit2.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2019/04/GMaps-Roads-Transit2-1024x505.png" alt="Google Maps Roads only + Transit (Public transport)" width="625" height="308" srcset="http://www.spatialmanager.com/wp-content/uploads/2019/04/GMaps-Roads-Transit2-1024x505.png 1024w, http://www.spatialmanager.com/wp-content/uploads/2019/04/GMaps-Roads-Transit2-300x148.png 300w, http://www.spatialmanager.com/wp-content/uploads/2019/04/GMaps-Roads-Transit2-768x379.png 768w, http://www.spatialmanager.com/wp-content/uploads/2019/04/GMaps-Roads-Transit2-624x308.png 624w, http://www.spatialmanager.com/wp-content/uploads/2019/04/GMaps-Roads-Transit2.png 1249w" sizes="(max-width: 625px) 100vw, 625px" /></a>
+  <a href="/images/blog/2019/04/GMaps-Roads-Transit2.png" target="_blank" rel="nofollow"><img src="/images/blog/2019/04/GMaps-Roads-Transit2-1024x505.png" alt="Google Maps Roads only + Transit (Public transport)" width="625" height="308" srcset="/images/blog/2019/04/GMaps-Roads-Transit2-1024x505.png 1024w, /images/blog/2019/04/GMaps-Roads-Transit2-300x148.png 300w, /images/blog/2019/04/GMaps-Roads-Transit2-768x379.png 768w, /images/blog/2019/04/GMaps-Roads-Transit2-624x308.png 624w, /images/blog/2019/04/GMaps-Roads-Transit2.png 1249w" sizes="(max-width: 625px) 100vw, 625px" /></a>
   
   <p>
     Google Maps Roads only + Transit (Public transport)

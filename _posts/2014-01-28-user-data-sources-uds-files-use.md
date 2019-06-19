@@ -3,10 +3,10 @@ id: 550
 title: User Data Sources (UDS) for files. Why use them?
 date: 2014-01-28T12:12:23+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://www.spatialmanager.com/?p=550
 permalink: /user-data-sources-uds-files-use/
-image: /wp-content/uploads/2014/01/59_FMP_file_logo-85.png
+image: /images/blog/2014/01/59_FMP_file_logo-85.png
 categories:
   - CAD L3 (Advanced)
   - Desktop L3 (Advanced)

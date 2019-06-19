@@ -3,10 +3,10 @@ id: 6118
 title: Exporting-Importing user Background Map definitions
 date: 2019-01-10T09:38:22+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://www.spatialmanager.com/?p=6118
 permalink: /exporting-importing-user-background-map-defintions/
-image: /wp-content/uploads/2019/01/BMDFiles85.png
+image: /images/blog/2019/01/BMDFiles85.png
 categories:
   - CAD L2 (Medium)
   - Desktop L2 (Medium)
@@ -28,7 +28,7 @@ tags:
 </h2>
 
 <div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2019/01/SPMExportBGMaps.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2019/01/SPMExportBGMaps-1024x605.png" alt="Selecting BG Maps to Export" width="625" height="369" srcset="http://www.spatialmanager.com/wp-content/uploads/2019/01/SPMExportBGMaps-1024x605.png 1024w, http://www.spatialmanager.com/wp-content/uploads/2019/01/SPMExportBGMaps-300x177.png 300w, http://www.spatialmanager.com/wp-content/uploads/2019/01/SPMExportBGMaps-768x454.png 768w, http://www.spatialmanager.com/wp-content/uploads/2019/01/SPMExportBGMaps-624x369.png 624w, http://www.spatialmanager.com/wp-content/uploads/2019/01/SPMExportBGMaps.png 1280w" sizes="(max-width: 625px) 100vw, 625px" /></a>
+  <a href="/images/blog/2019/01/SPMExportBGMaps.png" target="_blank" rel="nofollow"><img src="/images/blog/2019/01/SPMExportBGMaps-1024x605.png" alt="Selecting BG Maps to Export" width="625" height="369" srcset="/images/blog/2019/01/SPMExportBGMaps-1024x605.png 1024w, /images/blog/2019/01/SPMExportBGMaps-300x177.png 300w, /images/blog/2019/01/SPMExportBGMaps-768x454.png 768w, /images/blog/2019/01/SPMExportBGMaps-624x369.png 624w, /images/blog/2019/01/SPMExportBGMaps.png 1280w" sizes="(max-width: 625px) 100vw, 625px" /></a>
   
   <p>
     Selecting BG Maps to Export

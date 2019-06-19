@@ -3,10 +3,10 @@ id: 4977
 title: Sharing Background Maps, Data Sources, etc.
 date: 2018-01-31T11:57:55+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://www.spatialmanager.com/?p=4977
 permalink: /sharing-background-maps-data-sources-etc/
-image: /wp-content/uploads/2018/01/Copy-Settings-2-85.png
+image: /images/blog/2018/01/Copy-Settings-2-85.png
 categories:
   - CAD L2 (Medium)
   - Desktop L2 (Medium)
@@ -23,7 +23,7 @@ tags:
 </p>
 
 <div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2018/01/SPM-User-settings.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2018/01/SPM-User-settings.png" alt="'Spatial Manager' Data Sources & User Background Maps" width="931" height="550" srcset="http://www.spatialmanager.com/wp-content/uploads/2018/01/SPM-User-settings.png 931w, http://www.spatialmanager.com/wp-content/uploads/2018/01/SPM-User-settings-300x177.png 300w, http://www.spatialmanager.com/wp-content/uploads/2018/01/SPM-User-settings-768x454.png 768w, http://www.spatialmanager.com/wp-content/uploads/2018/01/SPM-User-settings-624x369.png 624w" sizes="(max-width: 931px) 100vw, 931px" /></a>
+  <a href="/images/blog/2018/01/SPM-User-settings.png" target="_blank" rel="nofollow"><img src="/images/blog/2018/01/SPM-User-settings.png" alt="'Spatial Manager' Data Sources & User Background Maps" width="931" height="550" srcset="/images/blog/2018/01/SPM-User-settings.png 931w, /images/blog/2018/01/SPM-User-settings-300x177.png 300w, /images/blog/2018/01/SPM-User-settings-768x454.png 768w, /images/blog/2018/01/SPM-User-settings-624x369.png 624w" sizes="(max-width: 931px) 100vw, 931px" /></a>
   
   <p>
     &#8216;Spatial Manager&#8217; Data Sources & User Background Maps
@@ -161,7 +161,7 @@ tags:
 </h2>
 
 <div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2018/01/SPM-Application-Config-folder.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2018/01/SPM-Application-Config-folder.png" alt="'Spatial Manager' Configuration folder (for AutoCAD, in this sample)" width="668" height="293" srcset="http://www.spatialmanager.com/wp-content/uploads/2018/01/SPM-Application-Config-folder.png 668w, http://www.spatialmanager.com/wp-content/uploads/2018/01/SPM-Application-Config-folder-300x132.png 300w, http://www.spatialmanager.com/wp-content/uploads/2018/01/SPM-Application-Config-folder-624x274.png 624w" sizes="(max-width: 668px) 100vw, 668px" /></a>
+  <a href="/images/blog/2018/01/SPM-Application-Config-folder.png" target="_blank" rel="nofollow"><img src="/images/blog/2018/01/SPM-Application-Config-folder.png" alt="'Spatial Manager' Configuration folder (for AutoCAD, in this sample)" width="668" height="293" srcset="/images/blog/2018/01/SPM-Application-Config-folder.png 668w, /images/blog/2018/01/SPM-Application-Config-folder-300x132.png 300w, /images/blog/2018/01/SPM-Application-Config-folder-624x274.png 624w" sizes="(max-width: 668px) 100vw, 668px" /></a>
   
   <p>
     &#8216;Spatial Manager&#8217; Configuration folder (for AutoCAD, in this sample)

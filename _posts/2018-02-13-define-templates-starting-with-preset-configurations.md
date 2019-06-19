@@ -3,10 +3,10 @@ id: 5029
 title: 'Define Templates &#8211; Starting with preset configurations'
 date: 2018-02-13T12:13:54+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://www.spatialmanager.com/?p=5029
 permalink: /define-templates-starting-with-preset-configurations/
-image: /wp-content/uploads/2018/02/SPM-Template-85.jpg
+image: /images/blog/2018/02/SPM-Template-85.jpg
 categories:
   - CAD L2 (Medium)
 tags:
@@ -26,7 +26,7 @@ tags:
 </h2>
 
 <div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2018/02/DWT-SPM-Parameters.jpg" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2018/02/DWT-SPM-Parameters.jpg" alt="Template preset: Layers, Coordinate System, Background Map, Tables, ..." width="996" height="539" srcset="http://www.spatialmanager.com/wp-content/uploads/2018/02/DWT-SPM-Parameters.jpg 996w, http://www.spatialmanager.com/wp-content/uploads/2018/02/DWT-SPM-Parameters-300x162.jpg 300w, http://www.spatialmanager.com/wp-content/uploads/2018/02/DWT-SPM-Parameters-768x416.jpg 768w, http://www.spatialmanager.com/wp-content/uploads/2018/02/DWT-SPM-Parameters-624x338.jpg 624w" sizes="(max-width: 996px) 100vw, 996px" /></a>
+  <a href="/images/blog/2018/02/DWT-SPM-Parameters.jpg" target="_blank" rel="nofollow"><img src="/images/blog/2018/02/DWT-SPM-Parameters.jpg" alt="Template preset: Layers, Coordinate System, Background Map, Tables, ..." width="996" height="539" srcset="/images/blog/2018/02/DWT-SPM-Parameters.jpg 996w, /images/blog/2018/02/DWT-SPM-Parameters-300x162.jpg 300w, /images/blog/2018/02/DWT-SPM-Parameters-768x416.jpg 768w, /images/blog/2018/02/DWT-SPM-Parameters-624x338.jpg 624w" sizes="(max-width: 996px) 100vw, 996px" /></a>
   
   <p>
     Template preset: Layers, Coordinate System, Background Map, Tables, &#8230;

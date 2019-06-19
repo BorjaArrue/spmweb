@@ -3,10 +3,10 @@ id: 1991
 title: Import Z-Contours from a Shapefile into AutoCAD
 date: 2014-12-28T12:10:21+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://www.spatialmanager.com/?p=1991
 permalink: /import-z-contours-from-a-shapefile-into-autocad/
-image: /wp-content/uploads/2014/12/Contour85.png
+image: /images/blog/2014/12/Contour85.png
 categories:
   - CAD L2 (Medium)
 tags:
@@ -22,7 +22,7 @@ The change of the Elevation of 2D Objects in <a title="AutoCAD Product page" hre
 
 The result is the same as a vertical displacement for the Objects
 
-<a href="http://www.spatialmanager.com/wp-content/uploads/2014/12/Layers.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2014/12/Layers-1024x576.png" alt="Import Z-Contours from a Shapefile into AutoCAD" width="625" height="351" srcset="http://www.spatialmanager.com/wp-content/uploads/2014/12/Layers-1024x576.png 1024w, http://www.spatialmanager.com/wp-content/uploads/2014/12/Layers-300x168.png 300w, http://www.spatialmanager.com/wp-content/uploads/2014/12/Layers-624x351.png 624w, http://www.spatialmanager.com/wp-content/uploads/2014/12/Layers.png 1280w" sizes="(max-width: 625px) 100vw, 625px" /></a>
+<a href="/images/blog/2014/12/Layers.png" target="_blank" rel="nofollow"><img src="/images/blog/2014/12/Layers-1024x576.png" alt="Import Z-Contours from a Shapefile into AutoCAD" width="625" height="351" srcset="/images/blog/2014/12/Layers-1024x576.png 1024w, /images/blog/2014/12/Layers-300x168.png 300w, /images/blog/2014/12/Layers-624x351.png 624w, /images/blog/2014/12/Layers.png 1280w" sizes="(max-width: 625px) 100vw, 625px" /></a>
 
 ## Import Z-Contours from a Shapefile
 

@@ -3,10 +3,10 @@ id: 3853
 title: 'Support for Ordnance Survey &#8211; Schema 9 products'
 date: 2017-03-16T19:10:30+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://www.spatialmanager.com/?p=3853
 permalink: /support-for-ordnance-survey-schema-9-products/
-image: /wp-content/uploads/2017/03/OS-Schema-9-logo-85.png
+image: /images/blog/2017/03/OS-Schema-9-logo-85.png
 categories:
   - CAD L2 (Medium)
 tags:
@@ -22,7 +22,7 @@ tags:
 ## 
 
 <div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2017/03/OS-Schema-9.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2017/03/OS-Schema-9-1024x577.png" alt="'OS MasterMap Topography Layer' data imported using 'Spatial Manager' (GML data provider)" width="625" height="352" srcset="http://www.spatialmanager.com/wp-content/uploads/2017/03/OS-Schema-9-1024x577.png 1024w, http://www.spatialmanager.com/wp-content/uploads/2017/03/OS-Schema-9-300x169.png 300w, http://www.spatialmanager.com/wp-content/uploads/2017/03/OS-Schema-9-768x433.png 768w, http://www.spatialmanager.com/wp-content/uploads/2017/03/OS-Schema-9-624x351.png 624w, http://www.spatialmanager.com/wp-content/uploads/2017/03/OS-Schema-9.png 1266w" sizes="(max-width: 625px) 100vw, 625px" /></a>
+  <a href="/images/blog/2017/03/OS-Schema-9.png" target="_blank" rel="nofollow"><img src="/images/blog/2017/03/OS-Schema-9-1024x577.png" alt="'OS MasterMap Topography Layer' data imported using 'Spatial Manager' (GML data provider)" width="625" height="352" srcset="/images/blog/2017/03/OS-Schema-9-1024x577.png 1024w, /images/blog/2017/03/OS-Schema-9-300x169.png 300w, /images/blog/2017/03/OS-Schema-9-768x433.png 768w, /images/blog/2017/03/OS-Schema-9-624x351.png 624w, /images/blog/2017/03/OS-Schema-9.png 1266w" sizes="(max-width: 625px) 100vw, 625px" /></a>
   
   <p>
     &#8216;OS MasterMap Topography Layer&#8217; data imported using &#8216;Spatial Manager&#8217; (GML data provider)
@@ -39,7 +39,7 @@ tags:
 </h2>
 
 <div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2017/03/a1.jpg" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2017/03/a1-1024x578.jpg" alt="Ordnance Survey Background Maps in 'Spatial Manager'" width="625" height="353" srcset="http://www.spatialmanager.com/wp-content/uploads/2017/03/a1-1024x578.jpg 1024w, http://www.spatialmanager.com/wp-content/uploads/2017/03/a1-300x169.jpg 300w, http://www.spatialmanager.com/wp-content/uploads/2017/03/a1-768x433.jpg 768w, http://www.spatialmanager.com/wp-content/uploads/2017/03/a1-624x352.jpg 624w, http://www.spatialmanager.com/wp-content/uploads/2017/03/a1.jpg 1278w" sizes="(max-width: 625px) 100vw, 625px" /></a>
+  <a href="/images/blog/2017/03/a1.jpg" target="_blank" rel="nofollow"><img src="/images/blog/2017/03/a1-1024x578.jpg" alt="Ordnance Survey Background Maps in 'Spatial Manager'" width="625" height="353" srcset="/images/blog/2017/03/a1-1024x578.jpg 1024w, /images/blog/2017/03/a1-300x169.jpg 300w, /images/blog/2017/03/a1-768x433.jpg 768w, /images/blog/2017/03/a1-624x352.jpg 624w, /images/blog/2017/03/a1.jpg 1278w" sizes="(max-width: 625px) 100vw, 625px" /></a>
   
   <p>
     Ordnance Survey Background Maps in &#8216;Spatial Manager&#8217;
@@ -62,7 +62,7 @@ tags:
 </p>
 
 <div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2017/03/OS-MasterMap-Topography-Layer.jpg" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2017/03/OS-MasterMap-Topography-Layer.jpg" alt="OS MasterMap Topography Layer - detail and flexibility" width="435" height="248" srcset="http://www.spatialmanager.com/wp-content/uploads/2017/03/OS-MasterMap-Topography-Layer.jpg 435w, http://www.spatialmanager.com/wp-content/uploads/2017/03/OS-MasterMap-Topography-Layer-300x171.jpg 300w" sizes="(max-width: 435px) 100vw, 435px" /></a>
+  <a href="/images/blog/2017/03/OS-MasterMap-Topography-Layer.jpg" target="_blank" rel="nofollow"><img src="/images/blog/2017/03/OS-MasterMap-Topography-Layer.jpg" alt="OS MasterMap Topography Layer - detail and flexibility" width="435" height="248" srcset="/images/blog/2017/03/OS-MasterMap-Topography-Layer.jpg 435w, /images/blog/2017/03/OS-MasterMap-Topography-Layer-300x171.jpg 300w" sizes="(max-width: 435px) 100vw, 435px" /></a>
   
   <p>
     OS MasterMap Topography Layer &#8211; detail and flexibility

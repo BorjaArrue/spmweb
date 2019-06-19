@@ -3,10 +3,10 @@ id: 285
 title: Loading and applying styles to SHP files
 date: 2013-11-04T17:56:10+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://berlin.opencartis.com/wordpress/?p=285
 permalink: /loading-and-applying-styles-to-shp-files-2/
-image: /wp-content/uploads/2013/11/Blog1-85px1.png
+image: /images/blog/2013/11/Blog1-85px1.png
 categories:
   - Desktop L1 (Basic)
 tags:

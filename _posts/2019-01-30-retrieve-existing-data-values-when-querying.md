@@ -3,10 +3,10 @@ id: 6168
 title: Retrieve existing data values when querying
 date: 2019-01-30T10:13:14+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://www.spatialmanager.com/?p=6168
 permalink: /retrieve-existing-data-values-when-querying/
-image: /wp-content/uploads/2019/01/QueryRet2-85.png
+image: /images/blog/2019/01/QueryRet2-85.png
 categories:
   - CAD L2 (Medium)
   - Desktop L2 (Medium)
@@ -28,7 +28,7 @@ tags:
 </h2>
 
 <div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2019/01/SPM_ChooseValues_Query.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2019/01/SPM_ChooseValues_Query.png" alt="Choosing data values when querying" width="746" height="452" srcset="http://www.spatialmanager.com/wp-content/uploads/2019/01/SPM_ChooseValues_Query.png 746w, http://www.spatialmanager.com/wp-content/uploads/2019/01/SPM_ChooseValues_Query-300x182.png 300w, http://www.spatialmanager.com/wp-content/uploads/2019/01/SPM_ChooseValues_Query-624x378.png 624w" sizes="(max-width: 746px) 100vw, 746px" /></a>
+  <a href="/images/blog/2019/01/SPM_ChooseValues_Query.png" target="_blank" rel="nofollow"><img src="/images/blog/2019/01/SPM_ChooseValues_Query.png" alt="Choosing data values when querying" width="746" height="452" srcset="/images/blog/2019/01/SPM_ChooseValues_Query.png 746w, /images/blog/2019/01/SPM_ChooseValues_Query-300x182.png 300w, /images/blog/2019/01/SPM_ChooseValues_Query-624x378.png 624w" sizes="(max-width: 746px) 100vw, 746px" /></a>
   
   <p>
     Choosing data values when querying

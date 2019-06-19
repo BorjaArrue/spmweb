@@ -3,10 +3,10 @@ id: 6452
 title: Replaying any export process
 date: 2019-05-07T10:41:32+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://www.spatialmanager.com/?p=6452
 permalink: /replaying-an-erroneus-export-process/
-image: /wp-content/uploads/2019/04/ExportReplay85.png
+image: /images/blog/2019/04/ExportReplay85.png
 categories:
   - CAD L2 (Medium)
 tags:
@@ -25,7 +25,7 @@ tags:
 </h2>
 
 <div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2019/04/SPMBackExport3.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2019/04/SPMBackExport3-1024x537.png" alt="&quot;Back&quot; button to review any Export parameters and replay the process" width="625" height="328" srcset="http://www.spatialmanager.com/wp-content/uploads/2019/04/SPMBackExport3-1024x537.png 1024w, http://www.spatialmanager.com/wp-content/uploads/2019/04/SPMBackExport3-300x157.png 300w, http://www.spatialmanager.com/wp-content/uploads/2019/04/SPMBackExport3-768x403.png 768w, http://www.spatialmanager.com/wp-content/uploads/2019/04/SPMBackExport3-624x327.png 624w" sizes="(max-width: 625px) 100vw, 625px" /></a>
+  <a href="/images/blog/2019/04/SPMBackExport3.png" target="_blank" rel="nofollow"><img src="/images/blog/2019/04/SPMBackExport3-1024x537.png" alt="&quot;Back&quot; button to review any Export parameters and replay the process" width="625" height="328" srcset="/images/blog/2019/04/SPMBackExport3-1024x537.png 1024w, /images/blog/2019/04/SPMBackExport3-300x157.png 300w, /images/blog/2019/04/SPMBackExport3-768x403.png 768w, /images/blog/2019/04/SPMBackExport3-624x327.png 624w" sizes="(max-width: 625px) 100vw, 625px" /></a>
   
   <p>
     &#8220;Back&#8221; button to review any Export parameters and replay the process

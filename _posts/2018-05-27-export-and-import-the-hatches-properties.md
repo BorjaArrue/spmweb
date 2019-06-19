@@ -3,10 +3,10 @@ id: 5446
 title: Export and import Hatches properties
 date: 2018-05-27T11:13:59+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://www.spatialmanager.com/?p=5446
 permalink: /export-and-import-the-hatches-properties/
-image: /wp-content/uploads/2018/05/Hatchs85.png
+image: /images/blog/2018/05/Hatchs85.png
 categories:
   - CAD L2 (Medium)
 tags:
@@ -30,7 +30,7 @@ tags:
 </h2>
 
 <div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2018/05/SPM-Hatch_Prop_Export.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2018/05/SPM-Hatch_Prop_Export-1024x480.png" alt="Exporting polygon objects including Hatches properties" width="625" height="293" srcset="http://www.spatialmanager.com/wp-content/uploads/2018/05/SPM-Hatch_Prop_Export-1024x480.png 1024w, http://www.spatialmanager.com/wp-content/uploads/2018/05/SPM-Hatch_Prop_Export-300x141.png 300w, http://www.spatialmanager.com/wp-content/uploads/2018/05/SPM-Hatch_Prop_Export-768x360.png 768w, http://www.spatialmanager.com/wp-content/uploads/2018/05/SPM-Hatch_Prop_Export-624x293.png 624w, http://www.spatialmanager.com/wp-content/uploads/2018/05/SPM-Hatch_Prop_Export.png 1358w" sizes="(max-width: 625px) 100vw, 625px" /></a>
+  <a href="/images/blog/2018/05/SPM-Hatch_Prop_Export.png" target="_blank" rel="nofollow"><img src="/images/blog/2018/05/SPM-Hatch_Prop_Export-1024x480.png" alt="Exporting polygon objects including Hatches properties" width="625" height="293" srcset="/images/blog/2018/05/SPM-Hatch_Prop_Export-1024x480.png 1024w, /images/blog/2018/05/SPM-Hatch_Prop_Export-300x141.png 300w, /images/blog/2018/05/SPM-Hatch_Prop_Export-768x360.png 768w, /images/blog/2018/05/SPM-Hatch_Prop_Export-624x293.png 624w, /images/blog/2018/05/SPM-Hatch_Prop_Export.png 1358w" sizes="(max-width: 625px) 100vw, 625px" /></a>
   
   <p>
     Exporting polygon objects including Hatches properties
@@ -62,7 +62,7 @@ tags:
 </h2>
 
 <div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2018/05/SPM-Hatch_Prop_Import.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2018/05/SPM-Hatch_Prop_Import-1024x480.png" alt="Retrieving Fill properties from incoming data" width="625" height="293" srcset="http://www.spatialmanager.com/wp-content/uploads/2018/05/SPM-Hatch_Prop_Import-1024x480.png 1024w, http://www.spatialmanager.com/wp-content/uploads/2018/05/SPM-Hatch_Prop_Import-300x141.png 300w, http://www.spatialmanager.com/wp-content/uploads/2018/05/SPM-Hatch_Prop_Import-768x360.png 768w, http://www.spatialmanager.com/wp-content/uploads/2018/05/SPM-Hatch_Prop_Import-624x293.png 624w, http://www.spatialmanager.com/wp-content/uploads/2018/05/SPM-Hatch_Prop_Import.png 1358w" sizes="(max-width: 625px) 100vw, 625px" /></a>
+  <a href="/images/blog/2018/05/SPM-Hatch_Prop_Import.png" target="_blank" rel="nofollow"><img src="/images/blog/2018/05/SPM-Hatch_Prop_Import-1024x480.png" alt="Retrieving Fill properties from incoming data" width="625" height="293" srcset="/images/blog/2018/05/SPM-Hatch_Prop_Import-1024x480.png 1024w, /images/blog/2018/05/SPM-Hatch_Prop_Import-300x141.png 300w, /images/blog/2018/05/SPM-Hatch_Prop_Import-768x360.png 768w, /images/blog/2018/05/SPM-Hatch_Prop_Import-624x293.png 624w, /images/blog/2018/05/SPM-Hatch_Prop_Import.png 1358w" sizes="(max-width: 625px) 100vw, 625px" /></a>
   
   <p>
     Retrieving Fill properties from incoming data

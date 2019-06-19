@@ -3,10 +3,10 @@ id: 1085
 title: Convert OpenStreetMap data to Shapefiles (SHP)
 date: 2014-04-30T09:36:24+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://www.spatialmanager.com/?p=1085
 permalink: /convert-openstreetmap-files-shapefiles/
-image: /wp-content/uploads/2014/04/OSM-SHP85.png
+image: /images/blog/2014/04/OSM-SHP85.png
 categories:
   - Desktop L1 (Basic)
 tags:

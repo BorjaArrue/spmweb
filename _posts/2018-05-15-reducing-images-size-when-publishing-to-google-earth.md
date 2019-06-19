@@ -3,10 +3,10 @@ id: 5361
 title: Reducing images size when Publishing to Google Earth
 date: 2018-05-15T08:17:47+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://www.spatialmanager.com/?p=5361
 permalink: /reducing-images-size-when-publishing-to-google-earth/
-image: /wp-content/uploads/2018/05/Reduce-size-SPM85.png
+image: /images/blog/2018/05/Reduce-size-SPM85.png
 categories:
   - CAD L2 (Medium)
 tags:
@@ -32,7 +32,7 @@ tags:
 </h2>
 
 <div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2018/04/SPM_Actual_Images_Size.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2018/04/SPM_Actual_Images_Size-1024x576.png" alt="Google Earth problems when showing large images" width="625" height="352" srcset="http://www.spatialmanager.com/wp-content/uploads/2018/04/SPM_Actual_Images_Size-1024x576.png 1024w, http://www.spatialmanager.com/wp-content/uploads/2018/04/SPM_Actual_Images_Size-300x169.png 300w, http://www.spatialmanager.com/wp-content/uploads/2018/04/SPM_Actual_Images_Size-768x432.png 768w, http://www.spatialmanager.com/wp-content/uploads/2018/04/SPM_Actual_Images_Size-624x351.png 624w, http://www.spatialmanager.com/wp-content/uploads/2018/04/SPM_Actual_Images_Size.png 1280w" sizes="(max-width: 625px) 100vw, 625px" /></a>
+  <a href="/images/blog/2018/04/SPM_Actual_Images_Size.png" target="_blank" rel="nofollow"><img src="/images/blog/2018/04/SPM_Actual_Images_Size-1024x576.png" alt="Google Earth problems when showing large images" width="625" height="352" srcset="/images/blog/2018/04/SPM_Actual_Images_Size-1024x576.png 1024w, /images/blog/2018/04/SPM_Actual_Images_Size-300x169.png 300w, /images/blog/2018/04/SPM_Actual_Images_Size-768x432.png 768w, /images/blog/2018/04/SPM_Actual_Images_Size-624x351.png 624w, /images/blog/2018/04/SPM_Actual_Images_Size.png 1280w" sizes="(max-width: 625px) 100vw, 625px" /></a>
   
   <p>
     Google Earth problems when showing large images
@@ -57,7 +57,7 @@ tags:
 </h2>
 
 <div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2018/04/SPM_Publishing_GE.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2018/04/SPM_Publishing_GE.png" alt="Option in 'Spatial Manager' to reduce the images size when Publishing to Google Earth" width="877" height="434" srcset="http://www.spatialmanager.com/wp-content/uploads/2018/04/SPM_Publishing_GE.png 877w, http://www.spatialmanager.com/wp-content/uploads/2018/04/SPM_Publishing_GE-300x148.png 300w, http://www.spatialmanager.com/wp-content/uploads/2018/04/SPM_Publishing_GE-768x380.png 768w, http://www.spatialmanager.com/wp-content/uploads/2018/04/SPM_Publishing_GE-624x309.png 624w" sizes="(max-width: 877px) 100vw, 877px" /></a>
+  <a href="/images/blog/2018/04/SPM_Publishing_GE.png" target="_blank" rel="nofollow"><img src="/images/blog/2018/04/SPM_Publishing_GE.png" alt="Option in 'Spatial Manager' to reduce the images size when Publishing to Google Earth" width="877" height="434" srcset="/images/blog/2018/04/SPM_Publishing_GE.png 877w, /images/blog/2018/04/SPM_Publishing_GE-300x148.png 300w, /images/blog/2018/04/SPM_Publishing_GE-768x380.png 768w, /images/blog/2018/04/SPM_Publishing_GE-624x309.png 624w" sizes="(max-width: 877px) 100vw, 877px" /></a>
   
   <p>
     Option in &#8216;Spatial Manager&#8217; to reduce the images size when Publishing to Google Earth
@@ -75,7 +75,7 @@ tags:
 </h2>
 
 <div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2018/04/SPM_Reduced_Images_Size.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2018/04/SPM_Reduced_Images_Size-1024x576.png" alt="Images will be properly shown by reducing their size" width="625" height="352" srcset="http://www.spatialmanager.com/wp-content/uploads/2018/04/SPM_Reduced_Images_Size-1024x576.png 1024w, http://www.spatialmanager.com/wp-content/uploads/2018/04/SPM_Reduced_Images_Size-300x169.png 300w, http://www.spatialmanager.com/wp-content/uploads/2018/04/SPM_Reduced_Images_Size-768x432.png 768w, http://www.spatialmanager.com/wp-content/uploads/2018/04/SPM_Reduced_Images_Size-624x351.png 624w, http://www.spatialmanager.com/wp-content/uploads/2018/04/SPM_Reduced_Images_Size.png 1280w" sizes="(max-width: 625px) 100vw, 625px" /></a>
+  <a href="/images/blog/2018/04/SPM_Reduced_Images_Size.png" target="_blank" rel="nofollow"><img src="/images/blog/2018/04/SPM_Reduced_Images_Size-1024x576.png" alt="Images will be properly shown by reducing their size" width="625" height="352" srcset="/images/blog/2018/04/SPM_Reduced_Images_Size-1024x576.png 1024w, /images/blog/2018/04/SPM_Reduced_Images_Size-300x169.png 300w, /images/blog/2018/04/SPM_Reduced_Images_Size-768x432.png 768w, /images/blog/2018/04/SPM_Reduced_Images_Size-624x351.png 624w, /images/blog/2018/04/SPM_Reduced_Images_Size.png 1280w" sizes="(max-width: 625px) 100vw, 625px" /></a>
   
   <p>
     Images will be properly shown by reducing their size

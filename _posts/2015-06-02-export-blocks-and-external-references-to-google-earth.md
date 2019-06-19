@@ -3,10 +3,10 @@ id: 2533
 title: Export Blocks and External References to Google Earth
 date: 2015-06-02T13:47:04+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://www.spatialmanager.com/?p=2533
 permalink: /export-blocks-and-external-references-to-google-earth/
-image: /wp-content/uploads/2015/06/Spatial-Manager-Export-Blocks-and-XRef85.png
+image: /images/blog/2015/06/Spatial-Manager-Export-Blocks-and-XRef85.png
 categories:
   - CAD L2 (Medium)
 tags:
@@ -21,7 +21,7 @@ This post examines the available options when exporting Blocks and External Refe
 
 By default Spatial Manager™ will export the Blocks and Xrefs as **point features**, regardless of the selected data provider for the target. The coordinates of the exported Point features correspond to the coordinates of the Insertion points for each Block or Xref
 
-<a href="http://www.spatialmanager.com/wp-content/uploads/2015/06/Export-Blocks-and-External-References-to-Google-Earth-3.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2015/06/Export-Blocks-and-External-References-to-Google-Earth-3.png" alt="Export Blocks and External References to Google Earth 3" width="625" height="278" srcset="http://www.spatialmanager.com/wp-content/uploads/2015/06/Export-Blocks-and-External-References-to-Google-Earth-3.png 805w, http://www.spatialmanager.com/wp-content/uploads/2015/06/Export-Blocks-and-External-References-to-Google-Earth-3-300x133.png 300w, http://www.spatialmanager.com/wp-content/uploads/2015/06/Export-Blocks-and-External-References-to-Google-Earth-3-624x277.png 624w" sizes="(max-width: 625px) 100vw, 625px" /></a>
+<a href="/images/blog/2015/06/Export-Blocks-and-External-References-to-Google-Earth-3.png" target="_blank" rel="nofollow"><img src="/images/blog/2015/06/Export-Blocks-and-External-References-to-Google-Earth-3.png" alt="Export Blocks and External References to Google Earth 3" width="625" height="278" srcset="/images/blog/2015/06/Export-Blocks-and-External-References-to-Google-Earth-3.png 805w, /images/blog/2015/06/Export-Blocks-and-External-References-to-Google-Earth-3-300x133.png 300w, /images/blog/2015/06/Export-Blocks-and-External-References-to-Google-Earth-3-624x277.png 624w" sizes="(max-width: 625px) 100vw, 625px" /></a>
 
 The data of the features will be preserved over the exporting process, and the graphical representation of these features on the system which will manage the exported results will depend on the point stylization options in the system. Anyway, the symbols corresponding to the Blocks or Xrefs will not be kept in the export processes
 

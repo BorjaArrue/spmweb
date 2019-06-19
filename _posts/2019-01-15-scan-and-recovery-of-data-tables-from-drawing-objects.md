@@ -3,10 +3,10 @@ id: 6157
 title: Scan and recovery of data tables from drawing objects
 date: 2019-01-15T13:33:14+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://www.spatialmanager.com/?p=6157
 permalink: /scan-and-recovery-of-data-tables-from-drawing-objects/
-image: /wp-content/uploads/2019/01/Recover85.png
+image: /images/blog/2019/01/Recover85.png
 categories:
   - CAD L2 (Medium)
 tags:
@@ -26,7 +26,7 @@ tags:
 </h2>
 
 <div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2019/01/SPM_ScanTables2.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2019/01/SPM_ScanTables2-1024x512.png" alt="Scan a recover data tables in a drawing" width="625" height="313" srcset="http://www.spatialmanager.com/wp-content/uploads/2019/01/SPM_ScanTables2-1024x512.png 1024w, http://www.spatialmanager.com/wp-content/uploads/2019/01/SPM_ScanTables2-300x150.png 300w, http://www.spatialmanager.com/wp-content/uploads/2019/01/SPM_ScanTables2-768x384.png 768w, http://www.spatialmanager.com/wp-content/uploads/2019/01/SPM_ScanTables2-624x312.png 624w, http://www.spatialmanager.com/wp-content/uploads/2019/01/SPM_ScanTables2.png 1266w" sizes="(max-width: 625px) 100vw, 625px" /></a>
+  <a href="/images/blog/2019/01/SPM_ScanTables2.png" target="_blank" rel="nofollow"><img src="/images/blog/2019/01/SPM_ScanTables2-1024x512.png" alt="Scan a recover data tables in a drawing" width="625" height="313" srcset="/images/blog/2019/01/SPM_ScanTables2-1024x512.png 1024w, /images/blog/2019/01/SPM_ScanTables2-300x150.png 300w, /images/blog/2019/01/SPM_ScanTables2-768x384.png 768w, /images/blog/2019/01/SPM_ScanTables2-624x312.png 624w, /images/blog/2019/01/SPM_ScanTables2.png 1266w" sizes="(max-width: 625px) 100vw, 625px" /></a>
   
   <p>
     Scan a recover data tables in a drawing

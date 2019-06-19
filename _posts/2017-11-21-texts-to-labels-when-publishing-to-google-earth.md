@@ -3,10 +3,10 @@ id: 4615
 title: Texts to Labels when Publishing to Google Earth
 date: 2017-11-21T11:34:56+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://www.spatialmanager.com/?p=4615
 permalink: /texts-to-labels-when-publishing-to-google-earth/
-image: /wp-content/uploads/2017/11/Labels-in-GE85.png
+image: /images/blog/2017/11/Labels-in-GE85.png
 categories:
   - CAD L2 (Medium)
 tags:
@@ -25,7 +25,7 @@ tags:
 * * *
 
 <div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2017/11/Spatial-Manager-Texts-to-Labels-when-Publishing-to-Google-Earth.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2017/11/Spatial-Manager-Texts-to-Labels-when-Publishing-to-Google-Earth-1024x530.png" alt="Text objects from CAD converted to Labels in Google Earth" width="625" height="323" srcset="http://www.spatialmanager.com/wp-content/uploads/2017/11/Spatial-Manager-Texts-to-Labels-when-Publishing-to-Google-Earth-1024x530.png 1024w, http://www.spatialmanager.com/wp-content/uploads/2017/11/Spatial-Manager-Texts-to-Labels-when-Publishing-to-Google-Earth-300x155.png 300w, http://www.spatialmanager.com/wp-content/uploads/2017/11/Spatial-Manager-Texts-to-Labels-when-Publishing-to-Google-Earth-768x398.png 768w, http://www.spatialmanager.com/wp-content/uploads/2017/11/Spatial-Manager-Texts-to-Labels-when-Publishing-to-Google-Earth-624x323.png 624w, http://www.spatialmanager.com/wp-content/uploads/2017/11/Spatial-Manager-Texts-to-Labels-when-Publishing-to-Google-Earth.png 1280w" sizes="(max-width: 625px) 100vw, 625px" /></a>
+  <a href="/images/blog/2017/11/Spatial-Manager-Texts-to-Labels-when-Publishing-to-Google-Earth.png" target="_blank" rel="nofollow"><img src="/images/blog/2017/11/Spatial-Manager-Texts-to-Labels-when-Publishing-to-Google-Earth-1024x530.png" alt="Text objects from CAD converted to Labels in Google Earth" width="625" height="323" srcset="/images/blog/2017/11/Spatial-Manager-Texts-to-Labels-when-Publishing-to-Google-Earth-1024x530.png 1024w, /images/blog/2017/11/Spatial-Manager-Texts-to-Labels-when-Publishing-to-Google-Earth-300x155.png 300w, /images/blog/2017/11/Spatial-Manager-Texts-to-Labels-when-Publishing-to-Google-Earth-768x398.png 768w, /images/blog/2017/11/Spatial-Manager-Texts-to-Labels-when-Publishing-to-Google-Earth-624x323.png 624w, /images/blog/2017/11/Spatial-Manager-Texts-to-Labels-when-Publishing-to-Google-Earth.png 1280w" sizes="(max-width: 625px) 100vw, 625px" /></a>
   
   <p>
     Text objects from CAD converted to Labels in Google Earth
@@ -57,7 +57,7 @@ The processes performed when Publishing to Google Earth make use internally of *
 ## 
 
 <div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2017/11/Export-KML-Parameters.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2017/11/Export-KML-Parameters.png" alt="Application Export parameters set, and KML data provider parameters set" width="782" height="643" srcset="http://www.spatialmanager.com/wp-content/uploads/2017/11/Export-KML-Parameters.png 782w, http://www.spatialmanager.com/wp-content/uploads/2017/11/Export-KML-Parameters-300x247.png 300w, http://www.spatialmanager.com/wp-content/uploads/2017/11/Export-KML-Parameters-768x631.png 768w, http://www.spatialmanager.com/wp-content/uploads/2017/11/Export-KML-Parameters-624x513.png 624w" sizes="(max-width: 782px) 100vw, 782px" /></a>
+  <a href="/images/blog/2017/11/Export-KML-Parameters.png" target="_blank" rel="nofollow"><img src="/images/blog/2017/11/Export-KML-Parameters.png" alt="Application Export parameters set, and KML data provider parameters set" width="782" height="643" srcset="/images/blog/2017/11/Export-KML-Parameters.png 782w, /images/blog/2017/11/Export-KML-Parameters-300x247.png 300w, /images/blog/2017/11/Export-KML-Parameters-768x631.png 768w, /images/blog/2017/11/Export-KML-Parameters-624x513.png 624w" sizes="(max-width: 782px) 100vw, 782px" /></a>
   
   <p>
     Application Export parameters set, and KML data provider parameters set

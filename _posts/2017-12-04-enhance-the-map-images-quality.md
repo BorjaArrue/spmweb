@@ -3,10 +3,10 @@ id: 4654
 title: Enhance the Map images quality
 date: 2017-12-04T11:37:57+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://www.spatialmanager.com/?p=4654
 permalink: /enhance-the-map-images-quality/
-image: /wp-content/uploads/2017/11/Enhanced-Maps85-2.png
+image: /images/blog/2017/11/Enhanced-Maps85-2.png
 categories:
   - CAD L2 (Medium)
 tags:
@@ -22,7 +22,7 @@ Click on the image below to check how the rendering engine can now **enhance the
 &nbsp;
 
 <div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2017/11/Image_quality_1_to_4.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2017/11/Image_quality_1_to_4.png" alt="Enhanced 'Background Maps' quality" width="800" height="380" srcset="http://www.spatialmanager.com/wp-content/uploads/2017/11/Image_quality_1_to_4.png 800w, http://www.spatialmanager.com/wp-content/uploads/2017/11/Image_quality_1_to_4-300x143.png 300w, http://www.spatialmanager.com/wp-content/uploads/2017/11/Image_quality_1_to_4-768x365.png 768w, http://www.spatialmanager.com/wp-content/uploads/2017/11/Image_quality_1_to_4-624x296.png 624w" sizes="(max-width: 800px) 100vw, 800px" /></a>
+  <a href="/images/blog/2017/11/Image_quality_1_to_4.png" target="_blank" rel="nofollow"><img src="/images/blog/2017/11/Image_quality_1_to_4.png" alt="Enhanced 'Background Maps' quality" width="800" height="380" srcset="/images/blog/2017/11/Image_quality_1_to_4.png 800w, /images/blog/2017/11/Image_quality_1_to_4-300x143.png 300w, /images/blog/2017/11/Image_quality_1_to_4-768x365.png 768w, /images/blog/2017/11/Image_quality_1_to_4-624x296.png 624w" sizes="(max-width: 800px) 100vw, 800px" /></a>
   
   <p>
     Enhanced &#8216;Background Map&#8217; quality
@@ -54,7 +54,7 @@ Since the **optimum configuration depends on several factors** (read more below)
 ## 
 
 <div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2017/11/New-SPMOPTIONS.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2017/11/New-SPMOPTIONS.png" alt="'Image quality' setting in SPMOPTIONS" width="646" height="557" srcset="http://www.spatialmanager.com/wp-content/uploads/2017/11/New-SPMOPTIONS.png 646w, http://www.spatialmanager.com/wp-content/uploads/2017/11/New-SPMOPTIONS-300x259.png 300w, http://www.spatialmanager.com/wp-content/uploads/2017/11/New-SPMOPTIONS-624x538.png 624w" sizes="(max-width: 646px) 100vw, 646px" /></a>
+  <a href="/images/blog/2017/11/New-SPMOPTIONS.png" target="_blank" rel="nofollow"><img src="/images/blog/2017/11/New-SPMOPTIONS.png" alt="'Image quality' setting in SPMOPTIONS" width="646" height="557" srcset="/images/blog/2017/11/New-SPMOPTIONS.png 646w, /images/blog/2017/11/New-SPMOPTIONS-300x259.png 300w, /images/blog/2017/11/New-SPMOPTIONS-624x538.png 624w" sizes="(max-width: 646px) 100vw, 646px" /></a>
   
   <p>
     &#8216;Image quality&#8217; setting in SPMOPTIONS
@@ -72,7 +72,7 @@ If you expand the image below (click on it), you will be able to check the Map i
 ## 
 
 <div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2017/11/Bing-Maps-AutoCAD-vs-SPM.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2017/11/Bing-Maps-AutoCAD-vs-SPM-877x1024.png" alt="Bing Maps - AutoCAD versus 'Spatial Manager' enhanced images" width="625" height="730" srcset="http://www.spatialmanager.com/wp-content/uploads/2017/11/Bing-Maps-AutoCAD-vs-SPM-877x1024.png 877w, http://www.spatialmanager.com/wp-content/uploads/2017/11/Bing-Maps-AutoCAD-vs-SPM-257x300.png 257w, http://www.spatialmanager.com/wp-content/uploads/2017/11/Bing-Maps-AutoCAD-vs-SPM-768x897.png 768w, http://www.spatialmanager.com/wp-content/uploads/2017/11/Bing-Maps-AutoCAD-vs-SPM-624x729.png 624w, http://www.spatialmanager.com/wp-content/uploads/2017/11/Bing-Maps-AutoCAD-vs-SPM.png 1280w" sizes="(max-width: 625px) 100vw, 625px" /></a>
+  <a href="/images/blog/2017/11/Bing-Maps-AutoCAD-vs-SPM.png" target="_blank" rel="nofollow"><img src="/images/blog/2017/11/Bing-Maps-AutoCAD-vs-SPM-877x1024.png" alt="Bing Maps - AutoCAD versus 'Spatial Manager' enhanced images" width="625" height="730" srcset="/images/blog/2017/11/Bing-Maps-AutoCAD-vs-SPM-877x1024.png 877w, /images/blog/2017/11/Bing-Maps-AutoCAD-vs-SPM-257x300.png 257w, /images/blog/2017/11/Bing-Maps-AutoCAD-vs-SPM-768x897.png 768w, /images/blog/2017/11/Bing-Maps-AutoCAD-vs-SPM-624x729.png 624w, /images/blog/2017/11/Bing-Maps-AutoCAD-vs-SPM.png 1280w" sizes="(max-width: 625px) 100vw, 625px" /></a>
   
   <p>
     Bing Maps &#8211; AutoCAD versus &#8216;Spatial Manager&#8217; enhanced images

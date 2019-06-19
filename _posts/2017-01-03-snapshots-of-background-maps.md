@@ -3,10 +3,10 @@ id: 3710
 title: Snapshots of Background maps
 date: 2017-01-03T13:57:39+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://www.spatialmanager.com/?p=3710
 permalink: /snapshots-of-background-maps/
-image: /wp-content/uploads/2017/01/Snapshot-logo-1-85.png
+image: /images/blog/2017/01/Snapshot-logo-1-85.png
 categories:
   - CAD L2 (Medium)
 tags:
@@ -20,7 +20,7 @@ tags:
 <!--more-->
 
 <div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2017/01/Spatial-Manager-Snapshots-AutoCAD-1.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2017/01/Spatial-Manager-Snapshots-AutoCAD-1-1024x576.png" width="625" height="352" srcset="http://www.spatialmanager.com/wp-content/uploads/2017/01/Spatial-Manager-Snapshots-AutoCAD-1-1024x576.png 1024w, http://www.spatialmanager.com/wp-content/uploads/2017/01/Spatial-Manager-Snapshots-AutoCAD-1-300x169.png 300w, http://www.spatialmanager.com/wp-content/uploads/2017/01/Spatial-Manager-Snapshots-AutoCAD-1-768x432.png 768w, http://www.spatialmanager.com/wp-content/uploads/2017/01/Spatial-Manager-Snapshots-AutoCAD-1-624x351.png 624w, http://www.spatialmanager.com/wp-content/uploads/2017/01/Spatial-Manager-Snapshots-AutoCAD-1.png 1280w" sizes="(max-width: 625px) 100vw, 625px" /></a>
+  <a href="/images/blog/2017/01/Spatial-Manager-Snapshots-AutoCAD-1.png" target="_blank" rel="nofollow"><img src="/images/blog/2017/01/Spatial-Manager-Snapshots-AutoCAD-1-1024x576.png" width="625" height="352" srcset="/images/blog/2017/01/Spatial-Manager-Snapshots-AutoCAD-1-1024x576.png 1024w, /images/blog/2017/01/Spatial-Manager-Snapshots-AutoCAD-1-300x169.png 300w, /images/blog/2017/01/Spatial-Manager-Snapshots-AutoCAD-1-768x432.png 768w, /images/blog/2017/01/Spatial-Manager-Snapshots-AutoCAD-1-624x351.png 624w, /images/blog/2017/01/Spatial-Manager-Snapshots-AutoCAD-1.png 1280w" sizes="(max-width: 625px) 100vw, 625px" /></a>
   
   <p>
     Snapshots allows for example merging different types of Background Maps in a drawing

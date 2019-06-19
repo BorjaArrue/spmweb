@@ -3,10 +3,10 @@ id: 1861
 title: 'Release 1.0.3 for AutoCAD: now OpenStreetMap PBF files'
 date: 2014-10-27T23:59:42+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://www.spatialmanager.com/?p=1861
 permalink: /openstreetmap-pbf-files/
-image: /wp-content/uploads/2014/10/Spatial-Manager-PBF85.png
+image: /images/blog/2014/10/Spatial-Manager-PBF85.png
 categories:
   - Announcement
 tags:
@@ -34,13 +34,13 @@ See <a title="Spatial Manager™ for AutoCAD product page" href="http://www.spat
 * Options (SPMOPTIONS): set of parameters to configure the application (New command)
 
 <p>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2014/10/Spatial-Manager-for-AutoCAD-new-ribbon.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2014/10/Spatial-Manager-for-AutoCAD-new-ribbon.png" alt="Spatial Manager for AutoCAD - OpenStreeMap PBF files" width="266" height="155" /></a>
+  <a href="/images/blog/2014/10/Spatial-Manager-for-AutoCAD-new-ribbon.png" target="_blank" rel="nofollow"><img src="/images/blog/2014/10/Spatial-Manager-for-AutoCAD-new-ribbon.png" alt="Spatial Manager for AutoCAD - OpenStreeMap PBF files" width="266" height="155" /></a>
 </p>
 
 ## OpenStreetMap PBF files
 
 <p>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2014/10/Spatial-Manager-OSM-Topo.jpg" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2014/10/Spatial-Manager-OSM-Topo.jpg" alt="Spatial Manager OSM Topo - OpenStreetMap PBF files" width="600" height="363" srcset="http://www.spatialmanager.com/wp-content/uploads/2014/10/Spatial-Manager-OSM-Topo.jpg 600w, http://www.spatialmanager.com/wp-content/uploads/2014/10/Spatial-Manager-OSM-Topo-300x181.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></a>
+  <a href="/images/blog/2014/10/Spatial-Manager-OSM-Topo.jpg" target="_blank" rel="nofollow"><img src="/images/blog/2014/10/Spatial-Manager-OSM-Topo.jpg" alt="Spatial Manager OSM Topo - OpenStreetMap PBF files" width="600" height="363" srcset="/images/blog/2014/10/Spatial-Manager-OSM-Topo.jpg 600w, /images/blog/2014/10/Spatial-Manager-OSM-Topo-300x181.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></a>
 </p>
 
 The OpenStreetMap data provider in Spatial Manager now supports PBF files. The <a title="PBF OpenStreepMap Wiki page" href="http://wiki.openstreetmap.org/wiki/PBF_Format" target="_blank" rel="nofollow">PBF</a> Format (Protocolbuffer Binary Format) is primarily intended as an alternative to the XML format. It is about half of the size of an OSM gzipped file. It is also about 6x faster to read. The format was designed to support future extensibility and flexibility in OpenStreetMap

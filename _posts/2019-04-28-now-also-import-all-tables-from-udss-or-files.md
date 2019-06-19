@@ -3,10 +3,10 @@ id: 6432
 title: Now also Import-All Tables from UDSs or files
 date: 2019-04-28T13:28:01+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://www.spatialmanager.com/?p=6432
 permalink: /now-also-import-all-tables-from-udss-or-files/
-image: /wp-content/uploads/2019/04/SchemaTree85.png
+image: /images/blog/2019/04/SchemaTree85.png
 categories:
   - CAD L2 (Medium)
 tags:
@@ -28,7 +28,7 @@ tags:
 </h2>
 
 <div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2019/04/SPMImportAllSchemas.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2019/04/SPMImportAllSchemas-1024x585.png" alt="One-click Import-All from any spatial source: Folders, Schemas or Multi-Table files" width="625" height="357" srcset="http://www.spatialmanager.com/wp-content/uploads/2019/04/SPMImportAllSchemas-1024x585.png 1024w, http://www.spatialmanager.com/wp-content/uploads/2019/04/SPMImportAllSchemas-300x171.png 300w, http://www.spatialmanager.com/wp-content/uploads/2019/04/SPMImportAllSchemas-768x438.png 768w, http://www.spatialmanager.com/wp-content/uploads/2019/04/SPMImportAllSchemas-624x356.png 624w, http://www.spatialmanager.com/wp-content/uploads/2019/04/SPMImportAllSchemas.png 1370w" sizes="(max-width: 625px) 100vw, 625px" /></a>
+  <a href="/images/blog/2019/04/SPMImportAllSchemas.png" target="_blank" rel="nofollow"><img src="/images/blog/2019/04/SPMImportAllSchemas-1024x585.png" alt="One-click Import-All from any spatial source: Folders, Schemas or Multi-Table files" width="625" height="357" srcset="/images/blog/2019/04/SPMImportAllSchemas-1024x585.png 1024w, /images/blog/2019/04/SPMImportAllSchemas-300x171.png 300w, /images/blog/2019/04/SPMImportAllSchemas-768x438.png 768w, /images/blog/2019/04/SPMImportAllSchemas-624x356.png 624w, /images/blog/2019/04/SPMImportAllSchemas.png 1370w" sizes="(max-width: 625px) 100vw, 625px" /></a>
   
   <p>
     One-click Import-All from any spatial source: Folders, Schemas or Multi-Table files
@@ -54,7 +54,7 @@ tags:
 </h2>
 
 <div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2019/04/SchemaMult-Multifile.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2019/04/SchemaMult-Multifile.png" alt="Samples: Importing-All from a SQL Server Schema and from a SQLite multi-table file" width="613" height="238" srcset="http://www.spatialmanager.com/wp-content/uploads/2019/04/SchemaMult-Multifile.png 613w, http://www.spatialmanager.com/wp-content/uploads/2019/04/SchemaMult-Multifile-300x116.png 300w" sizes="(max-width: 613px) 100vw, 613px" /></a>
+  <a href="/images/blog/2019/04/SchemaMult-Multifile.png" target="_blank" rel="nofollow"><img src="/images/blog/2019/04/SchemaMult-Multifile.png" alt="Samples: Importing-All from a SQL Server Schema and from a SQLite multi-table file" width="613" height="238" srcset="/images/blog/2019/04/SchemaMult-Multifile.png 613w, /images/blog/2019/04/SchemaMult-Multifile-300x116.png 300w" sizes="(max-width: 613px) 100vw, 613px" /></a>
   
   <p>
     Samples: Importing-All from a SQL Server Schema and from a SQLite multi-table file

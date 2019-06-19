@@ -3,10 +3,10 @@ id: 1355
 title: Why is Spatial Manager software so practical? (Part 3)
 date: 2014-07-15T13:24:50+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://www.spatialmanager.com/?p=1355
 permalink: /spatial-manager-software-practical-part-3/
-image: /wp-content/uploads/2014/06/Logo-practical-85.png
+image: /images/blog/2014/06/Logo-practical-85.png
 categories:
   - CAD L1 (Basic)
   - Desktop L1 (Basic)

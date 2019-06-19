@@ -3,10 +3,10 @@ id: 4778
 title: 'Cartes dynamiques de l&#8217;IGN dans vos dessins CAO ou cartes'
 date: 2017-12-28T10:23:42+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://www.spatialmanager.com/?p=4778
 permalink: /cartes-dynamiques-ign-france-dans-les-dessins-ou-cartes/
-image: /wp-content/uploads/2017/12/IGN-SPM85.png
+image: /images/blog/2017/12/IGN-SPM85.png
 categories:
   - CAD L2 (Medium)
   - Desktop L2 (Medium)
@@ -25,7 +25,7 @@ tags:
 * * *
 
 <div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2017/12/IGN-FR-Spatial-Manager-BG-Window-BCAD2.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2017/12/IGN-FR-Spatial-Manager-BG-Window-BCAD2-1024x556.png" alt="Cartes dynamiques de l'IGN France dans un fichier DWG" width="625" height="339" srcset="http://www.spatialmanager.com/wp-content/uploads/2017/12/IGN-FR-Spatial-Manager-BG-Window-BCAD2-1024x556.png 1024w, http://www.spatialmanager.com/wp-content/uploads/2017/12/IGN-FR-Spatial-Manager-BG-Window-BCAD2-300x163.png 300w, http://www.spatialmanager.com/wp-content/uploads/2017/12/IGN-FR-Spatial-Manager-BG-Window-BCAD2-768x417.png 768w, http://www.spatialmanager.com/wp-content/uploads/2017/12/IGN-FR-Spatial-Manager-BG-Window-BCAD2-624x339.png 624w, http://www.spatialmanager.com/wp-content/uploads/2017/12/IGN-FR-Spatial-Manager-BG-Window-BCAD2.png 1280w" sizes="(max-width: 625px) 100vw, 625px" /></a>
+  <a href="/images/blog/2017/12/IGN-FR-Spatial-Manager-BG-Window-BCAD2.png" target="_blank" rel="nofollow"><img src="/images/blog/2017/12/IGN-FR-Spatial-Manager-BG-Window-BCAD2-1024x556.png" alt="Cartes dynamiques de l'IGN France dans un fichier DWG" width="625" height="339" srcset="/images/blog/2017/12/IGN-FR-Spatial-Manager-BG-Window-BCAD2-1024x556.png 1024w, /images/blog/2017/12/IGN-FR-Spatial-Manager-BG-Window-BCAD2-300x163.png 300w, /images/blog/2017/12/IGN-FR-Spatial-Manager-BG-Window-BCAD2-768x417.png 768w, /images/blog/2017/12/IGN-FR-Spatial-Manager-BG-Window-BCAD2-624x339.png 624w, /images/blog/2017/12/IGN-FR-Spatial-Manager-BG-Window-BCAD2.png 1280w" sizes="(max-width: 625px) 100vw, 625px" /></a>
   
   <p>
     Cartes dynamiques de l&#8217;IGN France dans un fichier DWG
@@ -44,7 +44,7 @@ Entrez dans votre **Espace** <a href="http://professionnels.ign.fr/" target="_bl
 ## 
 
 <div>
-  <a href="http://professionnels.ign.fr/" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2017/12/IGN-site-Internet.png" alt="IGN site web" width="950" height="697" srcset="http://www.spatialmanager.com/wp-content/uploads/2017/12/IGN-site-Internet.png 950w, http://www.spatialmanager.com/wp-content/uploads/2017/12/IGN-site-Internet-300x220.png 300w, http://www.spatialmanager.com/wp-content/uploads/2017/12/IGN-site-Internet-768x563.png 768w, http://www.spatialmanager.com/wp-content/uploads/2017/12/IGN-site-Internet-624x458.png 624w" sizes="(max-width: 950px) 100vw, 950px" /></a>
+  <a href="http://professionnels.ign.fr/" target="_blank" rel="nofollow"><img src="/images/blog/2017/12/IGN-site-Internet.png" alt="IGN site web" width="950" height="697" srcset="/images/blog/2017/12/IGN-site-Internet.png 950w, /images/blog/2017/12/IGN-site-Internet-300x220.png 300w, /images/blog/2017/12/IGN-site-Internet-768x563.png 768w, /images/blog/2017/12/IGN-site-Internet-624x458.png 624w" sizes="(max-width: 950px) 100vw, 950px" /></a>
   
   <p>
     IGN site web
@@ -58,7 +58,7 @@ Lorsque vous avez les **données d&#8217;accès et les clés** pour un ou plus g
 ## 
 
 <div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2017/12/Spatial-Manager-User-IGN-Maps.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2017/12/Spatial-Manager-User-IGN-Maps.png" alt="Spatial Manager IGN Maps d'Utilisateur" width="977" height="448" srcset="http://www.spatialmanager.com/wp-content/uploads/2017/12/Spatial-Manager-User-IGN-Maps.png 977w, http://www.spatialmanager.com/wp-content/uploads/2017/12/Spatial-Manager-User-IGN-Maps-300x138.png 300w, http://www.spatialmanager.com/wp-content/uploads/2017/12/Spatial-Manager-User-IGN-Maps-768x352.png 768w, http://www.spatialmanager.com/wp-content/uploads/2017/12/Spatial-Manager-User-IGN-Maps-624x286.png 624w" sizes="(max-width: 977px) 100vw, 977px" /></a>
+  <a href="/images/blog/2017/12/Spatial-Manager-User-IGN-Maps.png" target="_blank" rel="nofollow"><img src="/images/blog/2017/12/Spatial-Manager-User-IGN-Maps.png" alt="Spatial Manager IGN Maps d'Utilisateur" width="977" height="448" srcset="/images/blog/2017/12/Spatial-Manager-User-IGN-Maps.png 977w, /images/blog/2017/12/Spatial-Manager-User-IGN-Maps-300x138.png 300w, /images/blog/2017/12/Spatial-Manager-User-IGN-Maps-768x352.png 768w, /images/blog/2017/12/Spatial-Manager-User-IGN-Maps-624x286.png 624w" sizes="(max-width: 977px) 100vw, 977px" /></a>
   
   <p>
     Spatial Manager IGN Maps d&#8217;Utilisateur

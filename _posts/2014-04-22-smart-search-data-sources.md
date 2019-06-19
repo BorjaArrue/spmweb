@@ -3,10 +3,10 @@ id: 945
 title: Data sources smart search
 date: 2014-04-22T09:59:42+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://www.spatialmanager.com/?p=945
 permalink: /smart-search-data-sources/
-image: /wp-content/uploads/2014/04/map_search_85.png
+image: /images/blog/2014/04/map_search_85.png
 categories:
   - Desktop L2 (Medium)
 tags:

@@ -3,10 +3,10 @@ id: 3989
 title: Fill Polylines while Publishing in Google Earth
 date: 2017-05-22T13:48:17+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://www.spatialmanager.com/?p=3989
 permalink: /fill-polylines-while-publishing-in-google-earth/
-image: /wp-content/uploads/2017/05/SPM-SPMCREATEKML-85.png
+image: /images/blog/2017/05/SPM-SPMCREATEKML-85.png
 categories:
   - CAD L2 (Medium)
 tags:
@@ -23,7 +23,7 @@ tags:
 </h2>
 
 <div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2017/05/GE-Open-Closed.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2017/05/GE-Open-Closed-1024x576.png" alt="Filled or Empty Polylines in Google Earth" width="625" height="352" srcset="http://www.spatialmanager.com/wp-content/uploads/2017/05/GE-Open-Closed-1024x576.png 1024w, http://www.spatialmanager.com/wp-content/uploads/2017/05/GE-Open-Closed-300x169.png 300w, http://www.spatialmanager.com/wp-content/uploads/2017/05/GE-Open-Closed-768x432.png 768w, http://www.spatialmanager.com/wp-content/uploads/2017/05/GE-Open-Closed-624x351.png 624w, http://www.spatialmanager.com/wp-content/uploads/2017/05/GE-Open-Closed.png 1280w" sizes="(max-width: 625px) 100vw, 625px" /></a>
+  <a href="/images/blog/2017/05/GE-Open-Closed.png" target="_blank" rel="nofollow"><img src="/images/blog/2017/05/GE-Open-Closed-1024x576.png" alt="Filled or Empty Polylines in Google Earth" width="625" height="352" srcset="/images/blog/2017/05/GE-Open-Closed-1024x576.png 1024w, /images/blog/2017/05/GE-Open-Closed-300x169.png 300w, /images/blog/2017/05/GE-Open-Closed-768x432.png 768w, /images/blog/2017/05/GE-Open-Closed-624x351.png 624w, /images/blog/2017/05/GE-Open-Closed.png 1280w" sizes="(max-width: 625px) 100vw, 625px" /></a>
   
   <p>
     Filled or Empty Polylines in Google Earth
@@ -43,7 +43,7 @@ tags:
 _Please take a look to <a href="http://www.spatialmanager.com/publishing-your-drawing-or-map-in-google-earth-one-click/" target="_blank" rel="nofollow">this previous Post</a> in order to learn more about &#8216;Publishing to Google Earth&#8217;_
 
 <p>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2017/05/SPMCREATEKML.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2017/05/SPMCREATEKML.png" alt="SPMCREATEKML" width="462" height="240" srcset="http://www.spatialmanager.com/wp-content/uploads/2017/05/SPMCREATEKML.png 462w, http://www.spatialmanager.com/wp-content/uploads/2017/05/SPMCREATEKML-300x156.png 300w" sizes="(max-width: 462px) 100vw, 462px" /></a>
+  <a href="/images/blog/2017/05/SPMCREATEKML.png" target="_blank" rel="nofollow"><img src="/images/blog/2017/05/SPMCREATEKML.png" alt="SPMCREATEKML" width="462" height="240" srcset="/images/blog/2017/05/SPMCREATEKML.png 462w, /images/blog/2017/05/SPMCREATEKML-300x156.png 300w" sizes="(max-width: 462px) 100vw, 462px" /></a>
 </p>
 
 <h2>
@@ -91,7 +91,7 @@ Technical Wiki
 </h2>
 
 <p>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2017/05/SPMEXPORT.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2017/05/SPMEXPORT.png" alt="SPMEXPORT" width="553" height="643" srcset="http://www.spatialmanager.com/wp-content/uploads/2017/05/SPMEXPORT.png 553w, http://www.spatialmanager.com/wp-content/uploads/2017/05/SPMEXPORT-258x300.png 258w" sizes="(max-width: 553px) 100vw, 553px" /></a>
+  <a href="/images/blog/2017/05/SPMEXPORT.png" target="_blank" rel="nofollow"><img src="/images/blog/2017/05/SPMEXPORT.png" alt="SPMEXPORT" width="553" height="643" srcset="/images/blog/2017/05/SPMEXPORT.png 553w, /images/blog/2017/05/SPMEXPORT-258x300.png 258w" sizes="(max-width: 553px) 100vw, 553px" /></a>
 </p>
 
 <h2>

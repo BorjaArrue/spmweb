@@ -3,10 +3,10 @@ id: 4375
 title: 'Enhanced ASCII data provider (CSV, TXT, ASC, XYZ, &#8230;)'
 date: 2017-10-16T09:21:17+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://www.spatialmanager.com/?p=4375
 permalink: /enhanced_ascii_data_provider_v4/
-image: /wp-content/uploads/2017/10/ASCII-Points-85.png
+image: /images/blog/2017/10/ASCII-Points-85.png
 categories:
   - CAD L1 (Basic)
   - Desktop L1 (Basic)
@@ -30,7 +30,7 @@ tags:
 </p>
 
 <div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2017/10/New-Spatial-Manager-ASCII-Provider-2.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2017/10/New-Spatial-Manager-ASCII-Provider-2-1024x576.png" alt="Importing Points from a CSV file" width="625" height="352" srcset="http://www.spatialmanager.com/wp-content/uploads/2017/10/New-Spatial-Manager-ASCII-Provider-2-1024x576.png 1024w, http://www.spatialmanager.com/wp-content/uploads/2017/10/New-Spatial-Manager-ASCII-Provider-2-300x169.png 300w, http://www.spatialmanager.com/wp-content/uploads/2017/10/New-Spatial-Manager-ASCII-Provider-2-768x432.png 768w, http://www.spatialmanager.com/wp-content/uploads/2017/10/New-Spatial-Manager-ASCII-Provider-2-624x351.png 624w, http://www.spatialmanager.com/wp-content/uploads/2017/10/New-Spatial-Manager-ASCII-Provider-2.png 1280w" sizes="(max-width: 625px) 100vw, 625px" /></a>
+  <a href="/images/blog/2017/10/New-Spatial-Manager-ASCII-Provider-2.png" target="_blank" rel="nofollow"><img src="/images/blog/2017/10/New-Spatial-Manager-ASCII-Provider-2-1024x576.png" alt="Importing Points from a CSV file" width="625" height="352" srcset="/images/blog/2017/10/New-Spatial-Manager-ASCII-Provider-2-1024x576.png 1024w, /images/blog/2017/10/New-Spatial-Manager-ASCII-Provider-2-300x169.png 300w, /images/blog/2017/10/New-Spatial-Manager-ASCII-Provider-2-768x432.png 768w, /images/blog/2017/10/New-Spatial-Manager-ASCII-Provider-2-624x351.png 624w, /images/blog/2017/10/New-Spatial-Manager-ASCII-Provider-2.png 1280w" sizes="(max-width: 625px) 100vw, 625px" /></a>
   
   <p>
     Importing Points from a CSV file

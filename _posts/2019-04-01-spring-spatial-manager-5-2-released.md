@@ -3,10 +3,10 @@ id: 6268
 title: 'Spring &#8216;Spatial Manager&#8217; 5.2 released'
 date: 2019-04-01T16:06:00+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://www.spatialmanager.com/?p=6268
 permalink: /spring-spatial-manager-5-2-released/
-image: /wp-content/uploads/2019/03/SPM52-85.png
+image: /images/blog/2019/03/SPM52-85.png
 categories:
   - Announcement
 tags:
@@ -26,7 +26,7 @@ tags:
 * * *
 
 <div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2019/03/NewCaptureWindow.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2019/03/NewCaptureWindow-1024x606.png" alt="New options when capturing Background Maps: Custom area and OLE objects" width="625" height="370" srcset="http://www.spatialmanager.com/wp-content/uploads/2019/03/NewCaptureWindow-1024x606.png 1024w, http://www.spatialmanager.com/wp-content/uploads/2019/03/NewCaptureWindow-300x177.png 300w, http://www.spatialmanager.com/wp-content/uploads/2019/03/NewCaptureWindow-768x454.png 768w, http://www.spatialmanager.com/wp-content/uploads/2019/03/NewCaptureWindow-624x369.png 624w, http://www.spatialmanager.com/wp-content/uploads/2019/03/NewCaptureWindow.png 1390w" sizes="(max-width: 625px) 100vw, 625px" /></a>
+  <a href="/images/blog/2019/03/NewCaptureWindow.png" target="_blank" rel="nofollow"><img src="/images/blog/2019/03/NewCaptureWindow-1024x606.png" alt="New options when capturing Background Maps: Custom area and OLE objects" width="625" height="370" srcset="/images/blog/2019/03/NewCaptureWindow-1024x606.png 1024w, /images/blog/2019/03/NewCaptureWindow-300x177.png 300w, /images/blog/2019/03/NewCaptureWindow-768x454.png 768w, /images/blog/2019/03/NewCaptureWindow-624x369.png 624w, /images/blog/2019/03/NewCaptureWindow.png 1390w" sizes="(max-width: 625px) 100vw, 625px" /></a>
   
   <p>
     New options when capturing Background Maps: Custom area and OLE objects

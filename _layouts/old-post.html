@@ -1,0 +1,35 @@
+---
+layout: default
+---
+
+<div class="container old-post pb-5">
+	<h1 class="post-header mt-4">{{ page.title }}</h1>
+	<div class="post-data">
+		<div class="date mr-4">
+			{{ page.date | date: '%B %d, %Y' }}
+		</div>
+		<div class="categories-tags">
+			{% for category in page.categories %}
+			    {{ category }}
+			{% endfor %}
+			/
+			{% for tag in page.tags %}
+			    {{ tag }}
+			    {% if forloop.last != true %}
+				,
+				{% endif %}
+			{% endfor %}
+		</div>
+	</div>
+	<article class="post-content">
+		{{ content }}
+	</article>
+	<hr class="d-none d-sm-flex">
+	<div class="d-none d-sm-flex row">
+		<div class="pt-5 mx-auto">
+			<a href="http://www.spatialmanager.com/downloads/">
+				<img src="{{ site.url }}/images/download.png" alt="Download" width="330" height="50"/>
+			</a>
+		</div>
+	</div>
+</div>

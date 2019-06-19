@@ -3,10 +3,10 @@ id: 4306
 title: 'Enhanced Background Maps. WMS &#038; WMTS services'
 date: 2017-10-11T09:22:25+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://www.spatialmanager.com/?p=4306
 permalink: /enhanced_background_maps_wms_wmts_services/
-image: /wp-content/uploads/2017/10/Enhanced-BG-Maps_85.png
+image: /images/blog/2017/10/Enhanced-BG-Maps_85.png
 categories:
   - CAD L2 (Medium)
   - Desktop L2 (Medium)
@@ -37,7 +37,7 @@ tags:
 </p>
 
 <h2>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2017/10/SPM-BG-Maps-v.4.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2017/10/SPM-BG-Maps-v.4.png" alt="SPM BG Maps v.4" width="584" height="461" srcset="http://www.spatialmanager.com/wp-content/uploads/2017/10/SPM-BG-Maps-v.4.png 584w, http://www.spatialmanager.com/wp-content/uploads/2017/10/SPM-BG-Maps-v.4-300x237.png 300w" sizes="(max-width: 584px) 100vw, 584px" /></a>
+  <a href="/images/blog/2017/10/SPM-BG-Maps-v.4.png" target="_blank" rel="nofollow"><img src="/images/blog/2017/10/SPM-BG-Maps-v.4.png" alt="SPM BG Maps v.4" width="584" height="461" srcset="/images/blog/2017/10/SPM-BG-Maps-v.4.png 584w, /images/blog/2017/10/SPM-BG-Maps-v.4-300x237.png 300w" sizes="(max-width: 584px) 100vw, 584px" /></a>
 </h2>
 
 <h2>
@@ -76,7 +76,7 @@ tags:
 </li>
 
 <div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2017/10/SPM-User-BG-Maps-WMS.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2017/10/SPM-User-BG-Maps-WMS.png" alt="Configuring WMS 'User Background Maps'" width="977" height="447" srcset="http://www.spatialmanager.com/wp-content/uploads/2017/10/SPM-User-BG-Maps-WMS.png 977w, http://www.spatialmanager.com/wp-content/uploads/2017/10/SPM-User-BG-Maps-WMS-300x137.png 300w, http://www.spatialmanager.com/wp-content/uploads/2017/10/SPM-User-BG-Maps-WMS-768x351.png 768w, http://www.spatialmanager.com/wp-content/uploads/2017/10/SPM-User-BG-Maps-WMS-624x285.png 624w" sizes="(max-width: 977px) 100vw, 977px" /></a>
+  <a href="/images/blog/2017/10/SPM-User-BG-Maps-WMS.png" target="_blank" rel="nofollow"><img src="/images/blog/2017/10/SPM-User-BG-Maps-WMS.png" alt="Configuring WMS 'User Background Maps'" width="977" height="447" srcset="/images/blog/2017/10/SPM-User-BG-Maps-WMS.png 977w, /images/blog/2017/10/SPM-User-BG-Maps-WMS-300x137.png 300w, /images/blog/2017/10/SPM-User-BG-Maps-WMS-768x351.png 768w, /images/blog/2017/10/SPM-User-BG-Maps-WMS-624x285.png 624w" sizes="(max-width: 977px) 100vw, 977px" /></a>
   
   <p>
     Configuring WMS &#8216;User Background Maps&#8217;
@@ -84,7 +84,7 @@ tags:
 </div>
 
 <div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2017/10/SPM-User-BG-Maps-WMTS-2.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2017/10/SPM-User-BG-Maps-WMTS-2.png" alt="Similar window when configuring WMTS 'User Background Maps'" width="977" height="447" srcset="http://www.spatialmanager.com/wp-content/uploads/2017/10/SPM-User-BG-Maps-WMTS-2.png 977w, http://www.spatialmanager.com/wp-content/uploads/2017/10/SPM-User-BG-Maps-WMTS-2-300x137.png 300w, http://www.spatialmanager.com/wp-content/uploads/2017/10/SPM-User-BG-Maps-WMTS-2-768x351.png 768w, http://www.spatialmanager.com/wp-content/uploads/2017/10/SPM-User-BG-Maps-WMTS-2-624x285.png 624w" sizes="(max-width: 977px) 100vw, 977px" /></a>
+  <a href="/images/blog/2017/10/SPM-User-BG-Maps-WMTS-2.png" target="_blank" rel="nofollow"><img src="/images/blog/2017/10/SPM-User-BG-Maps-WMTS-2.png" alt="Similar window when configuring WMTS 'User Background Maps'" width="977" height="447" srcset="/images/blog/2017/10/SPM-User-BG-Maps-WMTS-2.png 977w, /images/blog/2017/10/SPM-User-BG-Maps-WMTS-2-300x137.png 300w, /images/blog/2017/10/SPM-User-BG-Maps-WMTS-2-768x351.png 768w, /images/blog/2017/10/SPM-User-BG-Maps-WMTS-2-624x285.png 624w" sizes="(max-width: 977px) 100vw, 977px" /></a>
   
   <p>
     Similar window when configuring WMTS &#8216;User Background Maps&#8217;

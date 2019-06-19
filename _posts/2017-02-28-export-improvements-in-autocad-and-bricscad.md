@@ -3,10 +3,10 @@ id: 3838
 title: Export improvements in AutoCAD and BricsCAD
 date: 2017-02-28T11:35:04+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://www.spatialmanager.com/?p=3838
 permalink: /export-improvements-in-autocad-and-bricscad/
-image: /wp-content/uploads/2017/02/export-improvments-85.png
+image: /images/blog/2017/02/export-improvments-85.png
 categories:
   - CAD L2 (Medium)
 tags:
@@ -21,7 +21,7 @@ tags:
 ## 
 
 <div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2017/02/CAD-Export-Improvments.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2017/02/CAD-Export-Improvments-1024x702.png" alt="CAD Export Improvments" width="625" height="428" srcset="http://www.spatialmanager.com/wp-content/uploads/2017/02/CAD-Export-Improvments-1024x702.png 1024w, http://www.spatialmanager.com/wp-content/uploads/2017/02/CAD-Export-Improvments-300x206.png 300w, http://www.spatialmanager.com/wp-content/uploads/2017/02/CAD-Export-Improvments-768x527.png 768w, http://www.spatialmanager.com/wp-content/uploads/2017/02/CAD-Export-Improvments-624x428.png 624w, http://www.spatialmanager.com/wp-content/uploads/2017/02/CAD-Export-Improvments.png 1037w" sizes="(max-width: 625px) 100vw, 625px" /></a>
+  <a href="/images/blog/2017/02/CAD-Export-Improvments.png" target="_blank" rel="nofollow"><img src="/images/blog/2017/02/CAD-Export-Improvments-1024x702.png" alt="CAD Export Improvments" width="625" height="428" srcset="/images/blog/2017/02/CAD-Export-Improvments-1024x702.png 1024w, /images/blog/2017/02/CAD-Export-Improvments-300x206.png 300w, /images/blog/2017/02/CAD-Export-Improvments-768x527.png 768w, /images/blog/2017/02/CAD-Export-Improvments-624x428.png 624w, /images/blog/2017/02/CAD-Export-Improvments.png 1037w" sizes="(max-width: 625px) 100vw, 625px" /></a>
   
   <p>
     Export parameters window

@@ -3,10 +3,10 @@ id: 2245
 title: Now EXPORT from CAD to Google Earth, Shapefiles, etc.
 date: 2015-03-15T11:30:58+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://www.spatialmanager.com/?p=2245
 permalink: /now-export-from-cad-to-google-earth-shapefiles-etc/
-image: /wp-content/uploads/2015/03/SPM-Export-85.png
+image: /images/blog/2015/03/SPM-Export-85.png
 categories:
   - Announcement
   - CAD L1 (Basic)
@@ -26,7 +26,7 @@ There are options for filtering the objects when exporting, and all the geometri
 
 Moreover this edition adds **more possibilities of manipulating databases directly from the application**, such as creating new schemas or tables, deleting or renaming schemas and tables, etc.
 
-<a href="http://www.spatialmanager.com/wp-content/uploads/2015/03/Now-EXPORT-from-CAD-to-Google-Earth-Shapefiles-etc..png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2015/03/Now-EXPORT-from-CAD-to-Google-Earth-Shapefiles-etc..png" alt="Now EXPORT from CAD to Google Earth, Shapefiles, etc." width="625" height="434" srcset="http://www.spatialmanager.com/wp-content/uploads/2015/03/Now-EXPORT-from-CAD-to-Google-Earth-Shapefiles-etc..png 950w, http://www.spatialmanager.com/wp-content/uploads/2015/03/Now-EXPORT-from-CAD-to-Google-Earth-Shapefiles-etc.-300x208.png 300w, http://www.spatialmanager.com/wp-content/uploads/2015/03/Now-EXPORT-from-CAD-to-Google-Earth-Shapefiles-etc.-624x432.png 624w" sizes="(max-width: 625px) 100vw, 625px" /></a>
+<a href="/images/blog/2015/03/Now-EXPORT-from-CAD-to-Google-Earth-Shapefiles-etc..png" target="_blank" rel="nofollow"><img src="/images/blog/2015/03/Now-EXPORT-from-CAD-to-Google-Earth-Shapefiles-etc..png" alt="Now EXPORT from CAD to Google Earth, Shapefiles, etc." width="625" height="434" srcset="/images/blog/2015/03/Now-EXPORT-from-CAD-to-Google-Earth-Shapefiles-etc..png 950w, /images/blog/2015/03/Now-EXPORT-from-CAD-to-Google-Earth-Shapefiles-etc.-300x208.png 300w, /images/blog/2015/03/Now-EXPORT-from-CAD-to-Google-Earth-Shapefiles-etc.-624x432.png 624w" sizes="(max-width: 625px) 100vw, 625px" /></a>
 
 _Click on the image to expand it and review some new functions on this edition_
 
@@ -41,7 +41,7 @@ As in the import processes, the user can choose the appropriate CRSs from a comp
 The application uses its own data providers in the export processes (as in the import processes) and offers the user a wide range of settings to fit the best configuration for the outgoing data
 
 <p>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2015/03/Export-from-DWG-to-KML.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2015/03/Export-from-DWG-to-KML.png" alt="Export from DWG to KML" width="567" height="574" srcset="http://www.spatialmanager.com/wp-content/uploads/2015/03/Export-from-DWG-to-KML.png 567w, http://www.spatialmanager.com/wp-content/uploads/2015/03/Export-from-DWG-to-KML-296x300.png 296w" sizes="(max-width: 567px) 100vw, 567px" /></a>
+  <a href="/images/blog/2015/03/Export-from-DWG-to-KML.png" target="_blank" rel="nofollow"><img src="/images/blog/2015/03/Export-from-DWG-to-KML.png" alt="Export from DWG to KML" width="567" height="574" srcset="/images/blog/2015/03/Export-from-DWG-to-KML.png 567w, /images/blog/2015/03/Export-from-DWG-to-KML-296x300.png 296w" sizes="(max-width: 567px) 100vw, 567px" /></a>
 </p>
 
 _Sample: Google Earth KML/KMZ data provider outgoing parameters_

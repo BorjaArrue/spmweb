@@ -3,10 +3,10 @@ id: 3739
 title: Publishing your drawing or map in Google Earth (one click)
 date: 2017-01-24T11:14:21+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://www.spatialmanager.com/?p=3739
 permalink: /publishing-your-drawing-or-map-in-google-earth-one-click/
-image: /wp-content/uploads/2017/01/Blog_92_Logo-85.png
+image: /images/blog/2017/01/Blog_92_Logo-85.png
 categories:
   - CAD L2 (Medium)
   - Desktop L2 (Medium)
@@ -22,10 +22,10 @@ tags:
 
 ## GIS, Landscaping, Surveying, etc.:
 
-<a href="http://www.spatialmanager.com/wp-content/uploads/2017/01/GIS-Drawing-in-BricsCAD-AutoCAD.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2017/01/GIS-Drawing-in-BricsCAD-AutoCAD-1024x576.png" width="625" height="352" srcset="http://www.spatialmanager.com/wp-content/uploads/2017/01/GIS-Drawing-in-BricsCAD-AutoCAD-1024x576.png 1024w, http://www.spatialmanager.com/wp-content/uploads/2017/01/GIS-Drawing-in-BricsCAD-AutoCAD-300x169.png 300w, http://www.spatialmanager.com/wp-content/uploads/2017/01/GIS-Drawing-in-BricsCAD-AutoCAD-768x432.png 768w, http://www.spatialmanager.com/wp-content/uploads/2017/01/GIS-Drawing-in-BricsCAD-AutoCAD-624x351.png 624w, http://www.spatialmanager.com/wp-content/uploads/2017/01/GIS-Drawing-in-BricsCAD-AutoCAD.png 1280w" sizes="(max-width: 625px) 100vw, 625px" /></a>
+<a href="/images/blog/2017/01/GIS-Drawing-in-BricsCAD-AutoCAD.png" target="_blank" rel="nofollow"><img src="/images/blog/2017/01/GIS-Drawing-in-BricsCAD-AutoCAD-1024x576.png" width="625" height="352" srcset="/images/blog/2017/01/GIS-Drawing-in-BricsCAD-AutoCAD-1024x576.png 1024w, /images/blog/2017/01/GIS-Drawing-in-BricsCAD-AutoCAD-300x169.png 300w, /images/blog/2017/01/GIS-Drawing-in-BricsCAD-AutoCAD-768x432.png 768w, /images/blog/2017/01/GIS-Drawing-in-BricsCAD-AutoCAD-624x351.png 624w, /images/blog/2017/01/GIS-Drawing-in-BricsCAD-AutoCAD.png 1280w" sizes="(max-width: 625px) 100vw, 625px" /></a>
 
 <div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2017/01/GIS-Drawing-in-Google-Earth.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2017/01/GIS-Drawing-in-Google-Earth-1024x576.png" alt="GIS Drawing in Google Earth" width="625" height="352" srcset="http://www.spatialmanager.com/wp-content/uploads/2017/01/GIS-Drawing-in-Google-Earth-1024x576.png 1024w, http://www.spatialmanager.com/wp-content/uploads/2017/01/GIS-Drawing-in-Google-Earth-300x169.png 300w, http://www.spatialmanager.com/wp-content/uploads/2017/01/GIS-Drawing-in-Google-Earth-768x432.png 768w, http://www.spatialmanager.com/wp-content/uploads/2017/01/GIS-Drawing-in-Google-Earth-624x351.png 624w, http://www.spatialmanager.com/wp-content/uploads/2017/01/GIS-Drawing-in-Google-Earth.png 1280w" sizes="(max-width: 625px) 100vw, 625px" /></a>
+  <a href="/images/blog/2017/01/GIS-Drawing-in-Google-Earth.png" target="_blank" rel="nofollow"><img src="/images/blog/2017/01/GIS-Drawing-in-Google-Earth-1024x576.png" alt="GIS Drawing in Google Earth" width="625" height="352" srcset="/images/blog/2017/01/GIS-Drawing-in-Google-Earth-1024x576.png 1024w, /images/blog/2017/01/GIS-Drawing-in-Google-Earth-300x169.png 300w, /images/blog/2017/01/GIS-Drawing-in-Google-Earth-768x432.png 768w, /images/blog/2017/01/GIS-Drawing-in-Google-Earth-624x351.png 624w, /images/blog/2017/01/GIS-Drawing-in-Google-Earth.png 1280w" sizes="(max-width: 625px) 100vw, 625px" /></a>
   
   <p>
     Publish to Google Earth (sample 1)
@@ -34,10 +34,10 @@ tags:
 
 ## Engineering, Planning, Architecture, Optical fiber, etc.:
 
-<a href="http://www.spatialmanager.com/wp-content/uploads/2017/01/CAD-CIVIL-Drawing-in-AutoCAD-BricsCAD.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2017/01/CAD-CIVIL-Drawing-in-AutoCAD-BricsCAD-1024x576.png" alt="CAD-CIVIL Drawing in AutoCAD-BricsCAD" width="625" height="352" srcset="http://www.spatialmanager.com/wp-content/uploads/2017/01/CAD-CIVIL-Drawing-in-AutoCAD-BricsCAD-1024x576.png 1024w, http://www.spatialmanager.com/wp-content/uploads/2017/01/CAD-CIVIL-Drawing-in-AutoCAD-BricsCAD-300x169.png 300w, http://www.spatialmanager.com/wp-content/uploads/2017/01/CAD-CIVIL-Drawing-in-AutoCAD-BricsCAD-768x432.png 768w, http://www.spatialmanager.com/wp-content/uploads/2017/01/CAD-CIVIL-Drawing-in-AutoCAD-BricsCAD-624x351.png 624w, http://www.spatialmanager.com/wp-content/uploads/2017/01/CAD-CIVIL-Drawing-in-AutoCAD-BricsCAD.png 1280w" sizes="(max-width: 625px) 100vw, 625px" /></a>
+<a href="/images/blog/2017/01/CAD-CIVIL-Drawing-in-AutoCAD-BricsCAD.png" target="_blank" rel="nofollow"><img src="/images/blog/2017/01/CAD-CIVIL-Drawing-in-AutoCAD-BricsCAD-1024x576.png" alt="CAD-CIVIL Drawing in AutoCAD-BricsCAD" width="625" height="352" srcset="/images/blog/2017/01/CAD-CIVIL-Drawing-in-AutoCAD-BricsCAD-1024x576.png 1024w, /images/blog/2017/01/CAD-CIVIL-Drawing-in-AutoCAD-BricsCAD-300x169.png 300w, /images/blog/2017/01/CAD-CIVIL-Drawing-in-AutoCAD-BricsCAD-768x432.png 768w, /images/blog/2017/01/CAD-CIVIL-Drawing-in-AutoCAD-BricsCAD-624x351.png 624w, /images/blog/2017/01/CAD-CIVIL-Drawing-in-AutoCAD-BricsCAD.png 1280w" sizes="(max-width: 625px) 100vw, 625px" /></a>
 
 <div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2017/01/CAD-CIVIL-Drawing-in-Google-Earth.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2017/01/CAD-CIVIL-Drawing-in-Google-Earth-1024x576.png" width="625" height="352" srcset="http://www.spatialmanager.com/wp-content/uploads/2017/01/CAD-CIVIL-Drawing-in-Google-Earth-1024x576.png 1024w, http://www.spatialmanager.com/wp-content/uploads/2017/01/CAD-CIVIL-Drawing-in-Google-Earth-300x169.png 300w, http://www.spatialmanager.com/wp-content/uploads/2017/01/CAD-CIVIL-Drawing-in-Google-Earth-768x432.png 768w, http://www.spatialmanager.com/wp-content/uploads/2017/01/CAD-CIVIL-Drawing-in-Google-Earth-624x351.png 624w, http://www.spatialmanager.com/wp-content/uploads/2017/01/CAD-CIVIL-Drawing-in-Google-Earth.png 1280w" sizes="(max-width: 625px) 100vw, 625px" /></a>
+  <a href="/images/blog/2017/01/CAD-CIVIL-Drawing-in-Google-Earth.png" target="_blank" rel="nofollow"><img src="/images/blog/2017/01/CAD-CIVIL-Drawing-in-Google-Earth-1024x576.png" width="625" height="352" srcset="/images/blog/2017/01/CAD-CIVIL-Drawing-in-Google-Earth-1024x576.png 1024w, /images/blog/2017/01/CAD-CIVIL-Drawing-in-Google-Earth-300x169.png 300w, /images/blog/2017/01/CAD-CIVIL-Drawing-in-Google-Earth-768x432.png 768w, /images/blog/2017/01/CAD-CIVIL-Drawing-in-Google-Earth-624x351.png 624w, /images/blog/2017/01/CAD-CIVIL-Drawing-in-Google-Earth.png 1280w" sizes="(max-width: 625px) 100vw, 625px" /></a>
   
   <p>
     Publish to Google Earth (sample 2)
@@ -71,7 +71,7 @@ tags:
 </p>
 
 <p>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2017/01/SPM-GE_Buttons.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2017/01/SPM-GE_Buttons.png" alt="SPM-GE_Buttons" width="568" height="101" srcset="http://www.spatialmanager.com/wp-content/uploads/2017/01/SPM-GE_Buttons.png 568w, http://www.spatialmanager.com/wp-content/uploads/2017/01/SPM-GE_Buttons-300x53.png 300w" sizes="(max-width: 568px) 100vw, 568px" /></a>
+  <a href="/images/blog/2017/01/SPM-GE_Buttons.png" target="_blank" rel="nofollow"><img src="/images/blog/2017/01/SPM-GE_Buttons.png" alt="SPM-GE_Buttons" width="568" height="101" srcset="/images/blog/2017/01/SPM-GE_Buttons.png 568w, /images/blog/2017/01/SPM-GE_Buttons-300x53.png 300w" sizes="(max-width: 568px) 100vw, 568px" /></a>
 </p>
 
 <p>

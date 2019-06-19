@@ -3,10 +3,10 @@ id: 5122
 title: Small automated things that make your life easier
 date: 2018-03-01T06:19:04+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://www.spatialmanager.com/?p=5122
 permalink: /small-automated-things-that-make-your-life-easier/
-image: /wp-content/uploads/2018/02/SPM-Automate-85.png
+image: /images/blog/2018/02/SPM-Automate-85.png
 categories:
   - CAD L2 (Medium)
 tags:
@@ -28,7 +28,7 @@ tags:
 * * *
 
 <div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2018/02/Little-automation-helps-Spatial-Manager.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2018/02/Little-automation-helps-Spatial-Manager-1024x535.png" alt="Little automation helps - Spatial Manager" width="625" height="327" srcset="http://www.spatialmanager.com/wp-content/uploads/2018/02/Little-automation-helps-Spatial-Manager-1024x535.png 1024w, http://www.spatialmanager.com/wp-content/uploads/2018/02/Little-automation-helps-Spatial-Manager-300x157.png 300w, http://www.spatialmanager.com/wp-content/uploads/2018/02/Little-automation-helps-Spatial-Manager-768x401.png 768w, http://www.spatialmanager.com/wp-content/uploads/2018/02/Little-automation-helps-Spatial-Manager-624x326.png 624w, http://www.spatialmanager.com/wp-content/uploads/2018/02/Little-automation-helps-Spatial-Manager.png 1280w" sizes="(max-width: 625px) 100vw, 625px" /></a>
+  <a href="/images/blog/2018/02/Little-automation-helps-Spatial-Manager.png" target="_blank" rel="nofollow"><img src="/images/blog/2018/02/Little-automation-helps-Spatial-Manager-1024x535.png" alt="Little automation helps - Spatial Manager" width="625" height="327" srcset="/images/blog/2018/02/Little-automation-helps-Spatial-Manager-1024x535.png 1024w, /images/blog/2018/02/Little-automation-helps-Spatial-Manager-300x157.png 300w, /images/blog/2018/02/Little-automation-helps-Spatial-Manager-768x401.png 768w, /images/blog/2018/02/Little-automation-helps-Spatial-Manager-624x326.png 624w, /images/blog/2018/02/Little-automation-helps-Spatial-Manager.png 1280w" sizes="(max-width: 625px) 100vw, 625px" /></a>
   
   <p>
     Little automation helps &#8211; Spatial Manager
@@ -70,7 +70,7 @@ tags:
 </h2>
 
 <div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2018/02/Automated-XYZ-columns-selection.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2018/02/Automated-XYZ-columns-selection-300x247.png" alt="Automated XYZ columns selection" width="450" height="370" srcset="http://www.spatialmanager.com/wp-content/uploads/2018/02/Automated-XYZ-columns-selection-300x247.png 300w, http://www.spatialmanager.com/wp-content/uploads/2018/02/Automated-XYZ-columns-selection.png 563w" sizes="(max-width: 450px) 100vw, 450px" /></a>
+  <a href="/images/blog/2018/02/Automated-XYZ-columns-selection.png" target="_blank" rel="nofollow"><img src="/images/blog/2018/02/Automated-XYZ-columns-selection-300x247.png" alt="Automated XYZ columns selection" width="450" height="370" srcset="/images/blog/2018/02/Automated-XYZ-columns-selection-300x247.png 300w, /images/blog/2018/02/Automated-XYZ-columns-selection.png 563w" sizes="(max-width: 450px) 100vw, 450px" /></a>
   
   <p>
     Automated XYZ columns selection

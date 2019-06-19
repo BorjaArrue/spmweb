@@ -3,10 +3,10 @@ id: 824
 title: Importing KML files into AutoCAD
 date: 2014-03-17T13:16:43+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://www.spatialmanager.com/?p=824
 permalink: /importing-kml-files-autocad/
-image: /wp-content/uploads/2014/03/DWG-KML85.png
+image: /images/blog/2014/03/DWG-KML85.png
 categories:
   - CAD L1 (Basic)
 tags:

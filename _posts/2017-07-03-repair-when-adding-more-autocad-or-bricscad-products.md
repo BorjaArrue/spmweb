@@ -3,10 +3,10 @@ id: 4091
 title: '&#8220;Repair&#8221; to add  or update AutoCAD / BricsCAD / ZWCAD'
 date: 2017-07-03T09:06:09+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://www.spatialmanager.com/?p=4091
 permalink: /repair-when-adding-more-autocad-or-bricscad-products/
-image: /wp-content/uploads/2017/07/Repair-Spatial-Manager-CAD-85.png
+image: /images/blog/2017/07/Repair-Spatial-Manager-CAD-85.png
 categories:
   - CAD L2 (Medium)
 tags:
@@ -30,7 +30,7 @@ tags:
 </p>
 
 <div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2017/07/Repair-Spatial-Manager.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2017/07/Repair-Spatial-Manager.png" alt="&quot;Repair&quot; from &quot;Programs and features&quot; " width="823" height="712" srcset="http://www.spatialmanager.com/wp-content/uploads/2017/07/Repair-Spatial-Manager.png 823w, http://www.spatialmanager.com/wp-content/uploads/2017/07/Repair-Spatial-Manager-300x260.png 300w, http://www.spatialmanager.com/wp-content/uploads/2017/07/Repair-Spatial-Manager-768x664.png 768w, http://www.spatialmanager.com/wp-content/uploads/2017/07/Repair-Spatial-Manager-624x540.png 624w" sizes="(max-width: 823px) 100vw, 823px" /></a>
+  <a href="/images/blog/2017/07/Repair-Spatial-Manager.png" target="_blank" rel="nofollow"><img src="/images/blog/2017/07/Repair-Spatial-Manager.png" alt="&quot;Repair&quot; from &quot;Programs and features&quot; " width="823" height="712" srcset="/images/blog/2017/07/Repair-Spatial-Manager.png 823w, /images/blog/2017/07/Repair-Spatial-Manager-300x260.png 300w, /images/blog/2017/07/Repair-Spatial-Manager-768x664.png 768w, /images/blog/2017/07/Repair-Spatial-Manager-624x540.png 624w" sizes="(max-width: 823px) 100vw, 823px" /></a>
   
   <p>
     &#8220;Repair&#8221; from &#8220;Programs and features&#8221;
@@ -96,7 +96,7 @@ tags:
 ## 
 
 <div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2017/07/Windows10_ControlPanel.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2017/07/Windows10_ControlPanel.png" alt="Windows 10 Settings" width="1022" height="726" srcset="http://www.spatialmanager.com/wp-content/uploads/2017/07/Windows10_ControlPanel.png 1022w, http://www.spatialmanager.com/wp-content/uploads/2017/07/Windows10_ControlPanel-300x213.png 300w, http://www.spatialmanager.com/wp-content/uploads/2017/07/Windows10_ControlPanel-768x546.png 768w, http://www.spatialmanager.com/wp-content/uploads/2017/07/Windows10_ControlPanel-624x443.png 624w" sizes="(max-width: 1022px) 100vw, 1022px" /></a>
+  <a href="/images/blog/2017/07/Windows10_ControlPanel.png" target="_blank" rel="nofollow"><img src="/images/blog/2017/07/Windows10_ControlPanel.png" alt="Windows 10 Settings" width="1022" height="726" srcset="/images/blog/2017/07/Windows10_ControlPanel.png 1022w, /images/blog/2017/07/Windows10_ControlPanel-300x213.png 300w, /images/blog/2017/07/Windows10_ControlPanel-768x546.png 768w, /images/blog/2017/07/Windows10_ControlPanel-624x443.png 624w" sizes="(max-width: 1022px) 100vw, 1022px" /></a>
   
   <p>
     Windows 10 Settings

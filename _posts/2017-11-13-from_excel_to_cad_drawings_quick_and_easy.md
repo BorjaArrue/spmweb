@@ -3,10 +3,10 @@ id: 4546
 title: 'From Excel to CAD drawings: quick and easy'
 date: 2017-11-13T18:46:33+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://www.spatialmanager.com/?p=4546
 permalink: /from_excel_to_cad_drawings_quick_and_easy/
-image: /wp-content/uploads/2017/11/Excel-to-CAD-logo-85.jpg
+image: /images/blog/2017/11/Excel-to-CAD-logo-85.jpg
 categories:
   - CAD L1 (Basic)
 tags:
@@ -25,7 +25,7 @@ tags:
 * * *
 
 <div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2017/11/Excel-to-CAD.jpg" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2017/11/Excel-to-CAD-1024x442.jpg" alt="From Excel to CAD" width="625" height="270" srcset="http://www.spatialmanager.com/wp-content/uploads/2017/11/Excel-to-CAD-1024x442.jpg 1024w, http://www.spatialmanager.com/wp-content/uploads/2017/11/Excel-to-CAD-300x129.jpg 300w, http://www.spatialmanager.com/wp-content/uploads/2017/11/Excel-to-CAD-768x331.jpg 768w, http://www.spatialmanager.com/wp-content/uploads/2017/11/Excel-to-CAD-624x269.jpg 624w, http://www.spatialmanager.com/wp-content/uploads/2017/11/Excel-to-CAD.jpg 1147w" sizes="(max-width: 625px) 100vw, 625px" /></a>
+  <a href="/images/blog/2017/11/Excel-to-CAD.jpg" target="_blank" rel="nofollow"><img src="/images/blog/2017/11/Excel-to-CAD-1024x442.jpg" alt="From Excel to CAD" width="625" height="270" srcset="/images/blog/2017/11/Excel-to-CAD-1024x442.jpg 1024w, /images/blog/2017/11/Excel-to-CAD-300x129.jpg 300w, /images/blog/2017/11/Excel-to-CAD-768x331.jpg 768w, /images/blog/2017/11/Excel-to-CAD-624x269.jpg 624w, /images/blog/2017/11/Excel-to-CAD.jpg 1147w" sizes="(max-width: 625px) 100vw, 625px" /></a>
   
   <p>
     From Excel to CAD

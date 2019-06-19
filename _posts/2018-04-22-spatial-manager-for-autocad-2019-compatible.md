@@ -3,10 +3,10 @@ id: 5020
 title: Spatial Manager for AutoCAD 2019 compatible
 date: 2018-04-22T19:22:48+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://www.spatialmanager.com/?p=5020
 permalink: /spatial-manager-for-autocad-2019-compatible/
-image: /wp-content/uploads/2018/03/SPM_ACAD2019-85.png
+image: /images/blog/2018/03/SPM_ACAD2019-85.png
 categories:
   - Announcement
   - for AutoCAD
@@ -33,7 +33,7 @@ tags:
 </h2>
 
 <div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2018/02/SPM-ACAD2019-3.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2018/02/SPM-ACAD2019-3-1024x576.png" alt="'Spatial Manager for AutoCAD' 2019 compatible" width="625" height="352" srcset="http://www.spatialmanager.com/wp-content/uploads/2018/02/SPM-ACAD2019-3-1024x576.png 1024w, http://www.spatialmanager.com/wp-content/uploads/2018/02/SPM-ACAD2019-3-300x169.png 300w, http://www.spatialmanager.com/wp-content/uploads/2018/02/SPM-ACAD2019-3-768x432.png 768w, http://www.spatialmanager.com/wp-content/uploads/2018/02/SPM-ACAD2019-3-624x351.png 624w, http://www.spatialmanager.com/wp-content/uploads/2018/02/SPM-ACAD2019-3.png 1280w" sizes="(max-width: 625px) 100vw, 625px" /></a>
+  <a href="/images/blog/2018/02/SPM-ACAD2019-3.png" target="_blank" rel="nofollow"><img src="/images/blog/2018/02/SPM-ACAD2019-3-1024x576.png" alt="'Spatial Manager for AutoCAD' 2019 compatible" width="625" height="352" srcset="/images/blog/2018/02/SPM-ACAD2019-3-1024x576.png 1024w, /images/blog/2018/02/SPM-ACAD2019-3-300x169.png 300w, /images/blog/2018/02/SPM-ACAD2019-3-768x432.png 768w, /images/blog/2018/02/SPM-ACAD2019-3-624x351.png 624w, /images/blog/2018/02/SPM-ACAD2019-3.png 1280w" sizes="(max-width: 625px) 100vw, 625px" /></a>
   
   <p>
     &#8216;Spatial Manager for AutoCAD&#8217; 2019 compatible
@@ -44,7 +44,7 @@ tags:
 </h2>
 
 <div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2018/03/SPM_4.2_RasterProvider_AC2019.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2018/03/SPM_4.2_RasterProvider_AC2019-1024x576.png" alt="New 'Spatial Manager' Raster Images data provider in AutoCAD 2019" width="625" height="352" srcset="http://www.spatialmanager.com/wp-content/uploads/2018/03/SPM_4.2_RasterProvider_AC2019-1024x576.png 1024w, http://www.spatialmanager.com/wp-content/uploads/2018/03/SPM_4.2_RasterProvider_AC2019-300x169.png 300w, http://www.spatialmanager.com/wp-content/uploads/2018/03/SPM_4.2_RasterProvider_AC2019-768x432.png 768w, http://www.spatialmanager.com/wp-content/uploads/2018/03/SPM_4.2_RasterProvider_AC2019-624x351.png 624w, http://www.spatialmanager.com/wp-content/uploads/2018/03/SPM_4.2_RasterProvider_AC2019.png 1280w" sizes="(max-width: 625px) 100vw, 625px" /></a>
+  <a href="/images/blog/2018/03/SPM_4.2_RasterProvider_AC2019.png" target="_blank" rel="nofollow"><img src="/images/blog/2018/03/SPM_4.2_RasterProvider_AC2019-1024x576.png" alt="New 'Spatial Manager' Raster Images data provider in AutoCAD 2019" width="625" height="352" srcset="/images/blog/2018/03/SPM_4.2_RasterProvider_AC2019-1024x576.png 1024w, /images/blog/2018/03/SPM_4.2_RasterProvider_AC2019-300x169.png 300w, /images/blog/2018/03/SPM_4.2_RasterProvider_AC2019-768x432.png 768w, /images/blog/2018/03/SPM_4.2_RasterProvider_AC2019-624x351.png 624w, /images/blog/2018/03/SPM_4.2_RasterProvider_AC2019.png 1280w" sizes="(max-width: 625px) 100vw, 625px" /></a>
   
   <p>
     New &#8216;Spatial Manager&#8217; Raster Images data provider in AutoCAD 2019

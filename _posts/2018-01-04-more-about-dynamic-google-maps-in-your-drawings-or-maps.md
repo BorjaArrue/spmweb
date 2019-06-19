@@ -3,10 +3,10 @@ id: 4804
 title: More about dynamic Google Maps in your drawings or Maps
 date: 2018-01-04T12:54:47+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://www.spatialmanager.com/?p=4804
 permalink: /more-about-dynamic-google-maps-in-your-drawings-or-maps/
-image: /wp-content/uploads/2017/12/DWG-G_Maps-pin-85-2.png
+image: /images/blog/2017/12/DWG-G_Maps-pin-85-2.png
 categories:
   - CAD L2 (Medium)
   - Desktop L2 (Medium)
@@ -25,11 +25,11 @@ tags:
 * * *
 
 <h2>
-  <span><a href="http://cdn.spatialmanager.com/wp-content/uploads/2017/12/SPM-More-Google-Maps-ACAD.png" target="_blank" rel="nofollow">AutoCAD</a></span> / <span><a href="http://cdn.spatialmanager.com/wp-content/uploads/2018/01/SPM-More-Google-Maps-BCAD.png" target="_blank" rel="nofollow">BricsCAD</a></span> / <span><a href="http://cdn.spatialmanager.com/wp-content/uploads/2018/01/SPM-More-Google-Maps-ZCAD.png" target="_blank" rel="nofollow">ZWCAD</a></span> / <span><a href="http://cdn.spatialmanager.com/wp-content/uploads/2018/01/SPM-More-Google-Maps-DTOP.png" target="_blank" rel="nofollow">Desktop</a></span>
+  <span><a href="http://cdn.spatialmanager.com/images/blog/2017/12/SPM-More-Google-Maps-ACAD.png" target="_blank" rel="nofollow">AutoCAD</a></span> / <span><a href="http://cdn.spatialmanager.com/images/blog/2018/01/SPM-More-Google-Maps-BCAD.png" target="_blank" rel="nofollow">BricsCAD</a></span> / <span><a href="http://cdn.spatialmanager.com/images/blog/2018/01/SPM-More-Google-Maps-ZCAD.png" target="_blank" rel="nofollow">ZWCAD</a></span> / <span><a href="http://cdn.spatialmanager.com/images/blog/2018/01/SPM-More-Google-Maps-DTOP.png" target="_blank" rel="nofollow">Desktop</a></span>
 </h2>
 
 <div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2017/12/SPM-More-Google-Maps-ACAD.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2017/12/SPM-More-Google-Maps-ACAD-1024x576.png" alt="Multiple Google Maps configured in' Spatial Manager' as User Background Maps" width="625" height="352" srcset="http://www.spatialmanager.com/wp-content/uploads/2017/12/SPM-More-Google-Maps-ACAD-1024x576.png 1024w, http://www.spatialmanager.com/wp-content/uploads/2017/12/SPM-More-Google-Maps-ACAD-300x169.png 300w, http://www.spatialmanager.com/wp-content/uploads/2017/12/SPM-More-Google-Maps-ACAD-768x432.png 768w, http://www.spatialmanager.com/wp-content/uploads/2017/12/SPM-More-Google-Maps-ACAD-624x351.png 624w, http://www.spatialmanager.com/wp-content/uploads/2017/12/SPM-More-Google-Maps-ACAD.png 1280w" sizes="(max-width: 625px) 100vw, 625px" /></a>
+  <a href="/images/blog/2017/12/SPM-More-Google-Maps-ACAD.png" target="_blank" rel="nofollow"><img src="/images/blog/2017/12/SPM-More-Google-Maps-ACAD-1024x576.png" alt="Multiple Google Maps configured in' Spatial Manager' as User Background Maps" width="625" height="352" srcset="/images/blog/2017/12/SPM-More-Google-Maps-ACAD-1024x576.png 1024w, /images/blog/2017/12/SPM-More-Google-Maps-ACAD-300x169.png 300w, /images/blog/2017/12/SPM-More-Google-Maps-ACAD-768x432.png 768w, /images/blog/2017/12/SPM-More-Google-Maps-ACAD-624x351.png 624w, /images/blog/2017/12/SPM-More-Google-Maps-ACAD.png 1280w" sizes="(max-width: 625px) 100vw, 625px" /></a>
   
   <p>
     Multiple Google Maps configured in&#8217; Spatial Manager&#8217; as User Background Maps
@@ -53,7 +53,7 @@ In the previous entry (<a href="http://www.spatialmanager.com/google-maps-in-you
 ## __
 
 <div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2017/12/SPM-Google-Maps-Parameters.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2017/12/SPM-Google-Maps-Parameters.png" alt="Google Maps Parameters" width="977" height="443" srcset="http://www.spatialmanager.com/wp-content/uploads/2017/12/SPM-Google-Maps-Parameters.png 977w, http://www.spatialmanager.com/wp-content/uploads/2017/12/SPM-Google-Maps-Parameters-300x136.png 300w, http://www.spatialmanager.com/wp-content/uploads/2017/12/SPM-Google-Maps-Parameters-768x348.png 768w, http://www.spatialmanager.com/wp-content/uploads/2017/12/SPM-Google-Maps-Parameters-624x283.png 624w" sizes="(max-width: 977px) 100vw, 977px" /></a>
+  <a href="/images/blog/2017/12/SPM-Google-Maps-Parameters.png" target="_blank" rel="nofollow"><img src="/images/blog/2017/12/SPM-Google-Maps-Parameters.png" alt="Google Maps Parameters" width="977" height="443" srcset="/images/blog/2017/12/SPM-Google-Maps-Parameters.png 977w, /images/blog/2017/12/SPM-Google-Maps-Parameters-300x136.png 300w, /images/blog/2017/12/SPM-Google-Maps-Parameters-768x348.png 768w, /images/blog/2017/12/SPM-Google-Maps-Parameters-624x283.png 624w" sizes="(max-width: 977px) 100vw, 977px" /></a>
   
   <p>
     Google Maps Parameters
@@ -93,7 +93,7 @@ In the previous entry (<a href="http://www.spatialmanager.com/google-maps-in-you
 ## 
 
 <div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2017/12/SPM-Google-Maps-hl-en-and-pl.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2017/12/SPM-Google-Maps-hl-en-and-pl.png" alt="Google Maps Language parameter" width="800" height="985" srcset="http://www.spatialmanager.com/wp-content/uploads/2017/12/SPM-Google-Maps-hl-en-and-pl.png 800w, http://www.spatialmanager.com/wp-content/uploads/2017/12/SPM-Google-Maps-hl-en-and-pl-244x300.png 244w, http://www.spatialmanager.com/wp-content/uploads/2017/12/SPM-Google-Maps-hl-en-and-pl-768x946.png 768w, http://www.spatialmanager.com/wp-content/uploads/2017/12/SPM-Google-Maps-hl-en-and-pl-624x768.png 624w" sizes="(max-width: 800px) 100vw, 800px" /></a>
+  <a href="/images/blog/2017/12/SPM-Google-Maps-hl-en-and-pl.png" target="_blank" rel="nofollow"><img src="/images/blog/2017/12/SPM-Google-Maps-hl-en-and-pl.png" alt="Google Maps Language parameter" width="800" height="985" srcset="/images/blog/2017/12/SPM-Google-Maps-hl-en-and-pl.png 800w, /images/blog/2017/12/SPM-Google-Maps-hl-en-and-pl-244x300.png 244w, /images/blog/2017/12/SPM-Google-Maps-hl-en-and-pl-768x946.png 768w, /images/blog/2017/12/SPM-Google-Maps-hl-en-and-pl-624x768.png 624w" sizes="(max-width: 800px) 100vw, 800px" /></a>
   
   <p>
     Google Maps Language parameter
@@ -113,7 +113,7 @@ https://mt1.google.com/vt/<span><strong>lyrs=h</strong></span>&hl=en&x={x}&y={y}
 ## 
 
 <div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2017/12/SPM-Transparent-Maps-Google-Maps-Road-only-sample.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2017/12/SPM-Transparent-Maps-Google-Maps-Road-only-sample-1024x521.png" alt="Spatial Manager Transparent Maps (Google Maps-Road only sample)" width="625" height="318" srcset="http://www.spatialmanager.com/wp-content/uploads/2017/12/SPM-Transparent-Maps-Google-Maps-Road-only-sample-1024x521.png 1024w, http://www.spatialmanager.com/wp-content/uploads/2017/12/SPM-Transparent-Maps-Google-Maps-Road-only-sample-300x153.png 300w, http://www.spatialmanager.com/wp-content/uploads/2017/12/SPM-Transparent-Maps-Google-Maps-Road-only-sample-768x391.png 768w, http://www.spatialmanager.com/wp-content/uploads/2017/12/SPM-Transparent-Maps-Google-Maps-Road-only-sample-624x318.png 624w, http://www.spatialmanager.com/wp-content/uploads/2017/12/SPM-Transparent-Maps-Google-Maps-Road-only-sample.png 1061w" sizes="(max-width: 625px) 100vw, 625px" /></a>
+  <a href="/images/blog/2017/12/SPM-Transparent-Maps-Google-Maps-Road-only-sample.png" target="_blank" rel="nofollow"><img src="/images/blog/2017/12/SPM-Transparent-Maps-Google-Maps-Road-only-sample-1024x521.png" alt="Spatial Manager Transparent Maps (Google Maps-Road only sample)" width="625" height="318" srcset="/images/blog/2017/12/SPM-Transparent-Maps-Google-Maps-Road-only-sample-1024x521.png 1024w, /images/blog/2017/12/SPM-Transparent-Maps-Google-Maps-Road-only-sample-300x153.png 300w, /images/blog/2017/12/SPM-Transparent-Maps-Google-Maps-Road-only-sample-768x391.png 768w, /images/blog/2017/12/SPM-Transparent-Maps-Google-Maps-Road-only-sample-624x318.png 624w, /images/blog/2017/12/SPM-Transparent-Maps-Google-Maps-Road-only-sample.png 1061w" sizes="(max-width: 625px) 100vw, 625px" /></a>
   
   <p>
     Spatial Manager Transparent Maps (Google Maps-Road only sample)

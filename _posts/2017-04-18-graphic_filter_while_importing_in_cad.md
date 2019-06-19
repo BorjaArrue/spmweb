@@ -3,10 +3,10 @@ id: 3943
 title: Graphic Filter while Importing in CAD
 date: 2017-04-18T19:13:23+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://www.spatialmanager.com/?p=3943
 permalink: /graphic_filter_while_importing_in_cad/
-image: /wp-content/uploads/2017/04/View-filter-85-2.png
+image: /images/blog/2017/04/View-filter-85-2.png
 categories:
   - CAD L1 (Basic)
 tags:
@@ -22,7 +22,7 @@ tags:
 ## 
 
 <div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2017/04/SPM_Filter_by_Area.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2017/04/SPM_Filter_by_Area-1024x451.png" alt="Importing restricted to an area" width="625" height="275" srcset="http://www.spatialmanager.com/wp-content/uploads/2017/04/SPM_Filter_by_Area-1024x451.png 1024w, http://www.spatialmanager.com/wp-content/uploads/2017/04/SPM_Filter_by_Area-300x132.png 300w, http://www.spatialmanager.com/wp-content/uploads/2017/04/SPM_Filter_by_Area-768x338.png 768w, http://www.spatialmanager.com/wp-content/uploads/2017/04/SPM_Filter_by_Area-624x275.png 624w, http://www.spatialmanager.com/wp-content/uploads/2017/04/SPM_Filter_by_Area.png 1103w" sizes="(max-width: 625px) 100vw, 625px" /></a>
+  <a href="/images/blog/2017/04/SPM_Filter_by_Area.png" target="_blank" rel="nofollow"><img src="/images/blog/2017/04/SPM_Filter_by_Area-1024x451.png" alt="Importing restricted to an area" width="625" height="275" srcset="/images/blog/2017/04/SPM_Filter_by_Area-1024x451.png 1024w, /images/blog/2017/04/SPM_Filter_by_Area-300x132.png 300w, /images/blog/2017/04/SPM_Filter_by_Area-768x338.png 768w, /images/blog/2017/04/SPM_Filter_by_Area-624x275.png 624w, /images/blog/2017/04/SPM_Filter_by_Area.png 1103w" sizes="(max-width: 625px) 100vw, 625px" /></a>
   
   <p>
     Importing restricted to an area
@@ -55,5 +55,5 @@ tags:
 ## 
 
 <p>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2017/04/SPM_Import-only-in-the-current-view-parameter.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2017/04/SPM_Import-only-in-the-current-view-parameter.png" alt="Import only in the current view option" width="553" height="643" srcset="http://www.spatialmanager.com/wp-content/uploads/2017/04/SPM_Import-only-in-the-current-view-parameter.png 553w, http://www.spatialmanager.com/wp-content/uploads/2017/04/SPM_Import-only-in-the-current-view-parameter-258x300.png 258w" sizes="(max-width: 553px) 100vw, 553px" /></a>
+  <a href="/images/blog/2017/04/SPM_Import-only-in-the-current-view-parameter.png" target="_blank" rel="nofollow"><img src="/images/blog/2017/04/SPM_Import-only-in-the-current-view-parameter.png" alt="Import only in the current view option" width="553" height="643" srcset="/images/blog/2017/04/SPM_Import-only-in-the-current-view-parameter.png 553w, /images/blog/2017/04/SPM_Import-only-in-the-current-view-parameter-258x300.png 258w" sizes="(max-width: 553px) 100vw, 553px" /></a>
 </p>

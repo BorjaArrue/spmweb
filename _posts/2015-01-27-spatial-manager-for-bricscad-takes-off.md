@@ -3,10 +3,10 @@ id: 2051
 title: '&#8216;Spatial Manager™ for BricsCAD&#8217; takes off'
 date: 2015-01-27T15:03:02+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://www.spatialmanager.com/?p=2051
 permalink: /spatial-manager-for-bricscad-takes-off/
-image: /wp-content/uploads/2015/01/Logo-SPM-BricsCAD-85.png
+image: /images/blog/2015/01/Logo-SPM-BricsCAD-85.png
 categories:
   - Announcement
   - for BricsCAD
@@ -31,4 +31,4 @@ There, you will find a short video which will show you some of the most importan
 
 <a title="Spatial Manager™ for BricsCAD web page" href="http://www.spatialmanager.com/spm-forbricscad/" target="_blank" rel="nofollow">Spatial Manager™ for BricsCAD web page</a> and <a title="Spatial Manager™ for BricsCAD Wiki" href="http://wiki.spatialmanager.com/index.php/Spatial_Manager%E2%84%A2_for_BricsCAD" target="_blank" rel="nofollow">Spatial Manager™ for BricsCAD Wiki</a>
 
-<a href="http://www.spatialmanager.com/wp-content/uploads/2014/12/SPM_BCAD.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2014/12/SPM_BCAD-1024x576.png" alt="SPM_BCAD" width="625" height="351" srcset="http://www.spatialmanager.com/wp-content/uploads/2014/12/SPM_BCAD-1024x576.png 1024w, http://www.spatialmanager.com/wp-content/uploads/2014/12/SPM_BCAD-300x168.png 300w, http://www.spatialmanager.com/wp-content/uploads/2014/12/SPM_BCAD-624x351.png 624w, http://www.spatialmanager.com/wp-content/uploads/2014/12/SPM_BCAD.png 1280w" sizes="(max-width: 625px) 100vw, 625px" /></a>
+<a href="/images/blog/2014/12/SPM_BCAD.png" target="_blank" rel="nofollow"><img src="/images/blog/2014/12/SPM_BCAD-1024x576.png" alt="SPM_BCAD" width="625" height="351" srcset="/images/blog/2014/12/SPM_BCAD-1024x576.png 1024w, /images/blog/2014/12/SPM_BCAD-300x168.png 300w, /images/blog/2014/12/SPM_BCAD-624x351.png 624w, /images/blog/2014/12/SPM_BCAD.png 1280w" sizes="(max-width: 625px) 100vw, 625px" /></a>

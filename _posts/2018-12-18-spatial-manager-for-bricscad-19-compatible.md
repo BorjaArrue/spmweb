@@ -3,10 +3,10 @@ id: 5993
 title: Spatial Manager for BricsCAD 19 compatible
 date: 2018-12-18T18:59:28+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://www.spatialmanager.com/?p=5993
 permalink: /spatial-manager-for-bricscad-19-compatible/
-image: /wp-content/uploads/2018/11/SPM_5.1BCAD19-85.png
+image: /images/blog/2018/11/SPM_5.1BCAD19-85.png
 categories:
   - Announcement
   - for BricsCAD
@@ -36,7 +36,7 @@ tags:
 </h2>
 
 <div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2018/11/SMP_BCAD19.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2018/11/SMP_BCAD19-1024x576.png" alt="'Spatial Manager for BricsCAD' 19 compatible" width="625" height="352" srcset="http://www.spatialmanager.com/wp-content/uploads/2018/11/SMP_BCAD19-1024x576.png 1024w, http://www.spatialmanager.com/wp-content/uploads/2018/11/SMP_BCAD19-300x169.png 300w, http://www.spatialmanager.com/wp-content/uploads/2018/11/SMP_BCAD19-768x432.png 768w, http://www.spatialmanager.com/wp-content/uploads/2018/11/SMP_BCAD19-624x351.png 624w, http://www.spatialmanager.com/wp-content/uploads/2018/11/SMP_BCAD19.png 1280w" sizes="(max-width: 625px) 100vw, 625px" /></a>
+  <a href="/images/blog/2018/11/SMP_BCAD19.png" target="_blank" rel="nofollow"><img src="/images/blog/2018/11/SMP_BCAD19-1024x576.png" alt="'Spatial Manager for BricsCAD' 19 compatible" width="625" height="352" srcset="/images/blog/2018/11/SMP_BCAD19-1024x576.png 1024w, /images/blog/2018/11/SMP_BCAD19-300x169.png 300w, /images/blog/2018/11/SMP_BCAD19-768x432.png 768w, /images/blog/2018/11/SMP_BCAD19-624x351.png 624w, /images/blog/2018/11/SMP_BCAD19.png 1280w" sizes="(max-width: 625px) 100vw, 625px" /></a>
   
   <p>
     &#8216;Spatial Manager for BricsCAD&#8217; 19 compatible

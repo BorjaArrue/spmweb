@@ -3,10 +3,10 @@ id: 5207
 title: Exporting images to Google Earth too
 date: 2018-03-27T12:38:18+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://www.spatialmanager.com/?p=5207
 permalink: /exporting-images-to-google-earth-too/
-image: /wp-content/uploads/2018/03/SPM_Image_GE85.png
+image: /images/blog/2018/03/SPM_Image_GE85.png
 categories:
   - CAD L2 (Medium)
 tags:
@@ -29,7 +29,7 @@ tags:
 * * *
 
 <div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2018/03/SPM_Exporting_Images_GE.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2018/03/SPM_Exporting_Images_GE-1024x576.png" alt="Exporting Images from CAD drawings to Google Earth" width="625" height="352" srcset="http://www.spatialmanager.com/wp-content/uploads/2018/03/SPM_Exporting_Images_GE-1024x576.png 1024w, http://www.spatialmanager.com/wp-content/uploads/2018/03/SPM_Exporting_Images_GE-300x169.png 300w, http://www.spatialmanager.com/wp-content/uploads/2018/03/SPM_Exporting_Images_GE-768x432.png 768w, http://www.spatialmanager.com/wp-content/uploads/2018/03/SPM_Exporting_Images_GE-624x351.png 624w, http://www.spatialmanager.com/wp-content/uploads/2018/03/SPM_Exporting_Images_GE.png 1280w" sizes="(max-width: 625px) 100vw, 625px" /></a>
+  <a href="/images/blog/2018/03/SPM_Exporting_Images_GE.png" target="_blank" rel="nofollow"><img src="/images/blog/2018/03/SPM_Exporting_Images_GE-1024x576.png" alt="Exporting Images from CAD drawings to Google Earth" width="625" height="352" srcset="/images/blog/2018/03/SPM_Exporting_Images_GE-1024x576.png 1024w, /images/blog/2018/03/SPM_Exporting_Images_GE-300x169.png 300w, /images/blog/2018/03/SPM_Exporting_Images_GE-768x432.png 768w, /images/blog/2018/03/SPM_Exporting_Images_GE-624x351.png 624w, /images/blog/2018/03/SPM_Exporting_Images_GE.png 1280w" sizes="(max-width: 625px) 100vw, 625px" /></a>
   
   <p>
     Exporting Images from CAD drawings to Google Earth

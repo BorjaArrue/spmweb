@@ -3,10 +3,10 @@ id: 5718
 title: Creating thematic maps while importing
 date: 2018-07-18T10:50:32+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://www.spatialmanager.com/?p=5718
 permalink: /creating-thematic-maps-while-importing/
-image: /wp-content/uploads/2018/07/ThemMapSPM85.png
+image: /images/blog/2018/07/ThemMapSPM85.png
 categories:
   - CAD L2 (Medium)
 tags:
@@ -30,7 +30,7 @@ tags:
 </h2>
 
 <div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2018/07/ThemBlocksSPM.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2018/07/ThemBlocksSPM-1024x411.png" alt="Importing different Blocks in different Layers" width="625" height="251" srcset="http://www.spatialmanager.com/wp-content/uploads/2018/07/ThemBlocksSPM-1024x411.png 1024w, http://www.spatialmanager.com/wp-content/uploads/2018/07/ThemBlocksSPM-300x120.png 300w, http://www.spatialmanager.com/wp-content/uploads/2018/07/ThemBlocksSPM-768x308.png 768w, http://www.spatialmanager.com/wp-content/uploads/2018/07/ThemBlocksSPM-624x251.png 624w, http://www.spatialmanager.com/wp-content/uploads/2018/07/ThemBlocksSPM.png 1280w" sizes="(max-width: 625px) 100vw, 625px" /></a>
+  <a href="/images/blog/2018/07/ThemBlocksSPM.png" target="_blank" rel="nofollow"><img src="/images/blog/2018/07/ThemBlocksSPM-1024x411.png" alt="Importing different Blocks in different Layers" width="625" height="251" srcset="/images/blog/2018/07/ThemBlocksSPM-1024x411.png 1024w, /images/blog/2018/07/ThemBlocksSPM-300x120.png 300w, /images/blog/2018/07/ThemBlocksSPM-768x308.png 768w, /images/blog/2018/07/ThemBlocksSPM-624x251.png 624w, /images/blog/2018/07/ThemBlocksSPM.png 1280w" sizes="(max-width: 625px) 100vw, 625px" /></a>
   
   <p>
     Importing different Blocks in different Layers
@@ -58,7 +58,7 @@ tags:
 </h2>
 
 <div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2018/07/ThemBlockScaleSPM.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2018/07/ThemBlockScaleSPM-1024x412.png" alt="Applying different Block scales while separating by Layers" width="625" height="251" srcset="http://www.spatialmanager.com/wp-content/uploads/2018/07/ThemBlockScaleSPM-1024x412.png 1024w, http://www.spatialmanager.com/wp-content/uploads/2018/07/ThemBlockScaleSPM-300x121.png 300w, http://www.spatialmanager.com/wp-content/uploads/2018/07/ThemBlockScaleSPM-768x309.png 768w, http://www.spatialmanager.com/wp-content/uploads/2018/07/ThemBlockScaleSPM-624x251.png 624w, http://www.spatialmanager.com/wp-content/uploads/2018/07/ThemBlockScaleSPM.png 1280w" sizes="(max-width: 625px) 100vw, 625px" /></a>
+  <a href="/images/blog/2018/07/ThemBlockScaleSPM.png" target="_blank" rel="nofollow"><img src="/images/blog/2018/07/ThemBlockScaleSPM-1024x412.png" alt="Applying different Block scales while separating by Layers" width="625" height="251" srcset="/images/blog/2018/07/ThemBlockScaleSPM-1024x412.png 1024w, /images/blog/2018/07/ThemBlockScaleSPM-300x121.png 300w, /images/blog/2018/07/ThemBlockScaleSPM-768x309.png 768w, /images/blog/2018/07/ThemBlockScaleSPM-624x251.png 624w, /images/blog/2018/07/ThemBlockScaleSPM.png 1280w" sizes="(max-width: 625px) 100vw, 625px" /></a>
   
   <p>
     Applying different Block scales while separating by Layers
@@ -83,7 +83,7 @@ tags:
 </h2>
 
 <p>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2018/07/ThemAreasSPM.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2018/07/ThemAreasSPM-1024x567.png" alt="ThemAreasSPM" width="625" height="346" srcset="http://www.spatialmanager.com/wp-content/uploads/2018/07/ThemAreasSPM-1024x567.png 1024w, http://www.spatialmanager.com/wp-content/uploads/2018/07/ThemAreasSPM-300x166.png 300w, http://www.spatialmanager.com/wp-content/uploads/2018/07/ThemAreasSPM-768x425.png 768w, http://www.spatialmanager.com/wp-content/uploads/2018/07/ThemAreasSPM-624x345.png 624w, http://www.spatialmanager.com/wp-content/uploads/2018/07/ThemAreasSPM.png 1109w" sizes="(max-width: 625px) 100vw, 625px" /></a>
+  <a href="/images/blog/2018/07/ThemAreasSPM.png" target="_blank" rel="nofollow"><img src="/images/blog/2018/07/ThemAreasSPM-1024x567.png" alt="ThemAreasSPM" width="625" height="346" srcset="/images/blog/2018/07/ThemAreasSPM-1024x567.png 1024w, /images/blog/2018/07/ThemAreasSPM-300x166.png 300w, /images/blog/2018/07/ThemAreasSPM-768x425.png 768w, /images/blog/2018/07/ThemAreasSPM-624x345.png 624w, /images/blog/2018/07/ThemAreasSPM.png 1109w" sizes="(max-width: 625px) 100vw, 625px" /></a>
 </p>
 
 <h2>

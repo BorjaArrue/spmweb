@@ -3,10 +3,10 @@ id: 2207
 title: 20000 downloads of Spatial Manager reached
 date: 2015-02-19T13:48:34+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://www.spatialmanager.com/?p=2207
 permalink: /20000-downloads-of-spatial-manager-reached/
-image: /wp-content/uploads/2015/02/20000-reached-85.png
+image: /images/blog/2015/02/20000-reached-85.png
 categories:
   - Announcement
 tags:
@@ -16,7 +16,7 @@ Since the first commercial versions of the Spatial Manager™ suite of products 
 
 These downloads includes free trial versions and the different editions of commercial versions of Spatial Manager Desktop™, Spatial Manager™ for AutoCAD and Spatial Manager™ for BricsCAD, proving the high interest of many users in highly operational and easy to install and use quality products related to the management of spatial data
 
-<a href="http://www.spatialmanager.com/downloads/" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2015/02/Spatial-Manager-download-page3.png" alt="Spatial Manager download page" width="625" height="232" srcset="http://www.spatialmanager.com/wp-content/uploads/2015/02/Spatial-Manager-download-page3.png 889w, http://www.spatialmanager.com/wp-content/uploads/2015/02/Spatial-Manager-download-page3-300x111.png 300w, http://www.spatialmanager.com/wp-content/uploads/2015/02/Spatial-Manager-download-page3-624x231.png 624w" sizes="(max-width: 625px) 100vw, 625px" /></a>
+<a href="http://www.spatialmanager.com/downloads/" target="_blank" rel="nofollow"><img src="/images/blog/2015/02/Spatial-Manager-download-page3.png" alt="Spatial Manager download page" width="625" height="232" srcset="/images/blog/2015/02/Spatial-Manager-download-page3.png 889w, /images/blog/2015/02/Spatial-Manager-download-page3-300x111.png 300w, /images/blog/2015/02/Spatial-Manager-download-page3-624x231.png 624w" sizes="(max-width: 625px) 100vw, 625px" /></a>
 
 We wish to thank of all the users who have downloaded and are already working with our products for their trust, as well as the positive feedback we have received through our Support and Info centers
 

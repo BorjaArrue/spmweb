@@ -3,10 +3,10 @@ id: 5598
 title: Importing LiDAR data
 date: 2018-06-19T11:37:40+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://www.spatialmanager.com/?p=5598
 permalink: /importing-lidar-data/
-image: /wp-content/uploads/2018/06/LiDAR_SPM85.png
+image: /images/blog/2018/06/LiDAR_SPM85.png
 categories:
   - CAD L2 (Medium)
 tags:
@@ -30,7 +30,7 @@ tags:
 </h2>
 
 <div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2018/06/SPM_LiDAR_Provider.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2018/06/SPM_LiDAR_Provider-1024x602.png" alt="'Spatial Manager' Import LiDAR data provider" width="625" height="367" srcset="http://www.spatialmanager.com/wp-content/uploads/2018/06/SPM_LiDAR_Provider-1024x602.png 1024w, http://www.spatialmanager.com/wp-content/uploads/2018/06/SPM_LiDAR_Provider-300x176.png 300w, http://www.spatialmanager.com/wp-content/uploads/2018/06/SPM_LiDAR_Provider-768x452.png 768w, http://www.spatialmanager.com/wp-content/uploads/2018/06/SPM_LiDAR_Provider-624x367.png 624w, http://www.spatialmanager.com/wp-content/uploads/2018/06/SPM_LiDAR_Provider.png 1413w" sizes="(max-width: 625px) 100vw, 625px" /></a>
+  <a href="/images/blog/2018/06/SPM_LiDAR_Provider.png" target="_blank" rel="nofollow"><img src="/images/blog/2018/06/SPM_LiDAR_Provider-1024x602.png" alt="'Spatial Manager' Import LiDAR data provider" width="625" height="367" srcset="/images/blog/2018/06/SPM_LiDAR_Provider-1024x602.png 1024w, /images/blog/2018/06/SPM_LiDAR_Provider-300x176.png 300w, /images/blog/2018/06/SPM_LiDAR_Provider-768x452.png 768w, /images/blog/2018/06/SPM_LiDAR_Provider-624x367.png 624w, /images/blog/2018/06/SPM_LiDAR_Provider.png 1413w" sizes="(max-width: 625px) 100vw, 625px" /></a>
   
   <p>
     &#8216;Spatial Manager&#8217; Import LiDAR data provider

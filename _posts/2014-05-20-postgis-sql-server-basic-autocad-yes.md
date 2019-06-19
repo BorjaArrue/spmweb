@@ -3,10 +3,10 @@ id: 1143
 title: PostGIS or SQL Spatial data to basic AutoCAD? Sure
 date: 2014-05-20T09:39:42+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://www.spatialmanager.com/?p=1143
 permalink: /postgis-sql-server-basic-autocad-yes/
-image: /wp-content/uploads/2014/05/logo-PostGIS-DWG.png
+image: /images/blog/2014/05/logo-PostGIS-DWG.png
 categories:
   - CAD L2 (Medium)
 tags:

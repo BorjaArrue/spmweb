@@ -3,10 +3,10 @@ id: 6418
 title: Setting up the BG Maps transparency or background color
 date: 2019-04-23T10:34:53+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://www.spatialmanager.com/?p=6418
 permalink: /setting-up-the-bg-maps-transparency-or-background-color/
-image: /wp-content/uploads/2019/04/SPMBGMapsTransIcon85.jpg
+image: /images/blog/2019/04/SPMBGMapsTransIcon85.jpg
 categories:
   - CAD L2 (Medium)
   - Desktop L2 (Medium)
@@ -26,7 +26,7 @@ tags:
 </h2>
 
 <div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2019/04/SPMTransparentBGColor.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2019/04/SPMTransparentBGColor-1024x564.png" alt="New Background Maps back color settings" width="625" height="344" srcset="http://www.spatialmanager.com/wp-content/uploads/2019/04/SPMTransparentBGColor-1024x564.png 1024w, http://www.spatialmanager.com/wp-content/uploads/2019/04/SPMTransparentBGColor-300x165.png 300w, http://www.spatialmanager.com/wp-content/uploads/2019/04/SPMTransparentBGColor-768x423.png 768w, http://www.spatialmanager.com/wp-content/uploads/2019/04/SPMTransparentBGColor-624x344.png 624w" sizes="(max-width: 625px) 100vw, 625px" /></a>
+  <a href="/images/blog/2019/04/SPMTransparentBGColor.png" target="_blank" rel="nofollow"><img src="/images/blog/2019/04/SPMTransparentBGColor-1024x564.png" alt="New Background Maps back color settings" width="625" height="344" srcset="/images/blog/2019/04/SPMTransparentBGColor-1024x564.png 1024w, /images/blog/2019/04/SPMTransparentBGColor-300x165.png 300w, /images/blog/2019/04/SPMTransparentBGColor-768x423.png 768w, /images/blog/2019/04/SPMTransparentBGColor-624x344.png 624w" sizes="(max-width: 625px) 100vw, 625px" /></a>
   
   <p>
     New Background Maps back color settings

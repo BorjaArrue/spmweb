@@ -3,10 +3,10 @@ id: 5473
 title: Spatial filter Views in PostGIS or SQL Server
 date: 2018-06-28T14:09:08+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://www.spatialmanager.com/?p=5473
 permalink: /spatial-filter-views-in-postgis-or-sql-server/
-image: /wp-content/uploads/2018/05/DBaseView_SPM85.jpg
+image: /images/blog/2018/05/DBaseView_SPM85.jpg
 categories:
   - CAD L2 (Medium)
   - Desktop L2 (Medium)
@@ -20,7 +20,7 @@ tags:
 </p>
 
 <div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2018/05/FilteredPGISView_SPM.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2018/05/FilteredPGISView_SPM-1024x472.png" alt="Filtered PostGIS or SQL Server Spatial View in 'Spatial Manager'" width="625" height="288" srcset="http://www.spatialmanager.com/wp-content/uploads/2018/05/FilteredPGISView_SPM-1024x472.png 1024w, http://www.spatialmanager.com/wp-content/uploads/2018/05/FilteredPGISView_SPM-300x138.png 300w, http://www.spatialmanager.com/wp-content/uploads/2018/05/FilteredPGISView_SPM-768x354.png 768w, http://www.spatialmanager.com/wp-content/uploads/2018/05/FilteredPGISView_SPM-624x288.png 624w, http://www.spatialmanager.com/wp-content/uploads/2018/05/FilteredPGISView_SPM.png 1280w" sizes="(max-width: 625px) 100vw, 625px" /></a>
+  <a href="/images/blog/2018/05/FilteredPGISView_SPM.png" target="_blank" rel="nofollow"><img src="/images/blog/2018/05/FilteredPGISView_SPM-1024x472.png" alt="Filtered PostGIS or SQL Server Spatial View in 'Spatial Manager'" width="625" height="288" srcset="/images/blog/2018/05/FilteredPGISView_SPM-1024x472.png 1024w, /images/blog/2018/05/FilteredPGISView_SPM-300x138.png 300w, /images/blog/2018/05/FilteredPGISView_SPM-768x354.png 768w, /images/blog/2018/05/FilteredPGISView_SPM-624x288.png 624w, /images/blog/2018/05/FilteredPGISView_SPM.png 1280w" sizes="(max-width: 625px) 100vw, 625px" /></a>
   
   <p>
     Filtered PostGIS or SQL Server Spatial View in &#8216;Spatial Manager&#8217;
@@ -106,7 +106,7 @@ tags:
 </h2>
 
 <h2>
-  <img src="http://www.spatialmanager.com/wp-content/uploads/2018/05/FilteredPGISView_SPM_in-USD-zrea.png" width="211" height="128" />
+  <img src="/images/blog/2018/05/FilteredPGISView_SPM_in-USD-zrea.png" width="211" height="128" />
 </h2>
 
 <h2>
@@ -120,7 +120,7 @@ tags:
 </h2>
 
 <h2>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2018/05/FilteredPGISView_SPM_Results.png" target="_blank" rel="nofollow"><br /> </a><a href="http://www.spatialmanager.com/wp-content/uploads/2018/05/FilteredPGISView_SPM_Results.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2018/05/FilteredPGISView_SPM_Results-227x300.png" width="227" height="300" srcset="http://www.spatialmanager.com/wp-content/uploads/2018/05/FilteredPGISView_SPM_Results-227x300.png 227w, http://www.spatialmanager.com/wp-content/uploads/2018/05/FilteredPGISView_SPM_Results-624x823.png 624w, http://www.spatialmanager.com/wp-content/uploads/2018/05/FilteredPGISView_SPM_Results.png 667w" sizes="(max-width: 227px) 100vw, 227px" /></a>
+  <a href="/images/blog/2018/05/FilteredPGISView_SPM_Results.png" target="_blank" rel="nofollow"><br /> </a><a href="/images/blog/2018/05/FilteredPGISView_SPM_Results.png" target="_blank" rel="nofollow"><img src="/images/blog/2018/05/FilteredPGISView_SPM_Results-227x300.png" width="227" height="300" srcset="/images/blog/2018/05/FilteredPGISView_SPM_Results-227x300.png 227w, /images/blog/2018/05/FilteredPGISView_SPM_Results-624x823.png 624w, /images/blog/2018/05/FilteredPGISView_SPM_Results.png 667w" sizes="(max-width: 227px) 100vw, 227px" /></a>
 </h2>
 
 <h2>

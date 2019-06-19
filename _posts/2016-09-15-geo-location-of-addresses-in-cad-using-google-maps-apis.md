@@ -3,10 +3,10 @@ id: 3149
 title: Geo-location of addresses in CAD using Google Maps APIs
 date: 2016-09-15T13:52:32+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://www.spatialmanager.com/?p=3149
 permalink: /geo-location-of-addresses-in-cad-using-google-maps-apis/
-image: /wp-content/uploads/2016/09/Blog1-CAD-85px.png
+image: /images/blog/2016/09/Blog1-CAD-85px.png
 categories:
   - CAD L2 (Medium)
 tags:
@@ -21,7 +21,7 @@ _
 <!--more-->
 
 <p>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2016/09/GeoLocation-using-Spatial-Manager-ACAD-or-BCAD.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2016/09/GeoLocation-using-Spatial-Manager-ACAD-or-BCAD-1024x576.png" alt="geolocation-using-spatial-manager-acad-or-bcad" width="625" height="352" srcset="http://www.spatialmanager.com/wp-content/uploads/2016/09/GeoLocation-using-Spatial-Manager-ACAD-or-BCAD-1024x576.png 1024w, http://www.spatialmanager.com/wp-content/uploads/2016/09/GeoLocation-using-Spatial-Manager-ACAD-or-BCAD-300x169.png 300w, http://www.spatialmanager.com/wp-content/uploads/2016/09/GeoLocation-using-Spatial-Manager-ACAD-or-BCAD-768x432.png 768w, http://www.spatialmanager.com/wp-content/uploads/2016/09/GeoLocation-using-Spatial-Manager-ACAD-or-BCAD-624x351.png 624w, http://www.spatialmanager.com/wp-content/uploads/2016/09/GeoLocation-using-Spatial-Manager-ACAD-or-BCAD.png 1280w" sizes="(max-width: 625px) 100vw, 625px" /></a>
+  <a href="/images/blog/2016/09/GeoLocation-using-Spatial-Manager-ACAD-or-BCAD.png" target="_blank" rel="nofollow"><img src="/images/blog/2016/09/GeoLocation-using-Spatial-Manager-ACAD-or-BCAD-1024x576.png" alt="geolocation-using-spatial-manager-acad-or-bcad" width="625" height="352" srcset="/images/blog/2016/09/GeoLocation-using-Spatial-Manager-ACAD-or-BCAD-1024x576.png 1024w, /images/blog/2016/09/GeoLocation-using-Spatial-Manager-ACAD-or-BCAD-300x169.png 300w, /images/blog/2016/09/GeoLocation-using-Spatial-Manager-ACAD-or-BCAD-768x432.png 768w, /images/blog/2016/09/GeoLocation-using-Spatial-Manager-ACAD-or-BCAD-624x351.png 624w, /images/blog/2016/09/GeoLocation-using-Spatial-Manager-ACAD-or-BCAD.png 1280w" sizes="(max-width: 625px) 100vw, 625px" /></a>
 </p>
 
 <h2>

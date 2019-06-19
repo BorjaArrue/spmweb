@@ -3,10 +3,10 @@ id: 1408
 title: How to highlight some Features in Google Earth
 date: 2014-07-22T14:31:17+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://www.spatialmanager.com/?p=1408
 permalink: /highlight-features-google-earth/
-image: /wp-content/uploads/2014/07/HighLight85.png
+image: /images/blog/2014/07/HighLight85.png
 categories:
   - Desktop L2 (Medium)
 tags:

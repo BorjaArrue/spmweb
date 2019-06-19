@@ -3,10 +3,10 @@ id: 4757
 title: New Coordinate Systems for Western Australia
 date: 2017-12-18T20:09:22+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://www.spatialmanager.com/?p=4757
 permalink: /new-coordinate-systems-for-western-australia/
-image: /wp-content/uploads/2017/12/Logo-SPM-Australian85.png
+image: /images/blog/2017/12/Logo-SPM-Australian85.png
 categories:
   - CAD L2 (Medium)
   - Desktop L2 (Medium)
@@ -23,7 +23,7 @@ tags:
 * * *
 
 <div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2017/12/SPM-Western-Australia.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2017/12/SPM-Western-Australia-1024x576.png" alt="A drawing referenced to the recently included CRS &quot;GDA94 / Albany Grid 1994 (ALB94)&quot;" width="625" height="352" srcset="http://www.spatialmanager.com/wp-content/uploads/2017/12/SPM-Western-Australia-1024x576.png 1024w, http://www.spatialmanager.com/wp-content/uploads/2017/12/SPM-Western-Australia-300x169.png 300w, http://www.spatialmanager.com/wp-content/uploads/2017/12/SPM-Western-Australia-768x432.png 768w, http://www.spatialmanager.com/wp-content/uploads/2017/12/SPM-Western-Australia-624x351.png 624w, http://www.spatialmanager.com/wp-content/uploads/2017/12/SPM-Western-Australia.png 1280w" sizes="(max-width: 625px) 100vw, 625px" /></a>
+  <a href="/images/blog/2017/12/SPM-Western-Australia.png" target="_blank" rel="nofollow"><img src="/images/blog/2017/12/SPM-Western-Australia-1024x576.png" alt="A drawing referenced to the recently included CRS &quot;GDA94 / Albany Grid 1994 (ALB94)&quot;" width="625" height="352" srcset="/images/blog/2017/12/SPM-Western-Australia-1024x576.png 1024w, /images/blog/2017/12/SPM-Western-Australia-300x169.png 300w, /images/blog/2017/12/SPM-Western-Australia-768x432.png 768w, /images/blog/2017/12/SPM-Western-Australia-624x351.png 624w, /images/blog/2017/12/SPM-Western-Australia.png 1280w" sizes="(max-width: 625px) 100vw, 625px" /></a>
   
   <p>
     A drawing referenced to the recently included CRS &#8220;GDA94 / Albany Grid 1994 (ALB94)&#8221;
@@ -45,7 +45,7 @@ These Coordinate Systems were not in the latest <a href="https://en.wikipedia.or
 ## 
 
 <div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2017/12/Western-Australia-in-SPM-Catalog.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2017/12/Western-Australia-in-SPM-Catalog.png" alt="Western Australia CRSs in SPM Catalog" width="717" height="529" srcset="http://www.spatialmanager.com/wp-content/uploads/2017/12/Western-Australia-in-SPM-Catalog.png 717w, http://www.spatialmanager.com/wp-content/uploads/2017/12/Western-Australia-in-SPM-Catalog-300x221.png 300w, http://www.spatialmanager.com/wp-content/uploads/2017/12/Western-Australia-in-SPM-Catalog-624x460.png 624w" sizes="(max-width: 717px) 100vw, 717px" /></a>
+  <a href="/images/blog/2017/12/Western-Australia-in-SPM-Catalog.png" target="_blank" rel="nofollow"><img src="/images/blog/2017/12/Western-Australia-in-SPM-Catalog.png" alt="Western Australia CRSs in SPM Catalog" width="717" height="529" srcset="/images/blog/2017/12/Western-Australia-in-SPM-Catalog.png 717w, /images/blog/2017/12/Western-Australia-in-SPM-Catalog-300x221.png 300w, /images/blog/2017/12/Western-Australia-in-SPM-Catalog-624x460.png 624w" sizes="(max-width: 717px) 100vw, 717px" /></a>
   
   <p>
     Western Australia CRSs in SPM Catalog

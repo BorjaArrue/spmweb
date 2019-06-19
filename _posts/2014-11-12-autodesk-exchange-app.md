@@ -3,10 +3,10 @@ id: 1911
 title: Spatial Manager App in Autodesk Exchange (App Store)
 date: 2014-11-12T18:09:31+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://www.spatialmanager.com/?p=1911
 permalink: /autodesk-exchange-app/
-image: /wp-content/uploads/2014/11/Autodesk_Exchange_Logo_85.png
+image: /images/blog/2014/11/Autodesk_Exchange_Logo_85.png
 categories:
   - Announcement
   - for AutoCAD
@@ -31,18 +31,18 @@ Autodesk Exchange creates a single marketplace where you can quickly find the u
 ###### 
 
 <p>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2014/11/Autodesk_Exchange_3.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2014/11/Autodesk_Exchange_3-199x300.png" alt="Autodesk Exchange Statistic" width="199" height="300" srcset="http://www.spatialmanager.com/wp-content/uploads/2014/11/Autodesk_Exchange_3-199x300.png 199w, http://www.spatialmanager.com/wp-content/uploads/2014/11/Autodesk_Exchange_3.png 474w" sizes="(max-width: 199px) 100vw, 199px" /></a>
+  <a href="/images/blog/2014/11/Autodesk_Exchange_3.png" target="_blank" rel="nofollow"><img src="/images/blog/2014/11/Autodesk_Exchange_3-199x300.png" alt="Autodesk Exchange Statistic" width="199" height="300" srcset="/images/blog/2014/11/Autodesk_Exchange_3-199x300.png 199w, /images/blog/2014/11/Autodesk_Exchange_3.png 474w" sizes="(max-width: 199px) 100vw, 199px" /></a>
 </p>
 
 ## 
 
 ## How to access to the products in Autodesk Exchange?
 
-You can key in the name of the product that you are looking for or to search by key word in its features <a href="http://www.spatialmanager.com/wp-content/uploads/2014/11/Autodesk_Exchange_1.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2014/11/Autodesk_Exchange_1-1024x480.png" alt="Spatial Manager for AutoCAD in Autodesk Exchange" width="625" height="292" srcset="http://www.spatialmanager.com/wp-content/uploads/2014/11/Autodesk_Exchange_1-1024x480.png 1024w, http://www.spatialmanager.com/wp-content/uploads/2014/11/Autodesk_Exchange_1-300x140.png 300w, http://www.spatialmanager.com/wp-content/uploads/2014/11/Autodesk_Exchange_1-624x292.png 624w, http://www.spatialmanager.com/wp-content/uploads/2014/11/Autodesk_Exchange_1.png 1280w" sizes="(max-width: 625px) 100vw, 625px" /></a>
+You can key in the name of the product that you are looking for or to search by key word in its features <a href="/images/blog/2014/11/Autodesk_Exchange_1.png" target="_blank" rel="nofollow"><img src="/images/blog/2014/11/Autodesk_Exchange_1-1024x480.png" alt="Spatial Manager for AutoCAD in Autodesk Exchange" width="625" height="292" srcset="/images/blog/2014/11/Autodesk_Exchange_1-1024x480.png 1024w, /images/blog/2014/11/Autodesk_Exchange_1-300x140.png 300w, /images/blog/2014/11/Autodesk_Exchange_1-624x292.png 624w, /images/blog/2014/11/Autodesk_Exchange_1.png 1280w" sizes="(max-width: 625px) 100vw, 625px" /></a>
 
 Then you can open up the product description page and read through the help file documentation. If it looks like what you need, you can **click the download link**
 
-<a href="http://www.spatialmanager.com/wp-content/uploads/2014/11/Autodesk_Exchange_2.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2014/11/Autodesk_Exchange_2-1024x842.png" alt="Spatial Manager for AutoCAD in Autodesk Exchange - Description" width="625" height="513" srcset="http://www.spatialmanager.com/wp-content/uploads/2014/11/Autodesk_Exchange_2-1024x842.png 1024w, http://www.spatialmanager.com/wp-content/uploads/2014/11/Autodesk_Exchange_2-300x246.png 300w, http://www.spatialmanager.com/wp-content/uploads/2014/11/Autodesk_Exchange_2-624x513.png 624w, http://www.spatialmanager.com/wp-content/uploads/2014/11/Autodesk_Exchange_2.png 1269w" sizes="(max-width: 625px) 100vw, 625px" /></a>
+<a href="/images/blog/2014/11/Autodesk_Exchange_2.png" target="_blank" rel="nofollow"><img src="/images/blog/2014/11/Autodesk_Exchange_2-1024x842.png" alt="Spatial Manager for AutoCAD in Autodesk Exchange - Description" width="625" height="513" srcset="/images/blog/2014/11/Autodesk_Exchange_2-1024x842.png 1024w, /images/blog/2014/11/Autodesk_Exchange_2-300x246.png 300w, /images/blog/2014/11/Autodesk_Exchange_2-624x513.png 624w, /images/blog/2014/11/Autodesk_Exchange_2.png 1269w" sizes="(max-width: 625px) 100vw, 625px" /></a>
 
 <a href="https://apps.exchange.autodesk.com/ACD/en/Detail/Index?id=appstore.exchange.autodesk.com%3aspatialmanagerforautocad_windows32%3aen" target="_blank" rel="nofollow">· Autodesk Exchange:  Spatial Manager™ for AutoCAD &#8211; 32 bit English</a>
   

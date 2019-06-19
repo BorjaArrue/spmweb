@@ -3,10 +3,10 @@ id: 5755
 title: Tricks to optimize labeling while importing
 date: 2018-08-28T09:15:45+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://www.spatialmanager.com/?p=5755
 permalink: /tricks-to-optimize-labeling-while-importing/
-image: /wp-content/uploads/2018/08/Labeling-w.-importing-SPM-85.png
+image: /images/blog/2018/08/Labeling-w.-importing-SPM-85.png
 categories:
   - CAD L2 (Medium)
 tags:
@@ -27,7 +27,7 @@ tags:
 </h2>
 
 <div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2018/08/Map-labels-SPM.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2018/08/Map-labels-SPM-1024x847.png" alt="Labeling while importing - 'Spatial Manager'" width="625" height="517" srcset="http://www.spatialmanager.com/wp-content/uploads/2018/08/Map-labels-SPM-1024x847.png 1024w, http://www.spatialmanager.com/wp-content/uploads/2018/08/Map-labels-SPM-300x248.png 300w, http://www.spatialmanager.com/wp-content/uploads/2018/08/Map-labels-SPM-768x635.png 768w, http://www.spatialmanager.com/wp-content/uploads/2018/08/Map-labels-SPM-624x516.png 624w, http://www.spatialmanager.com/wp-content/uploads/2018/08/Map-labels-SPM.png 1138w" sizes="(max-width: 625px) 100vw, 625px" /></a>
+  <a href="/images/blog/2018/08/Map-labels-SPM.png" target="_blank" rel="nofollow"><img src="/images/blog/2018/08/Map-labels-SPM-1024x847.png" alt="Labeling while importing - 'Spatial Manager'" width="625" height="517" srcset="/images/blog/2018/08/Map-labels-SPM-1024x847.png 1024w, /images/blog/2018/08/Map-labels-SPM-300x248.png 300w, /images/blog/2018/08/Map-labels-SPM-768x635.png 768w, /images/blog/2018/08/Map-labels-SPM-624x516.png 624w, /images/blog/2018/08/Map-labels-SPM.png 1138w" sizes="(max-width: 625px) 100vw, 625px" /></a>
   
   <p>
     Labeling while importing &#8211; &#8216;Spatial Manager&#8217;
@@ -55,7 +55,7 @@ tags:
 </h2>
 
 <div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2018/08/Label-options-SPM.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2018/08/Label-options-SPM.png" alt="Label options when importing in 'Spatial Manager'" width="356" height="263" srcset="http://www.spatialmanager.com/wp-content/uploads/2018/08/Label-options-SPM.png 356w, http://www.spatialmanager.com/wp-content/uploads/2018/08/Label-options-SPM-300x222.png 300w" sizes="(max-width: 356px) 100vw, 356px" /></a>
+  <a href="/images/blog/2018/08/Label-options-SPM.png" target="_blank" rel="nofollow"><img src="/images/blog/2018/08/Label-options-SPM.png" alt="Label options when importing in 'Spatial Manager'" width="356" height="263" srcset="/images/blog/2018/08/Label-options-SPM.png 356w, /images/blog/2018/08/Label-options-SPM-300x222.png 300w" sizes="(max-width: 356px) 100vw, 356px" /></a>
   
   <p>
     Label options when importing in &#8216;Spatial Manager&#8217;

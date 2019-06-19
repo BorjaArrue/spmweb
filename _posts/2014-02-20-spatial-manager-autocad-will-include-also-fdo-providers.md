@@ -3,10 +3,10 @@ id: 657
 title: Spatial Manager™ for AutoCAD will include FDO Providers
 date: 2014-02-20T16:37:59+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://www.spatialmanager.com/?p=657
 permalink: /spatial-manager-autocad-will-include-also-fdo-providers/
-image: /wp-content/uploads/2014/02/SPM-ACAD-FDO-85.png
+image: /images/blog/2014/02/SPM-ACAD-FDO-85.png
 categories:
   - Announcement
   - CAD L1 (Basic)
@@ -20,4 +20,4 @@ Using these new data Providers, Spatial Manager™ for AutoCAD will also **impor
 
 These data Providers are integrated in the application as any other standard data Provider included previously, allowing the user to import Objects in AutoCAD directly from most types of spatial files or to define more types of User Data Sources (UDS) to access spatial databases or spatial data stores
   
-<a href="http://www.spatialmanager.com/wp-content/uploads/2014/02/UDS_FDO_ACAD.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2014/02/UDS_FDO_ACAD-273x300.png" alt="UDS_FDO_ACAD" width="273" height="300" srcset="http://www.spatialmanager.com/wp-content/uploads/2014/02/UDS_FDO_ACAD-273x300.png 273w, http://www.spatialmanager.com/wp-content/uploads/2014/02/UDS_FDO_ACAD.png 567w" sizes="(max-width: 273px) 100vw, 273px" /></a>
+<a href="/images/blog/2014/02/UDS_FDO_ACAD.png" target="_blank" rel="nofollow"><img src="/images/blog/2014/02/UDS_FDO_ACAD-273x300.png" alt="UDS_FDO_ACAD" width="273" height="300" srcset="/images/blog/2014/02/UDS_FDO_ACAD-273x300.png 273w, /images/blog/2014/02/UDS_FDO_ACAD.png 567w" sizes="(max-width: 273px) 100vw, 273px" /></a>

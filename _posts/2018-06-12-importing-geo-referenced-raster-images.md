@@ -3,10 +3,10 @@ id: 5537
 title: Importing geo-referenced Raster Images
 date: 2018-06-12T14:00:18+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://www.spatialmanager.com/?p=5537
 permalink: /importing-geo-referenced-raster-images/
-image: /wp-content/uploads/2018/06/SPM_Georef_Images85.png
+image: /images/blog/2018/06/SPM_Georef_Images85.png
 categories:
   - CAD L2 (Medium)
 tags:
@@ -30,7 +30,7 @@ tags:
 </h2>
 
 <div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2018/06/Georef-Images_SPM.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2018/06/Georef-Images_SPM-1024x576.png" alt="'Spatial Manager' - Importing geo-referenced images" width="625" height="352" srcset="http://www.spatialmanager.com/wp-content/uploads/2018/06/Georef-Images_SPM-1024x576.png 1024w, http://www.spatialmanager.com/wp-content/uploads/2018/06/Georef-Images_SPM-300x169.png 300w, http://www.spatialmanager.com/wp-content/uploads/2018/06/Georef-Images_SPM-768x432.png 768w, http://www.spatialmanager.com/wp-content/uploads/2018/06/Georef-Images_SPM-624x351.png 624w, http://www.spatialmanager.com/wp-content/uploads/2018/06/Georef-Images_SPM.png 1280w" sizes="(max-width: 625px) 100vw, 625px" /></a>
+  <a href="/images/blog/2018/06/Georef-Images_SPM.png" target="_blank" rel="nofollow"><img src="/images/blog/2018/06/Georef-Images_SPM-1024x576.png" alt="'Spatial Manager' - Importing geo-referenced images" width="625" height="352" srcset="/images/blog/2018/06/Georef-Images_SPM-1024x576.png 1024w, /images/blog/2018/06/Georef-Images_SPM-300x169.png 300w, /images/blog/2018/06/Georef-Images_SPM-768x432.png 768w, /images/blog/2018/06/Georef-Images_SPM-624x351.png 624w, /images/blog/2018/06/Georef-Images_SPM.png 1280w" sizes="(max-width: 625px) 100vw, 625px" /></a>
   
   <p>
     &#8216;Spatial Manager&#8217; &#8211; Importing geo-referenced images
@@ -62,7 +62,7 @@ tags:
 </h2>
 
 <div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2018/06/Comparative-table-SPM-vs-CAD-2-1.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2018/06/Comparative-table-SPM-vs-CAD-2-1.png" alt="Comparative table - CAD solutions plus 'Spatial Manager' application (Note: ZWCAD does not support either JGW or PGW World files, only TFW or J2W)" width="929" height="157" srcset="http://www.spatialmanager.com/wp-content/uploads/2018/06/Comparative-table-SPM-vs-CAD-2-1.png 929w, http://www.spatialmanager.com/wp-content/uploads/2018/06/Comparative-table-SPM-vs-CAD-2-1-300x51.png 300w, http://www.spatialmanager.com/wp-content/uploads/2018/06/Comparative-table-SPM-vs-CAD-2-1-768x130.png 768w, http://www.spatialmanager.com/wp-content/uploads/2018/06/Comparative-table-SPM-vs-CAD-2-1-624x105.png 624w" sizes="(max-width: 929px) 100vw, 929px" /></a>
+  <a href="/images/blog/2018/06/Comparative-table-SPM-vs-CAD-2-1.png" target="_blank" rel="nofollow"><img src="/images/blog/2018/06/Comparative-table-SPM-vs-CAD-2-1.png" alt="Comparative table - CAD solutions plus 'Spatial Manager' application (Note: ZWCAD does not support either JGW or PGW World files, only TFW or J2W)" width="929" height="157" srcset="/images/blog/2018/06/Comparative-table-SPM-vs-CAD-2-1.png 929w, /images/blog/2018/06/Comparative-table-SPM-vs-CAD-2-1-300x51.png 300w, /images/blog/2018/06/Comparative-table-SPM-vs-CAD-2-1-768x130.png 768w, /images/blog/2018/06/Comparative-table-SPM-vs-CAD-2-1-624x105.png 624w" sizes="(max-width: 929px) 100vw, 929px" /></a>
   
   <p>
     Comparative table &#8211; CAD solutions plus &#8216;Spatial Manager&#8217; application (Note: ZWCAD does not support either JGW or PGW World files, only TFW or J2W)

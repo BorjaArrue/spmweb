@@ -3,10 +3,10 @@ id: 3486
 title: The productive new version 3.3
 date: 2016-11-09T20:05:09+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://www.spatialmanager.com/?p=3486
 permalink: /the-productive-new-version-3-3-spatial-manager/
-image: /wp-content/uploads/2016/11/SPM-to-G.-Earth-logo-85.png
+image: /images/blog/2016/11/SPM-to-G.-Earth-logo-85.png
 categories:
   - Announcement
 tags:
@@ -19,7 +19,7 @@ tags:
 <!--more-->
 
 <div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2016/11/SPM-Export-to-G.-Earth-2.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2016/11/SPM-Export-to-G.-Earth-2-1024x623.png" alt="spm-export-to-g-earth-2" width="625" height="380" srcset="http://www.spatialmanager.com/wp-content/uploads/2016/11/SPM-Export-to-G.-Earth-2-1024x623.png 1024w, http://www.spatialmanager.com/wp-content/uploads/2016/11/SPM-Export-to-G.-Earth-2-300x182.png 300w, http://www.spatialmanager.com/wp-content/uploads/2016/11/SPM-Export-to-G.-Earth-2-768x467.png 768w, http://www.spatialmanager.com/wp-content/uploads/2016/11/SPM-Export-to-G.-Earth-2-624x379.png 624w, http://www.spatialmanager.com/wp-content/uploads/2016/11/SPM-Export-to-G.-Earth-2.png 1105w" sizes="(max-width: 625px) 100vw, 625px" /></a>
+  <a href="/images/blog/2016/11/SPM-Export-to-G.-Earth-2.png" target="_blank" rel="nofollow"><img src="/images/blog/2016/11/SPM-Export-to-G.-Earth-2-1024x623.png" alt="spm-export-to-g-earth-2" width="625" height="380" srcset="/images/blog/2016/11/SPM-Export-to-G.-Earth-2-1024x623.png 1024w, /images/blog/2016/11/SPM-Export-to-G.-Earth-2-300x182.png 300w, /images/blog/2016/11/SPM-Export-to-G.-Earth-2-768x467.png 768w, /images/blog/2016/11/SPM-Export-to-G.-Earth-2-624x379.png 624w, /images/blog/2016/11/SPM-Export-to-G.-Earth-2.png 1105w" sizes="(max-width: 625px) 100vw, 625px" /></a>
   
   <p>
     Exporting the drawing to Google Earth by one click (AutoCAD image. Same from BricsCAD or Desktop)

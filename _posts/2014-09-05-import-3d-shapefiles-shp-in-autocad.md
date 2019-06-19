@@ -3,10 +3,10 @@ id: 1674
 title: Import 3D Shapefiles (SHP) in AutoCAD
 date: 2014-09-05T06:11:47+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://www.spatialmanager.com/?p=1674
 permalink: /import-3d-shapefiles-shp-in-autocad/
-image: /wp-content/uploads/2014/08/SHP-DWG3D-85.png
+image: /images/blog/2014/08/SHP-DWG3D-85.png
 categories:
   - CAD L1 (Basic)
 tags:
@@ -18,7 +18,7 @@ tags:
 
 ## 3D and pseudo-3D Shapefiles (SHP)
 
-<span>There are many</span> <a title="Shapefiles (SHP) in Wikipedia" href="http://en.wikipedia.org/wiki/Shapefile" target="_blank" rel="nofollow">Shapefiles (</a><span>SHP)</span> <span>containing</span> complete 3D <span>information inside</span> <span>their</span> own <span>geometry data</span>, <span>as</span> in <span>the PointZ</span>, <span>PolygonZ</span>, etc. SHP files, <span>and even</span> <span>the</span> <span>3D</span> <span>information can be included</span> <span>as </span><span>&#8220;M&#8221;</span> data <span>in</span> <span>the</span> file types <span>PointM</span>, <span>PolygonM</span>, etc. <span>But we can find</span> <span>many cases</span> <span>in which the &#8220;3D&#8221;</span> <span>information that applies to</span> <span>the</span> <span>&#8220;Extrusion</span>&#8221; of <span>flat</span> <span>polygons</span> <span>is found</span> <span>as values</span> <span>​​of some fields in</span> <span>the data table</span> <a href="http://www.spatialmanager.com/wp-content/uploads/2014/08/Import-3D-Shapefiles-in-AutoCAD-SHP-Data.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2014/08/Import-3D-Shapefiles-in-AutoCAD-SHP-Data.png" alt="Import 3D Shapefiles (SHP) in AutoCAD - Data on EED viewer panel" width="625" height="489" srcset="http://www.spatialmanager.com/wp-content/uploads/2014/08/Import-3D-Shapefiles-in-AutoCAD-SHP-Data.png 741w, http://www.spatialmanager.com/wp-content/uploads/2014/08/Import-3D-Shapefiles-in-AutoCAD-SHP-Data-300x234.png 300w, http://www.spatialmanager.com/wp-content/uploads/2014/08/Import-3D-Shapefiles-in-AutoCAD-SHP-Data-624x488.png 624w" sizes="(max-width: 625px) 100vw, 625px" /></a> _Import 3D Shapefiles (SHP) in AutoCAD &#8211; Elevation (gnd) and Thickness (height) data_
+<span>There are many</span> <a title="Shapefiles (SHP) in Wikipedia" href="http://en.wikipedia.org/wiki/Shapefile" target="_blank" rel="nofollow">Shapefiles (</a><span>SHP)</span> <span>containing</span> complete 3D <span>information inside</span> <span>their</span> own <span>geometry data</span>, <span>as</span> in <span>the PointZ</span>, <span>PolygonZ</span>, etc. SHP files, <span>and even</span> <span>the</span> <span>3D</span> <span>information can be included</span> <span>as </span><span>&#8220;M&#8221;</span> data <span>in</span> <span>the</span> file types <span>PointM</span>, <span>PolygonM</span>, etc. <span>But we can find</span> <span>many cases</span> <span>in which the &#8220;3D&#8221;</span> <span>information that applies to</span> <span>the</span> <span>&#8220;Extrusion</span>&#8221; of <span>flat</span> <span>polygons</span> <span>is found</span> <span>as values</span> <span>​​of some fields in</span> <span>the data table</span> <a href="/images/blog/2014/08/Import-3D-Shapefiles-in-AutoCAD-SHP-Data.png" target="_blank" rel="nofollow"><img src="/images/blog/2014/08/Import-3D-Shapefiles-in-AutoCAD-SHP-Data.png" alt="Import 3D Shapefiles (SHP) in AutoCAD - Data on EED viewer panel" width="625" height="489" srcset="/images/blog/2014/08/Import-3D-Shapefiles-in-AutoCAD-SHP-Data.png 741w, /images/blog/2014/08/Import-3D-Shapefiles-in-AutoCAD-SHP-Data-300x234.png 300w, /images/blog/2014/08/Import-3D-Shapefiles-in-AutoCAD-SHP-Data-624x488.png 624w" sizes="(max-width: 625px) 100vw, 625px" /></a> _Import 3D Shapefiles (SHP) in AutoCAD &#8211; Elevation (gnd) and Thickness (height) data_
 
 ## Import 3D Shapefiles (SHP) in AutoCAD
 

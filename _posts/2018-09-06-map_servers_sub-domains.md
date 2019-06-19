@@ -3,10 +3,10 @@ id: 5791
 title: Map servers sub-domains
 date: 2018-09-06T09:52:31+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://www.spatialmanager.com/?p=5791
 permalink: /map_servers_sub-domains/
-image: /wp-content/uploads/2018/09/SPMMDomain85-2.png
+image: /images/blog/2018/09/SPMMDomain85-2.png
 categories:
   - CAD L2 (Medium)
   - Desktop L2 (Medium)
@@ -23,7 +23,7 @@ tags:
 </p>
 
 <div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2018/09/SPM-Severs-Multi-domain.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2018/09/SPM-Severs-Multi-domain-1024x580.png" alt="Sub-domain map servers setup in 'Spatial Manager'" width="625" height="354" srcset="http://www.spatialmanager.com/wp-content/uploads/2018/09/SPM-Severs-Multi-domain-1024x580.png 1024w, http://www.spatialmanager.com/wp-content/uploads/2018/09/SPM-Severs-Multi-domain-300x170.png 300w, http://www.spatialmanager.com/wp-content/uploads/2018/09/SPM-Severs-Multi-domain-768x435.png 768w, http://www.spatialmanager.com/wp-content/uploads/2018/09/SPM-Severs-Multi-domain-624x354.png 624w" sizes="(max-width: 625px) 100vw, 625px" /></a>
+  <a href="/images/blog/2018/09/SPM-Severs-Multi-domain.png" target="_blank" rel="nofollow"><img src="/images/blog/2018/09/SPM-Severs-Multi-domain-1024x580.png" alt="Sub-domain map servers setup in 'Spatial Manager'" width="625" height="354" srcset="/images/blog/2018/09/SPM-Severs-Multi-domain-1024x580.png 1024w, /images/blog/2018/09/SPM-Severs-Multi-domain-300x170.png 300w, /images/blog/2018/09/SPM-Severs-Multi-domain-768x435.png 768w, /images/blog/2018/09/SPM-Severs-Multi-domain-624x354.png 624w" sizes="(max-width: 625px) 100vw, 625px" /></a>
   
   <p>
     Sub-domain map servers setup in &#8216;Spatial Manager&#8217;

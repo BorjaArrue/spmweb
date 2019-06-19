@@ -3,10 +3,10 @@ id: 4036
 title: Little-known options when importing from OpenStreetMap
 date: 2017-06-06T13:10:59+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://www.spatialmanager.com/?p=4036
 permalink: /little-known-options-when-importing-from-openstreetmap/
-image: /wp-content/uploads/2017/06/SPM-OSM-Options85.png
+image: /images/blog/2017/06/SPM-OSM-Options85.png
 categories:
   - CAD L2 (Medium)
   - Desktop L2 (Medium)
@@ -25,7 +25,7 @@ tags:
 </h2>
 
 <div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2017/06/SPM-Import-OSM-options.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2017/06/SPM-Import-OSM-options-1024x576.png" alt="Importing from OpenStreetMap in order to create or add information to maps" width="625" height="352" srcset="http://www.spatialmanager.com/wp-content/uploads/2017/06/SPM-Import-OSM-options-1024x576.png 1024w, http://www.spatialmanager.com/wp-content/uploads/2017/06/SPM-Import-OSM-options-300x169.png 300w, http://www.spatialmanager.com/wp-content/uploads/2017/06/SPM-Import-OSM-options-768x432.png 768w, http://www.spatialmanager.com/wp-content/uploads/2017/06/SPM-Import-OSM-options-624x351.png 624w, http://www.spatialmanager.com/wp-content/uploads/2017/06/SPM-Import-OSM-options.png 1280w" sizes="(max-width: 625px) 100vw, 625px" /></a>
+  <a href="/images/blog/2017/06/SPM-Import-OSM-options.png" target="_blank" rel="nofollow"><img src="/images/blog/2017/06/SPM-Import-OSM-options-1024x576.png" alt="Importing from OpenStreetMap in order to create or add information to maps" width="625" height="352" srcset="/images/blog/2017/06/SPM-Import-OSM-options-1024x576.png 1024w, /images/blog/2017/06/SPM-Import-OSM-options-300x169.png 300w, /images/blog/2017/06/SPM-Import-OSM-options-768x432.png 768w, /images/blog/2017/06/SPM-Import-OSM-options-624x351.png 624w, /images/blog/2017/06/SPM-Import-OSM-options.png 1280w" sizes="(max-width: 625px) 100vw, 625px" /></a>
   
   <p>
     Importing from OpenStreetMap in order to create or add information to maps
@@ -54,7 +54,7 @@ tags:
 </h2>
 
 <div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2017/06/OpenStreeMap-import-parameters-Spatial-Manager.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2017/06/OpenStreeMap-import-parameters-Spatial-Manager.png" alt="OpenStreeMap import parameters (Spatial Manager data provider)" width="553" height="643" srcset="http://www.spatialmanager.com/wp-content/uploads/2017/06/OpenStreeMap-import-parameters-Spatial-Manager.png 553w, http://www.spatialmanager.com/wp-content/uploads/2017/06/OpenStreeMap-import-parameters-Spatial-Manager-258x300.png 258w" sizes="(max-width: 553px) 100vw, 553px" /></a>
+  <a href="/images/blog/2017/06/OpenStreeMap-import-parameters-Spatial-Manager.png" target="_blank" rel="nofollow"><img src="/images/blog/2017/06/OpenStreeMap-import-parameters-Spatial-Manager.png" alt="OpenStreeMap import parameters (Spatial Manager data provider)" width="553" height="643" srcset="/images/blog/2017/06/OpenStreeMap-import-parameters-Spatial-Manager.png 553w, /images/blog/2017/06/OpenStreeMap-import-parameters-Spatial-Manager-258x300.png 258w" sizes="(max-width: 553px) 100vw, 553px" /></a>
   
   <p>
     OpenStreeMap import parameters (Spatial Manager data provider)

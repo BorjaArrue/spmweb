@@ -3,10 +3,10 @@ id: 6189
 title: Analysis of parcels crossed by a road
 date: 2019-02-07T13:25:14+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://www.spatialmanager.com/?p=6189
 permalink: /analysis-of-parcels-crossed-by-a-road/
-image: /wp-content/uploads/2019/02/ParcelsxRoads85.png
+image: /images/blog/2019/02/ParcelsxRoads85.png
 categories:
   - CAD L2 (Medium)
 tags:
@@ -26,7 +26,7 @@ tags:
 </h2>
 
 <div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2019/02/ParcelsCrossed.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2019/02/ParcelsCrossed-1024x696.png" alt="Parcels road-crossing analysis" width="625" height="425" srcset="http://www.spatialmanager.com/wp-content/uploads/2019/02/ParcelsCrossed-1024x696.png 1024w, http://www.spatialmanager.com/wp-content/uploads/2019/02/ParcelsCrossed-300x204.png 300w, http://www.spatialmanager.com/wp-content/uploads/2019/02/ParcelsCrossed-768x522.png 768w, http://www.spatialmanager.com/wp-content/uploads/2019/02/ParcelsCrossed-624x424.png 624w, http://www.spatialmanager.com/wp-content/uploads/2019/02/ParcelsCrossed.png 1039w" sizes="(max-width: 625px) 100vw, 625px" /></a>
+  <a href="/images/blog/2019/02/ParcelsCrossed.png" target="_blank" rel="nofollow"><img src="/images/blog/2019/02/ParcelsCrossed-1024x696.png" alt="Parcels road-crossing analysis" width="625" height="425" srcset="/images/blog/2019/02/ParcelsCrossed-1024x696.png 1024w, /images/blog/2019/02/ParcelsCrossed-300x204.png 300w, /images/blog/2019/02/ParcelsCrossed-768x522.png 768w, /images/blog/2019/02/ParcelsCrossed-624x424.png 624w, /images/blog/2019/02/ParcelsCrossed.png 1039w" sizes="(max-width: 625px) 100vw, 625px" /></a>
   
   <p>
     Parcels road-crossing analysis
@@ -44,7 +44,7 @@ tags:
 </h2>
 
 <div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2019/02/AffectedTable.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2019/02/AffectedTable.png" alt="Affected parcels table" width="623" height="180" srcset="http://www.spatialmanager.com/wp-content/uploads/2019/02/AffectedTable.png 623w, http://www.spatialmanager.com/wp-content/uploads/2019/02/AffectedTable-300x87.png 300w" sizes="(max-width: 623px) 100vw, 623px" /></a>
+  <a href="/images/blog/2019/02/AffectedTable.png" target="_blank" rel="nofollow"><img src="/images/blog/2019/02/AffectedTable.png" alt="Affected parcels table" width="623" height="180" srcset="/images/blog/2019/02/AffectedTable.png 623w, /images/blog/2019/02/AffectedTable-300x87.png 300w" sizes="(max-width: 623px) 100vw, 623px" /></a>
   
   <p>
     Affected parcels table

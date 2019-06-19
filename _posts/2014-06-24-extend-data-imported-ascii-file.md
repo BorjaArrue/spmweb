@@ -3,10 +3,10 @@ id: 1280
 title: Extend the data to be imported from an ASCII file
 date: 2014-06-24T18:06:55+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://www.spatialmanager.com/?p=1280
 permalink: /extend-data-imported-ascii-file/
-image: /wp-content/uploads/2014/06/Table-points-85.png
+image: /images/blog/2014/06/Table-points-85.png
 categories:
   - CAD L2 (Medium)
   - Desktop L2 (Medium)
@@ -18,11 +18,11 @@ When importing or loading points from spatial ASCII files (CSV, XYZ etc.), Spati
 
 In the best case, the data provider for ASCII files allows you to read the Point number, its XYZ coordinates and its Description:
 
-<a href="http://www.spatialmanager.com/wp-content/uploads/2014/06/ASCII-standard-data-provider.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2014/06/ASCII-standard-data-provider.png" alt="Spatial_Manager_ASCII_standard_data_provider" width="615" height="648" /></a>
+<a href="/images/blog/2014/06/ASCII-standard-data-provider.png" target="_blank" rel="nofollow"><img src="/images/blog/2014/06/ASCII-standard-data-provider.png" alt="Spatial_Manager_ASCII_standard_data_provider" width="615" height="648" /></a>
 
 But, what happens if **the ASCII file includes more data fields** for the points, as shown in the following image? How can you include this data in loading, importing or exporting processes using Spatial Manager™ applications?
 
-<a href="http://www.spatialmanager.com/wp-content/uploads/2014/06/ASCII-file-including-more-data.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2014/06/ASCII-file-including-more-data.png" alt="Spatial_Manager_ASCII_file_including_more_data" width="615" height="391" srcset="http://www.spatialmanager.com/wp-content/uploads/2014/06/ASCII-file-including-more-data.png 905w, http://www.spatialmanager.com/wp-content/uploads/2014/06/ASCII-file-including-more-data-300x190.png 300w, http://www.spatialmanager.com/wp-content/uploads/2014/06/ASCII-file-including-more-data-624x397.png 624w" sizes="(max-width: 615px) 100vw, 615px" /></a>
+<a href="/images/blog/2014/06/ASCII-file-including-more-data.png" target="_blank" rel="nofollow"><img src="/images/blog/2014/06/ASCII-file-including-more-data.png" alt="Spatial_Manager_ASCII_file_including_more_data" width="615" height="391" srcset="/images/blog/2014/06/ASCII-file-including-more-data.png 905w, /images/blog/2014/06/ASCII-file-including-more-data-300x190.png 300w, /images/blog/2014/06/ASCII-file-including-more-data-624x397.png 624w" sizes="(max-width: 615px) 100vw, 615px" /></a>
 
 A good choice is to use the <a title="ODBC Wikipedia" href="http://en.wikipedia.org/wiki/Odbc" target="_blank" rel="nofollow">ODBC</a> data provider, which allows you access to standard Windows connections for <a title="MS Excel page" href="http://office.microsoft.com/en-us/excel/" target="_blank" rel="nofollow">MS Excel </a>workbooks, <a title="MS Access page" href="http://office.microsoft.com/en-us/access/" target="_blank" rel="nofollow">MS Access</a> databases and many other spatial data containers. An example of a typical process can be summarized in the following steps:
 
@@ -30,7 +30,7 @@ A good choice is to use the <a title="ODBC Wikipedia" href="http://en.wikipedia.
   
 2 &#8211; Add a header row and fill in the field names
 
-<a href="http://www.spatialmanager.com/wp-content/uploads/2014/06/ASCII-file-imported-in-Excel.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2014/06/ASCII-file-imported-in-Excel.png" alt="Spatial_Manager_ASCII_file_imported_in_Excel" width="615" height="280" srcset="http://www.spatialmanager.com/wp-content/uploads/2014/06/ASCII-file-imported-in-Excel.png 1144w, http://www.spatialmanager.com/wp-content/uploads/2014/06/ASCII-file-imported-in-Excel-300x136.png 300w, http://www.spatialmanager.com/wp-content/uploads/2014/06/ASCII-file-imported-in-Excel-1024x466.png 1024w, http://www.spatialmanager.com/wp-content/uploads/2014/06/ASCII-file-imported-in-Excel-624x284.png 624w" sizes="(max-width: 615px) 100vw, 615px" /></a>
+<a href="/images/blog/2014/06/ASCII-file-imported-in-Excel.png" target="_blank" rel="nofollow"><img src="/images/blog/2014/06/ASCII-file-imported-in-Excel.png" alt="Spatial_Manager_ASCII_file_imported_in_Excel" width="615" height="280" srcset="/images/blog/2014/06/ASCII-file-imported-in-Excel.png 1144w, /images/blog/2014/06/ASCII-file-imported-in-Excel-300x136.png 300w, /images/blog/2014/06/ASCII-file-imported-in-Excel-1024x466.png 1024w, /images/blog/2014/06/ASCII-file-imported-in-Excel-624x284.png 624w" sizes="(max-width: 615px) 100vw, 615px" /></a>
 
 3 &#8211; Define a name inside the <a title="MS Excel page" href="http://office.microsoft.com/en-us/excel/" target="_blank" rel="nofollow">MS Excel </a>workbook for the full range of the data cells and the header row
   

@@ -3,10 +3,10 @@ id: 6242
 title: Getting the Z-coordinate from label contents
 date: 2019-03-05T21:22:54+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://www.spatialmanager.com/?p=6242
 permalink: /getting-the-z-coordinate-from-labels-content/
-image: /wp-content/uploads/2019/03/SurveyPts85.png
+image: /images/blog/2019/03/SurveyPts85.png
 categories:
   - CAD L2 (Medium)
 tags:
@@ -28,7 +28,7 @@ tags:
 </h2>
 
 <div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2019/03/SPMZText.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2019/03/SPMZText-1024x577.png" alt="'Spatial Manager' - Exporting Z-Coordinates from labels" width="625" height="352" srcset="http://www.spatialmanager.com/wp-content/uploads/2019/03/SPMZText-1024x577.png 1024w, http://www.spatialmanager.com/wp-content/uploads/2019/03/SPMZText-300x169.png 300w, http://www.spatialmanager.com/wp-content/uploads/2019/03/SPMZText-768x433.png 768w, http://www.spatialmanager.com/wp-content/uploads/2019/03/SPMZText-624x351.png 624w, http://www.spatialmanager.com/wp-content/uploads/2019/03/SPMZText.png 1266w" sizes="(max-width: 625px) 100vw, 625px" /></a>
+  <a href="/images/blog/2019/03/SPMZText.png" target="_blank" rel="nofollow"><img src="/images/blog/2019/03/SPMZText-1024x577.png" alt="'Spatial Manager' - Exporting Z-Coordinates from labels" width="625" height="352" srcset="/images/blog/2019/03/SPMZText-1024x577.png 1024w, /images/blog/2019/03/SPMZText-300x169.png 300w, /images/blog/2019/03/SPMZText-768x433.png 768w, /images/blog/2019/03/SPMZText-624x351.png 624w, /images/blog/2019/03/SPMZText.png 1266w" sizes="(max-width: 625px) 100vw, 625px" /></a>
   
   <p>
     &#8216;Spatial Manager&#8217; &#8211; Exporting Z-Coordinates from labels

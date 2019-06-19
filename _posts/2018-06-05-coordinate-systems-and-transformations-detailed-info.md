@@ -3,10 +3,10 @@ id: 5282
 title: Coordinate Systems and Transformations detailed info
 date: 2018-06-05T09:49:11+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://www.spatialmanager.com/?p=5282
 permalink: /coordinate-systems-and-transformations-detailed-info/
-image: /wp-content/uploads/2018/04/SPM_Info85.png
+image: /images/blog/2018/04/SPM_Info85.png
 categories:
   - CAD L2 (Medium)
   - Desktop L2 (Medium)
@@ -29,7 +29,7 @@ tags:
 </h2>
 
 <div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2018/04/SPM_Access_CRS-Trans_Info.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2018/04/SPM_Access_CRS-Trans_Info.png" alt="Access CRSs and Transformation detailed information" width="553" height="460" srcset="http://www.spatialmanager.com/wp-content/uploads/2018/04/SPM_Access_CRS-Trans_Info.png 553w, http://www.spatialmanager.com/wp-content/uploads/2018/04/SPM_Access_CRS-Trans_Info-300x250.png 300w" sizes="(max-width: 553px) 100vw, 553px" /></a>
+  <a href="/images/blog/2018/04/SPM_Access_CRS-Trans_Info.png" target="_blank" rel="nofollow"><img src="/images/blog/2018/04/SPM_Access_CRS-Trans_Info.png" alt="Access CRSs and Transformation detailed information" width="553" height="460" srcset="/images/blog/2018/04/SPM_Access_CRS-Trans_Info.png 553w, /images/blog/2018/04/SPM_Access_CRS-Trans_Info-300x250.png 300w" sizes="(max-width: 553px) 100vw, 553px" /></a>
   
   <p>
     Access CRSs and Transformation detailed information
@@ -47,7 +47,7 @@ tags:
 </h2>
 
 <div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2018/04/SPM_CRS_Info.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2018/04/SPM_CRS_Info.png" alt="'Spatial Manager' CRS detailed information" width="747" height="586" srcset="http://www.spatialmanager.com/wp-content/uploads/2018/04/SPM_CRS_Info.png 747w, http://www.spatialmanager.com/wp-content/uploads/2018/04/SPM_CRS_Info-300x235.png 300w, http://www.spatialmanager.com/wp-content/uploads/2018/04/SPM_CRS_Info-624x490.png 624w" sizes="(max-width: 747px) 100vw, 747px" /></a>
+  <a href="/images/blog/2018/04/SPM_CRS_Info.png" target="_blank" rel="nofollow"><img src="/images/blog/2018/04/SPM_CRS_Info.png" alt="'Spatial Manager' CRS detailed information" width="747" height="586" srcset="/images/blog/2018/04/SPM_CRS_Info.png 747w, /images/blog/2018/04/SPM_CRS_Info-300x235.png 300w, /images/blog/2018/04/SPM_CRS_Info-624x490.png 624w" sizes="(max-width: 747px) 100vw, 747px" /></a>
   
   <p>
     &#8216;Spatial Manager&#8217; CRS detailed information
@@ -73,7 +73,7 @@ Detailed CRS information:
 </h2>
 
 <div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2018/04/SPM_Transformation_Info.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2018/04/SPM_Transformation_Info.png" alt="'Spatial Manager' Coordinate Transformation detailed information" width="747" height="361" srcset="http://www.spatialmanager.com/wp-content/uploads/2018/04/SPM_Transformation_Info.png 747w, http://www.spatialmanager.com/wp-content/uploads/2018/04/SPM_Transformation_Info-300x145.png 300w, http://www.spatialmanager.com/wp-content/uploads/2018/04/SPM_Transformation_Info-624x302.png 624w" sizes="(max-width: 747px) 100vw, 747px" /></a>
+  <a href="/images/blog/2018/04/SPM_Transformation_Info.png" target="_blank" rel="nofollow"><img src="/images/blog/2018/04/SPM_Transformation_Info.png" alt="'Spatial Manager' Coordinate Transformation detailed information" width="747" height="361" srcset="/images/blog/2018/04/SPM_Transformation_Info.png 747w, /images/blog/2018/04/SPM_Transformation_Info-300x145.png 300w, /images/blog/2018/04/SPM_Transformation_Info-624x302.png 624w" sizes="(max-width: 747px) 100vw, 747px" /></a>
   
   <p>
     &#8216;Spatial Manager&#8217; Coordinate Transformation detailed information

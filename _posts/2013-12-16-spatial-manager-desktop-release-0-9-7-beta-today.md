@@ -3,10 +3,10 @@ id: 465
 title: Spatial Manager Desktop™ 0.9.7 (beta) released today
 date: 2013-12-16T19:22:42+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://berlin.opencartis.com/wordpress/?p=465
 permalink: /spatial-manager-desktop-release-0-9-7-beta-today/
-image: /wp-content/uploads/2013/12/SPM-Desktop-85.png
+image: /images/blog/2013/12/SPM-Desktop-85.png
 categories:
   - Announcement
 tags:

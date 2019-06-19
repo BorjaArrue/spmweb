@@ -3,10 +3,10 @@ id: 1202
 title: First commercial versions of Spatial Manager™ released
 date: 2014-06-02T11:19:27+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://www.spatialmanager.com/?p=1202
 permalink: /released-commercial-versions-spatial-manager/
-image: /wp-content/uploads/2014/06/Logo-Grey85.png
+image: /images/blog/2014/06/Logo-Grey85.png
 categories:
   - Announcement
 tags:
@@ -22,7 +22,7 @@ The commercial versions of the products come to market in **various Editions**,
 
 The Spatial Manager™ website and the Spatial Manager™ wiki have been refurbished to allow you access to the new commercial versions (or to the trial versions) and to any information concerning the purchase and installation of the products and their licenses
 
-<a href="http://www.spatialmanager.com/wp-content/uploads/2014/06/Spatial_Manager_Buy_Page2.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2014/06/Spatial_Manager_Buy_Page2.png" alt="Spatial Manager - Buy page" width="625" height="315" /></a>
+<a href="/images/blog/2014/06/Spatial_Manager_Buy_Page2.png" target="_blank" rel="nofollow"><img src="/images/blog/2014/06/Spatial_Manager_Buy_Page2.png" alt="Spatial Manager - Buy page" width="625" height="315" /></a>
   
 _Note: the prices and products shown in this image MAY CHANGE and they are displayed only as an example_ 
 

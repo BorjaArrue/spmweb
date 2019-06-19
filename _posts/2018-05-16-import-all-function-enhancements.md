@@ -3,10 +3,10 @@ id: 5411
 title: '&#8216;Import-All&#8217; function Enhancements'
 date: 2018-05-16T16:48:03+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://www.spatialmanager.com/?p=5411
 permalink: /import-all-function-enhancements/
-image: /wp-content/uploads/2018/05/SPM-Import-All-Enhanced85.png
+image: /images/blog/2018/05/SPM-Import-All-Enhanced85.png
 categories:
   - CAD L1 (Basic)
 tags:
@@ -26,7 +26,7 @@ tags:
 </h2>
 
 <div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2018/05/Import-All-Enh-SPM.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2018/05/Import-All-Enh-SPM-1024x475.png" alt="New 'Import-All' options and parameters" width="625" height="290" srcset="http://www.spatialmanager.com/wp-content/uploads/2018/05/Import-All-Enh-SPM-1024x475.png 1024w, http://www.spatialmanager.com/wp-content/uploads/2018/05/Import-All-Enh-SPM-300x139.png 300w, http://www.spatialmanager.com/wp-content/uploads/2018/05/Import-All-Enh-SPM-768x357.png 768w, http://www.spatialmanager.com/wp-content/uploads/2018/05/Import-All-Enh-SPM-624x290.png 624w, http://www.spatialmanager.com/wp-content/uploads/2018/05/Import-All-Enh-SPM.png 1271w" sizes="(max-width: 625px) 100vw, 625px" /></a>
+  <a href="/images/blog/2018/05/Import-All-Enh-SPM.png" target="_blank" rel="nofollow"><img src="/images/blog/2018/05/Import-All-Enh-SPM-1024x475.png" alt="New 'Import-All' options and parameters" width="625" height="290" srcset="/images/blog/2018/05/Import-All-Enh-SPM-1024x475.png 1024w, /images/blog/2018/05/Import-All-Enh-SPM-300x139.png 300w, /images/blog/2018/05/Import-All-Enh-SPM-768x357.png 768w, /images/blog/2018/05/Import-All-Enh-SPM-624x290.png 624w, /images/blog/2018/05/Import-All-Enh-SPM.png 1271w" sizes="(max-width: 625px) 100vw, 625px" /></a>
   
   <p>
     New &#8216;Import-All&#8217; options and parameters
@@ -48,7 +48,7 @@ tags:
 </p>
 
 <h2>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2018/05/Import-all-LayerByTable.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2018/05/Import-all-LayerByTable.png" alt="Import-all-LayerByTable" width="296" height="126" /></a>
+  <a href="/images/blog/2018/05/Import-all-LayerByTable.png" target="_blank" rel="nofollow"><img src="/images/blog/2018/05/Import-all-LayerByTable.png" alt="Import-all-LayerByTable" width="296" height="126" /></a>
 </h2>
 
 <p>

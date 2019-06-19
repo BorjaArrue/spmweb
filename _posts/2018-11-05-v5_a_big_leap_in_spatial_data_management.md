@@ -3,10 +3,10 @@ id: 5875
 title: 'V5: A big leap in spatial data management'
 date: 2018-11-05T21:25:23+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://www.spatialmanager.com/?p=5875
 permalink: /v5_a_big_leap_in_spatial_data_management/
-image: /wp-content/uploads/2018/10/SPMV5_TheDataGrid85.png
+image: /images/blog/2018/10/SPMV5_TheDataGrid85.png
 categories:
   - Announcement
 tags:
@@ -21,7 +21,7 @@ tags:
 </p>
 
 <div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2018/10/SPMDataTableGridCAD-B.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2018/10/SPMDataTableGridCAD-B.png" alt="The 'Spatial Manager 5' Data Grid" width="1082" height="617" srcset="http://www.spatialmanager.com/wp-content/uploads/2018/10/SPMDataTableGridCAD-B.png 1082w, http://www.spatialmanager.com/wp-content/uploads/2018/10/SPMDataTableGridCAD-B-300x171.png 300w, http://www.spatialmanager.com/wp-content/uploads/2018/10/SPMDataTableGridCAD-B-768x438.png 768w, http://www.spatialmanager.com/wp-content/uploads/2018/10/SPMDataTableGridCAD-B-1024x584.png 1024w, http://www.spatialmanager.com/wp-content/uploads/2018/10/SPMDataTableGridCAD-B-624x356.png 624w" sizes="(max-width: 1082px) 100vw, 1082px" /></a>
+  <a href="/images/blog/2018/10/SPMDataTableGridCAD-B.png" target="_blank" rel="nofollow"><img src="/images/blog/2018/10/SPMDataTableGridCAD-B.png" alt="The 'Spatial Manager 5' Data Grid" width="1082" height="617" srcset="/images/blog/2018/10/SPMDataTableGridCAD-B.png 1082w, /images/blog/2018/10/SPMDataTableGridCAD-B-300x171.png 300w, /images/blog/2018/10/SPMDataTableGridCAD-B-768x438.png 768w, /images/blog/2018/10/SPMDataTableGridCAD-B-1024x584.png 1024w, /images/blog/2018/10/SPMDataTableGridCAD-B-624x356.png 624w" sizes="(max-width: 1082px) 100vw, 1082px" /></a>
   
   <p>
     The &#8216;Spatial Manager 5&#8217; Data Grid

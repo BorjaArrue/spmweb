@@ -3,10 +3,10 @@ id: 6004
 title: The new Data Grid
 date: 2018-11-20T13:18:24+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://www.spatialmanager.com/?p=6004
 permalink: /the-new-data-grid/
-image: /wp-content/uploads/2018/11/SPM_DG-85-2.png
+image: /images/blog/2018/11/SPM_DG-85-2.png
 categories:
   - CAD L2 (Medium)
 tags:
@@ -27,11 +27,11 @@ tags:
 </h2>
 
 <p>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2018/11/SPMDataGrid_Ribbon2.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2018/11/SPMDataGrid_Ribbon2.png" alt="SPMDataGrid_Ribbon2" width="903" height="101" srcset="http://www.spatialmanager.com/wp-content/uploads/2018/11/SPMDataGrid_Ribbon2.png 903w, http://www.spatialmanager.com/wp-content/uploads/2018/11/SPMDataGrid_Ribbon2-300x34.png 300w, http://www.spatialmanager.com/wp-content/uploads/2018/11/SPMDataGrid_Ribbon2-768x86.png 768w, http://www.spatialmanager.com/wp-content/uploads/2018/11/SPMDataGrid_Ribbon2-624x70.png 624w" sizes="(max-width: 903px) 100vw, 903px" /></a>
+  <a href="/images/blog/2018/11/SPMDataGrid_Ribbon2.png" target="_blank" rel="nofollow"><img src="/images/blog/2018/11/SPMDataGrid_Ribbon2.png" alt="SPMDataGrid_Ribbon2" width="903" height="101" srcset="/images/blog/2018/11/SPMDataGrid_Ribbon2.png 903w, /images/blog/2018/11/SPMDataGrid_Ribbon2-300x34.png 300w, /images/blog/2018/11/SPMDataGrid_Ribbon2-768x86.png 768w, /images/blog/2018/11/SPMDataGrid_Ribbon2-624x70.png 624w" sizes="(max-width: 903px) 100vw, 903px" /></a>
 </p>
 
 <div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2018/11/SPM_DataGrid_SM.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2018/11/SPM_DataGrid_SM.png" alt="'Spatial Manager' Data Grid palette" width="1280" height="650" srcset="http://www.spatialmanager.com/wp-content/uploads/2018/11/SPM_DataGrid_SM.png 1280w, http://www.spatialmanager.com/wp-content/uploads/2018/11/SPM_DataGrid_SM-300x152.png 300w, http://www.spatialmanager.com/wp-content/uploads/2018/11/SPM_DataGrid_SM-768x390.png 768w, http://www.spatialmanager.com/wp-content/uploads/2018/11/SPM_DataGrid_SM-1024x520.png 1024w, http://www.spatialmanager.com/wp-content/uploads/2018/11/SPM_DataGrid_SM-624x317.png 624w" sizes="(max-width: 1280px) 100vw, 1280px" /></a>
+  <a href="/images/blog/2018/11/SPM_DataGrid_SM.png" target="_blank" rel="nofollow"><img src="/images/blog/2018/11/SPM_DataGrid_SM.png" alt="'Spatial Manager' Data Grid palette" width="1280" height="650" srcset="/images/blog/2018/11/SPM_DataGrid_SM.png 1280w, /images/blog/2018/11/SPM_DataGrid_SM-300x152.png 300w, /images/blog/2018/11/SPM_DataGrid_SM-768x390.png 768w, /images/blog/2018/11/SPM_DataGrid_SM-1024x520.png 1024w, /images/blog/2018/11/SPM_DataGrid_SM-624x317.png 624w" sizes="(max-width: 1280px) 100vw, 1280px" /></a>
   
   <p>
     &#8216;Spatial Manager&#8217; Data Grid palette
@@ -214,7 +214,7 @@ tags:
 </h2>
 
 <div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2018/11/SPM_Excel.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2018/11/SPM_Excel.png" alt="Exporting from 'Data Grid' to Excel, Access, CSV, etc." width="1435" height="684" srcset="http://www.spatialmanager.com/wp-content/uploads/2018/11/SPM_Excel.png 1435w, http://www.spatialmanager.com/wp-content/uploads/2018/11/SPM_Excel-300x143.png 300w, http://www.spatialmanager.com/wp-content/uploads/2018/11/SPM_Excel-768x366.png 768w, http://www.spatialmanager.com/wp-content/uploads/2018/11/SPM_Excel-1024x488.png 1024w, http://www.spatialmanager.com/wp-content/uploads/2018/11/SPM_Excel-624x297.png 624w" sizes="(max-width: 1435px) 100vw, 1435px" /></a>
+  <a href="/images/blog/2018/11/SPM_Excel.png" target="_blank" rel="nofollow"><img src="/images/blog/2018/11/SPM_Excel.png" alt="Exporting from 'Data Grid' to Excel, Access, CSV, etc." width="1435" height="684" srcset="/images/blog/2018/11/SPM_Excel.png 1435w, /images/blog/2018/11/SPM_Excel-300x143.png 300w, /images/blog/2018/11/SPM_Excel-768x366.png 768w, /images/blog/2018/11/SPM_Excel-1024x488.png 1024w, /images/blog/2018/11/SPM_Excel-624x297.png 624w" sizes="(max-width: 1435px) 100vw, 1435px" /></a>
   
   <p>
     Exporting from &#8216;Data Grid&#8217; to Excel, Access, CSV, etc.
@@ -254,7 +254,7 @@ tags:
 </h2>
 
 <div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2018/11/SPM_DataQueries.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2018/11/SPM_DataQueries.png" alt="'Data Grid' queries" width="1280" height="650" srcset="http://www.spatialmanager.com/wp-content/uploads/2018/11/SPM_DataQueries.png 1280w, http://www.spatialmanager.com/wp-content/uploads/2018/11/SPM_DataQueries-300x152.png 300w, http://www.spatialmanager.com/wp-content/uploads/2018/11/SPM_DataQueries-768x390.png 768w, http://www.spatialmanager.com/wp-content/uploads/2018/11/SPM_DataQueries-1024x520.png 1024w, http://www.spatialmanager.com/wp-content/uploads/2018/11/SPM_DataQueries-624x317.png 624w" sizes="(max-width: 1280px) 100vw, 1280px" /></a>
+  <a href="/images/blog/2018/11/SPM_DataQueries.png" target="_blank" rel="nofollow"><img src="/images/blog/2018/11/SPM_DataQueries.png" alt="'Data Grid' queries" width="1280" height="650" srcset="/images/blog/2018/11/SPM_DataQueries.png 1280w, /images/blog/2018/11/SPM_DataQueries-300x152.png 300w, /images/blog/2018/11/SPM_DataQueries-768x390.png 768w, /images/blog/2018/11/SPM_DataQueries-1024x520.png 1024w, /images/blog/2018/11/SPM_DataQueries-624x317.png 624w" sizes="(max-width: 1280px) 100vw, 1280px" /></a>
   
   <p>
     &#8216;Data Grid&#8217; queries

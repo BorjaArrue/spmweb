@@ -3,10 +3,10 @@ id: 2478
 title: New Spatial Manager™ partners
 date: 2015-05-26T13:52:47+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://www.spatialmanager.com/?p=2478
 permalink: /new-spatial-manager-partners/
-image: /wp-content/uploads/2015/05/Partner-puzzle.png
+image: /images/blog/2015/05/Partner-puzzle.png
 categories:
   - Announcement
 tags:
@@ -63,7 +63,7 @@ _<a href="http://www.inqubi.com" target="_blank" rel="nofollow">www.inqubi.com</
 ## 
 
 <p>
-  <a href="https://chasmtech.wordpress.com/2015/05/14/accessing-spatial-data-in-cad-without-autocad-map/" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2015/05/Chasmtech-blog-MAY15.jpg" alt="Chasmtech blog MAY15" width="400" height="488" srcset="http://www.spatialmanager.com/wp-content/uploads/2015/05/Chasmtech-blog-MAY15.jpg 839w, http://www.spatialmanager.com/wp-content/uploads/2015/05/Chasmtech-blog-MAY15-246x300.jpg 246w, http://www.spatialmanager.com/wp-content/uploads/2015/05/Chasmtech-blog-MAY15-624x760.jpg 624w" sizes="(max-width: 400px) 100vw, 400px" /></a>
+  <a href="https://chasmtech.wordpress.com/2015/05/14/accessing-spatial-data-in-cad-without-autocad-map/" target="_blank" rel="nofollow"><img src="/images/blog/2015/05/Chasmtech-blog-MAY15.jpg" alt="Chasmtech blog MAY15" width="400" height="488" srcset="/images/blog/2015/05/Chasmtech-blog-MAY15.jpg 839w, /images/blog/2015/05/Chasmtech-blog-MAY15-246x300.jpg 246w, /images/blog/2015/05/Chasmtech-blog-MAY15-624x760.jpg 624w" sizes="(max-width: 400px) 100vw, 400px" /></a>
 </p>
 
 ## 
@@ -73,7 +73,7 @@ _&#8211; **Chasmtech Blog** (above) &#8211;_
 ## 
 
 <p>
-  <a href="http://www.inqubi.com/?page_id=866" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2015/05/inQUBI-page-product-MAY15-1024x887.jpg" alt="inQUBI page product MAY15" width="400" height="347" srcset="http://www.spatialmanager.com/wp-content/uploads/2015/05/inQUBI-page-product-MAY15-1024x887.jpg 1024w, http://www.spatialmanager.com/wp-content/uploads/2015/05/inQUBI-page-product-MAY15-300x259.jpg 300w, http://www.spatialmanager.com/wp-content/uploads/2015/05/inQUBI-page-product-MAY15-624x540.jpg 624w, http://www.spatialmanager.com/wp-content/uploads/2015/05/inQUBI-page-product-MAY15.jpg 1144w" sizes="(max-width: 400px) 100vw, 400px" /></a>
+  <a href="http://www.inqubi.com/?page_id=866" target="_blank" rel="nofollow"><img src="/images/blog/2015/05/inQUBI-page-product-MAY15-1024x887.jpg" alt="inQUBI page product MAY15" width="400" height="347" srcset="/images/blog/2015/05/inQUBI-page-product-MAY15-1024x887.jpg 1024w, /images/blog/2015/05/inQUBI-page-product-MAY15-300x259.jpg 300w, /images/blog/2015/05/inQUBI-page-product-MAY15-624x540.jpg 624w, /images/blog/2015/05/inQUBI-page-product-MAY15.jpg 1144w" sizes="(max-width: 400px) 100vw, 400px" /></a>
 </p>
 
 ## 

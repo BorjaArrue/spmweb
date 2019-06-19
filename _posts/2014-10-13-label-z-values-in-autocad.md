@@ -3,10 +3,10 @@ id: 1840
 title: Label Z values in AutoCAD
 date: 2014-10-13T17:11:47+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://www.spatialmanager.com/?p=1840
 permalink: /label-z-values-in-autocad/
-image: /wp-content/uploads/2014/10/Label-Z-values-in-AutoCAD-Spatial-Manager.png
+image: /images/blog/2014/10/Label-Z-values-in-AutoCAD-Spatial-Manager.png
 categories:
   - CAD L2 (Medium)
 tags:
@@ -27,7 +27,7 @@ The XYZ files are one of the most common types of files to store points coordina
 Every line in the file corresponds to a point data and every number between two delimiter characters in a line corresponds to a coordinate (X, Y or Z) of a point feature. There are various characters that may be used as the delimiter character. The most common used delimiter characters are the comma, the tab, the space character or the semicolon
 
 <p>
-  <img src="http://www.spatialmanager.com/wp-content/uploads/2014/08/AutoCAD-XYZ-Notepad.png" alt="AutoCAD XYZ file - Open XYZ file in Notepad" width="542" height="244" srcset="http://www.spatialmanager.com/wp-content/uploads/2014/08/AutoCAD-XYZ-Notepad.png 542w, http://www.spatialmanager.com/wp-content/uploads/2014/08/AutoCAD-XYZ-Notepad-300x135.png 300w" sizes="(max-width: 542px) 100vw, 542px" />
+  <img src="/images/blog/2014/08/AutoCAD-XYZ-Notepad.png" alt="AutoCAD XYZ file - Open XYZ file in Notepad" width="542" height="244" srcset="/images/blog/2014/08/AutoCAD-XYZ-Notepad.png 542w, /images/blog/2014/08/AutoCAD-XYZ-Notepad-300x135.png 300w" sizes="(max-width: 542px) 100vw, 542px" />
 </p>
 
 ## XYZ to CAD

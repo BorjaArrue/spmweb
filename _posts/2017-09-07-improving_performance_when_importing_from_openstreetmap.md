@@ -3,10 +3,10 @@ id: 4176
 title: Improve performance when importing from OpenStreetMap
 date: 2017-09-07T13:42:55+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://www.spatialmanager.com/?p=4176
 permalink: /improving_performance_when_importing_from_openstreetmap/
-image: /wp-content/uploads/2017/08/Speed-UpOSM85.jpg
+image: /images/blog/2017/08/Speed-UpOSM85.jpg
 categories:
   - CAD L2 (Medium)
 tags:
@@ -23,7 +23,7 @@ tags:
 </p>
 
 <div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2017/09/SPMImport-Frankfurt-OSM.jpg" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2017/09/SPMImport-Frankfurt-OSM-300x169.jpg" alt="Importing from OpenStreetMap to AutoCAD or BricsCAD" width="625" height="352" srcset="http://www.spatialmanager.com/wp-content/uploads/2017/09/SPMImport-Frankfurt-OSM-300x169.jpg 300w, http://www.spatialmanager.com/wp-content/uploads/2017/09/SPMImport-Frankfurt-OSM-768x432.jpg 768w, http://www.spatialmanager.com/wp-content/uploads/2017/09/SPMImport-Frankfurt-OSM-624x351.jpg 624w, http://www.spatialmanager.com/wp-content/uploads/2017/09/SPMImport-Frankfurt-OSM.jpg 960w" sizes="(max-width: 625px) 100vw, 625px" /></a>
+  <a href="/images/blog/2017/09/SPMImport-Frankfurt-OSM.jpg" target="_blank" rel="nofollow"><img src="/images/blog/2017/09/SPMImport-Frankfurt-OSM-300x169.jpg" alt="Importing from OpenStreetMap to AutoCAD or BricsCAD" width="625" height="352" srcset="/images/blog/2017/09/SPMImport-Frankfurt-OSM-300x169.jpg 300w, /images/blog/2017/09/SPMImport-Frankfurt-OSM-768x432.jpg 768w, /images/blog/2017/09/SPMImport-Frankfurt-OSM-624x351.jpg 624w, /images/blog/2017/09/SPMImport-Frankfurt-OSM.jpg 960w" sizes="(max-width: 625px) 100vw, 625px" /></a>
   
   <p>
     Importing from OpenStreetMap to AutoCAD or BricsCAD
@@ -53,7 +53,7 @@ tags:
 </p>
 
 <div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2017/09/Reading-fields-OSM-SPM.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2017/09/Reading-fields-OSM-SPM.png" alt="Reading OSM fields" width="553" height="643" srcset="http://www.spatialmanager.com/wp-content/uploads/2017/09/Reading-fields-OSM-SPM.png 553w, http://www.spatialmanager.com/wp-content/uploads/2017/09/Reading-fields-OSM-SPM-258x300.png 258w" sizes="(max-width: 553px) 100vw, 553px" /></a>
+  <a href="/images/blog/2017/09/Reading-fields-OSM-SPM.png" target="_blank" rel="nofollow"><img src="/images/blog/2017/09/Reading-fields-OSM-SPM.png" alt="Reading OSM fields" width="553" height="643" srcset="/images/blog/2017/09/Reading-fields-OSM-SPM.png 553w, /images/blog/2017/09/Reading-fields-OSM-SPM-258x300.png 258w" sizes="(max-width: 553px) 100vw, 553px" /></a>
   
   <p>
     Reading OSM fields

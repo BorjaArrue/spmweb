@@ -3,10 +3,10 @@ id: 873
 title: New beta applications released
 date: 2014-04-04T11:19:03+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://www.spatialmanager.com/?p=873
 permalink: /spatial-manager-desktop-0-9-9-beta-released-today/
-image: /wp-content/uploads/2014/06/Logo-Grey85.png
+image: /images/blog/2014/06/Logo-Grey85.png
 categories:
   - Announcement
 tags:
@@ -29,5 +29,5 @@ Most important new features in Spatial Manager Desktop™:
 _Stay tuned to this blog over the coming days; there will be some posts on these interesting new features_
 
 <p>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2014/03/Sat_Background.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2014/03/Sat_Background.png" alt="Sat_Background" width="809" height="442" srcset="http://www.spatialmanager.com/wp-content/uploads/2014/03/Sat_Background.png 809w, http://www.spatialmanager.com/wp-content/uploads/2014/03/Sat_Background-300x163.png 300w, http://www.spatialmanager.com/wp-content/uploads/2014/03/Sat_Background-624x340.png 624w" sizes="(max-width: 809px) 100vw, 809px" /></a>
+  <a href="/images/blog/2014/03/Sat_Background.png" target="_blank" rel="nofollow"><img src="/images/blog/2014/03/Sat_Background.png" alt="Sat_Background" width="809" height="442" srcset="/images/blog/2014/03/Sat_Background.png 809w, /images/blog/2014/03/Sat_Background-300x163.png 300w, /images/blog/2014/03/Sat_Background-624x340.png 624w" sizes="(max-width: 809px) 100vw, 809px" /></a>
 </p>

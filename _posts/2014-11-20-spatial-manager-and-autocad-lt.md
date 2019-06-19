@@ -3,10 +3,10 @@ id: 1960
 title: Spatial Manager and AutoCAD LT
 date: 2014-11-20T15:00:13+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://www.spatialmanager.com/?p=1960
 permalink: /spatial-manager-and-autocad-lt/
-image: /wp-content/uploads/2014/11/autocad-lt-85.png
+image: /images/blog/2014/11/autocad-lt-85.png
 categories:
   - Desktop L1 (Basic)
 tags:
@@ -25,7 +25,7 @@ tags:
 
 <span>This restriction prevents</span> <span>AutoCAD LT</span> <span>users</span> of running <a title="Spatial Manager™ for AutoCAD product page" href="http://www.spatialmanager.com/spm-forautocad/" target="_blank" rel="nofollow"><span>Spatial</span> <span>Manager™</span> <span>for AutoCAD</span></a> and from importing<span> spatial features</span> <span>from multiple</span> <span>sources such as</span> <span>files,</span> <span>databases or</span> <span>stores,</span> <span>as</span> <span>AutoCAD objects. This</span> <span>happens</span> <span>with</span> <span>all applications developed</span> <span>for AutoCAD</span>
 
-<a href="http://www.spatialmanager.com/wp-content/uploads/2014/11/LT2015.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2014/11/LT2015.png" alt="Spatial Manager and AutoCAD LT - LT2015" width="624" height="363" srcset="http://www.spatialmanager.com/wp-content/uploads/2014/11/LT2015.png 860w, http://www.spatialmanager.com/wp-content/uploads/2014/11/LT2015-300x174.png 300w, http://www.spatialmanager.com/wp-content/uploads/2014/11/LT2015-624x362.png 624w" sizes="(max-width: 624px) 100vw, 624px" /></a>
+<a href="/images/blog/2014/11/LT2015.png" target="_blank" rel="nofollow"><img src="/images/blog/2014/11/LT2015.png" alt="Spatial Manager and AutoCAD LT - LT2015" width="624" height="363" srcset="/images/blog/2014/11/LT2015.png 860w, /images/blog/2014/11/LT2015-300x174.png 300w, /images/blog/2014/11/LT2015-624x362.png 624w" sizes="(max-width: 624px) 100vw, 624px" /></a>
 
 ## Spatial Manager Desktop™
 
@@ -35,7 +35,7 @@ tags:
 
 <span>Thus, any user who needs to incorporate into AutoCAD drawings <strong>spatial information coming from Shapefiles (SHP), Google Earth KML, OpenStreetMap, Excel, PostGIS and many other data sources</strong>, can export it (2D geometries, but no data) to <a title="DXF in Wikipedia" href="http://en.wikipedia.org/wiki/AutoCAD_DXF" target="_blank" rel="nofollow">DXF</a> files which can be opened, inserted, etc. within AutoCAD LT with identical options that the DWG files have</span>
 
-<a href="http://www.spatialmanager.com/wp-content/uploads/2014/11/SPM-Desktop.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2014/11/SPM-Desktop-1024x576.png" alt="Spatial Manager and AutoCAD LT - SPM Desktop" width="625" height="351" srcset="http://www.spatialmanager.com/wp-content/uploads/2014/11/SPM-Desktop-1024x576.png 1024w, http://www.spatialmanager.com/wp-content/uploads/2014/11/SPM-Desktop-300x168.png 300w, http://www.spatialmanager.com/wp-content/uploads/2014/11/SPM-Desktop-624x351.png 624w, http://www.spatialmanager.com/wp-content/uploads/2014/11/SPM-Desktop.png 1280w" sizes="(max-width: 625px) 100vw, 625px" /></a>
+<a href="/images/blog/2014/11/SPM-Desktop.png" target="_blank" rel="nofollow"><img src="/images/blog/2014/11/SPM-Desktop-1024x576.png" alt="Spatial Manager and AutoCAD LT - SPM Desktop" width="625" height="351" srcset="/images/blog/2014/11/SPM-Desktop-1024x576.png 1024w, /images/blog/2014/11/SPM-Desktop-300x168.png 300w, /images/blog/2014/11/SPM-Desktop-624x351.png 624w, /images/blog/2014/11/SPM-Desktop.png 1280w" sizes="(max-width: 625px) 100vw, 625px" /></a>
 
 <span>You</span> <span>can buy</span> <span>the</span> <a title="Spatial Manager Desktop™ prices page" href="http://www.spatialmanager.com/spm-desktop-prices/" target="_blank" rel="nofollow"><span>Basic</span> <span>edition</span> of <span>Spatial</span> <span>Manager</span> Desktop<span>™</span></a> <span>for <strong>a very low</strong></span> <span><strong>price</strong> and</span> do these types<span> of</span> <span>export operations</span> <span>and many others that</span> <span>will also</span> <span>greatly</span> <span>facilitate</span> <span>the</span> <span>management of your</span> <span>spatial data.</span> <span>If</span> <span>you want more functionality</span> <span>in the application,</span> <span>you can also choose</span> <span>the</span> <a title="Spatial Manager Desktop™ main features" href="http://wiki.spatialmanager.com/index.php/Spatial_Manager_Desktop%E2%84%A2#Introduction" target="_blank" rel="nofollow"><span>Standard</span> edition <span>or the Professional</span> <span>edition</span></a>
 

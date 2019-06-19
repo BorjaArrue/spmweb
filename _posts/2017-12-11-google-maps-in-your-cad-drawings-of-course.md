@@ -3,10 +3,10 @@ id: 4718
 title: Google Maps in your CAD drawings? Of course
 date: 2017-12-11T12:05:52+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://www.spatialmanager.com/?p=4718
 permalink: /google-maps-in-your-cad-drawings-of-course/
-image: /wp-content/uploads/2017/12/DWG-G_Maps-pin-85-2.png
+image: /images/blog/2017/12/DWG-G_Maps-pin-85-2.png
 categories:
   - CAD L2 (Medium)
   - Desktop L2 (Medium)
@@ -25,7 +25,7 @@ tags:
 * * *
 
 <div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2017/12/SPM-User-Maps-Google-Maps.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2017/12/SPM-User-Maps-Google-Maps-1024x576.png" alt="'Spatial Manager' User Dynamic Maps: Google Maps" width="625" height="352" srcset="http://www.spatialmanager.com/wp-content/uploads/2017/12/SPM-User-Maps-Google-Maps-1024x576.png 1024w, http://www.spatialmanager.com/wp-content/uploads/2017/12/SPM-User-Maps-Google-Maps-300x169.png 300w, http://www.spatialmanager.com/wp-content/uploads/2017/12/SPM-User-Maps-Google-Maps-768x432.png 768w, http://www.spatialmanager.com/wp-content/uploads/2017/12/SPM-User-Maps-Google-Maps-624x351.png 624w, http://www.spatialmanager.com/wp-content/uploads/2017/12/SPM-User-Maps-Google-Maps.png 1280w" sizes="(max-width: 625px) 100vw, 625px" /></a>
+  <a href="/images/blog/2017/12/SPM-User-Maps-Google-Maps.png" target="_blank" rel="nofollow"><img src="/images/blog/2017/12/SPM-User-Maps-Google-Maps-1024x576.png" alt="'Spatial Manager' User Dynamic Maps: Google Maps" width="625" height="352" srcset="/images/blog/2017/12/SPM-User-Maps-Google-Maps-1024x576.png 1024w, /images/blog/2017/12/SPM-User-Maps-Google-Maps-300x169.png 300w, /images/blog/2017/12/SPM-User-Maps-Google-Maps-768x432.png 768w, /images/blog/2017/12/SPM-User-Maps-Google-Maps-624x351.png 624w, /images/blog/2017/12/SPM-User-Maps-Google-Maps.png 1280w" sizes="(max-width: 625px) 100vw, 625px" /></a>
   
   <p>
     &#8216;Spatial Manager&#8217; User Dynamic Maps: Google Maps

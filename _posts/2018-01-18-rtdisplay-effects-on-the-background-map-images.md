@@ -3,10 +3,10 @@ id: 4856
 title: RTDISPLAY effects on the Background Map images
 date: 2018-01-18T08:53:32+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://www.spatialmanager.com/?p=4856
 permalink: /rtdisplay-effects-on-the-background-map-images/
-image: /wp-content/uploads/2018/01/Map-Panning85.png
+image: /images/blog/2018/01/Map-Panning85.png
 categories:
   - CAD L2 (Medium)
 tags:
@@ -24,7 +24,7 @@ tags:
 * * *
 
 <div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2018/01/RTDISPLAY-Variable-and-Spatial-Manager-Maps.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2018/01/RTDISPLAY-Variable-and-Spatial-Manager-Maps.png" alt="RTDISPLAY System Variable" width="331" height="307" srcset="http://www.spatialmanager.com/wp-content/uploads/2018/01/RTDISPLAY-Variable-and-Spatial-Manager-Maps.png 331w, http://www.spatialmanager.com/wp-content/uploads/2018/01/RTDISPLAY-Variable-and-Spatial-Manager-Maps-300x278.png 300w" sizes="(max-width: 331px) 100vw, 331px" /></a>
+  <a href="/images/blog/2018/01/RTDISPLAY-Variable-and-Spatial-Manager-Maps.png" target="_blank" rel="nofollow"><img src="/images/blog/2018/01/RTDISPLAY-Variable-and-Spatial-Manager-Maps.png" alt="RTDISPLAY System Variable" width="331" height="307" srcset="/images/blog/2018/01/RTDISPLAY-Variable-and-Spatial-Manager-Maps.png 331w, /images/blog/2018/01/RTDISPLAY-Variable-and-Spatial-Manager-Maps-300x278.png 300w" sizes="(max-width: 331px) 100vw, 331px" /></a>
   
   <p>
     RTDISPLAY System Variable
@@ -65,7 +65,7 @@ tags:
 </h2>
 
 <div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2018/01/BricsCAD-Real-Time-Display-setting.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2018/01/BricsCAD-Real-Time-Display-setting.png" alt="BricsCAD Real-Time Display setting" width="582" height="398" srcset="http://www.spatialmanager.com/wp-content/uploads/2018/01/BricsCAD-Real-Time-Display-setting.png 582w, http://www.spatialmanager.com/wp-content/uploads/2018/01/BricsCAD-Real-Time-Display-setting-300x205.png 300w" sizes="(max-width: 582px) 100vw, 582px" /></a>
+  <a href="/images/blog/2018/01/BricsCAD-Real-Time-Display-setting.png" target="_blank" rel="nofollow"><img src="/images/blog/2018/01/BricsCAD-Real-Time-Display-setting.png" alt="BricsCAD Real-Time Display setting" width="582" height="398" srcset="/images/blog/2018/01/BricsCAD-Real-Time-Display-setting.png 582w, /images/blog/2018/01/BricsCAD-Real-Time-Display-setting-300x205.png 300w" sizes="(max-width: 582px) 100vw, 582px" /></a>
   
   <p>
     BricsCAD Real-Time Display setting
@@ -73,7 +73,7 @@ tags:
 </div>
 
 <div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2018/01/ZWCAD-Real-Time-Display-setting.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2018/01/ZWCAD-Real-Time-Display-setting.png" alt="ZWCAD Real-Time Display setting" width="647" height="396" srcset="http://www.spatialmanager.com/wp-content/uploads/2018/01/ZWCAD-Real-Time-Display-setting.png 647w, http://www.spatialmanager.com/wp-content/uploads/2018/01/ZWCAD-Real-Time-Display-setting-300x184.png 300w, http://www.spatialmanager.com/wp-content/uploads/2018/01/ZWCAD-Real-Time-Display-setting-624x382.png 624w" sizes="(max-width: 647px) 100vw, 647px" /></a>
+  <a href="/images/blog/2018/01/ZWCAD-Real-Time-Display-setting.png" target="_blank" rel="nofollow"><img src="/images/blog/2018/01/ZWCAD-Real-Time-Display-setting.png" alt="ZWCAD Real-Time Display setting" width="647" height="396" srcset="/images/blog/2018/01/ZWCAD-Real-Time-Display-setting.png 647w, /images/blog/2018/01/ZWCAD-Real-Time-Display-setting-300x184.png 300w, /images/blog/2018/01/ZWCAD-Real-Time-Display-setting-624x382.png 624w" sizes="(max-width: 647px) 100vw, 647px" /></a>
   
   <p>
     ZWCAD Real-Time Display setting

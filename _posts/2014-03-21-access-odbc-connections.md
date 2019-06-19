@@ -3,10 +3,10 @@ id: 856
 title: How to access ODBC connections
 date: 2014-03-21T20:57:51+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://www.spatialmanager.com/?p=856
 permalink: /access-odbc-connections/
-image: /wp-content/uploads/2014/03/gis_layers-85.png
+image: /images/blog/2014/03/gis_layers-85.png
 categories:
   - CAD L2 (Medium)
   - Desktop L2 (Medium)

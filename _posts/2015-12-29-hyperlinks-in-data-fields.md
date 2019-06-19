@@ -3,10 +3,10 @@ id: 2956
 title: Hyperlinks in Data fields
 date: 2015-12-29T14:50:05+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://www.spatialmanager.com/?p=2956
 permalink: /hyperlinks-in-data-fields/
-image: /wp-content/uploads/2015/12/logo851.png
+image: /images/blog/2015/12/logo851.png
 categories:
   - CAD L1 (Basic)
   - Desktop L1 (Basic)
@@ -42,7 +42,7 @@ All Spatial Manager™ products consider any text field **starting with &#8220;
 
 As shown in the above videos, the sample Parcels table that is loaded into a (land-use) county map includes a field of a building in the Parcel. If the value in this field starts as an Internet address, **a link is active** to open a record of the building
 
-## <img src="http://www.spatialmanager.com/wp-content/uploads/2015/12/Spatial-Manager-Hyperlinks-Boston-sample1-1024x577.png" alt="Spatial Manager Hyperlinks" width="625" height="352" srcset="http://www.spatialmanager.com/wp-content/uploads/2015/12/Spatial-Manager-Hyperlinks-Boston-sample1-1024x577.png 1024w, http://www.spatialmanager.com/wp-content/uploads/2015/12/Spatial-Manager-Hyperlinks-Boston-sample1-300x169.png 300w, http://www.spatialmanager.com/wp-content/uploads/2015/12/Spatial-Manager-Hyperlinks-Boston-sample1-624x351.png 624w, http://www.spatialmanager.com/wp-content/uploads/2015/12/Spatial-Manager-Hyperlinks-Boston-sample1.png 1266w" sizes="(max-width: 625px) 100vw, 625px" />
+## <img src="/images/blog/2015/12/Spatial-Manager-Hyperlinks-Boston-sample1-1024x577.png" alt="Spatial Manager Hyperlinks" width="625" height="352" srcset="/images/blog/2015/12/Spatial-Manager-Hyperlinks-Boston-sample1-1024x577.png 1024w, /images/blog/2015/12/Spatial-Manager-Hyperlinks-Boston-sample1-300x169.png 300w, /images/blog/2015/12/Spatial-Manager-Hyperlinks-Boston-sample1-624x351.png 624w, /images/blog/2015/12/Spatial-Manager-Hyperlinks-Boston-sample1.png 1266w" sizes="(max-width: 625px) 100vw, 625px" />
   
 CAD users: objects Hyperlink
 

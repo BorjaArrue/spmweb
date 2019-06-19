@@ -3,10 +3,10 @@ id: 2712
 title: 'MAR16 – New releases. The best &#8216;Spatial Manager&#8217; suite'
 date: 2016-03-23T19:08:05+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://www.spatialmanager.com/?p=2712
 permalink: /feb16-new-releases-the-best-spatial-manager-suite/
-image: /wp-content/uploads/2014/06/Logo-Grey85.png
+image: /images/blog/2014/06/Logo-Grey85.png
 categories:
   - Announcement
 tags:
@@ -17,7 +17,7 @@ tags:
 </p>
 
 <h2>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2016/02/Spatial-Manager-Backgrounds-Map36.png" rel="attachment wp-att-3039" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2016/02/Spatial-Manager-Backgrounds-Map36-1024x576.png" alt="Spatial-Manager-Backgrounds-Map36" width="625" height="352" srcset="http://www.spatialmanager.com/wp-content/uploads/2016/02/Spatial-Manager-Backgrounds-Map36-1024x576.png 1024w, http://www.spatialmanager.com/wp-content/uploads/2016/02/Spatial-Manager-Backgrounds-Map36-300x169.png 300w, http://www.spatialmanager.com/wp-content/uploads/2016/02/Spatial-Manager-Backgrounds-Map36-768x432.png 768w, http://www.spatialmanager.com/wp-content/uploads/2016/02/Spatial-Manager-Backgrounds-Map36-624x351.png 624w, http://www.spatialmanager.com/wp-content/uploads/2016/02/Spatial-Manager-Backgrounds-Map36.png 1280w" sizes="(max-width: 625px) 100vw, 625px" /></a><br /> Goal#1. Powerful and Easy to use Background Maps
+  <a href="/images/blog/2016/02/Spatial-Manager-Backgrounds-Map36.png" rel="attachment wp-att-3039" target="_blank" rel="nofollow"><img src="/images/blog/2016/02/Spatial-Manager-Backgrounds-Map36-1024x576.png" alt="Spatial-Manager-Backgrounds-Map36" width="625" height="352" srcset="/images/blog/2016/02/Spatial-Manager-Backgrounds-Map36-1024x576.png 1024w, /images/blog/2016/02/Spatial-Manager-Backgrounds-Map36-300x169.png 300w, /images/blog/2016/02/Spatial-Manager-Backgrounds-Map36-768x432.png 768w, /images/blog/2016/02/Spatial-Manager-Backgrounds-Map36-624x351.png 624w, /images/blog/2016/02/Spatial-Manager-Backgrounds-Map36.png 1280w" sizes="(max-width: 625px) 100vw, 625px" /></a><br /> Goal#1. Powerful and Easy to use Background Maps
 </h2>
 
 <p>
@@ -49,7 +49,7 @@ tags:
 </p>
 
 <p>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2015/11/Spatial-Manager-BricsCAD-GML.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2015/11/Spatial-Manager-BricsCAD-GML-1024x577.png" alt="Spatial-Manager-BricsCAD-GML" width="625" height="352" srcset="http://www.spatialmanager.com/wp-content/uploads/2015/11/Spatial-Manager-BricsCAD-GML-1024x577.png 1024w, http://www.spatialmanager.com/wp-content/uploads/2015/11/Spatial-Manager-BricsCAD-GML-300x169.png 300w, http://www.spatialmanager.com/wp-content/uploads/2015/11/Spatial-Manager-BricsCAD-GML-624x351.png 624w, http://www.spatialmanager.com/wp-content/uploads/2015/11/Spatial-Manager-BricsCAD-GML.png 1266w" sizes="(max-width: 625px) 100vw, 625px" /></a>
+  <a href="/images/blog/2015/11/Spatial-Manager-BricsCAD-GML.png" target="_blank" rel="nofollow"><img src="/images/blog/2015/11/Spatial-Manager-BricsCAD-GML-1024x577.png" alt="Spatial-Manager-BricsCAD-GML" width="625" height="352" srcset="/images/blog/2015/11/Spatial-Manager-BricsCAD-GML-1024x577.png 1024w, /images/blog/2015/11/Spatial-Manager-BricsCAD-GML-300x169.png 300w, /images/blog/2015/11/Spatial-Manager-BricsCAD-GML-624x351.png 624w, /images/blog/2015/11/Spatial-Manager-BricsCAD-GML.png 1266w" sizes="(max-width: 625px) 100vw, 625px" /></a>
 </p>
 
 ## And&#8230;

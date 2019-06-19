@@ -3,10 +3,10 @@ id: 5687
 title: DroneDeploy integration
 date: 2018-07-02T10:23:55+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://www.spatialmanager.com/?p=5687
 permalink: /dronedeploy-integration/
-image: /wp-content/uploads/2018/06/SPM_DDeploy85.png
+image: /images/blog/2018/06/SPM_DDeploy85.png
 categories:
   - CAD L2 (Medium)
   - Desktop L2 (Medium)
@@ -30,7 +30,7 @@ tags:
 </h2>
 
 <div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2018/06/AC_SPM_DD.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2018/06/AC_SPM_DD-1024x534.png" alt="Bringing together 'Spatial Manager' and 'DroneDeploy' technologies" width="625" height="326" srcset="http://www.spatialmanager.com/wp-content/uploads/2018/06/AC_SPM_DD-1024x534.png 1024w, http://www.spatialmanager.com/wp-content/uploads/2018/06/AC_SPM_DD-300x157.png 300w, http://www.spatialmanager.com/wp-content/uploads/2018/06/AC_SPM_DD-768x401.png 768w, http://www.spatialmanager.com/wp-content/uploads/2018/06/AC_SPM_DD-624x326.png 624w, http://www.spatialmanager.com/wp-content/uploads/2018/06/AC_SPM_DD.png 1280w" sizes="(max-width: 625px) 100vw, 625px" /></a>
+  <a href="/images/blog/2018/06/AC_SPM_DD.png" target="_blank" rel="nofollow"><img src="/images/blog/2018/06/AC_SPM_DD-1024x534.png" alt="Bringing together 'Spatial Manager' and 'DroneDeploy' technologies" width="625" height="326" srcset="/images/blog/2018/06/AC_SPM_DD-1024x534.png 1024w, /images/blog/2018/06/AC_SPM_DD-300x157.png 300w, /images/blog/2018/06/AC_SPM_DD-768x401.png 768w, /images/blog/2018/06/AC_SPM_DD-624x326.png 624w, /images/blog/2018/06/AC_SPM_DD.png 1280w" sizes="(max-width: 625px) 100vw, 625px" /></a>
   
   <p>
     Bringing together &#8216;Spatial Manager&#8217; and &#8216;DroneDeploy&#8217; technologies
@@ -64,7 +64,7 @@ tags:
 </h2>
 
 <div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2018/06/SPM_DroneDeployApp.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2018/06/SPM_DroneDeployApp-1024x413.png" alt="'Spatial Manager Background Map' in the DroneDeploy App Market" width="625" height="252" srcset="http://www.spatialmanager.com/wp-content/uploads/2018/06/SPM_DroneDeployApp-1024x413.png 1024w, http://www.spatialmanager.com/wp-content/uploads/2018/06/SPM_DroneDeployApp-300x121.png 300w, http://www.spatialmanager.com/wp-content/uploads/2018/06/SPM_DroneDeployApp-768x310.png 768w, http://www.spatialmanager.com/wp-content/uploads/2018/06/SPM_DroneDeployApp-624x252.png 624w, http://www.spatialmanager.com/wp-content/uploads/2018/06/SPM_DroneDeployApp.png 1198w" sizes="(max-width: 625px) 100vw, 625px" /></a>
+  <a href="/images/blog/2018/06/SPM_DroneDeployApp.png" target="_blank" rel="nofollow"><img src="/images/blog/2018/06/SPM_DroneDeployApp-1024x413.png" alt="'Spatial Manager Background Map' in the DroneDeploy App Market" width="625" height="252" srcset="/images/blog/2018/06/SPM_DroneDeployApp-1024x413.png 1024w, /images/blog/2018/06/SPM_DroneDeployApp-300x121.png 300w, /images/blog/2018/06/SPM_DroneDeployApp-768x310.png 768w, /images/blog/2018/06/SPM_DroneDeployApp-624x252.png 624w, /images/blog/2018/06/SPM_DroneDeployApp.png 1198w" sizes="(max-width: 625px) 100vw, 625px" /></a>
   
   <p>
     &#8216;Spatial Manager Background Map&#8217; in the DroneDeploy App Market
@@ -91,7 +91,7 @@ tags:
 </h2>
 
 <div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2018/06/SPM_DD_ImportAll.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2018/06/SPM_DD_ImportAll.png" alt="Import multiple maps from a *.bmd file" width="710" height="466" srcset="http://www.spatialmanager.com/wp-content/uploads/2018/06/SPM_DD_ImportAll.png 710w, http://www.spatialmanager.com/wp-content/uploads/2018/06/SPM_DD_ImportAll-300x197.png 300w, http://www.spatialmanager.com/wp-content/uploads/2018/06/SPM_DD_ImportAll-624x410.png 624w" sizes="(max-width: 710px) 100vw, 710px" /></a>
+  <a href="/images/blog/2018/06/SPM_DD_ImportAll.png" target="_blank" rel="nofollow"><img src="/images/blog/2018/06/SPM_DD_ImportAll.png" alt="Import multiple maps from a *.bmd file" width="710" height="466" srcset="/images/blog/2018/06/SPM_DD_ImportAll.png 710w, /images/blog/2018/06/SPM_DD_ImportAll-300x197.png 300w, /images/blog/2018/06/SPM_DD_ImportAll-624x410.png 624w" sizes="(max-width: 710px) 100vw, 710px" /></a>
   
   <p>
     Import multiple maps from a *.bmd file

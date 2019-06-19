@@ -3,10 +3,10 @@ id: 535
 title: 'How to geo-reference an &#8216;unreferenced&#8217; spatial Table?'
 date: 2014-01-20T11:28:10+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://www.spatialmanager.com/?p=535
 permalink: /geo-reference-unreferenced-spatial-data-table/
-image: /wp-content/uploads/2014/01/15-min_index-85.png
+image: /images/blog/2014/01/15-min_index-85.png
 categories:
   - Desktop L3 (Advanced)
 tags:

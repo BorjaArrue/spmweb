@@ -3,10 +3,10 @@ id: 2410
 title: Choose 3D or 2D when importing
 date: 2015-04-27T14:42:25+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://www.spatialmanager.com/?p=2410
 permalink: /choose-3d-or-2d-when-importing/
-image: /wp-content/uploads/2015/04/Spatial-Manager-for-AutoCAD-Contours-85.png
+image: /images/blog/2015/04/Spatial-Manager-for-AutoCAD-Contours-85.png
 categories:
   - CAD L1 (Basic)
 tags:
@@ -27,7 +27,7 @@ By using this option you can select the importation of Points, Polylines or Poly
 There is a quite common situation in which it is handy to obtain a 2D map from 3D cartography and simultaneously label the Z coordinates of the objects: <a title="Post: Point coordinates also as data fields" href="http://www.spatialmanager.com/?p=2397" target="_blank" rel="nofollow"><em>see &#8220;Point coordinates also as data fields&#8221;</em></a>
 
 <p>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2015/04/Spatial-Manager-for-AutoCAD-Import-2D-Flat.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2015/04/Spatial-Manager-for-AutoCAD-Import-2D-Flat.png" alt="Spatial Manager for AutoCAD Import 2D (Flat)" width="567" height="575" srcset="http://www.spatialmanager.com/wp-content/uploads/2015/04/Spatial-Manager-for-AutoCAD-Import-2D-Flat.png 567w, http://www.spatialmanager.com/wp-content/uploads/2015/04/Spatial-Manager-for-AutoCAD-Import-2D-Flat-295x300.png 295w" sizes="(max-width: 567px) 100vw, 567px" /></a>
+  <a href="/images/blog/2015/04/Spatial-Manager-for-AutoCAD-Import-2D-Flat.png" target="_blank" rel="nofollow"><img src="/images/blog/2015/04/Spatial-Manager-for-AutoCAD-Import-2D-Flat.png" alt="Spatial Manager for AutoCAD Import 2D (Flat)" width="567" height="575" srcset="/images/blog/2015/04/Spatial-Manager-for-AutoCAD-Import-2D-Flat.png 567w, /images/blog/2015/04/Spatial-Manager-for-AutoCAD-Import-2D-Flat-295x300.png 295w" sizes="(max-width: 567px) 100vw, 567px" /></a>
 </p>
 
 ## Please, watch these videos:

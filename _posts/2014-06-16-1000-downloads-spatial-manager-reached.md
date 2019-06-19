@@ -3,10 +3,10 @@ id: 1253
 title: 1000 downloads of Spatial Manager reached
 date: 2014-06-16T09:54:38+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://www.spatialmanager.com/?p=1253
 permalink: /1000-downloads-spatial-manager-reached/
-image: /wp-content/uploads/2014/06/1000-reached-85.png
+image: /images/blog/2014/06/1000-reached-85.png
 categories:
   - Announcement
 tags:
@@ -16,7 +16,7 @@ Since the beta versions of the Spatial Manager™ suite of products were release
 
 These downloads includes beta versions, free trial versions and the different editions of commercial versions of Spatial Manager Desktop™ and Spatial Manager™ for AutoCAD, proving the high interest of many users in highly operational and easy to install and use quality products related to the management of spatial data
 
-<a href="http://www.spatialmanager.com/wp-content/uploads/2014/06/Spatial_Manager_Downloads.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2014/06/Spatial_Manager_Downloads.png" alt="Spatial_Manager_Downloads" width="625" height="348" srcset="http://www.spatialmanager.com/wp-content/uploads/2014/06/Spatial_Manager_Downloads.png 745w, http://www.spatialmanager.com/wp-content/uploads/2014/06/Spatial_Manager_Downloads-300x167.png 300w, http://www.spatialmanager.com/wp-content/uploads/2014/06/Spatial_Manager_Downloads-624x347.png 624w" sizes="(max-width: 625px) 100vw, 625px" /></a>
+<a href="/images/blog/2014/06/Spatial_Manager_Downloads.png" target="_blank" rel="nofollow"><img src="/images/blog/2014/06/Spatial_Manager_Downloads.png" alt="Spatial_Manager_Downloads" width="625" height="348" srcset="/images/blog/2014/06/Spatial_Manager_Downloads.png 745w, /images/blog/2014/06/Spatial_Manager_Downloads-300x167.png 300w, /images/blog/2014/06/Spatial_Manager_Downloads-624x347.png 624w" sizes="(max-width: 625px) 100vw, 625px" /></a>
 
 We wish to thank of all the users who have downloaded and are already working with our products for their trust, as well as the positive feedback we have received over the past few weeks through our Support and Info centers, such as:
 

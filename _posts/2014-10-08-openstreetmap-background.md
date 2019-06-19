@@ -3,10 +3,10 @@ id: 1820
 title: 'Release 1.0.4: OpenStreetMap background maps'
 date: 2014-10-08T13:56:30+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://www.spatialmanager.com/?p=1820
 permalink: /openstreetmap-background/
-image: /wp-content/uploads/2014/10/Map-Background-Spatial-Manager-logo.png
+image: /images/blog/2014/10/Map-Background-Spatial-Manager-logo.png
 categories:
   - Announcement
 tags:
@@ -27,7 +27,7 @@ See <a title="Spatial Manager™ - Spatial Manager Desktop™" href="http://www.
 
 ## OpenStreetMap background maps
 
-<a href="http://www.spatialmanager.com/wp-content/uploads/2014/10/Map-Background-Spatial-Manager.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2014/10/Map-Background-Spatial-Manager-1024x576.png" alt="OpenStreetMap background maps - Spatial Manager" width="625" height="351" srcset="http://www.spatialmanager.com/wp-content/uploads/2014/10/Map-Background-Spatial-Manager-1024x576.png 1024w, http://www.spatialmanager.com/wp-content/uploads/2014/10/Map-Background-Spatial-Manager-300x168.png 300w, http://www.spatialmanager.com/wp-content/uploads/2014/10/Map-Background-Spatial-Manager-624x351.png 624w, http://www.spatialmanager.com/wp-content/uploads/2014/10/Map-Background-Spatial-Manager.png 1280w" sizes="(max-width: 625px) 100vw, 625px" /></a>
+<a href="/images/blog/2014/10/Map-Background-Spatial-Manager.png" target="_blank" rel="nofollow"><img src="/images/blog/2014/10/Map-Background-Spatial-Manager-1024x576.png" alt="OpenStreetMap background maps - Spatial Manager" width="625" height="351" srcset="/images/blog/2014/10/Map-Background-Spatial-Manager-1024x576.png 1024w, /images/blog/2014/10/Map-Background-Spatial-Manager-300x168.png 300w, /images/blog/2014/10/Map-Background-Spatial-Manager-624x351.png 624w, /images/blog/2014/10/Map-Background-Spatial-Manager.png 1280w" sizes="(max-width: 625px) 100vw, 625px" /></a>
 
 The **new background** maps:
   

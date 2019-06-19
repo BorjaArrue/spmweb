@@ -3,10 +3,10 @@ id: 5639
 title: 'Summer release: &#8216;Spatial Manager&#8217; 4.2.1'
 date: 2018-06-20T16:26:41+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://www.spatialmanager.com/?p=5639
 permalink: /summer-release-spatial-manager-4-2-1/
-image: /wp-content/uploads/2018/06/SPM421_85.png
+image: /images/blog/2018/06/SPM421_85.png
 categories:
   - Announcement
 tags:
@@ -26,7 +26,7 @@ tags:
 * * *
 
 <div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2018/06/SPM421_DroneDeploy.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2018/06/SPM421_DroneDeploy-1024x576.png" alt="'Spatial Manager' and DroneDeploy integration" width="625" height="352" srcset="http://www.spatialmanager.com/wp-content/uploads/2018/06/SPM421_DroneDeploy-1024x576.png 1024w, http://www.spatialmanager.com/wp-content/uploads/2018/06/SPM421_DroneDeploy-300x169.png 300w, http://www.spatialmanager.com/wp-content/uploads/2018/06/SPM421_DroneDeploy-768x432.png 768w, http://www.spatialmanager.com/wp-content/uploads/2018/06/SPM421_DroneDeploy-624x351.png 624w, http://www.spatialmanager.com/wp-content/uploads/2018/06/SPM421_DroneDeploy.png 1280w" sizes="(max-width: 625px) 100vw, 625px" /></a>
+  <a href="/images/blog/2018/06/SPM421_DroneDeploy.png" target="_blank" rel="nofollow"><img src="/images/blog/2018/06/SPM421_DroneDeploy-1024x576.png" alt="'Spatial Manager' and DroneDeploy integration" width="625" height="352" srcset="/images/blog/2018/06/SPM421_DroneDeploy-1024x576.png 1024w, /images/blog/2018/06/SPM421_DroneDeploy-300x169.png 300w, /images/blog/2018/06/SPM421_DroneDeploy-768x432.png 768w, /images/blog/2018/06/SPM421_DroneDeploy-624x351.png 624w, /images/blog/2018/06/SPM421_DroneDeploy.png 1280w" sizes="(max-width: 625px) 100vw, 625px" /></a>
   
   <p>
     &#8216;Spatial Manager&#8217; and DroneDeploy integration

@@ -3,10 +3,10 @@ id: 5225
 title: 'New &#8216;Spatial Manager&#8217; 4.2 released'
 date: 2018-04-21T22:00:07+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://www.spatialmanager.com/?p=5225
 permalink: /new-spatial-manager-4-2-released/
-image: /wp-content/uploads/2018/03/SPM4.285.jpg
+image: /images/blog/2018/03/SPM4.285.jpg
 categories:
   - Announcement
 tags:
@@ -26,7 +26,7 @@ tags:
 * * *
 
 <div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2018/03/SPM_RasterGeoTiff_4.2.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2018/03/SPM_RasterGeoTiff_4.2-1024x462.png" alt="'New 'Spatial Manager 4.2' Raster Images provider" width="625" height="282" srcset="http://www.spatialmanager.com/wp-content/uploads/2018/03/SPM_RasterGeoTiff_4.2-1024x462.png 1024w, http://www.spatialmanager.com/wp-content/uploads/2018/03/SPM_RasterGeoTiff_4.2-300x135.png 300w, http://www.spatialmanager.com/wp-content/uploads/2018/03/SPM_RasterGeoTiff_4.2-768x346.png 768w, http://www.spatialmanager.com/wp-content/uploads/2018/03/SPM_RasterGeoTiff_4.2-624x281.png 624w, http://www.spatialmanager.com/wp-content/uploads/2018/03/SPM_RasterGeoTiff_4.2.png 1460w" sizes="(max-width: 625px) 100vw, 625px" /></a>
+  <a href="/images/blog/2018/03/SPM_RasterGeoTiff_4.2.png" target="_blank" rel="nofollow"><img src="/images/blog/2018/03/SPM_RasterGeoTiff_4.2-1024x462.png" alt="'New 'Spatial Manager 4.2' Raster Images provider" width="625" height="282" srcset="/images/blog/2018/03/SPM_RasterGeoTiff_4.2-1024x462.png 1024w, /images/blog/2018/03/SPM_RasterGeoTiff_4.2-300x135.png 300w, /images/blog/2018/03/SPM_RasterGeoTiff_4.2-768x346.png 768w, /images/blog/2018/03/SPM_RasterGeoTiff_4.2-624x281.png 624w, /images/blog/2018/03/SPM_RasterGeoTiff_4.2.png 1460w" sizes="(max-width: 625px) 100vw, 625px" /></a>
   
   <p>
     &#8216;New &#8216;Spatial Manager 4.2&#8217; Raster Images provider

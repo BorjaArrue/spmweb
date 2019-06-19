@@ -3,10 +3,10 @@ id: 5949
 title: Managing Multi-Polygons in AutoCAD, BricsCAD or ZWCAD
 date: 2018-10-31T16:04:20+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://www.spatialmanager.com/?p=5949
 permalink: /managing-multi-polygons-in-autocad-bricscad-zwcad/
-image: /wp-content/uploads/2018/10/MPolSPM85.png
+image: /images/blog/2018/10/MPolSPM85.png
 categories:
   - CAD L2 (Medium)
 tags:
@@ -31,7 +31,7 @@ tags:
 </h2>
 
 <div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2018/10/SPM_Hatch_MPol.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2018/10/SPM_Hatch_MPol.png" alt="'Spatial Manager' and Multi Polygons" width="1280" height="650" srcset="http://www.spatialmanager.com/wp-content/uploads/2018/10/SPM_Hatch_MPol.png 1280w, http://www.spatialmanager.com/wp-content/uploads/2018/10/SPM_Hatch_MPol-300x152.png 300w, http://www.spatialmanager.com/wp-content/uploads/2018/10/SPM_Hatch_MPol-768x390.png 768w, http://www.spatialmanager.com/wp-content/uploads/2018/10/SPM_Hatch_MPol-1024x520.png 1024w, http://www.spatialmanager.com/wp-content/uploads/2018/10/SPM_Hatch_MPol-624x317.png 624w" sizes="(max-width: 1280px) 100vw, 1280px" /></a>
+  <a href="/images/blog/2018/10/SPM_Hatch_MPol.png" target="_blank" rel="nofollow"><img src="/images/blog/2018/10/SPM_Hatch_MPol.png" alt="'Spatial Manager' and Multi Polygons" width="1280" height="650" srcset="/images/blog/2018/10/SPM_Hatch_MPol.png 1280w, /images/blog/2018/10/SPM_Hatch_MPol-300x152.png 300w, /images/blog/2018/10/SPM_Hatch_MPol-768x390.png 768w, /images/blog/2018/10/SPM_Hatch_MPol-1024x520.png 1024w, /images/blog/2018/10/SPM_Hatch_MPol-624x317.png 624w" sizes="(max-width: 1280px) 100vw, 1280px" /></a>
   
   <p>
     &#8216;Spatial Manager&#8217; and Multi Polygons
@@ -62,7 +62,7 @@ tags:
 </h2>
 
 <div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2018/10/FillSPMOptions.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2018/10/FillSPMOptions.png" alt="Fill options in 'Spatial Manager'" width="855" height="438" srcset="http://www.spatialmanager.com/wp-content/uploads/2018/10/FillSPMOptions.png 855w, http://www.spatialmanager.com/wp-content/uploads/2018/10/FillSPMOptions-300x154.png 300w, http://www.spatialmanager.com/wp-content/uploads/2018/10/FillSPMOptions-768x393.png 768w, http://www.spatialmanager.com/wp-content/uploads/2018/10/FillSPMOptions-624x320.png 624w" sizes="(max-width: 855px) 100vw, 855px" /></a>
+  <a href="/images/blog/2018/10/FillSPMOptions.png" target="_blank" rel="nofollow"><img src="/images/blog/2018/10/FillSPMOptions.png" alt="Fill options in 'Spatial Manager'" width="855" height="438" srcset="/images/blog/2018/10/FillSPMOptions.png 855w, /images/blog/2018/10/FillSPMOptions-300x154.png 300w, /images/blog/2018/10/FillSPMOptions-768x393.png 768w, /images/blog/2018/10/FillSPMOptions-624x320.png 624w" sizes="(max-width: 855px) 100vw, 855px" /></a>
   
   <p>
     Fill options in &#8216;Spatial Manager&#8217;
