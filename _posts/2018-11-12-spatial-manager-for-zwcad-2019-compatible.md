@@ -3,10 +3,10 @@ id: 5928
 title: Spatial Manager for ZWCAD 2019 compatible
 date: 2018-11-12T11:57:29+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://www.spatialmanager.com/?p=5928
 permalink: /spatial-manager-for-zwcad-2019-compatible/
-image: /wp-content/uploads/2018/10/ZWCAD2019_SPMCompatible85.jpg
+image: /images/blog/2018/10/ZWCAD2019_SPMCompatible85.jpg
 categories:
   - Announcement
   - for ZWCAD
@@ -36,7 +36,7 @@ tags:
 </h2>
 
 <div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2018/10/SPM_ZWCAD2019.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2018/10/SPM_ZWCAD2019.png" alt="'Spatial Manager for ZWCAD' 2019 compatible" width="1280" height="720" srcset="http://www.spatialmanager.com/wp-content/uploads/2018/10/SPM_ZWCAD2019.png 1280w, http://www.spatialmanager.com/wp-content/uploads/2018/10/SPM_ZWCAD2019-300x169.png 300w, http://www.spatialmanager.com/wp-content/uploads/2018/10/SPM_ZWCAD2019-768x432.png 768w, http://www.spatialmanager.com/wp-content/uploads/2018/10/SPM_ZWCAD2019-1024x576.png 1024w, http://www.spatialmanager.com/wp-content/uploads/2018/10/SPM_ZWCAD2019-624x351.png 624w" sizes="(max-width: 1280px) 100vw, 1280px" /></a>
+  <a href="/images/blog/2018/10/SPM_ZWCAD2019.png" target="_blank" rel="nofollow"><img src="/images/blog/2018/10/SPM_ZWCAD2019.png" alt="'Spatial Manager for ZWCAD' 2019 compatible" width="1280" height="720" srcset="/images/blog/2018/10/SPM_ZWCAD2019.png 1280w, /images/blog/2018/10/SPM_ZWCAD2019-300x169.png 300w, /images/blog/2018/10/SPM_ZWCAD2019-768x432.png 768w, /images/blog/2018/10/SPM_ZWCAD2019-1024x576.png 1024w, /images/blog/2018/10/SPM_ZWCAD2019-624x351.png 624w" sizes="(max-width: 1280px) 100vw, 1280px" /></a>
   
   <p>
     &#8216;Spatial Manager for ZWCAD&#8217; 2019 compatible
@@ -47,7 +47,7 @@ tags:
 </h2>
 
 <div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2018/10/SPM_ZWCAD2019-DataGrid.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2018/10/SPM_ZWCAD2019-DataGrid.png" alt="'Spatial Manager for ZWCAD' Data Grid" width="1280" height="720" srcset="http://www.spatialmanager.com/wp-content/uploads/2018/10/SPM_ZWCAD2019-DataGrid.png 1280w, http://www.spatialmanager.com/wp-content/uploads/2018/10/SPM_ZWCAD2019-DataGrid-300x169.png 300w, http://www.spatialmanager.com/wp-content/uploads/2018/10/SPM_ZWCAD2019-DataGrid-768x432.png 768w, http://www.spatialmanager.com/wp-content/uploads/2018/10/SPM_ZWCAD2019-DataGrid-1024x576.png 1024w, http://www.spatialmanager.com/wp-content/uploads/2018/10/SPM_ZWCAD2019-DataGrid-624x351.png 624w" sizes="(max-width: 1280px) 100vw, 1280px" /></a>
+  <a href="/images/blog/2018/10/SPM_ZWCAD2019-DataGrid.png" target="_blank" rel="nofollow"><img src="/images/blog/2018/10/SPM_ZWCAD2019-DataGrid.png" alt="'Spatial Manager for ZWCAD' Data Grid" width="1280" height="720" srcset="/images/blog/2018/10/SPM_ZWCAD2019-DataGrid.png 1280w, /images/blog/2018/10/SPM_ZWCAD2019-DataGrid-300x169.png 300w, /images/blog/2018/10/SPM_ZWCAD2019-DataGrid-768x432.png 768w, /images/blog/2018/10/SPM_ZWCAD2019-DataGrid-1024x576.png 1024w, /images/blog/2018/10/SPM_ZWCAD2019-DataGrid-624x351.png 624w" sizes="(max-width: 1280px) 100vw, 1280px" /></a>
   
   <p>
     &#8216;Spatial Manager for ZWCAD&#8217; Data Grid

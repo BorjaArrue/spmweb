@@ -3,10 +3,10 @@ id: 6547
 title: How to access Yandex maps
 date: 2019-05-14T09:40:44+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://www.spatialmanager.com/?p=6547
 permalink: /how-to-access-yandex-maps/
-image: /wp-content/uploads/2019/05/SPMYandex85.png
+image: /images/blog/2019/05/SPMYandex85.png
 categories:
   - CAD L2 (Medium)
   - Desktop L2 (Medium)
@@ -30,7 +30,7 @@ tags:
 </h2>
 
 <div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2019/05/SPMYandexMaps.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2019/05/SPMYandexMaps-1024x550.png" alt="Yandex Maps configured as 'Spatial Manager' dynamic Background Maps" width="625" height="336" srcset="http://www.spatialmanager.com/wp-content/uploads/2019/05/SPMYandexMaps-1024x550.png 1024w, http://www.spatialmanager.com/wp-content/uploads/2019/05/SPMYandexMaps-300x161.png 300w, http://www.spatialmanager.com/wp-content/uploads/2019/05/SPMYandexMaps-768x413.png 768w, http://www.spatialmanager.com/wp-content/uploads/2019/05/SPMYandexMaps-624x335.png 624w" sizes="(max-width: 625px) 100vw, 625px" /></a>
+  <a href="/images/blog/2019/05/SPMYandexMaps.png" target="_blank" rel="nofollow"><img src="/images/blog/2019/05/SPMYandexMaps-1024x550.png" alt="Yandex Maps configured as 'Spatial Manager' dynamic Background Maps" width="625" height="336" srcset="/images/blog/2019/05/SPMYandexMaps-1024x550.png 1024w, /images/blog/2019/05/SPMYandexMaps-300x161.png 300w, /images/blog/2019/05/SPMYandexMaps-768x413.png 768w, /images/blog/2019/05/SPMYandexMaps-624x335.png 624w" sizes="(max-width: 625px) 100vw, 625px" /></a>
   
   <p>
     Yandex Maps configured as &#8216;Spatial Manager&#8217; dynamic Background Maps

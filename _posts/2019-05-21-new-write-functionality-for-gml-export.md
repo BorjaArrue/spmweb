@@ -3,10 +3,10 @@ id: 6516
 title: New write functionality for GML export
 date: 2019-05-21T07:24:44+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://www.spatialmanager.com/?p=6516
 permalink: /new-write-functionality-for-gml-export/
-image: /wp-content/uploads/2019/05/SPMGMLExport85.png
+image: /images/blog/2019/05/SPMGMLExport85.png
 categories:
   - CAD L2 (Medium)
 tags:
@@ -29,7 +29,7 @@ tags:
 </h2>
 
 <div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2019/05/SPMGMLExportPol.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2019/05/SPMGMLExportPol-1024x533.png" alt="'Spatial Manager' write to GML capability allows you to export to GML files" width="625" height="325" srcset="http://www.spatialmanager.com/wp-content/uploads/2019/05/SPMGMLExportPol-1024x533.png 1024w, http://www.spatialmanager.com/wp-content/uploads/2019/05/SPMGMLExportPol-300x156.png 300w, http://www.spatialmanager.com/wp-content/uploads/2019/05/SPMGMLExportPol-768x399.png 768w, http://www.spatialmanager.com/wp-content/uploads/2019/05/SPMGMLExportPol-624x325.png 624w" sizes="(max-width: 625px) 100vw, 625px" /></a>
+  <a href="/images/blog/2019/05/SPMGMLExportPol.png" target="_blank" rel="nofollow"><img src="/images/blog/2019/05/SPMGMLExportPol-1024x533.png" alt="'Spatial Manager' write to GML capability allows you to export to GML files" width="625" height="325" srcset="/images/blog/2019/05/SPMGMLExportPol-1024x533.png 1024w, /images/blog/2019/05/SPMGMLExportPol-300x156.png 300w, /images/blog/2019/05/SPMGMLExportPol-768x399.png 768w, /images/blog/2019/05/SPMGMLExportPol-624x325.png 624w" sizes="(max-width: 625px) 100vw, 625px" /></a>
   
   <p>
     &#8216;Spatial Manager&#8217; write to GML capability allows you to export to GML files
@@ -77,7 +77,7 @@ tags:
 </h2>
 
 <div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2019/05/SPMExportWizGML2.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2019/05/SPMExportWizGML2.png" alt="'Spatial Manager' exporting wizard interface" width="700" height="643" srcset="http://www.spatialmanager.com/wp-content/uploads/2019/05/SPMExportWizGML2.png 700w, http://www.spatialmanager.com/wp-content/uploads/2019/05/SPMExportWizGML2-300x276.png 300w, http://www.spatialmanager.com/wp-content/uploads/2019/05/SPMExportWizGML2-624x573.png 624w" sizes="(max-width: 700px) 100vw, 700px" /></a>
+  <a href="/images/blog/2019/05/SPMExportWizGML2.png" target="_blank" rel="nofollow"><img src="/images/blog/2019/05/SPMExportWizGML2.png" alt="'Spatial Manager' exporting wizard interface" width="700" height="643" srcset="/images/blog/2019/05/SPMExportWizGML2.png 700w, /images/blog/2019/05/SPMExportWizGML2-300x276.png 300w, /images/blog/2019/05/SPMExportWizGML2-624x573.png 624w" sizes="(max-width: 700px) 100vw, 700px" /></a>
   
   <p>
     &#8216;Spatial Manager&#8217; exporting wizard interface

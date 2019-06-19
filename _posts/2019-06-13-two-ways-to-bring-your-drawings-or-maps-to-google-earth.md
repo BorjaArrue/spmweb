@@ -3,10 +3,10 @@ id: 6632
 title: Two ways to bring your drawings or maps to Google Earth
 date: 2019-06-13T18:22:42+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://www.spatialmanager.com/?p=6632
 permalink: /two-ways-to-bring-your-drawings-or-maps-to-google-earth/
-image: /wp-content/uploads/2019/06/DwgToGEarth85.png
+image: /images/blog/2019/06/DwgToGEarth85.png
 categories:
   - CAD L1 (Basic)
   - Desktop L1 (Basic)
@@ -14,18 +14,20 @@ tags:
   - Export
   - Google Earth (KML)
 ---
-<p class="mb-5">
+<p>
   Google Earth is one of the most popular platforms for 2D and 3D visualization of spatial and geographic information, not only because it is free and very accessible to any non-expert user, but also because of the included tools and the frequency of updating the maps. &#8216;Spatial Manager&#8217; provides you with two powerful tools to bring your drawings or maps to Google Earth
 </p>
 
+<p>
   <!--more-->
+</p>
 
 <h2>
   Related videos: <a href="https://youtu.be/f32m8qwuDjI?rel=0" target="_blank" rel="nofollow"><span><span>AutoCAD</span></span></a> / <a href="https://youtu.be/7-Yewz6GjRc?rel=0" target="_blank" rel="nofollow"><span><span>BricsCAD</span></span></a> / <a href="https://youtu.be/Btku7AEBl-M?rel=0" target="_blank" rel="nofollow"><span><span>ZWCAD</span></span></a> / <a href="https://youtu.be/juOZMSXldcA?rel=0" target="_blank" rel="nofollow"><span>Desktop</span></a>
 </h2>
 
 <h2>
-  <u>Option 1</u>: Publishing to Google Earth
+  <span>Option 1</span>: Publishing to Google Earth
 </h2>
 
 <p>
@@ -45,25 +47,42 @@ tags:
 </p>
 
 <p>
-  In the <u>first half of the above videos</u> you can check the functionality and results of this option. Take a look at them
+  In the <span>first half of the above videos</span> you can check the functionality and results of this option. Take a look at them
 </p>
 
-<div class="row mx-auto">
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2019/06/CADCreateKML.png" target="_blank" rel="nofollow">
-    <img src="http://www.spatialmanager.com/wp-content/uploads/2019/06/CADCreateKML-1024x576.png" alt="'Spatial Manager' Create KML function - Publishing drawings in Google Earth (click to enlarge)" width="625" height="352" srcset="http://www.spatialmanager.com/wp-content/uploads/2019/06/CADCreateKML-1024x576.png 1024w, http://www.spatialmanager.com/wp-content/uploads/2019/06/CADCreateKML-300x169.png 300w, http://www.spatialmanager.com/wp-content/uploads/2019/06/CADCreateKML-768x432.png 768w, http://www.spatialmanager.com/wp-content/uploads/2019/06/CADCreateKML-624x351.png 624w, http://www.spatialmanager.com/wp-content/uploads/2019/06/CADCreateKML.png 1280w" sizes="(max-width: 625px) 100vw, 625px" />
-  </a>
-  <br />
-  <small>&#8216;Spatial Manager&#8217; Create KML function &#8211; Publishing drawings in Google Earth (click to enlarge)</small>
+<h2>
+</h2>
+
+&nbsp;
+
+## 
+
+<div id="attachment_6636">
+  <a href="/images/blog/2019/06/CADCreateKML.png" target="_blank" rel="nofollow"><img src="/images/blog/2019/06/CADCreateKML-1024x576.png" alt="'Spatial Manager' Create KML function - Publishing drawings in Google Earth (click to enlarge)" width="625" height="352" srcset="/images/blog/2019/06/CADCreateKML-1024x576.png 1024w, /images/blog/2019/06/CADCreateKML-300x169.png 300w, /images/blog/2019/06/CADCreateKML-768x432.png 768w, /images/blog/2019/06/CADCreateKML-624x351.png 624w, /images/blog/2019/06/CADCreateKML.png 1280w" sizes="(max-width: 625px) 100vw, 625px" /></a>
+  
+  <p>
+    &#8216;Spatial Manager&#8217; Create KML function &#8211; Publishing drawings in Google Earth (click to enlarge)
+  </p>
 </div>
 
-<a href="http://www.spatialmanager.com/wp-content/uploads/2019/06/CreateKML.png" target="_blank" rel="nofollow">
-  <img src="http://www.spatialmanager.com/wp-content/uploads/2019/06/CreateKML-1024x577.png" alt="Open resulting KML/KMZ in Google Earth (click to enlarge)" width="625" height="352" srcset="http://www.spatialmanager.com/wp-content/uploads/2019/06/CreateKML-1024x577.png 1024w, http://www.spatialmanager.com/wp-content/uploads/2019/06/CreateKML-300x169.png 300w, http://www.spatialmanager.com/wp-content/uploads/2019/06/CreateKML-768x433.png 768w, http://www.spatialmanager.com/wp-content/uploads/2019/06/CreateKML-624x351.png 624w, http://www.spatialmanager.com/wp-content/uploads/2019/06/CreateKML.png 1266w" sizes="(max-width: 625px) 100vw, 625px" />
-</a>
-<br />
-<small>Open resulting KML/KMZ in Google Earth (click to enlarge)</small>
+<h2>
+</h2>
+
+<div id="attachment_6638">
+  <a href="/images/blog/2019/06/CreateKML.png" target="_blank" rel="nofollow"><img src="/images/blog/2019/06/CreateKML-1024x577.png" alt="Open resulting KML/KMZ in Google Earth (click to enlarge)" width="625" height="352" srcset="/images/blog/2019/06/CreateKML-1024x577.png 1024w, /images/blog/2019/06/CreateKML-300x169.png 300w, /images/blog/2019/06/CreateKML-768x433.png 768w, /images/blog/2019/06/CreateKML-624x351.png 624w, /images/blog/2019/06/CreateKML.png 1266w" sizes="(max-width: 625px) 100vw, 625px" /></a>
+  
+  <p>
+    Open resulting KML/KMZ in Google Earth (click to enlarge)
+  </p>
+</div>
 
 <h2>
-  <u>Option 2</u>: Exporting objects to KML/KMZ through the wizard
+</h2>
+
+&nbsp;
+
+<h2>
+  <span>Option 2</span>: Exporting objects to KML/KMZ through the wizard
 </h2>
 
 <p>
@@ -82,29 +101,49 @@ tags:
   The remarks about the potentials of Google Earth and KML/KMZ files that are mentioned in the first option, are equally valid here
 </p>
 
-In the <u>second section of the above videos</u> you will see how this wizard works when exporting to KML/KMZ files. Please play them
+In the <span>second section of the above videos</span> you will see how this wizard works when exporting to KML/KMZ files. Please play them
+
+<h2>
+</h2>
+
+&nbsp;
 
 ## 
 
-<div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2019/06/CADExportKML.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2019/06/CADExportKML-1024x576.png" alt="'Spatial Manager' Export (to KML/KMZ) function and parameters - Structured KML/KMZ files (click to enlarge)" width="625" height="352" srcset="http://www.spatialmanager.com/wp-content/uploads/2019/06/CADExportKML-1024x576.png 1024w, http://www.spatialmanager.com/wp-content/uploads/2019/06/CADExportKML-300x169.png 300w, http://www.spatialmanager.com/wp-content/uploads/2019/06/CADExportKML-768x432.png 768w, http://www.spatialmanager.com/wp-content/uploads/2019/06/CADExportKML-624x351.png 624w, http://www.spatialmanager.com/wp-content/uploads/2019/06/CADExportKML.png 1280w" sizes="(max-width: 625px) 100vw, 625px" /></a>
+<div id="attachment_6640">
+  <a href="/images/blog/2019/06/CADExportKML.png" target="_blank" rel="nofollow"><img src="/images/blog/2019/06/CADExportKML-1024x576.png" alt="'Spatial Manager' Export (to KML/KMZ) function and parameters - Structured KML/KMZ files (click to enlarge)" width="625" height="352" srcset="/images/blog/2019/06/CADExportKML-1024x576.png 1024w, /images/blog/2019/06/CADExportKML-300x169.png 300w, /images/blog/2019/06/CADExportKML-768x432.png 768w, /images/blog/2019/06/CADExportKML-624x351.png 624w, /images/blog/2019/06/CADExportKML.png 1280w" sizes="(max-width: 625px) 100vw, 625px" /></a>
   
   <p>
     &#8216;Spatial Manager&#8217; Export (to KML/KMZ) function and parameters &#8211; Structured KML/KMZ files (click to enlarge)
   </p>
 </div>
 
-<div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2019/06/ExportKML.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2019/06/ExportKML-1024x577.png" alt="Open resulting Exported KML/KMZ in Google Earth (click to enlarge)" width="625" height="352" srcset="http://www.spatialmanager.com/wp-content/uploads/2019/06/ExportKML-1024x577.png 1024w, http://www.spatialmanager.com/wp-content/uploads/2019/06/ExportKML-300x169.png 300w, http://www.spatialmanager.com/wp-content/uploads/2019/06/ExportKML-768x433.png 768w, http://www.spatialmanager.com/wp-content/uploads/2019/06/ExportKML-624x351.png 624w, http://www.spatialmanager.com/wp-content/uploads/2019/06/ExportKML.png 1266w" sizes="(max-width: 625px) 100vw, 625px" /></a>
+<h2>
+</h2>
+
+<div id="attachment_6641">
+  <a href="/images/blog/2019/06/ExportKML.png" target="_blank" rel="nofollow"><img src="/images/blog/2019/06/ExportKML-1024x577.png" alt="Open resulting Exported KML/KMZ in Google Earth (click to enlarge)" width="625" height="352" srcset="/images/blog/2019/06/ExportKML-1024x577.png 1024w, /images/blog/2019/06/ExportKML-300x169.png 300w, /images/blog/2019/06/ExportKML-768x433.png 768w, /images/blog/2019/06/ExportKML-624x351.png 624w, /images/blog/2019/06/ExportKML.png 1266w" sizes="(max-width: 625px) 100vw, 625px" /></a>
   
   <p>
     Open resulting Exported KML/KMZ in Google Earth (click to enlarge)
   </p>
 </div>
 
+<h2>
+</h2>
+
+&nbsp;
+
+<h2>
+</h2>
+
 <p>
   <em>Learn more about publishing to Google Earth and/or Exporting to KML/KMZ in &#8216;Spatial Manager&#8217;:</em>
 </p>
+
+<h2>
+</h2>
+
 <ul>
   <li>
     <span><a href="http://wiki.spatialmanager.com/index.php/Spatial_Manager™_for_AutoCAD_-_FAQs:_Export_(%22Professional%22_edition_only)" target="_blank" rel="nofollow"><span><em>Spatial Manager for AutoCAD</em></span></a></span>
@@ -120,15 +159,19 @@ In the <u>second section of the above videos</u> you will see how this wizard wo
   </li>
 </ul>
 
+<h2>
+</h2>
+
 <p>
   <em>Notes:</em>
 </p>
 
-<ul>
-  <li>
-    <em>In &#8216;Spatial Manager&#8217; for CAD versions, &#8216;Publishing to Google Earth&#8217; functionality is available in Standard and Professional editions. Full Exporting is available in Professional Edition only</em>
-  </li>
-  <li>
-    <em>In &#8216;Spatial Manager Desktop&#8217;, &#8216;Publishing to Google Earth&#8217; functionality is available in Standard and Professional editions. Exporting functionality is available in all Editions (Basic, Standard and Professional)</em>
-  </li>
-</ul>
+<h2>
+</h2>
+
+<li>
+  <em>In &#8216;Spatial Manager&#8217; for CAD versions, &#8216;Publishing to Google Earth&#8217; functionality is available in Standard and Professional editions. Full Exporting is available in Professional Edition only</em>
+</li>
+<li>
+  <em>In &#8216;Spatial Manager Desktop&#8217;, &#8216;Publishing to Google Earth&#8217; functionality is available in Standard and Professional editions. Exporting functionality is available in all Editions (Basic, Standard and Professional)</em>
+</li>

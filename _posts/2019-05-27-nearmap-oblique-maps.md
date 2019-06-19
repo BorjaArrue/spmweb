@@ -3,10 +3,10 @@ id: 6480
 title: NearMap Oblique maps
 date: 2019-05-27T16:33:57+00:00
 author: admin
-layout: post
+layout: old-post
 guid: http://www.spatialmanager.com/?p=6480
 permalink: /nearmap-oblique-maps/
-image: /wp-content/uploads/2019/05/SPMNearMap852.png
+image: /images/blog/2019/05/SPMNearMap852.png
 categories:
   - CAD L2 (Medium)
   - Desktop L2 (Medium)
@@ -25,8 +25,8 @@ tags:
   Related videos: <a href="https://youtu.be/K_uP1rUWD8I?rel=0" target="_blank" rel="nofollow"><span><span>AutoCAD</span></span></a> / <a href="https://youtu.be/CrvnYQXRjBQ?rel=0" target="_blank" rel="nofollow"><span><span>BricsCAD</span></span></a> / <a href="https://youtu.be/Dyvt9YGB2iM?rel=0" target="_blank" rel="nofollow"><span><span>ZWCAD</span></span></a> / <a href="https://youtu.be/IF5XPhk-59k?rel=0" target="_blank" rel="nofollow"><span>Desktop</span></a>
 </h2>
 
-<div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2019/05/NearMapOblique.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2019/05/NearMapOblique-300x255.png" alt="High-quality NearMap Oblique" width="300" height="255" srcset="http://www.spatialmanager.com/wp-content/uploads/2019/05/NearMapOblique-300x255.png 300w, http://www.spatialmanager.com/wp-content/uploads/2019/05/NearMapOblique-768x653.png 768w, http://www.spatialmanager.com/wp-content/uploads/2019/05/NearMapOblique-624x531.png 624w, http://www.spatialmanager.com/wp-content/uploads/2019/05/NearMapOblique.png 849w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+<div id="attachment_6498">
+  <a href="/images/blog/2019/05/NearMapOblique.png" target="_blank" rel="nofollow"><img src="/images/blog/2019/05/NearMapOblique-300x255.png" alt="High-quality NearMap Oblique" width="300" height="255" srcset="/images/blog/2019/05/NearMapOblique-300x255.png 300w, /images/blog/2019/05/NearMapOblique-768x653.png 768w, /images/blog/2019/05/NearMapOblique-624x531.png 624w, /images/blog/2019/05/NearMapOblique.png 849w" sizes="(max-width: 300px) 100vw, 300px" /></a>
   
   <p>
     High-quality NearMap Oblique
@@ -47,8 +47,8 @@ tags:
 <h2>
 </h2>
 
-<div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2019/05/SPMNearMapOblique2.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2019/05/SPMNearMapOblique2-1024x534.png" alt="NearMap Oblique dynamic background maps in 'Spatial Manager'" width="625" height="326" srcset="http://www.spatialmanager.com/wp-content/uploads/2019/05/SPMNearMapOblique2-1024x534.png 1024w, http://www.spatialmanager.com/wp-content/uploads/2019/05/SPMNearMapOblique2-300x157.png 300w, http://www.spatialmanager.com/wp-content/uploads/2019/05/SPMNearMapOblique2-768x401.png 768w, http://www.spatialmanager.com/wp-content/uploads/2019/05/SPMNearMapOblique2-624x326.png 624w" sizes="(max-width: 625px) 100vw, 625px" /></a>
+<div id="attachment_6499">
+  <a href="/images/blog/2019/05/SPMNearMapOblique2.png" target="_blank" rel="nofollow"><img src="/images/blog/2019/05/SPMNearMapOblique2-1024x534.png" alt="NearMap Oblique dynamic background maps in 'Spatial Manager'" width="625" height="326" srcset="/images/blog/2019/05/SPMNearMapOblique2-1024x534.png 1024w, /images/blog/2019/05/SPMNearMapOblique2-300x157.png 300w, /images/blog/2019/05/SPMNearMapOblique2-768x401.png 768w, /images/blog/2019/05/SPMNearMapOblique2-624x326.png 624w" sizes="(max-width: 625px) 100vw, 625px" /></a>
   
   <p>
     NearMap Oblique dynamic background maps in &#8216;Spatial Manager&#8217;
@@ -128,8 +128,8 @@ tags:
 
 ## 
 
-<div>
-  <a href="http://www.spatialmanager.com/wp-content/uploads/2019/05/SPMConfigureBGM.png" target="_blank" rel="nofollow"><img src="http://www.spatialmanager.com/wp-content/uploads/2019/05/SPMConfigureBGM-300x226.png" alt="Background Maps API Key setup" width="300" height="226" srcset="http://www.spatialmanager.com/wp-content/uploads/2019/05/SPMConfigureBGM-300x226.png 300w, http://www.spatialmanager.com/wp-content/uploads/2019/05/SPMConfigureBGM-768x578.png 768w, http://www.spatialmanager.com/wp-content/uploads/2019/05/SPMConfigureBGM-624x469.png 624w, http://www.spatialmanager.com/wp-content/uploads/2019/05/SPMConfigureBGM.png 831w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+<div id="attachment_6488">
+  <a href="/images/blog/2019/05/SPMConfigureBGM.png" target="_blank" rel="nofollow"><img src="/images/blog/2019/05/SPMConfigureBGM-300x226.png" alt="Background Maps API Key setup" width="300" height="226" srcset="/images/blog/2019/05/SPMConfigureBGM-300x226.png 300w, /images/blog/2019/05/SPMConfigureBGM-768x578.png 768w, /images/blog/2019/05/SPMConfigureBGM-624x469.png 624w, /images/blog/2019/05/SPMConfigureBGM.png 831w" sizes="(max-width: 300px) 100vw, 300px" /></a>
   
   <p>
     Background Maps API Key setup (click on image to enlarge)
