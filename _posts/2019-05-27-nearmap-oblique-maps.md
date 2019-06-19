@@ -33,9 +33,6 @@ tags:
   </p>
 </div>
 
-<h2>
-</h2>
-
 <p>
   For Australian and American users, NearMap Oblique offers a gallery of high resolution images <strong>showing any location from multiple directions</strong>. NearMap Oblique enrich your existing data and better contextualise your environment
 </p>
@@ -44,9 +41,6 @@ tags:
   As you can read on NearMap website, <strong>get a natural, on-the-ground perspective</strong>. No need to worry about vegetation cover or tall structures blocking your view
 </p>
 
-<h2>
-</h2>
-
 <div id="attachment_6499">
   <a href="/images/blog/2019/05/SPMNearMapOblique2.png" target="_blank" rel="nofollow"><img src="/images/blog/2019/05/SPMNearMapOblique2-1024x534.png" alt="NearMap Oblique dynamic background maps in 'Spatial Manager'" width="625" height="326" srcset="/images/blog/2019/05/SPMNearMapOblique2-1024x534.png 1024w, /images/blog/2019/05/SPMNearMapOblique2-300x157.png 300w, /images/blog/2019/05/SPMNearMapOblique2-768x401.png 768w, /images/blog/2019/05/SPMNearMapOblique2-624x326.png 624w" sizes="(max-width: 625px) 100vw, 625px" /></a>
   
@@ -54,9 +48,6 @@ tags:
     NearMap Oblique dynamic background maps in &#8216;Spatial Manager&#8217;
   </p>
 </div>
-
-<h2>
-</h2>
 
 <p>
   In addition to the Vertical NearMap maps, you will now find in the NearMap tab of the Spatial Manager&#8217;s Background Maps the option to select Oblique for <strong>North, South, East and West orientations</strong>
@@ -70,29 +61,10 @@ tags:
   In the above videos you can review a small example of how the application behaves with NearMap images. Take a look at them
 </p>
 
-<h2>
-</h2>
-
-&nbsp;
-
-<h2>
-</h2>
-
-<h2>
-</h2>
-
-<h2>
-</h2>
-
-<h2>
-</h2>
-
 <p>
   <em>Learn more about dynamic Background Maps in &#8216;Spatial Manager&#8217;:</em>
 </p>
 
-<h2>
-</h2>
 
 <ul>
   <li>
@@ -109,15 +81,9 @@ tags:
   </li>
 </ul>
 
-<h2>
-</h2>
-
 <p>
   <em>Notes:</em>
 </p>
-
-<h2>
-</h2>
 
 <li>
   <em>In &#8216;Spatial Manager&#8217; for CAD versions, the dynamic background Maps functionality is available in the Standard and Professional editions only</em>
@@ -126,9 +92,7 @@ tags:
   <em>To access the <span><a href="https://www.nearmap.com.au/" target="_blank" rel="nofollow">NearMap high quality images</a></span>, you need to be a registered user and have an <span><a href="https://docs.nearmap.com/display/ND/API+Key+Authentication#APIKeyAuthentication-CreatinganAPIKey" target="_blank" rel="nofollow">API key</a></span>, which you can enter in the &#8216;Spatial Manager&#8217; Background Maps setup window:</em>
 </li>
 
-## 
-
-<div id="attachment_6488">
+<div class="mt-3" id="attachment_6488">
   <a href="/images/blog/2019/05/SPMConfigureBGM.png" target="_blank" rel="nofollow"><img src="/images/blog/2019/05/SPMConfigureBGM-300x226.png" alt="Background Maps API Key setup" width="300" height="226" srcset="/images/blog/2019/05/SPMConfigureBGM-300x226.png 300w, /images/blog/2019/05/SPMConfigureBGM-768x578.png 768w, /images/blog/2019/05/SPMConfigureBGM-624x469.png 624w, /images/blog/2019/05/SPMConfigureBGM.png 831w" sizes="(max-width: 300px) 100vw, 300px" /></a>
   
   <p>

@@ -25,9 +25,6 @@ tags:
   Related videos: <a href="https://youtu.be/6mH8CuPNEos?rel=0" target="_blank" rel="nofollow"><span><span>AutoCAD</span></span></a> / <a href="https://youtu.be/LT2PaeIUk_Q?rel=0" target="_blank" rel="nofollow"><span><span>BricsCAD</span></span></a> / <a href="https://youtu.be/HS8XARBLUtI?rel=0" target="_blank" rel="nofollow"><span><span>ZWCAD</span></span></a>
 </h2>
 
-<h2>
-</h2>
-
 <div>
   <a href="/images/blog/2019/05/SPMGMLExportPol.png" target="_blank" rel="nofollow"><img src="/images/blog/2019/05/SPMGMLExportPol-1024x533.png" alt="'Spatial Manager' write to GML capability allows you to export to GML files" width="625" height="325" srcset="/images/blog/2019/05/SPMGMLExportPol-1024x533.png 1024w, /images/blog/2019/05/SPMGMLExportPol-300x156.png 300w, /images/blog/2019/05/SPMGMLExportPol-768x399.png 768w, /images/blog/2019/05/SPMGMLExportPol-624x325.png 624w" sizes="(max-width: 625px) 100vw, 625px" /></a>
   
@@ -35,9 +32,6 @@ tags:
     &#8216;Spatial Manager&#8217; write to GML capability allows you to export to GML files
   </p>
 </div>
-
-<h2>
-</h2>
 
 <p>
   The <span><em><a href="https://en.wikipedia.org/wiki/Geography_Markup_Language" target="_blank" rel="nofollow">GML</a></em></span> (Geography Markup Language) format is a <strong>non-binary structured</strong> file format defined by the <span><em><a href="https://en.wikipedia.org/wiki/Open_Geospatial_Consortium" target="_blank" rel="nofollow">Open Geospatial Consortium</a></em></span> (OGC) in order to store geospatial information following the grammar rules of <span><em><a href="https://en.wikipedia.org/wiki/XML" target="_blank" rel="nofollow">XML</a></em></span> (Extensible Markup Language) files
@@ -73,9 +67,6 @@ tags:
   Using the <strong>intuitive &#8216;Spatial Manager&#8217; export wizard</strong> you can define and choose the same parameters and options when exporting to this type of format as for other previously <a href="http://wiki.spatialmanager.com/index.php/Spatial_Manager™_-_Data_Providers" target="_blank" rel="nofollow"><span><em>available formats</em></span></a>
 </p>
 
-<h2>
-</h2>
-
 <div>
   <a href="/images/blog/2019/05/SPMExportWizGML2.png" target="_blank" rel="nofollow"><img src="/images/blog/2019/05/SPMExportWizGML2.png" alt="'Spatial Manager' exporting wizard interface" width="700" height="643" srcset="/images/blog/2019/05/SPMExportWizGML2.png 700w, /images/blog/2019/05/SPMExportWizGML2-300x276.png 300w, /images/blog/2019/05/SPMExportWizGML2-624x573.png 624w" sizes="(max-width: 700px) 100vw, 700px" /></a>
   
@@ -84,18 +75,9 @@ tags:
   </p>
 </div>
 
-<h2>
-</h2>
-
-<h2>
-</h2>
-
 <p>
   Finally, it should be noted that the export process also generates the auxiliary <a href="https://en.wikipedia.org/wiki/XML_Schema_(W3C)" target="_blank" rel="nofollow"><span><em>XSD</em></span></a> file, which <strong>specifies how to formally describe the elements</strong> in an GML (XML) document. It can be used to verify each piece of item content in the GML file
 </p>
-
-<h2>
-</h2>
 
 <p>
   The above videos will show you an example of how to export to GML and the resulting file
@@ -104,9 +86,6 @@ tags:
 <p>
   <em>Learn more about Exporting objects to GML and others geo spatial targets in ‘Spatial Manager’:</em>
 </p>
-
-<h2>
-</h2>
 
 <ul>
   <li>
@@ -119,9 +98,6 @@ tags:
     <span><span><a href="http://wiki.spatialmanager.com/index.php/Spatial_Manager™_for_ZWCAD_-_FAQs:_Export_(%22Professional%22_edition_only)" target="_blank" rel="nofollow"><span><em>Spatial Manager for ZWCAD</em></span></a></span></span>
   </li>
 </ul>
-
-<h2>
-</h2>
 
 <p>
   <em>Note: Full Export functionality is available in the Professional edition only</em>

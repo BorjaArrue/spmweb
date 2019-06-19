@@ -32,9 +32,6 @@ tags:
   </p>
 </div>
 
-<h2>
-</h2>
-
 <p>
   The Export wizards include a <strong>large number of potential parameters</strong> to fully customize the elements to be exported, their added data, coordinate transformations, and so on
 </p>
@@ -51,25 +48,9 @@ tags:
   In the above videos you can <strong>review a typical export experience</strong> in which this situation can happen and you can check the benefits of this new &#8216;Back&#8217; button to quickly modify parameters in the wizard and easily relaunch the process
 </p>
 
-<h2>
-</h2>
-
-## 
-
-<h2>
-</h2>
-
-&nbsp;
-
-<h2>
-</h2>
-
 <p>
   <em>Learn more about Exporting objects to geo spatial targets in &#8216;Spatial Manager&#8217;:</em>
 </p>
-
-<h2>
-</h2>
 
 <ul>
   <li>
@@ -83,12 +64,7 @@ tags:
   </li>
 </ul>
 
-<h2>
-</h2>
-
 _You can find more info about &#8216;Spatial Manager&#8217; Exporting tools through <a href="http://www.spatialmanager.com/tag/export/" target="_blank" rel="nofollow">these Blog posts</a>_
-
-## 
 
 <p>
   <em>Note: CAD versions full Export functionality is available in the Professional edition only</em>

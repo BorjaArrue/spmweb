@@ -50,13 +50,6 @@ tags:
   In the <span>first half of the above videos</span> you can check the functionality and results of this option. Take a look at them
 </p>
 
-<h2>
-</h2>
-
-&nbsp;
-
-## 
-
 <div id="attachment_6636">
   <a href="/images/blog/2019/06/CADCreateKML.png" target="_blank" rel="nofollow"><img src="/images/blog/2019/06/CADCreateKML-1024x576.png" alt="'Spatial Manager' Create KML function - Publishing drawings in Google Earth (click to enlarge)" width="625" height="352" srcset="/images/blog/2019/06/CADCreateKML-1024x576.png 1024w, /images/blog/2019/06/CADCreateKML-300x169.png 300w, /images/blog/2019/06/CADCreateKML-768x432.png 768w, /images/blog/2019/06/CADCreateKML-624x351.png 624w, /images/blog/2019/06/CADCreateKML.png 1280w" sizes="(max-width: 625px) 100vw, 625px" /></a>
   
@@ -65,9 +58,6 @@ tags:
   </p>
 </div>
 
-<h2>
-</h2>
-
 <div id="attachment_6638">
   <a href="/images/blog/2019/06/CreateKML.png" target="_blank" rel="nofollow"><img src="/images/blog/2019/06/CreateKML-1024x577.png" alt="Open resulting KML/KMZ in Google Earth (click to enlarge)" width="625" height="352" srcset="/images/blog/2019/06/CreateKML-1024x577.png 1024w, /images/blog/2019/06/CreateKML-300x169.png 300w, /images/blog/2019/06/CreateKML-768x433.png 768w, /images/blog/2019/06/CreateKML-624x351.png 624w, /images/blog/2019/06/CreateKML.png 1266w" sizes="(max-width: 625px) 100vw, 625px" /></a>
   
@@ -75,11 +65,6 @@ tags:
     Open resulting KML/KMZ in Google Earth (click to enlarge)
   </p>
 </div>
-
-<h2>
-</h2>
-
-&nbsp;
 
 <h2>
   <span>Option 2</span>: Exporting objects to KML/KMZ through the wizard
@@ -103,13 +88,6 @@ tags:
 
 In the <span>second section of the above videos</span> you will see how this wizard works when exporting to KML/KMZ files. Please play them
 
-<h2>
-</h2>
-
-&nbsp;
-
-## 
-
 <div id="attachment_6640">
   <a href="/images/blog/2019/06/CADExportKML.png" target="_blank" rel="nofollow"><img src="/images/blog/2019/06/CADExportKML-1024x576.png" alt="'Spatial Manager' Export (to KML/KMZ) function and parameters - Structured KML/KMZ files (click to enlarge)" width="625" height="352" srcset="/images/blog/2019/06/CADExportKML-1024x576.png 1024w, /images/blog/2019/06/CADExportKML-300x169.png 300w, /images/blog/2019/06/CADExportKML-768x432.png 768w, /images/blog/2019/06/CADExportKML-624x351.png 624w, /images/blog/2019/06/CADExportKML.png 1280w" sizes="(max-width: 625px) 100vw, 625px" /></a>
   
@@ -117,9 +95,6 @@ In the <span>second section of the above videos</span> you will see how this wiz
     &#8216;Spatial Manager&#8217; Export (to KML/KMZ) function and parameters &#8211; Structured KML/KMZ files (click to enlarge)
   </p>
 </div>
-
-<h2>
-</h2>
 
 <div id="attachment_6641">
   <a href="/images/blog/2019/06/ExportKML.png" target="_blank" rel="nofollow"><img src="/images/blog/2019/06/ExportKML-1024x577.png" alt="Open resulting Exported KML/KMZ in Google Earth (click to enlarge)" width="625" height="352" srcset="/images/blog/2019/06/ExportKML-1024x577.png 1024w, /images/blog/2019/06/ExportKML-300x169.png 300w, /images/blog/2019/06/ExportKML-768x433.png 768w, /images/blog/2019/06/ExportKML-624x351.png 624w, /images/blog/2019/06/ExportKML.png 1266w" sizes="(max-width: 625px) 100vw, 625px" /></a>
@@ -129,20 +104,9 @@ In the <span>second section of the above videos</span> you will see how this wiz
   </p>
 </div>
 
-<h2>
-</h2>
-
-&nbsp;
-
-<h2>
-</h2>
-
 <p>
   <em>Learn more about publishing to Google Earth and/or Exporting to KML/KMZ in &#8216;Spatial Manager&#8217;:</em>
 </p>
-
-<h2>
-</h2>
 
 <ul>
   <li>
@@ -159,15 +123,9 @@ In the <span>second section of the above videos</span> you will see how this wiz
   </li>
 </ul>
 
-<h2>
-</h2>
-
 <p>
   <em>Notes:</em>
 </p>
-
-<h2>
-</h2>
 
 <li>
   <em>In &#8216;Spatial Manager&#8217; for CAD versions, &#8216;Publishing to Google Earth&#8217; functionality is available in Standard and Professional editions. Full Exporting is available in Professional Edition only</em>
