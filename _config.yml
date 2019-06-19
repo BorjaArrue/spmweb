@@ -4,3 +4,8 @@ markdown: kramdown
 sass:
     sass_dir: css
 #    style: compressed
+
+collections:
+  articles:
+    output: true
+    permalink: :path/

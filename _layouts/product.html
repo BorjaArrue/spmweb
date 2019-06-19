@@ -127,6 +127,16 @@ title: {{ page.product_name }}
     </div>
 </section>
 
+<section class="sec_articles px-lg-5 py-5" id="articles">
+    <div class="container">
+        {% for article in site.articles %}
+            {% if article.application == page.product_abbr %}
+                <p>{{ article.title }}</p>
+            {% endif %}
+        {% endfor %}
+    </div>
+</section>
+
 {% include customer_quotes.html %}
 
 <section class="sec_faqs px-lg-5 py-5" id="faqs">
