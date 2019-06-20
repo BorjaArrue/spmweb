@@ -64,7 +64,7 @@ tags:
 <h2>
 </h2>
 
-&nbsp;
+
 
 _Learn more about selecting objects by defining object data queries:_
 

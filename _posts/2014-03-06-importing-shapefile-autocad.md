@@ -18,7 +18,7 @@ One of the basic needs of any AutoCAD user to handle geospatial information, by 
 * * *
 
 <h2></h2>
-&nbsp;
+
 
 <span><strong>Please, also take a look at the following updated (MAY18) videos for all CAD systems</strong>:</span>
 
@@ -26,7 +26,7 @@ One of the basic needs of any AutoCAD user to handle geospatial information, by 
 <span><strong><span><em><a href="https://youtu.be/wgwoMvq9tIk?rel=0" target="_blank" rel="nofollow">AutoCAD</a></em></span> / <span><em><a href="https://youtu.be/sOfDVtCinnk?rel=0" target="_blank" rel="nofollow">BricsCAD</a></em></span> / <span><em><a href="https://youtu.be/i1Q9jVaEbVM?rel=0" target="_blank" rel="nofollow">ZWCAD</a></em></span></strong></span>
 
 <h2></h2>
-&nbsp;
+
 
 * * *
 

@@ -14,10 +14,7 @@ tags:
 The main version 4 (_October 2017_) collects and improves all the tools included over the last nineteen months adding amazing news
 
 <h2></h2>
-<h3>
-  <em>Desktop &#8211; AutoCAD &#8211; BricsCAD</em>
-</h3>
-
+<h2><center><em>Desktop &#8211; AutoCAD &#8211; BricsCAD</em></center></h2>
 <!--more-->
 
 <div>
@@ -52,7 +49,7 @@ The main version 4 (_October 2017_) collects and improves all the tools included
 **_Video:_** <a href="https://youtu.be/zmH8Cdi5DPk?rel=0" target="_blank" rel="nofollow"><em>Desktop</em></a> _/_ <a href="https://youtu.be/jlBf9xs-GyE?rel=0" target="_blank" rel="nofollow"><em>AutoCAD</em></a> _/_ <a href="https://youtu.be/vo6UEi_r7Cs?rel=0" target="_blank" rel="nofollow"><em>BricsCAD<br /> </em></a>**_Learn more:_** <a href="http://wiki.spatialmanager.com/index.php/Spatial_Manager_Desktop%E2%84%A2_-_FAQs:_Background_Maps#Can_I_configure_my_own_Web_Map_Services.3F" target="_blank" rel="nofollow"><em>Desktop /</em></a> <a href="http://wiki.spatialmanager.com/index.php/Spatial_Manager%E2%84%A2_for_AutoCAD_-_FAQs:_Background_Maps_(%22Standard%22_and_%22Professional%22_editions_only)#Can_I_configure_my_own_Web_Map_Services.3F" target="_blank" rel="nofollow"><em>AutoCAD /</em></a> <a href="http://wiki.spatialmanager.com/index.php/Spatial_Manager%E2%84%A2_for_BricsCAD_-_FAQs:_Background_Maps_(%22Standard%22_and_%22Professional%22_editions_only)#Can_I_configure_my_own_Web_Map_Services.3F" target="_blank" rel="nofollow"><em>BricsCAD</em></a>
 
 <h2></h2>
-&nbsp;
+
 
 ## <span><strong>Enhanced ASCII data provider</strong> (CSV, TXT, ASC, XYZ, etc.)</span>
 
@@ -72,7 +69,7 @@ The main version 4 (_October 2017_) collects and improves all the tools included
 **_Video:_** <a href="https://youtu.be/EJG26apAFM4?rel=0" target="_blank" rel="nofollow"><em>Desktop /</em></a> <a href="https://youtu.be/IIYQLKIuuj0?rel=0" target="_blank" rel="nofollow"><em>AutoCAD /</em></a> <a href="https://youtu.be/G-y0Reu6sWs?rel=0" target="_blank" rel="nofollow"><em>BricsCAD</em></a>
 
 <h2></h2>
-&nbsp;
+
 
 ## <span><strong>&#8216;Command-line&#8217; Importing in CAD</strong>: &#8216;<strong>-SPMIMPORT&#8217;</strong></span>
 
@@ -81,7 +78,7 @@ The main version 4 (_October 2017_) collects and improves all the tools included
 **_Video:_**_ _ <a href="https://youtu.be/8K-MGjy7sAg?rel=0" target="_blank" rel="nofollow"><em>AutoCAD /</em></a> <a href="https://youtu.be/oS-UyRPMzQ8?rel=0" target="_blank" rel="nofollow"><em>BricsCAD</em></a>
 
 <h2></h2>
-&nbsp;
+
 
 ## <span><em><strong>And&#8230;</strong></em></span>
 

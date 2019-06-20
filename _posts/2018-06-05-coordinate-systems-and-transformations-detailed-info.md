@@ -92,7 +92,7 @@ Detailed Transformation information:
 <h2>
 </h2>
 
-&nbsp;
+
 
 * * *
 
@@ -110,7 +110,7 @@ Detailed Transformation information:
   * _<a href="http://wiki.spatialmanager.com/index.php/Spatial_Manager_Desktop%E2%84%A2_-_FAQs:_Import_and_export#How_can_I_define_a_Transformation_of_coordinates.3F" target="_blank" rel="nofollow">Spatial Manager Desktop</a>_
 
 <h2></h2>
-&nbsp;
+
 
 * * *
 

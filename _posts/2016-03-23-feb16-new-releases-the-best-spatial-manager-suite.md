@@ -23,25 +23,25 @@ tags:
   If you are an AutoCAD (v.2008 &#8211; v.2017) or BricsCAD (v.13 &#8211; v.16) user, you can now choose from among many Backgrounds Maps from many providers such as OpenStreetMap, Bing, MapBox, etc. They will enhance the drawings quality and will let you <span>compare and check better</span><br /> <span><strong>Video#1:</strong></span> <a href="https://youtu.be/qm_GIzdNlyc?rel=0" target="_blank" rel="nofollow">AutoCAD</a> * <a href="https://youtu.be/GZl7aKy57kE?rel=0" target="_blank" rel="nofollow">BricsCAD</a><br /> <em>Learn more: <a href="http://wiki.spatialmanager.com/index.php/Spatial_Manager%E2%84%A2_for_AutoCAD_-_FAQs:_Background_Maps_(%22Standard%22_and_%22Professional%22_editions_only)" target="_blank" rel="nofollow">AutoCAD</a> * <a href="http://wiki.spatialmanager.com/index.php/Spatial_Manager%E2%84%A2_for_BricsCAD_-_FAQs:_Background_Maps_(%22Standard%22_and_%22Professional%22_editions_only)" target="_blank" rel="nofollow">BricsCAD</a></em>
 </p>
 
-<h3>
-  <strong><br /> Goal#2. Data Structure Management and Direct Data Edition</strong>
-</h3>
+<h2>
+  Goal#2. Data Structure Management and Direct Data Edition
+</h2>
 
 <p>
   Design and edit the Structure which will be used to store the data attached to the objects. Manage the Tables and the Fields according to your needs. You will also find new Tools available to Attach, Detach and Select data. The data attached to the objects (EEDs/XDATA) is no longer read-only data<br /> <span><strong>Video#2:</strong></span> <a href="https://youtu.be/nn6UDmhefoU?rel=0" target="_blank" rel="nofollow">AutoCAD</a> * <a href="https://youtu.be/Ud_4ZM7gWS4?rel=0" target="_blank" rel="nofollow">BricsCAD</a><br /> <em>Learn more: <a href="http://wiki.spatialmanager.com/index.php/Spatial_Manager%E2%84%A2_for_AutoCAD_-_FAQs:_Data_Structure_Management_(%22Standard%22_and_%22Professional%22_editions_only)" target="_blank" rel="nofollow">AutoCAD</a> * <a href="http://wiki.spatialmanager.com/index.php/Spatial_Manager%E2%84%A2_for_BricsCAD_-_FAQs:_Data_Structure_Management_(%22Standard%22_and_%22Professional%22_editions_only)" target="_blank" rel="nofollow">BricsCAD</a></em>
 </p>
 
-<h3>
-  <strong><br /> Goal#3. Labeling objects while importing</strong>
-</h3>
+<h2>
+  Goal#3. Labeling objects while importing
+</h2>
 
 <p>
   You can now Label the Point features or the Centroids while importing from files or spatial tables into the drawing. Text label properties taken from fields<br /> <span><strong>Video#3:</strong></span> <a href="https://youtu.be/ap0TcsRe3g4?rel=0" target="_blank" rel="nofollow">AutoCAD</a> * <a href="https://youtu.be/J6mhPqiBgTQ?rel=0" target="_blank" rel="nofollow">BricsCAD</a>
 </p>
 
-<h3>
-  <strong><br /> Goal#4. New GML data provider. UK Ordnance Survey data compatibility</strong>
-</h3>
+<h2>
+  Goal#4. New GML data provider. UK Ordnance Survey data compatibility
+</h2>
 
 <p>
   The GML data provider has been added to the extensive list of the <a href="http://wiki.spatialmanager.com/index.php/Spatial_Manager%E2%84%A2_-_Data_Providers" target="_blank" rel="nofollow">Spatial Manager™ data providers</a>. You can now read GML, GZ and XML files. Good news for the UK users who can now Access the great Ordnance Survey MasterMap spatial data information<br /> <span><strong>Video#4:</strong></span> <a href="https://youtu.be/_FN2jSihQ74?rel=0" target="_blank" rel="nofollow">AutoCAD</a> * <a href="https://youtu.be/ZWLoWjfXJDg?rel=0" target="_blank" rel="nofollow">BricsCAD</a>

@@ -88,7 +88,7 @@ https://**{mt,mt0,mt1,mt2,mt3}**.google.com/&#8230;
 Read more about other **parameters in the Google Maps settings** in this other <a href="/more-about-dynamic-google-maps-in-your-drawings-or-maps/" target="_blank" rel="nofollow"><span><em>Blog entry</em></span></a>
 
 <h2></h2>
-&nbsp;
+
 
 <h2></h2>
 <p>

@@ -16,7 +16,7 @@ The latest released version 3.3 of Spatial Manager™ for BricsCAD includes B
 
 If  you need to import/export <a href="http://wiki.spatialmanager.com/index.php/Spatial_Manager%E2%84%A2_for_BricsCAD_-_FAQs:_Providers" target="_blank" rel="nofollow">spatial or GIS data</a> into/from **BricsCAD 13 to 17**, and you want to enjoy of advanced tools to manage spatial data, such as background base maps, quick drawing publishing in Google Earth, data structures, queries, layer thematics, automatic labeling, etc.,  <a href="/spm-forbricscad/" target="_blank" rel="nofollow">&#8216;Spatial Manager™ for BricsCAD&#8217;</a> is the best solution for you
 
-&nbsp;
+
 
 <a href="/the-productive-new-version-3-3-spatial-manager/" target="_blank" rel="nofollow">The version 3.3 in the blog</a>
 

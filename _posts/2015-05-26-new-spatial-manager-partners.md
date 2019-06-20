@@ -17,47 +17,29 @@ tags:
 
 New Spatial Manager™ partners:
 
-**· B&P Soluções em Tecnologia e Informação (GRAPHICS)** &#8211; (Brycsys Brasil) &#8211; Brazil (Reseller)
-  
-_&#8211; Portuguese (Brazil) application language technical translator_
-  
+**· B&P Soluções em Tecnologia e Informação (GRAPHICS)** &#8211; (Brycsys Brasil) &#8211; Brazil (Reseller)  
+_&#8211; Portuguese (Brazil) application language technical translator_  
 _<a href="http://www.portalgraphics.com.br" target="_blank" rel="nofollow">www.portalgraphics.com.br</a>_
   
-**
-  
-· ChasmTech** &#8211; Florida.USA (Reseller)
-  
-_&#8211; <a href="https://chasmtech.wordpress.com/2015/05/14/accessing-spatial-data-in-cad-without-autocad-map/" target="_blank" rel="nofollow">Blog product analysis</a>_
-  
+**· ChasmTech** &#8211; Florida.USA (Reseller)  
+_&#8211; <a href="https://chasmtech.wordpress.com/2015/05/14/accessing-spatial-data-in-cad-without-autocad-map/" target="_blank" rel="nofollow">Blog product analysis</a>_  
 _<a href="http://chasmtech.com" target="_blank" rel="nofollow">www.chasmtech.com</a>_
   
-**
-  
-· GIS Project** &#8211; Germany (Reseller)
-  
-_&#8211; SQL Server data provider beta tester_
-  
+**· GIS Project** &#8211; Germany (Reseller)  
+_&#8211; SQL Server data provider beta tester_  
 <a href="http://www.visa-fm.de" target="_blank" rel="nofollow"><em>www.visa-fm.de</em></a>
 
-**· High Software** &#8211; Brazil (Reseller)
-  
+**· High Software** &#8211; Brazil (Reseller)  
 <a href="http://www.highsoftware.com.br" target="_blank" rel="nofollow"><em>www.highsoftware.com.br</em></a>
 
-<h2></h2>
-· **inQUBI** &#8211; (Bricsys Los Angeles) &#8211; California.USA (Reseller)
-  
-_&#8211; <a href="http://www.inqubi.com/?page_id=866" target="_blank" rel="nofollow">Product page</a>
-  
-&#8211; <a href="http://www.inqubi.com/?p=971" target="_blank" rel="nofollow">Tasks technology page</a>_
-  
+**· inQUBI** &#8211; (Bricsys Los Angeles) &#8211; California.USA (Reseller)  
+&#8211; <a href="http://www.inqubi.com/?page_id=866" target="_blank" rel="nofollow">Product page</a>  
+&#8211; <a href="http://www.inqubi.com/?p=971" target="_blank" rel="nofollow">Tasks technology page</a>_  
 _<a href="http://www.inqubi.com" target="_blank" rel="nofollow">www.inqubi.com</a>_
 
-<h2></h2>
-**· Supportek** &#8211; Spain (Reseller)
-  
+**· Supportek** &#8211; Spain (Reseller)  
 <a href="http://www.supportek.es" target="_blank" rel="nofollow"><em>www.supportek.es</em></a>
 
-<h2></h2>
 <p>
   <a href="https://chasmtech.wordpress.com/2015/05/14/accessing-spatial-data-in-cad-without-autocad-map/" target="_blank" rel="nofollow"><img src="/images/blog/2015/05/Chasmtech-blog-MAY15.jpg" alt="Chasmtech blog MAY15" width="400" height="488" srcset="/images/blog/2015/05/Chasmtech-blog-MAY15.jpg 839w, /images/blog/2015/05/Chasmtech-blog-MAY15-246x300.jpg 246w, /images/blog/2015/05/Chasmtech-blog-MAY15-624x760.jpg 624w" sizes="(max-width: 400px) 100vw, 400px" /></a>
 </p>

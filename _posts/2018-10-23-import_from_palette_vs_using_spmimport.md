@@ -87,7 +87,7 @@ _-SPMIMPORT Buildings_Area23_
 _-SPMIMPORT Parcels*_
 
 <h2></h2>
-&nbsp;
+
 
 <p>
   Learn more about how to import and customize spatial objects and data into your drawings from the <strong>Application Palette</strong>, through the <strong>SPMIMPORT</strong> direct command, or from the Command line and Scripts <strong>(-SPMIMPORT)</strong>:

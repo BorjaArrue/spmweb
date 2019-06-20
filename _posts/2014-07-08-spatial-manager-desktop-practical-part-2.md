@@ -26,14 +26,18 @@ _<span>Scenario #2</span>: We receive a set of spatial data including parcels (i
 
 _The easy steps to follow are:_
 
-_1 &#8211; We load both files by dragging them from Windows explorer into a Map of the city (or into an empty Map)
-  
-_ _2 &#8211; We search the unassigned parcels by performing a selection query. We export the queried Features to a folder inside a new <a title="KML file wiki" href="http://es.wikipedia.org/wiki/KML" target="_blank" rel="nofollow">KML</a> file (by transforming the coordinates)
-  
-_ _3 &#8211; We locate the hydrants within the previous parcels by performing a spatial query. We export the queried features to a new folder into the same <a title="KML file wiki" href="http://es.wikipedia.org/wiki/KML" target="_blank" rel="nofollow">KML</a> file
-  
-_ _
-  
+<ol>
+	<li>
+		We load both files by dragging them from Windows explorer into a Map of the city (or into an empty Map)
+	</li>
+	<li>
+		We search the unassigned parcels by performing a selection query. We export the queried Features to a folder inside a new <a title="KML file wiki" href="http://es.wikipedia.org/wiki/KML" target="_blank" rel="nofollow">KML</a> file (by transforming the coordinates)
+	</li>
+	<li>
+	We locate the hydrants within the previous parcels by performing a spatial query. We export the queried features to a new folder into the same <a title="KML file wiki" href="http://es.wikipedia.org/wiki/KML" target="_blank" rel="nofollow">KML</a> file
+	</li>
+</ol>
+
 When we have finished, we can check the resulting file by opening it in <a title="Google Earth page" href="https://www.google.com/earth/" target="_blank" rel="nofollow">Google Earth</a>_
 
 **_Time spent: 3 min._**

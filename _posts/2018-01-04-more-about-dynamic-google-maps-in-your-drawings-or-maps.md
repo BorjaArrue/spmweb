@@ -35,7 +35,7 @@ tags:
   </p>
 </div>
 
-&nbsp;
+
 
 In the previous entry (<a href="/google-maps-in-your-cad-drawings-of-course/" target="_blank" rel="nofollow">Google Maps in your CAD drawings? Of course</a>) you learn how to define User Background Maps for the &#8220;Hybrid&#8221; and &#8220;Standard Roadmap&#8221; Google Maps. The following value list for the parameter &#8220;lyrs&#8221; in the URL is a more **complete set of the available map types** in Google Maps:
 

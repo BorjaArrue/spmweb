@@ -62,7 +62,7 @@ These enhancements will not be included in the application until the next releas
 <h2>
 </h2>
 
-&nbsp;
+
 
 <p>
   <em>· <a href="http://wiki.spatialmanager.com/index.php/Spatial_Manager%E2%84%A2_for_AutoCAD_-_FAQs:_Import#How_can_I_define_a_Transformation_of_coordinates.3F" target="_blank" rel="nofollow">Spatial Manager for AutoCAD</a></em><br /> <em>· <a href="http://wiki.spatialmanager.com/index.php/Spatial_Manager%E2%84%A2_for_BricsCAD_-_FAQs:_Import#How_can_I_define_a_Transformation_of_coordinates.3F" target="_blank" rel="nofollow">Spatial Manager for BricsCAD</a><br /> </em><em>· <a href="http://wiki.spatialmanager.com/index.php/Spatial_Manager%E2%84%A2_for_ZWCAD_-_FAQs:_Import#How_can_I_define_a_Transformation_of_coordinates.3F" target="_blank" rel="nofollow">Spatial Manager for ZWCAD</a><br /> · <a href="http://wiki.spatialmanager.com/index.php/Spatial_Manager_Desktop%E2%84%A2_-_FAQs:_Import_and_export#How_can_I_define_a_Transformation_of_coordinates.3F" target="_blank" rel="nofollow">Spatial Manager Desktop</a></em>

@@ -13,17 +13,17 @@ tags:
 ---
 <span>Many people, who have downloaded the beta versions over the last few weeks, have asked us for the price of the Spatial Manager™ products. Here is the estimated price list for commercial editions, which will become available in the coming weeks<!--more--></span>
 
-<h1>
-  <span><span> </span></span>SEE CURRENT PRICES IN:
-</h1>
+<h2>
+  SEE CURRENT PRICES IN:
+</h2>
 
   * <span><strong><a href="/spm-desktop-prices/" target="_blank" rel="nofollow">Spatial Manager Desktop™ (3 editions)</a></strong></span>
   * <span><strong><a href="/spm-forautocad-prices/" target="_blank" rel="nofollow">Spatial Manager™ for AutoCAD (3 editions)</a></strong></span>
   * <span><strong><a href="/spm-forbricscad-prices/" target="_blank" rel="nofollow">Spatial Manager™ for BricsCAD (3 editions)</a></strong></span>
 
-<h1>
-   <span>OBSOLETE INFO</span>
-</h1>
+<h2>
+   OBSOLETE INFO
+</h2>
 
   * <span><b>Spatial Manager Desktop™ <span>Professional</span> Edition</b>: $ 499,00</span> 
       * <span>Full application</span>
@@ -35,8 +35,6 @@ tags:
           * <span>No spatial queries</span>
           * <span>No user data sources: only spatial files, no access to spatial data base servers, data stores, etc.</span>
           * <span>No data edition: no changes in the data grid, no editing features, etc.</span>
-
-<span> </span>
 
   * <span><b>Spatial Manager for AutoCAD™ <span>Standard</span> Edition</b>: $ 179,00</span> 
       * <span>Full application</span>

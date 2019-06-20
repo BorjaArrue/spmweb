@@ -17,7 +17,7 @@ In the latest version of &#8216;Spatial Manager&#8217; for CAD applications (_Au
 <h2></h2>
 Click on the image below to check how the rendering engine can now **enhance the &#8216;Background Map&#8217; images** (on screen as in printed maps)
 
-&nbsp;
+
 
 <div>
   <a href="/images/blog/2017/11/Image_quality_1_to_4.png" target="_blank" rel="nofollow"><img src="/images/blog/2017/11/Image_quality_1_to_4.png" alt="Enhanced 'Background Maps' quality" width="800" height="380" srcset="/images/blog/2017/11/Image_quality_1_to_4.png 800w, /images/blog/2017/11/Image_quality_1_to_4-300x143.png 300w, /images/blog/2017/11/Image_quality_1_to_4-768x365.png 768w, /images/blog/2017/11/Image_quality_1_to_4-624x296.png 624w" sizes="(max-width: 800px) 100vw, 800px" /></a>
@@ -70,7 +70,7 @@ If you expand the image below (click on it), you will be able to check the Map i
   </p>
 </div>
 
-&nbsp;
+
 
 ## And last, but not at least
 

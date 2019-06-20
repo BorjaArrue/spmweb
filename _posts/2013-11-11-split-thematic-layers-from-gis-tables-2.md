@@ -15,8 +15,6 @@ tags:
   - Thematics
 ---
 A common situation is when you want to separate one spatial data Table into multiple Tables depending on the values ​​of a Field from the original Table_
-  
-_ 
 
 <!--more-->
 

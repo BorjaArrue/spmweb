@@ -42,7 +42,7 @@ tags:
 <h2>
 </h2>
 
-&nbsp;
+
 
 <h2>
   Enhanced &#8216;User Background Maps&#8217;

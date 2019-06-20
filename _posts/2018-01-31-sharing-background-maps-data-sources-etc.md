@@ -46,7 +46,7 @@ tags:
 <h2>
 </h2>
 
-&nbsp;
+
 
 <h2>
   Which configuration files can be shared and which cannot?
@@ -153,7 +153,7 @@ tags:
 <h2>
 </h2>
 
-&nbsp;
+
 
 <h2>
   Where to find the application configuration files?
@@ -221,7 +221,7 @@ tags:
 <h2>
 </h2>
 
-&nbsp;
+
 
 <h2>
   Backup Configuration files
@@ -234,7 +234,7 @@ tags:
 <h2>
 </h2>
 
-&nbsp;
+
 
 <h2>
   One more note for expert users

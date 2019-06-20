@@ -54,7 +54,7 @@ tags:
 <h2>
 </h2>
 
-&nbsp;
+
 
 _Learn more about alphanumeric data and Tables:_
 

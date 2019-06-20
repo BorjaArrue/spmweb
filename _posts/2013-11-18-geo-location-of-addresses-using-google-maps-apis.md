@@ -14,8 +14,6 @@ tags:
   - ODBC
 ---
 Within this interesting example we show how to include, on an existing Map of a city, locations from a list of addresses as points on the Map, using Google Maps APIs for geo-location._
-  
-_ 
 
 <!--more-->
 
@@ -34,7 +32,7 @@ The process is also supported by a small application developed using VBA in Exce
       * As you can see in the video, **the addresses can be extended** on the same Excel worksheet **to different cities or even to different countries** (just add the name of the country separated by a comma after the name of the city)
       * The accuracy of the geo-location returned by <a title="Google Map APIs" href="https://developers.google.com/maps/" target="_blank" rel="nofollow">Google Maps APIs</a> will obviously be greater as the data entered is more accurate
 
-&nbsp;
+
 
 Please, watch the video:
 

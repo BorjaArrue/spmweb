@@ -14,8 +14,6 @@ tags:
   - ODBC
 ---
 Within this interesting example we show how to include, on an existing AutoCAD or BricsCAD drawing of a city, locations from a list of addresses as points (Blocks) on the drawing, using Google Maps APIs for geo-location_
-  
-_ 
 
 <!--more-->
 

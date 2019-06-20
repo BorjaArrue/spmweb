@@ -19,6 +19,8 @@ By using the **Altitude parameter**, the Features can be placed at a certain hei
 
 The data Provider for <a title="Google Earth website" href="http://www.google.com/earth/" target="_blank" rel="nofollow">Google Earth</a> File (KML or KMZ), which incorporates Spatial Manager Desktop™, **has recently been enhanced to include this interesting parameter**, allowing the generation of Features including their real heights within such files, as shown in the next picture:
 
-<a href="/images/blog/2014/02/NewKMLProvider.png" target="_blank" rel="nofollow"><img src="/images/blog/2014/02/NewKMLProvider.png" alt="Spatial Manager - New KML Provider parameters" width="567" height="576" srcset="/images/blog/2014/02/NewKMLProvider.png 567w, /images/blog/2014/02/NewKMLProvider-295x300.png 295w" sizes="(max-width: 567px) 100vw, 567px" /></a>In the sample analyzed in this video, some buildings of a city are exported to a KML file from a Map Layer whose data table includes the height of the buildings
+<a href="/images/blog/2014/02/NewKMLProvider.png" target="_blank" rel="nofollow"><img src="/images/blog/2014/02/NewKMLProvider.png" alt="Spatial Manager - New KML Provider parameters" width="567" height="576" srcset="/images/blog/2014/02/NewKMLProvider.png 567w, /images/blog/2014/02/NewKMLProvider-295x300.png 295w" sizes="(max-width: 567px) 100vw, 567px" /></a>
+
+In the sample analyzed in this video, some buildings of a city are exported to a KML file from a Map Layer whose data table includes the height of the buildings
 
 Please watch the video:

@@ -57,7 +57,7 @@ tags:
 <h2>
 </h2>
 
-&nbsp;
+
 
 <h2></h2>
 * * *
@@ -81,7 +81,7 @@ tags:
       * _<a href="http://wiki.spatialmanager.com/index.php/Spatial_Manager_Desktop™_-_FAQs:_Background_Maps" target="_blank" rel="nofollow">Spatial Manager Desktop</a>_
 
 <h2></h2>
-&nbsp;
+
 
 * * *
 

@@ -74,7 +74,7 @@ In the above videos you can see the complete import process and learn how to com
 _(*) Note: &#8216;Spatial Manager for AutoCAD&#8217; also includes the option to use MPolygons when importing, as AutoCAD allows to programmatically create this type of objects_
 
 <h2></h2>
-&nbsp;
+
 
 <h2></h2>
 <p>

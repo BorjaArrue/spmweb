@@ -37,33 +37,29 @@ tags:
 <h2>
 </h2>
 
-<li>
-  <div>
-    Automatic<strong> assignment of the Coordinate System</strong> (CRS) to an unreferenced (no CRS assigned) drawing when importing from a source whose CRS is known. This simplifies the (likely) assignment of a CRS from the origin to the target
-  </div>
-</li>
-
-<li>
-  <div>
-    If the drawing is empty, the import processes <strong>Zoom to the imported objects. </strong>So that you can easily locate them
-  </div>
-</li>
-
-<li>
-  Automatic <strong>assignment of a projected <span><a href="https://en.wikipedia.org/wiki/Web_Mercator" target="_blank" rel="nofollow">Pseudo-Mercator</a></span> CRS</strong> to the drawing when importing into an unreferenced drawing from <span><a href="https://en.wikipedia.org/wiki/Google_Earth" target="_blank" rel="nofollow">Google Earth,</a></span>  <span><span><a href="https://en.wikipedia.org/wiki/OpenStreetMap" target="_blank" rel="nofollow">OpenStreetMap</a></span></span>, <span><a href="https://en.wikipedia.org/wiki/GPS_Exchange_Format" target="_blank" rel="nofollow">GPX</a></span> and others. These formats use a <span><a href="https://en.wikipedia.org/wiki/Geographic_coordinate_system#Geographic_latitude_and_longitude" target="_blank" rel="nofollow">geographic CRS</a></span> to store the spatial information, and the users are usually interested in getting <span><a href="https://en.wikipedia.org/wiki/Geographic_coordinate_system#Map_projection" target="_blank" rel="nofollow">projected</a></span> spatial information into the drawings. This automation can be deactivated (read the next paragraph)
-</li>
-<li>
-  In addition, in the previous import scenario, <strong>the &#8220;Transform Coordinates&#8221; option is also automatically activated</strong>. You can uncheck this option in the Importing Wizard. In this case, the automations #3 and #4 would be not effective but the automation #1 would be applied
-</li>
-<li>
-  If the <strong>drawing is empty and unreferenced</strong>, when &#8216;SPMBGMAPSHOW&#8217; is executed the application <strong>will assign the Background Map CRS</strong> to the drawing
-</li>
-<li>
-  Automatic <strong>activation of the &#8220;Transform Coordinates&#8221; option</strong> while importing, if the drawing has any assigned CRS and the source has the CRS defined (or the user defines it while importing)
-</li>
-<li>
-  Automatic <strong>mapping of appropriate data column names as X Y Z Coordinates</strong> when importing from user ASCII files. Many names, such as X, Lat, Longitude, H, etc. are considered valid
-</li>
+<ol>
+  <li>
+      Automatic<strong> assignment of the Coordinate System</strong> (CRS) to an unreferenced (no CRS assigned) drawing when importing from a source whose CRS is known. This simplifies the (likely) assignment of a CRS from the origin to the target
+  </li>
+  <li>
+      If the drawing is empty, the import processes <strong>Zoom to the imported objects. </strong>So that you can easily locate them
+  </li>
+  <li>
+    Automatic <strong>assignment of a projected <span><a href="https://en.wikipedia.org/wiki/Web_Mercator" target="_blank" rel="nofollow">Pseudo-Mercator</a></span> CRS</strong> to the drawing when importing into an unreferenced drawing from <span><a href="https://en.wikipedia.org/wiki/Google_Earth" target="_blank" rel="nofollow">Google Earth,</a></span>  <span><span><a href="https://en.wikipedia.org/wiki/OpenStreetMap" target="_blank" rel="nofollow">OpenStreetMap</a></span></span>, <span><a href="https://en.wikipedia.org/wiki/GPS_Exchange_Format" target="_blank" rel="nofollow">GPX</a></span> and others. These formats use a <span><a href="https://en.wikipedia.org/wiki/Geographic_coordinate_system#Geographic_latitude_and_longitude" target="_blank" rel="nofollow">geographic CRS</a></span> to store the spatial information, and the users are usually interested in getting <span><a href="https://en.wikipedia.org/wiki/Geographic_coordinate_system#Map_projection" target="_blank" rel="nofollow">projected</a></span> spatial information into the drawings. This automation can be deactivated (read the next paragraph)
+  </li>
+  <li>
+    In addition, in the previous import scenario, <strong>the &#8220;Transform Coordinates&#8221; option is also automatically activated</strong>. You can uncheck this option in the Importing Wizard. In this case, the automations #3 and #4 would be not effective but the automation #1 would be applied
+  </li>
+  <li>
+    If the <strong>drawing is empty and unreferenced</strong>, when &#8216;SPMBGMAPSHOW&#8217; is executed the application <strong>will assign the Background Map CRS</strong> to the drawing
+  </li>
+  <li>
+    Automatic <strong>activation of the &#8220;Transform Coordinates&#8221; option</strong> while importing, if the drawing has any assigned CRS and the source has the CRS defined (or the user defines it while importing)
+  </li>
+  <li>
+    Automatic <strong>mapping of appropriate data column names as X Y Z Coordinates</strong> when importing from user ASCII files. Many names, such as X, Lat, Longitude, H, etc. are considered valid
+  </li>
+</ol>
 
 <h2>
 </h2>

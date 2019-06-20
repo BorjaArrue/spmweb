@@ -18,6 +18,6 @@ Do you need to import / export spatial or GIS data into / from AutoCAD 2008 t
 
 <a title="Spatial Manager™ for AutoCAD product page" href="/spm-forautocad/" target="_blank" rel="nofollow">Spatial Manager™ for AutoCAD product page</a>
 
-&nbsp;
+
 
 <a href="/images/blog/2015/04/AC2016-SPM2.png" target="_blank" rel="nofollow"><img src="/images/blog/2015/04/AC2016-SPM2-1024x576.png" alt="AC2016-SPM2" width="625" height="351" srcset="/images/blog/2015/04/AC2016-SPM2-1024x576.png 1024w, /images/blog/2015/04/AC2016-SPM2-300x168.png 300w, /images/blog/2015/04/AC2016-SPM2-624x351.png 624w, /images/blog/2015/04/AC2016-SPM2.png 1280w" sizes="(max-width: 625px) 100vw, 625px" /></a>

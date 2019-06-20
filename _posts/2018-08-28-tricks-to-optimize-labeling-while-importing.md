@@ -88,10 +88,10 @@ tags:
 <h2>
 </h2>
 
-&nbsp;
+
 
 <h2></h2>
-&nbsp;
+
 
 <p>
   Learn more about <b>how to import and label Spatial Data</b> in your drawings:
