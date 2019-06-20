@@ -14,7 +14,7 @@ tags:
   - Layers
   - Shapefiles (SHP)
 ---
-Scenario #1: We need to quickly check which the appropriate file is, between three Shapefiles (SHP) files that include the same data but whose spatial geometric information is different (Time spent: 60 s.)
+Scenario #1: We need to quickly check which the appropriate file is, between three Shapefiles (SHP) files that include the same data but whose spatial geometric information is different
 
 <!--more-->
 
@@ -28,6 +28,4 @@ _<span>Scenario #1</span>: We need to quickly check which the appropriate file i
 
 _We will take advantage of the option to drag files from Windows Explorer into a Map, the simple styling systems to difference Layers of information and the option to display a background map, which allows us to compare the location of the three layers_
 
-**_Time spent: 60 s._**
-  
 Please, watch the video:

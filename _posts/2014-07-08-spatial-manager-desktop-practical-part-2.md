@@ -12,7 +12,7 @@ tags:
   - Google Earth (KML)
   - Spatial queries
 ---
-Scenario #2: We receive a set of spatial data including parcels (inside a Shapefile-SHP) and some hydrants (inside a KML file) belonging to a city. We need to generate a KML file which includes the parcels that have no assigned street name (&#8220;Not_assigned&#8221;) and the hydrants located within these parcels, to send it to another user who will open the KML file in Google Earth (Time spent: 3 min.)
+Scenario #2: We receive a set of spatial data including parcels (inside a Shapefile-SHP) and some hydrants (inside a KML file) belonging to a city. We need to generate a KML file which includes the parcels that have no assigned street name (&#8220;Not_assigned&#8221;) and the hydrants located within these parcels, to send it to another user who will open the KML file in Google Earth
 
 <!--more-->
 
@@ -40,6 +40,4 @@ _The easy steps to follow are:_
 
 When we have finished, we can check the resulting file by opening it in <a title="Google Earth page" href="https://www.google.com/earth/" target="_blank" rel="nofollow">Google Earth</a>_
 
-**_Time spent: 3 min._**
-  
 Please, watch the video:
