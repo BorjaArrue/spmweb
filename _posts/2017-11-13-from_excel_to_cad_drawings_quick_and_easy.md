@@ -4,7 +4,6 @@ title: 'From Excel to CAD drawings: quick and easy'
 date: 2017-11-13T18:46:33+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=4546
 permalink: /from_excel_to_cad_drawings_quick_and_easy/
 image: /images/blog/2017/11/Excel-to-CAD-logo-85.jpg
 categories:

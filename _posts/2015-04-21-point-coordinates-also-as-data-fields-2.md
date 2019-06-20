@@ -4,7 +4,6 @@ title: Point coordinates also as data fields
 date: 2015-04-21T17:36:19+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=2397
 permalink: /point-coordinates-also-as-data-fields-2/
 image: /images/blog/2015/04/XYZ85.png
 categories:

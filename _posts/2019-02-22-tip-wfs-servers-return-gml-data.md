@@ -4,7 +4,6 @@ title: 'Tip &#8211; WFS servers return GML data'
 date: 2019-02-22T12:51:54+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=6210
 permalink: /tip-wfs-servers-return-gml-data/
 image: /images/blog/2019/02/WFSasGML85.png
 categories:

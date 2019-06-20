@@ -4,7 +4,6 @@ title: Little-known options when importing from OpenStreetMap
 date: 2017-06-06T13:10:59+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=4036
 permalink: /little-known-options-when-importing-from-openstreetmap/
 image: /images/blog/2017/06/SPM-OSM-Options85.png
 categories:

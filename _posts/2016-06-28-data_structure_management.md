@@ -4,7 +4,6 @@ title: 'Data Structure Management &#8211; Create, Modify, Select, Delete'
 date: 2016-06-28T10:56:42+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=3319
 permalink: /data_structure_management/
 image: /images/blog/2016/06/Data-SPM4-85.png
 categories:

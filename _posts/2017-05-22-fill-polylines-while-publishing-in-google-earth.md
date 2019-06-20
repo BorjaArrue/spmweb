@@ -4,7 +4,6 @@ title: Fill Polylines while Publishing in Google Earth
 date: 2017-05-22T13:48:17+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=3989
 permalink: /fill-polylines-while-publishing-in-google-earth/
 image: /images/blog/2017/05/SPM-SPMCREATEKML-85.png
 categories:

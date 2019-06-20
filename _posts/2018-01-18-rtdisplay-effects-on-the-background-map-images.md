@@ -4,7 +4,6 @@ title: RTDISPLAY effects on the Background Map images
 date: 2018-01-18T08:53:32+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=4856
 permalink: /rtdisplay-effects-on-the-background-map-images/
 image: /images/blog/2018/01/Map-Panning85.png
 categories:

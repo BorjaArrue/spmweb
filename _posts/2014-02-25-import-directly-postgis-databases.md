@@ -4,7 +4,6 @@ title: Import directly to PostGIS databases
 date: 2014-02-25T16:02:05+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=689
 permalink: /import-directly-postgis-databases/
 image: /images/blog/2014/02/logo-PostGIS-85.png
 categories:

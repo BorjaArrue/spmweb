@@ -4,7 +4,6 @@ title: Improve performance when importing from OpenStreetMap
 date: 2017-09-07T13:42:55+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=4176
 permalink: /improving_performance_when_importing_from_openstreetmap/
 image: /images/blog/2017/08/Speed-UpOSM85.jpg
 categories:

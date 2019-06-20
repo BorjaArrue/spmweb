@@ -4,7 +4,6 @@ title: Spatial Manager for AutoCAD 2020 compatible
 date: 2019-04-05T08:04:51+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=6269
 permalink: /spatial-manager-for-autocad-2020-compatible/
 image: /images/blog/2019/04/AutoCAD-2020SPM52-85.jpg
 categories:

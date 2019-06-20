@@ -4,7 +4,6 @@ title: Google Maps in your CAD drawings? Of course
 date: 2017-12-11T12:05:52+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=4718
 permalink: /google-maps-in-your-cad-drawings-of-course/
 image: /images/blog/2017/12/DWG-G_Maps-pin-85-2.png
 categories:

@@ -4,7 +4,6 @@ title: Spatial Queries using SHP files
 date: 2013-12-30T12:33:11+00:00
 author: admin
 layout: old-post
-guid: http://berlin.opencartis.com/wordpress/?p=410
 permalink: /spatial-queries-using-shp-files/
 image: /images/blog/2013/12/Spatial-query-85.png
 categories:

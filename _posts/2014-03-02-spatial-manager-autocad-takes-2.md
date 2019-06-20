@@ -4,7 +4,6 @@ title: '&#8216;Spatial Manager™ for AutoCAD&#8217; takes off'
 date: 2014-03-02T13:26:10+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=718
 permalink: /spatial-manager-autocad-takes-2/
 image: /images/blog/2014/01/Logo-SPM-AutoCAD-85.png
 categories:

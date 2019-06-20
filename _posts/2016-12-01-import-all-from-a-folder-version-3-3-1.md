@@ -4,7 +4,6 @@ title: '&#8216;Import all&#8217; from a folder and more: new version 3.3.1'
 date: 2016-12-01T19:40:26+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=3621
 permalink: /import-all-from-a-folder-version-3-3-1/
 image: /images/blog/2016/11/Import_all_SPM-85-5.png
 categories:

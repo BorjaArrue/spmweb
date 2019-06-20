@@ -4,7 +4,6 @@ title: 'Spatial Manager for &#8216;BricsCAD 18&#8217; released'
 date: 2017-11-22T19:45:11+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=4593
 permalink: /spatial-manager-for-bricscad-18-released/
 image: /images/blog/2017/11/SPM-BCAD18-85.png
 categories:

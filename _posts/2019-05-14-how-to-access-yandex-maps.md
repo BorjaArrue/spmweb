@@ -4,7 +4,6 @@ title: How to access Yandex maps
 date: 2019-05-14T09:40:44+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=6547
 permalink: /how-to-access-yandex-maps/
 image: /images/blog/2019/05/SPMYandex85.png
 categories:

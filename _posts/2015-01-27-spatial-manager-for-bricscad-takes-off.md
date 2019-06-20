@@ -4,7 +4,6 @@ title: '&#8216;Spatial Manager™ for BricsCAD&#8217; takes off'
 date: 2015-01-27T15:03:02+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=2051
 permalink: /spatial-manager-for-bricscad-takes-off/
 image: /images/blog/2015/01/Logo-SPM-BricsCAD-85.png
 categories:

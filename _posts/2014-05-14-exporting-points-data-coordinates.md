@@ -4,7 +4,6 @@ title: 'Exporting Points (Data &#038; Coordinates)'
 date: 2014-05-14T14:57:46+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=1133
 permalink: /exporting-points-data-coordinates/
 image: /images/blog/2014/05/map-places853.png
 categories:

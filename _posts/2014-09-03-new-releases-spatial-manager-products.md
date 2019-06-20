@@ -4,7 +4,6 @@ title: New releases of Spatial Manager products
 date: 2014-09-03T19:56:13+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=1729
 permalink: /new-releases-spatial-manager-products/
 image: /images/blog/2014/06/Logo-Grey85.png
 categories:

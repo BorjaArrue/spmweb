@@ -4,7 +4,6 @@ title: Spatial filter Views in PostGIS or SQL Server
 date: 2018-06-28T14:09:08+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=5473
 permalink: /spatial-filter-views-in-postgis-or-sql-server/
 image: /images/blog/2018/05/DBaseView_SPM85.jpg
 categories:

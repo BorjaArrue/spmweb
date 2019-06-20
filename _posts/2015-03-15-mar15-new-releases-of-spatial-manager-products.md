@@ -4,7 +4,6 @@ title: 'MAR15 &#8211; New releases (EXPORT and many more)'
 date: 2015-03-15T18:39:15+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=2281
 permalink: /mar15-new-releases-of-spatial-manager-products/
 image: /images/blog/2014/06/Logo-Grey85.png
 categories:

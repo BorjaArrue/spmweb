@@ -4,7 +4,6 @@ title: 'V3: &#8216;Spatial Manager™ for AutoCAD&#8217; 2017 compatible'
 date: 2016-03-25T17:34:34+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=3130
 permalink: /spatial-manager-for-autocad-2017-compatible/
 image: /images/blog/2016/03/Logo-SPM-AutoCAD-2017-85.png
 categories:

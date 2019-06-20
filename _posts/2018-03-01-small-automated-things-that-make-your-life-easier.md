@@ -4,7 +4,6 @@ title: Small automated things that make your life easier
 date: 2018-03-01T06:19:04+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=5122
 permalink: /small-automated-things-that-make-your-life-easier/
 image: /images/blog/2018/02/SPM-Automate-85.png
 categories:

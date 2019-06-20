@@ -4,7 +4,6 @@ title: 'Cartes dynamiques de l&#8217;IGN dans vos dessins CAO ou cartes'
 date: 2017-12-28T10:23:42+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=4778
 permalink: /cartes-dynamiques-ign-france-dans-les-dessins-ou-cartes/
 image: /images/blog/2017/12/IGN-SPM85.png
 categories:

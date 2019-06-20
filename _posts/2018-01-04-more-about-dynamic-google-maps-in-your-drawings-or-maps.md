@@ -4,7 +4,6 @@ title: More about dynamic Google Maps in your drawings or Maps
 date: 2018-01-04T12:54:47+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=4804
 permalink: /more-about-dynamic-google-maps-in-your-drawings-or-maps/
 image: /images/blog/2017/12/DWG-G_Maps-pin-85-2.png
 categories:

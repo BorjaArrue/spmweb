@@ -4,7 +4,6 @@ title: Geo-location of addresses in CAD using Google Maps APIs
 date: 2016-09-15T13:52:32+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=3149
 permalink: /geo-location-of-addresses-in-cad-using-google-maps-apis/
 image: /images/blog/2016/09/Blog1-CAD-85px.png
 categories:

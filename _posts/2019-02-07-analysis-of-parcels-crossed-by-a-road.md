@@ -4,7 +4,6 @@ title: Analysis of parcels crossed by a road
 date: 2019-02-07T13:25:14+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=6189
 permalink: /analysis-of-parcels-crossed-by-a-road/
 image: /images/blog/2019/02/ParcelsxRoads85.png
 categories:

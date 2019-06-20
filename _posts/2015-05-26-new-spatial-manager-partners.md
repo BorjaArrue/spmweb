@@ -4,7 +4,6 @@ title: New Spatial Manager™ partners
 date: 2015-05-26T13:52:47+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=2478
 permalink: /new-spatial-manager-partners/
 image: /images/blog/2015/05/Partner-puzzle.png
 categories:

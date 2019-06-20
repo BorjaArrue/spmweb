@@ -4,7 +4,6 @@ title: Import as 2D or 3D objects
 date: 2018-09-26T11:59:30+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=5831
 permalink: /import_as_2d_or_3d_objects/
 image: /images/blog/2018/09/SPM2D-3D85.png
 categories:

@@ -4,7 +4,6 @@ title: Enhance the Map images quality
 date: 2017-12-04T11:37:57+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=4654
 permalink: /enhance-the-map-images-quality/
 image: /images/blog/2017/11/Enhanced-Maps85-2.png
 categories:

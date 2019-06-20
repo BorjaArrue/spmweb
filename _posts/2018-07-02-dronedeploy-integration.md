@@ -4,7 +4,6 @@ title: DroneDeploy integration
 date: 2018-07-02T10:23:55+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=5687
 permalink: /dronedeploy-integration/
 image: /images/blog/2018/06/SPM_DDeploy85.png
 categories:

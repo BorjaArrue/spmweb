@@ -4,7 +4,6 @@ title: Import from Palette vs using SPMIMPORT
 date: 2018-10-23T12:44:05+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=5903
 permalink: /import_from_palette_vs_using_spmimport/
 image: /images/blog/2018/10/SPMIMPORT_vs_PaletteImportIcon.png
 categories:

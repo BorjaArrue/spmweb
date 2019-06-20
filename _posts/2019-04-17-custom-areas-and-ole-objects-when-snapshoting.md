@@ -4,7 +4,6 @@ title: Custom areas and OLE objects when Snapshotting
 date: 2019-04-17T10:53:51+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=6386
 permalink: /custom-areas-and-ole-objects-when-snapshoting/
 image: /images/blog/2019/04/SPMSnapshot385.png
 categories:

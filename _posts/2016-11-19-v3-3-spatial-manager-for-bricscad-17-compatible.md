@@ -4,7 +4,6 @@ title: 'V3.3: Spatial Manager for BricsCAD 17 compatible'
 date: 2016-11-19T19:49:22+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=3606
 permalink: /v3-3-spatial-manager-for-bricscad-17-compatible/
 image: /images/blog/2016/11/SMP-BCAD17-logo-85.png
 categories:

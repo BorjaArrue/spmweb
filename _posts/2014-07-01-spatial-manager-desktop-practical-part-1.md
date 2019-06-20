@@ -4,7 +4,6 @@ title: Why is Spatial Manager software so practical? (Part 1)
 date: 2014-07-01T12:47:29+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=1301
 permalink: /spatial-manager-desktop-practical-part-1/
 image: /images/blog/2014/06/Logo-practical-85.png
 categories:

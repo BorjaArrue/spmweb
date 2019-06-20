@@ -4,7 +4,6 @@ title: 'Labeling Polylines too. &#8216;Smart&#8217; labels and &#8230;'
 date: 2016-12-11T14:40:06+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=3672
 permalink: /labeling-polylines-smart-labels/
 image: /images/blog/2016/12/Label-Polylines-while-importing-Spatial-Manager-AutoCAD-BricsCAD-85.png
 categories:

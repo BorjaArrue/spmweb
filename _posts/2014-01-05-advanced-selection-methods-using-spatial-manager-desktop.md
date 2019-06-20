@@ -4,7 +4,6 @@ title: Advanced methods for selecting Features in a Map
 date: 2014-01-05T15:15:07+00:00
 author: admin
 layout: old-post
-guid: http://berlin.opencartis.com/wordpress/?p=448
 permalink: /advanced-selection-methods-using-spatial-manager-desktop/
 image: /images/blog/2014/01/Selection-85.png
 categories:

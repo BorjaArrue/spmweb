@@ -4,7 +4,6 @@ title: 'Support for Ordnance Survey &#8211; Schema 9 products'
 date: 2017-03-16T19:10:30+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=3853
 permalink: /support-for-ordnance-survey-schema-9-products/
 image: /images/blog/2017/03/OS-Schema-9-logo-85.png
 categories:

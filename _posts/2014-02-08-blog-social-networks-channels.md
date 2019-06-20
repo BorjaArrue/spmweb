@@ -4,7 +4,6 @@ title: Our blog on social networks and channels
 date: 2014-02-08T15:33:24+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=619
 permalink: /blog-social-networks-channels/
 image: /images/blog/2014/02/Net-85.png
 categories:

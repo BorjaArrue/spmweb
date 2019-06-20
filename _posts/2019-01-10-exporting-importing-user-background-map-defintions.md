@@ -4,7 +4,6 @@ title: Exporting-Importing user Background Map definitions
 date: 2019-01-10T09:38:22+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=6118
 permalink: /exporting-importing-user-background-map-defintions/
 image: /images/blog/2019/01/BMDFiles85.png
 categories:

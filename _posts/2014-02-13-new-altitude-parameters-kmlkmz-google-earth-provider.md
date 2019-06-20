@@ -4,7 +4,6 @@ title: Create 3D Buildings in Google Earth from SHP files
 date: 2014-02-13T22:06:36+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=639
 permalink: /new-altitude-parameters-kmlkmz-google-earth-provider/
 image: /images/blog/2014/02/Blog20-85.png
 categories:

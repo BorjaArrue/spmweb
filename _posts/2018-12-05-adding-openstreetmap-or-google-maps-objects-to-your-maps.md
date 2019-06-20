@@ -4,7 +4,6 @@ title: Adding OpenStreetMap or Google Maps objects to your maps
 date: 2018-12-05T10:03:20+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=6078
 permalink: /adding-openstreetmap-or-google-maps-objects-to-your-maps/
 image: /images/blog/2018/12/DWG-OSM-GMAPS85.png
 categories:

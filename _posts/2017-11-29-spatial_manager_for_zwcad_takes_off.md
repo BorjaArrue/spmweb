@@ -4,7 +4,6 @@ title: '&#8216;Spatial Manager for ZWCAD&#8217; takes off'
 date: 2017-11-29T21:18:20+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=4487
 permalink: /spatial_manager_for_zwcad_takes_off/
 image: /images/blog/2017/11/SPM-ZWCAD85.jpg
 categories:

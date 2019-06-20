@@ -4,7 +4,6 @@ title: Coordinate Systems and Transformations detailed info
 date: 2018-06-05T09:49:11+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=5282
 permalink: /coordinate-systems-and-transformations-detailed-info/
 image: /images/blog/2018/04/SPM_Info85.png
 categories:

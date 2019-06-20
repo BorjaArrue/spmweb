@@ -4,7 +4,6 @@ title: Export and import Hatches properties
 date: 2018-05-27T11:13:59+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=5446
 permalink: /export-and-import-the-hatches-properties/
 image: /images/blog/2018/05/Hatchs85.png
 categories:

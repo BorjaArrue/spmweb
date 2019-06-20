@@ -4,7 +4,6 @@ title: Scan and recovery of data tables from drawing objects
 date: 2019-01-15T13:33:14+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=6157
 permalink: /scan-and-recovery-of-data-tables-from-drawing-objects/
 image: /images/blog/2019/01/Recover85.png
 categories:

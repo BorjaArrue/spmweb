@@ -4,7 +4,6 @@ title: Geo-referencing captured images from Maps
 date: 2018-05-08T07:49:24+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=5342
 permalink: /geo-referencing-captured-images-from-maps/
 image: /images/blog/2018/04/SPM_GeoRef_MapCaptures.png
 categories:

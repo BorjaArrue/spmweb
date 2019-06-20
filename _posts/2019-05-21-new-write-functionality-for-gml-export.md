@@ -4,7 +4,6 @@ title: New write functionality for GML export
 date: 2019-05-21T07:24:44+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=6516
 permalink: /new-write-functionality-for-gml-export/
 image: /images/blog/2019/05/SPMGMLExport85.png
 categories:

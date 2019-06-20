@@ -4,7 +4,6 @@ title: Now also Import-All Tables from UDSs or files
 date: 2019-04-28T13:28:01+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=6432
 permalink: /now-also-import-all-tables-from-udss-or-files/
 image: /images/blog/2019/04/SchemaTree85.png
 categories:

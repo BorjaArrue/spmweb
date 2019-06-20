@@ -4,7 +4,6 @@ title: Exporting images to Google Earth too
 date: 2018-03-27T12:38:18+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=5207
 permalink: /exporting-images-to-google-earth-too/
 image: /images/blog/2018/03/SPM_Image_GE85.png
 categories:

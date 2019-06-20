@@ -4,7 +4,6 @@ title: Quick Thematics in AutoCAD or BricsCAD
 date: 2015-12-01T17:51:27+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=2913
 permalink: /quick-thematics-in-autocad-or-bricscad/
 image: /images/blog/2015/12/Thema-85.png
 categories:

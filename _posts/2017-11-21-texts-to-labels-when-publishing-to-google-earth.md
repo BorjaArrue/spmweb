@@ -4,7 +4,6 @@ title: Texts to Labels when Publishing to Google Earth
 date: 2017-11-21T11:34:56+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=4615
 permalink: /texts-to-labels-when-publishing-to-google-earth/
 image: /images/blog/2017/11/Labels-in-GE85.png
 categories:

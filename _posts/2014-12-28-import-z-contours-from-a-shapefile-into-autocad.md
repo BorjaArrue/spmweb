@@ -4,7 +4,6 @@ title: Import Z-Contours from a Shapefile into AutoCAD
 date: 2014-12-28T12:10:21+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=1991
 permalink: /import-z-contours-from-a-shapefile-into-autocad/
 image: /images/blog/2014/12/Contour85.png
 categories:

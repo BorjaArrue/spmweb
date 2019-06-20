@@ -4,7 +4,6 @@ title: New Coordinate Systems for Western Australia
 date: 2017-12-18T20:09:22+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=4757
 permalink: /new-coordinate-systems-for-western-australia/
 image: /images/blog/2017/12/Logo-SPM-Australian85.png
 categories:

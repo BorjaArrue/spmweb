@@ -4,7 +4,6 @@ title: Spatial Manager for ZWCAD 2019 compatible
 date: 2018-11-12T11:57:29+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=5928
 permalink: /spatial-manager-for-zwcad-2019-compatible/
 image: /images/blog/2018/10/ZWCAD2019_SPMCompatible85.jpg
 categories:

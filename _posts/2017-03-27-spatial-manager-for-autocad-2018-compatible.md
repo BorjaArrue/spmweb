@@ -4,7 +4,6 @@ title: '&#8216;Spatial Manager&#8217; is AutoCAD 2018 compatible'
 date: 2017-03-27T08:39:48+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=3891
 permalink: /spatial-manager-for-autocad-2018-compatible/
 image: /images/blog/2017/03/AC2018-85.png
 categories:

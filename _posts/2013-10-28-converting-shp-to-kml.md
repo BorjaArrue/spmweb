@@ -4,7 +4,6 @@ title: Converting SHP to KML
 date: 2013-10-28T17:49:55+00:00
 author: admin
 layout: old-post
-guid: http://berlin.opencartis.com/wordpress/?p=279
 permalink: /converting-shp-to-kml/
 image: /images/blog/2013/11/Blog1-85px.png
 categories:

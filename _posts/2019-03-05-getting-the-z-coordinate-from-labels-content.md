@@ -4,7 +4,6 @@ title: Getting the Z-coordinate from label contents
 date: 2019-03-05T21:22:54+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=6242
 permalink: /getting-the-z-coordinate-from-labels-content/
 image: /images/blog/2019/03/SurveyPts85.png
 categories:

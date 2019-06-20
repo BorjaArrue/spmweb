@@ -4,7 +4,6 @@ title: 'New &#8216;Spatial Manager&#8217; 4.2 released'
 date: 2018-04-21T22:00:07+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=5225
 permalink: /new-spatial-manager-4-2-released/
 image: /images/blog/2018/03/SPM4.285.jpg
 categories:

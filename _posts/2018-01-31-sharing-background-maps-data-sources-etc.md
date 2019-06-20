@@ -4,7 +4,6 @@ title: Sharing Background Maps, Data Sources, etc.
 date: 2018-01-31T11:57:55+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=4977
 permalink: /sharing-background-maps-data-sources-etc/
 image: /images/blog/2018/01/Copy-Settings-2-85.png
 categories:

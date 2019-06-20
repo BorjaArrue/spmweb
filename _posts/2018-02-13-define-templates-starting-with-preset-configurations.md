@@ -4,7 +4,6 @@ title: 'Define Templates &#8211; Starting with preset configurations'
 date: 2018-02-13T12:13:54+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=5029
 permalink: /define-templates-starting-with-preset-configurations/
 image: /images/blog/2018/02/SPM-Template-85.jpg
 categories:

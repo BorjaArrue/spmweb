@@ -4,7 +4,6 @@ title: Spatial Manager and AutoCAD LT
 date: 2014-11-20T15:00:13+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=1960
 permalink: /spatial-manager-and-autocad-lt/
 image: /images/blog/2014/11/autocad-lt-85.png
 categories:

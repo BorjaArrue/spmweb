@@ -4,7 +4,6 @@ title: Importing LiDAR data
 date: 2018-06-19T11:37:40+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=5598
 permalink: /importing-lidar-data/
 image: /images/blog/2018/06/LiDAR_SPM85.png
 categories:

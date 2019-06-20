@@ -4,7 +4,6 @@ title: Share Maps with other Spatial Manager users
 date: 2014-06-10T09:38:19+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=1237
 permalink: /share-maps-spatial-manager-users/
 image: /images/blog/2014/06/map-share85.png
 categories:

@@ -4,7 +4,6 @@ title: How to use the Spatial Manager Wiki?
 date: 2014-08-12T10:41:18+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=1450
 permalink: /use-spatial-manager-wiki/
 image: /images/blog/2014/08/Logo-2013-W85.png
 categories:

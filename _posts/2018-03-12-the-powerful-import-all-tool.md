@@ -4,7 +4,6 @@ title: 'The powerful &#8216;Import-all&#8217; tool'
 date: 2018-03-12T08:00:29+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=5180
 permalink: /the-powerful-import-all-tool/
 image: /images/blog/2018/03/SPM-Import-All85.png
 categories:

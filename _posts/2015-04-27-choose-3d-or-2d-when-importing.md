@@ -4,7 +4,6 @@ title: Choose 3D or 2D when importing
 date: 2015-04-27T14:42:25+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=2410
 permalink: /choose-3d-or-2d-when-importing/
 image: /images/blog/2015/04/Spatial-Manager-for-AutoCAD-Contours-85.png
 categories:

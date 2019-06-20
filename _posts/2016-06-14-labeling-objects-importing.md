@@ -4,7 +4,6 @@ title: Labeling objects while importing
 date: 2016-06-14T12:46:52+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=3286
 permalink: /labeling-objects-importing/
 image: /images/blog/2016/06/Letters85.png
 categories:

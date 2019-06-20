@@ -4,7 +4,6 @@ title: Spatial Manager™ for AutoCAD will include FDO Providers
 date: 2014-02-20T16:37:59+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=657
 permalink: /spatial-manager-autocad-will-include-also-fdo-providers/
 image: /images/blog/2014/02/SPM-ACAD-FDO-85.png
 categories:

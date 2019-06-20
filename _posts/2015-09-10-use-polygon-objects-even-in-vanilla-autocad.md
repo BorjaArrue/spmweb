@@ -4,7 +4,6 @@ title: Use Polygon Objects even in vanilla AutoCAD
 date: 2015-09-10T13:50:35+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=2599
 permalink: /use-polygon-objects-even-in-vanilla-autocad/
 image: /images/blog/2015/09/Spatial-Manager-Use-Polygon-Objects-even-in-vanilla-AutoCAD-logo-85.png
 categories:

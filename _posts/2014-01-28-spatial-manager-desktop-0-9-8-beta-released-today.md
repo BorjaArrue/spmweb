@@ -4,7 +4,6 @@ title: Spatial Manager Desktop™ 0.9.8 (beta) released today
 date: 2014-01-28T17:08:46+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=555
 permalink: /spatial-manager-desktop-0-9-8-beta-released-today/
 image: /images/blog/2013/12/SPM-Desktop-85.png
 categories:

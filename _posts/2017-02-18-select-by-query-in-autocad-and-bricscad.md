@@ -4,7 +4,6 @@ title: Select by query in AutoCAD and BricsCAD
 date: 2017-02-18T11:22:53+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=3796
 permalink: /select-by-query-in-autocad-and-bricscad/
 image: /images/blog/2017/02/Query-DWG-85.png
 categories:

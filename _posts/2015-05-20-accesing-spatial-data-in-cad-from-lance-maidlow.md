@@ -4,7 +4,6 @@ title: Accesing Spatial Data in CAD
 date: 2015-05-20T12:29:25+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=2509
 permalink: /accesing-spatial-data-in-cad-from-lance-maidlow/
 image: /images/blog/2015/05/Logo-SPM-BricsCAD-and-glass85.png
 categories:

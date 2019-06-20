@@ -4,7 +4,6 @@ title: Applications configuration files and backup copy
 date: 2014-02-08T16:48:34+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=627
 permalink: /applications-configuration-files-backup-copy/
 image: /images/blog/2014/02/ApplicationConfigurationLogo-85.png
 categories:

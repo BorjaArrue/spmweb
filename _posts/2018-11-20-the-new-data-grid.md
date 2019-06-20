@@ -4,7 +4,6 @@ title: The new Data Grid
 date: 2018-11-20T13:18:24+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=6004
 permalink: /the-new-data-grid/
 image: /images/blog/2018/11/SPM_DG-85-2.png
 categories:

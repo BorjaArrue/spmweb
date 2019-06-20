@@ -4,7 +4,6 @@ title: The productive new version 3.3
 date: 2016-11-09T20:05:09+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=3486
 permalink: /the-productive-new-version-3-3-spatial-manager/
 image: /images/blog/2016/11/SPM-to-G.-Earth-logo-85.png
 categories:

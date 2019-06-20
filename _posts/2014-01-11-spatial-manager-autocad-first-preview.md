@@ -4,7 +4,6 @@ title: 'Spatial Manager™ for AutoCAD: first preview'
 date: 2014-01-11T15:12:00+00:00
 author: admin
 layout: old-post
-guid: http://berlin.opencartis.com/wordpress/?p=488
 permalink: /spatial-manager-autocad-first-preview/
 image: /images/blog/2014/01/Logo-SPM-AutoCAD-85.png
 categories:

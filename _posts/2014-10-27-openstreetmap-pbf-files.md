@@ -4,7 +4,6 @@ title: 'Release 1.0.3 for AutoCAD: now OpenStreetMap PBF files'
 date: 2014-10-27T23:59:42+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=1861
 permalink: /openstreetmap-pbf-files/
 image: /images/blog/2014/10/Spatial-Manager-PBF85.png
 categories:

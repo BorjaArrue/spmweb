@@ -4,7 +4,6 @@ title: Setting up the BG Maps transparency or background color
 date: 2019-04-23T10:34:53+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=6418
 permalink: /setting-up-the-bg-maps-transparency-or-background-color/
 image: /images/blog/2019/04/SPMBGMapsTransIcon85.jpg
 categories:

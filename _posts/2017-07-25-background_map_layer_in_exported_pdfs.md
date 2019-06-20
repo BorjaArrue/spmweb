@@ -4,7 +4,6 @@ title: Background Map Layer in exported PDFs
 date: 2017-07-25T13:26:34+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=4132
 permalink: /background_map_layer_in_exported_pdfs/
 image: /images/blog/2017/07/PDF-Layers-Logo-85.png
 categories:

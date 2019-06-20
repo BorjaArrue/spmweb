@@ -4,7 +4,6 @@ title: 'Now &#8216;Spatial Manager™ for AutoCAD&#8217; is 2015 compatible'
 date: 2014-04-10T23:12:17+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=990
 permalink: /spatial-manager-autocad-now-2015-compatible/
 image: /images/blog/2014/04/Logo-SPM-AutoCAD-2015-85.png
 categories:

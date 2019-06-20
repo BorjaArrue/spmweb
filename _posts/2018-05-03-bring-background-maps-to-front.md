@@ -4,7 +4,6 @@ title: Bring Background Maps to front
 date: 2018-05-03T10:53:23+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=5056
 permalink: /bring-background-maps-to-front/
 image: /images/blog/2018/02/BG-to-front-85.png
 categories:

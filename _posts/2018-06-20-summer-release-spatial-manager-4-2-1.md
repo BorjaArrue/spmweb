@@ -4,7 +4,6 @@ title: 'Summer release: &#8216;Spatial Manager&#8217; 4.2.1'
 date: 2018-06-20T16:26:41+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=5639
 permalink: /summer-release-spatial-manager-4-2-1/
 image: /images/blog/2018/06/SPM421_85.png
 categories:

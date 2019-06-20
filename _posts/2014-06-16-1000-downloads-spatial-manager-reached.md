@@ -4,7 +4,6 @@ title: 1000 downloads of Spatial Manager reached
 date: 2014-06-16T09:54:38+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=1253
 permalink: /1000-downloads-spatial-manager-reached/
 image: /images/blog/2014/06/1000-reached-85.png
 categories:

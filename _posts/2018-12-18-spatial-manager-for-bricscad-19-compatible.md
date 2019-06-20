@@ -4,7 +4,6 @@ title: Spatial Manager for BricsCAD 19 compatible
 date: 2018-12-18T18:59:28+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=5993
 permalink: /spatial-manager-for-bricscad-19-compatible/
 image: /images/blog/2018/11/SPM_5.1BCAD19-85.png
 categories:

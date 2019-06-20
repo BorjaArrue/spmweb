@@ -4,7 +4,6 @@ title: Speed up when importing heavy sources
 date: 2015-08-13T10:11:07+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=2553
 permalink: /speed-up-when-importing-heavy-sources/
 image: /images/blog/2015/06/Spatial-Manager-AutoCAD-BricsCAD-Speed-Up-3-85.png
 categories:

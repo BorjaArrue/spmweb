@@ -4,7 +4,6 @@ title: Export alphanumeric data from spatial tables
 date: 2014-03-12T22:14:47+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=805
 permalink: /export-alphanumeric-data-spatial-tables/
 image: /images/blog/2014/03/DataTables85.png
 categories:

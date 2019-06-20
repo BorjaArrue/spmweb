@@ -4,7 +4,6 @@ title: 'New v.4 &#8211; Enjoy the most superb set of geo-functions'
 date: 2017-10-05T10:18:09+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=4230
 permalink: /new-v-4-enjoy-the-most-superb-set-of-geo-functions/
 image: /images/blog/2017/10/Logo-SPM4_85.png
 categories:

@@ -4,7 +4,6 @@ title: Base maps as Map backgrounds
 date: 2014-04-15T08:59:06+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=919
 permalink: /image-map-backgrounds/
 image: /images/blog/2014/03/590-85.png
 categories:

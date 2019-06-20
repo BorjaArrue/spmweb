@@ -4,7 +4,6 @@ title: Search in Google Earth and use in AutoCAD
 date: 2014-05-27T09:37:50+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=1168
 permalink: /google-earth-directly-autocad/
 image: /images/blog/2014/05/GE-Dwg85.png
 categories:

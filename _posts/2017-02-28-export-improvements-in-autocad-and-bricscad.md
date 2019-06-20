@@ -4,7 +4,6 @@ title: Export improvements in AutoCAD and BricsCAD
 date: 2017-02-28T11:35:04+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=3838
 permalink: /export-improvements-in-autocad-and-bricscad/
 image: /images/blog/2017/02/export-improvments-85.png
 categories:

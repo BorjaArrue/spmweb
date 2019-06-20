@@ -4,7 +4,6 @@ title: Creating thematic maps while importing
 date: 2018-07-18T10:50:32+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=5718
 permalink: /creating-thematic-maps-while-importing/
 image: /images/blog/2018/07/ThemMapSPM85.png
 categories:

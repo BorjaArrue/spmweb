@@ -4,7 +4,6 @@ title: Spatial Manager new partners and new resellers page
 date: 2016-06-01T18:41:52+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=3265
 permalink: /spatial_manager_resellers_web_page/
 image: /images/blog/2015/05/Partner-puzzle.png
 categories:

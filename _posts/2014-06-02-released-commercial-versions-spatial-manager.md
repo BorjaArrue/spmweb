@@ -4,7 +4,6 @@ title: First commercial versions of Spatial Manager™ released
 date: 2014-06-02T11:19:27+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=1202
 permalink: /released-commercial-versions-spatial-manager/
 image: /images/blog/2014/06/Logo-Grey85.png
 categories:

@@ -4,7 +4,6 @@ title: 'V3: Amazing Background Maps in AutoCAD and BricsCAD'
 date: 2016-03-01T11:06:03+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=3070
 permalink: /v3-powerful-and-easy-to-use-background-maps/
 image: /images/blog/2016/03/SPM-Background-Maps-logo-85.png
 categories:

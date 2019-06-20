@@ -4,7 +4,6 @@ title: Retrieve existing data values when querying
 date: 2019-01-30T10:13:14+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=6168
 permalink: /retrieve-existing-data-values-when-querying/
 image: /images/blog/2019/01/QueryRet2-85.png
 categories:

@@ -4,7 +4,6 @@ title: 'Trick &#8211; Spatial Manager Desktop. Copy from Data grid'
 date: 2014-07-29T15:27:00+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=1420
 permalink: /trick-spatial-manager-desktop-copy-data-grid/
 image: /images/blog/2014/07/Copy_to_Clipboard_Spatial_Manager_85.png
 categories:

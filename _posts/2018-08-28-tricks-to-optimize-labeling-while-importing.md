@@ -4,7 +4,6 @@ title: Tricks to optimize labeling while importing
 date: 2018-08-28T09:15:45+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=5755
 permalink: /tricks-to-optimize-labeling-while-importing/
 image: /images/blog/2018/08/Labeling-w.-importing-SPM-85.png
 categories:

@@ -4,7 +4,6 @@ title: Map servers sub-domains
 date: 2018-09-06T09:52:31+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=5791
 permalink: /map_servers_sub-domains/
 image: /images/blog/2018/09/SPMMDomain85-2.png
 categories:

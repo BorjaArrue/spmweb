@@ -4,7 +4,6 @@ title: 'Enhanced ASCII data provider (CSV, TXT, ASC, XYZ, &#8230;)'
 date: 2017-10-16T09:21:17+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=4375
 permalink: /enhanced_ascii_data_provider_v4/
 image: /images/blog/2017/10/ASCII-Points-85.png
 categories:

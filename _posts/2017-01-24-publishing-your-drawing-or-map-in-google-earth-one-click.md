@@ -4,7 +4,6 @@ title: Publishing your drawing or map in Google Earth (one click)
 date: 2017-01-24T11:14:21+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=3739
 permalink: /publishing-your-drawing-or-map-in-google-earth-one-click/
 image: /images/blog/2017/01/Blog_92_Logo-85.png
 categories:

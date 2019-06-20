@@ -4,7 +4,6 @@ title: Spatial Manager for AutoCAD 2019 compatible
 date: 2018-04-22T19:22:48+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=5020
 permalink: /spatial-manager-for-autocad-2019-compatible/
 image: /images/blog/2018/03/SPM_ACAD2019-85.png
 categories:

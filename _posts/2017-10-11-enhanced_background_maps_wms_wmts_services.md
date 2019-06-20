@@ -4,7 +4,6 @@ title: 'Enhanced Background Maps. WMS &#038; WMTS services'
 date: 2017-10-11T09:22:25+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=4306
 permalink: /enhanced_background_maps_wms_wmts_services/
 image: /images/blog/2017/10/Enhanced-BG-Maps_85.png
 categories:

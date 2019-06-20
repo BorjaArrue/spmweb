@@ -4,7 +4,6 @@ title: NearMap Oblique maps
 date: 2019-05-27T16:33:57+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=6480
 permalink: /nearmap-oblique-maps/
 image: /images/blog/2019/05/SPMNearMap852.png
 categories:

@@ -4,7 +4,6 @@ title: How to Copy and re-use data from the Properties Panel
 date: 2013-12-25T11:07:54+00:00
 author: admin
 layout: old-post
-guid: http://berlin.opencartis.com/wordpress/?p=399
 permalink: /copy-re-use-data-properties-panel/
 image: /images/blog/2013/12/Properties.png
 categories:

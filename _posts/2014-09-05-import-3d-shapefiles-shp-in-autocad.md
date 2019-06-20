@@ -4,7 +4,6 @@ title: Import 3D Shapefiles (SHP) in AutoCAD
 date: 2014-09-05T06:11:47+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=1674
 permalink: /import-3d-shapefiles-shp-in-autocad/
 image: /images/blog/2014/08/SHP-DWG3D-85.png
 categories:

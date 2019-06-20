@@ -4,7 +4,6 @@ title: 'MAR16 – New releases. The best &#8216;Spatial Manager&#8217; suite'
 date: 2016-03-23T19:08:05+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=2712
 permalink: /feb16-new-releases-the-best-spatial-manager-suite/
 image: /images/blog/2014/06/Logo-Grey85.png
 categories:

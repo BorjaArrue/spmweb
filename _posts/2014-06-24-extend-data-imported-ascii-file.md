@@ -4,7 +4,6 @@ title: Extend the data to be imported from an ASCII file
 date: 2014-06-24T18:06:55+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=1280
 permalink: /extend-data-imported-ascii-file/
 image: /images/blog/2014/06/Table-points-85.png
 categories:

@@ -4,7 +4,6 @@ title: 20000 downloads of Spatial Manager reached
 date: 2015-02-19T13:48:34+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=2207
 permalink: /20000-downloads-of-spatial-manager-reached/
 image: /images/blog/2015/02/20000-reached-85.png
 categories:

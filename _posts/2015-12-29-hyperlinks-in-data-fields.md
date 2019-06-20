@@ -4,7 +4,6 @@ title: Hyperlinks in Data fields
 date: 2015-12-29T14:50:05+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=2956
 permalink: /hyperlinks-in-data-fields/
 image: /images/blog/2015/12/logo851.png
 categories:

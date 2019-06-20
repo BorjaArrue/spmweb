@@ -4,7 +4,6 @@ title: '&#8220;Repair&#8221; to add  or update AutoCAD / BricsCAD / ZWCAD'
 date: 2017-07-03T09:06:09+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=4091
 permalink: /repair-when-adding-more-autocad-or-bricscad-products/
 image: /images/blog/2017/07/Repair-Spatial-Manager-CAD-85.png
 categories:

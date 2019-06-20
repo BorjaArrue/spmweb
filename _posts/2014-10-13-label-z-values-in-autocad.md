@@ -4,7 +4,6 @@ title: Label Z values in AutoCAD
 date: 2014-10-13T17:11:47+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=1840
 permalink: /label-z-values-in-autocad/
 image: /images/blog/2014/10/Label-Z-values-in-AutoCAD-Spatial-Manager.png
 categories:

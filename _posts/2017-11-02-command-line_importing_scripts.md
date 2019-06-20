@@ -4,7 +4,6 @@ title: Command-line Importing. Scripts
 date: 2017-11-02T11:26:36+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=4436
 permalink: /command-line_importing_scripts/
 image: /images/blog/2017/10/SCR-SPMIMPORT-Logo85.png
 categories:

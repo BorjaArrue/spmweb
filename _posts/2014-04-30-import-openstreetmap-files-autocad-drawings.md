@@ -4,7 +4,6 @@ title: Import OpenStreetMap data into AutoCAD drawings
 date: 2014-04-30T09:47:53+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=1087
 permalink: /import-openstreetmap-files-autocad-drawings/
 image: /images/blog/2014/04/OSM-AutoCAD85.png
 categories:

@@ -4,7 +4,6 @@ title: 'JAN15 &#8211; New releases of Spatial Manager products'
 date: 2015-01-29T08:37:55+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=2125
 permalink: /jan15_-_new-release-of-spatial-manager-products/
 image: /images/blog/2014/06/Logo-Grey85.png
 categories:

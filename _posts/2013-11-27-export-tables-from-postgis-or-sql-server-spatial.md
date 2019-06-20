@@ -4,7 +4,6 @@ title: Export tables from PostGIS or SQL Server Spatial
 date: 2013-11-27T15:11:24+00:00
 author: admin
 layout: old-post
-guid: http://berlin.opencartis.com/wordpress/?p=306
 permalink: /export-tables-from-postgis-or-sql-server-spatial/
 image: /images/blog/2013/11/Blog1-85px4.png
 categories:

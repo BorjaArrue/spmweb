@@ -4,7 +4,6 @@ title: Export Blocks and External References to Google Earth
 date: 2015-06-02T13:47:04+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=2533
 permalink: /export-blocks-and-external-references-to-google-earth/
 image: /images/blog/2015/06/Spatial-Manager-Export-Blocks-and-XRef85.png
 categories:

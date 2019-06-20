@@ -4,7 +4,6 @@ title: Traffic and transit in Google Maps
 date: 2019-04-11T11:30:58+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=6343
 permalink: /traffic-and-transit-in-google-maps/
 image: /images/blog/2019/04/GMaps_Traffic_Transit85.png
 categories:

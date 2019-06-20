@@ -4,7 +4,6 @@ title: 'V5: A big leap in spatial data management'
 date: 2018-11-05T21:25:23+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=5875
 permalink: /v5_a_big_leap_in_spatial_data_management/
 image: /images/blog/2018/10/SPMV5_TheDataGrid85.png
 categories:

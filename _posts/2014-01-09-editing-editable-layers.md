@@ -4,7 +4,6 @@ title: 'Editing &#8216;Non editable&#8217; Layers'
 date: 2014-01-09T12:42:50+00:00
 author: admin
 layout: old-post
-guid: http://berlin.opencartis.com/wordpress/?p=483
 permalink: /editing-editable-layers/
 image: /images/blog/2014/01/MapLayer-85.png
 categories:

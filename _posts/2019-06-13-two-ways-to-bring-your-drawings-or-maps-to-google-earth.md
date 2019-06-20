@@ -4,7 +4,6 @@ title: Two ways to bring your drawings or maps to Google Earth
 date: 2019-06-13T18:22:42+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=6632
 permalink: /two-ways-to-bring-your-drawings-or-maps-to-google-earth/
 image: /images/blog/2019/06/DwgToGEarth85.png
 categories:

@@ -4,7 +4,6 @@ title: Managing Multi-Polygons in AutoCAD, BricsCAD or ZWCAD
 date: 2018-10-31T16:04:20+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=5949
 permalink: /managing-multi-polygons-in-autocad-bricscad-zwcad/
 image: /images/blog/2018/10/MPolSPM85.png
 categories:

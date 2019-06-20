@@ -4,7 +4,6 @@ title: 'OpenStreetMap &#8220;classic look&#8221; in AutoCAD and BricsCAD'
 date: 2016-09-26T18:16:24+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=3429
 permalink: /openstreetmap-classic-map-in-autocad-and-bricscad/
 image: /images/blog/2016/09/Logo-OSM_SPM85.png
 categories:

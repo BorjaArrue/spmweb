@@ -4,7 +4,6 @@ title: Now EXPORT from CAD to Google Earth, Shapefiles, etc.
 date: 2015-03-15T11:30:58+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=2245
 permalink: /now-export-from-cad-to-google-earth-shapefiles-etc/
 image: /images/blog/2015/03/SPM-Export-85.png
 categories:

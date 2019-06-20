@@ -4,7 +4,6 @@ title: 'New release 3.2. &#8216;Blocks&#8217; enhancements'
 date: 2016-05-02T14:27:50+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=3188
 permalink: /new-release-3-2-the-blocks-version/
 image: /images/blog/2016/05/W3.2-85.png
 categories:

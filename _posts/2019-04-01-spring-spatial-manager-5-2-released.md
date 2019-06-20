@@ -4,7 +4,6 @@ title: 'Spring &#8216;Spatial Manager&#8217; 5.2 released'
 date: 2019-04-01T16:06:00+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=6268
 permalink: /spring-spatial-manager-5-2-released/
 image: /images/blog/2019/03/SPM52-85.png
 categories:

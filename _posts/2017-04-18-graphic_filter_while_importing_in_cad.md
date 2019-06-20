@@ -4,7 +4,6 @@ title: Graphic Filter while Importing in CAD
 date: 2017-04-18T19:13:23+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=3943
 permalink: /graphic_filter_while_importing_in_cad/
 image: /images/blog/2017/04/View-filter-85-2.png
 categories:

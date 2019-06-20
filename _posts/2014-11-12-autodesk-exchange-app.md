@@ -4,7 +4,6 @@ title: Spatial Manager App in Autodesk Exchange (App Store)
 date: 2014-11-12T18:09:31+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=1911
 permalink: /autodesk-exchange-app/
 image: /images/blog/2014/11/Autodesk_Exchange_Logo_85.png
 categories:

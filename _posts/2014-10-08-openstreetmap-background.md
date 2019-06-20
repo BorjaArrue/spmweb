@@ -4,7 +4,6 @@ title: 'Release 1.0.4: OpenStreetMap background maps'
 date: 2014-10-08T13:56:30+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=1820
 permalink: /openstreetmap-background/
 image: /images/blog/2014/10/Map-Background-Spatial-Manager-logo.png
 categories:

@@ -4,7 +4,6 @@ title: 'Spatial Manager™ for BricsCAD: first preview'
 date: 2014-12-17T10:08:27+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=2046
 permalink: /spatial-manager-for-bricscad-first-preview/
 image: /images/blog/2015/01/Logo-SPM-BricsCAD-85-2.png
 categories:

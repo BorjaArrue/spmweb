@@ -4,7 +4,6 @@ title: Snapshots of Background maps
 date: 2017-01-03T13:57:39+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=3710
 permalink: /snapshots-of-background-maps/
 image: /images/blog/2017/01/Snapshot-logo-1-85.png
 categories:

@@ -4,7 +4,6 @@ title: New beta applications released
 date: 2014-04-04T11:19:03+00:00
 author: admin
 layout: old-post
-guid: http://www.spatialmanager.com/?p=873
 permalink: /spatial-manager-desktop-0-9-9-beta-released-today/
 image: /images/blog/2014/06/Logo-Grey85.png
 categories:
