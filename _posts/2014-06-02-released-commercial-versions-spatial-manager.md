@@ -1,5 +1,5 @@
 ---
-id: 1202
+published: true
 title: First commercial versions of Spatial Manager™ released
 date: 2014-06-02T11:19:27+00:00
 author: admin

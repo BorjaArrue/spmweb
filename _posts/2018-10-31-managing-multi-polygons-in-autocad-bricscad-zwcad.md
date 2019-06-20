@@ -1,5 +1,5 @@
 ---
-id: 5949
+published: true
 title: Managing Multi-Polygons in AutoCAD, BricsCAD or ZWCAD
 date: 2018-10-31T16:04:20+00:00
 author: admin

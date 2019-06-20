@@ -1,5 +1,5 @@
 ---
-id: 6386
+published: true
 title: Custom areas and OLE objects when Snapshotting
 date: 2019-04-17T10:53:51+00:00
 author: admin

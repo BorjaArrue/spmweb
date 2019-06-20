@@ -1,5 +1,5 @@
 ---
-id: 483
+published: true
 title: 'Editing &#8216;Non editable&#8217; Layers'
 date: 2014-01-09T12:42:50+00:00
 author: admin

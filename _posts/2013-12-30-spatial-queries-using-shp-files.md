@@ -1,5 +1,5 @@
 ---
-id: 410
+published: true
 title: Spatial Queries using SHP files
 date: 2013-12-30T12:33:11+00:00
 author: admin

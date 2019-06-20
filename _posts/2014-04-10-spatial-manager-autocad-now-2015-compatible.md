@@ -1,5 +1,5 @@
 ---
-id: 990
+published: true
 title: 'Now &#8216;Spatial Manager™ for AutoCAD&#8217; is 2015 compatible'
 date: 2014-04-10T23:12:17+00:00
 author: admin

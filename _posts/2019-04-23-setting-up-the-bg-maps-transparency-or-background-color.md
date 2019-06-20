@@ -1,5 +1,5 @@
 ---
-id: 6418
+published: true
 title: Setting up the BG Maps transparency or background color
 date: 2019-04-23T10:34:53+00:00
 author: admin

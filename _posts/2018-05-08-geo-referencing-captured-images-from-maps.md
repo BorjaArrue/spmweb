@@ -1,5 +1,5 @@
 ---
-id: 5342
+published: true
 title: Geo-referencing captured images from Maps
 date: 2018-05-08T07:49:24+00:00
 author: admin

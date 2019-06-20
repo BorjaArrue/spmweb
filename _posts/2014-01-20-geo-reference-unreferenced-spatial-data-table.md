@@ -1,5 +1,5 @@
 ---
-id: 535
+published: true
 title: 'How to geo-reference an &#8216;unreferenced&#8217; spatial Table?'
 date: 2014-01-20T11:28:10+00:00
 author: admin

@@ -1,5 +1,5 @@
 ---
-id: 1133
+published: true
 title: 'Exporting Points (Data &#038; Coordinates)'
 date: 2014-05-14T14:57:46+00:00
 author: admin

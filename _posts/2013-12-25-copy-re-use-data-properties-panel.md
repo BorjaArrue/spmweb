@@ -1,5 +1,5 @@
 ---
-id: 399
+published: true
 title: How to Copy and re-use data from the Properties Panel
 date: 2013-12-25T11:07:54+00:00
 author: admin

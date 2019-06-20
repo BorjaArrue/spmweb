@@ -1,5 +1,5 @@
 ---
-id: 6189
+published: true
 title: Analysis of parcels crossed by a road
 date: 2019-02-07T13:25:14+00:00
 author: admin

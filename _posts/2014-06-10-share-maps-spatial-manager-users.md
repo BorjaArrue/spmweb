@@ -1,5 +1,5 @@
 ---
-id: 1237
+published: true
 title: Share Maps with other Spatial Manager users
 date: 2014-06-10T09:38:19+00:00
 author: admin

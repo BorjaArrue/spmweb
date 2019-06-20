@@ -1,5 +1,5 @@
 ---
-id: 4615
+published: true
 title: Texts to Labels when Publishing to Google Earth
 date: 2017-11-21T11:34:56+00:00
 author: admin

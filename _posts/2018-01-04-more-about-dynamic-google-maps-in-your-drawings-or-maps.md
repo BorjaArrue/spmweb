@@ -1,5 +1,5 @@
 ---
-id: 4804
+published: true
 title: More about dynamic Google Maps in your drawings or Maps
 date: 2018-01-04T12:54:47+00:00
 author: admin

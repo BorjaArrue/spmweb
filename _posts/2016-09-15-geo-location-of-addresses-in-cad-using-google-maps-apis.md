@@ -1,5 +1,5 @@
 ---
-id: 3149
+published: true
 title: Geo-location of addresses in CAD using Google Maps APIs
 date: 2016-09-15T13:52:32+00:00
 author: admin

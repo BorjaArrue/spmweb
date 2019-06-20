@@ -1,5 +1,5 @@
 ---
-id: 3796
+published: true
 title: Select by query in AutoCAD and BricsCAD
 date: 2017-02-18T11:22:53+00:00
 author: admin

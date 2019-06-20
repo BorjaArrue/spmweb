@@ -1,5 +1,5 @@
 ---
-id: 619
+published: true
 title: Our blog on social networks and channels
 date: 2014-02-08T15:33:24+00:00
 author: admin

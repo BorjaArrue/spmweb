@@ -1,5 +1,5 @@
 ---
-id: 5598
+published: true
 title: Importing LiDAR data
 date: 2018-06-19T11:37:40+00:00
 author: admin

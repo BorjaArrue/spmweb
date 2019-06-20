@@ -1,5 +1,5 @@
 ---
-id: 1301
+published: true
 title: Why is Spatial Manager software so practical? (Part 1)
 date: 2014-07-01T12:47:29+00:00
 author: admin

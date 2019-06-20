@@ -1,5 +1,5 @@
 ---
-id: 2397
+published: true
 title: Point coordinates also as data fields
 date: 2015-04-21T17:36:19+00:00
 author: admin

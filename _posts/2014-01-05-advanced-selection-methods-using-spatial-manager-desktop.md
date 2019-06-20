@@ -1,5 +1,5 @@
 ---
-id: 448
+published: true
 title: Advanced methods for selecting Features in a Map
 date: 2014-01-05T15:15:07+00:00
 author: admin

@@ -1,5 +1,5 @@
 ---
-id: 2051
+published: true
 title: '&#8216;Spatial Manager™ for BricsCAD&#8217; takes off'
 date: 2015-01-27T15:03:02+00:00
 author: admin

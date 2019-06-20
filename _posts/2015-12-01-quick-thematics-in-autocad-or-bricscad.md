@@ -1,5 +1,5 @@
 ---
-id: 2913
+published: true
 title: Quick Thematics in AutoCAD or BricsCAD
 date: 2015-12-01T17:51:27+00:00
 author: admin

@@ -1,5 +1,5 @@
 ---
-id: 1729
+published: true
 title: New releases of Spatial Manager products
 date: 2014-09-03T19:56:13+00:00
 author: admin

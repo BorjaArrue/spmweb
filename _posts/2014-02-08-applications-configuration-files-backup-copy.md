@@ -1,5 +1,5 @@
 ---
-id: 627
+published: true
 title: Applications configuration files and backup copy
 date: 2014-02-08T16:48:34+00:00
 author: admin

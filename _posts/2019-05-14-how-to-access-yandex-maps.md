@@ -1,5 +1,5 @@
 ---
-id: 6547
+published: true
 title: How to access Yandex maps
 date: 2019-05-14T09:40:44+00:00
 author: admin

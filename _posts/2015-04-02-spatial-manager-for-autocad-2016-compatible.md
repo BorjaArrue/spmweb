@@ -1,5 +1,5 @@
 ---
-id: 2367
+published: true
 title: '&#8216;Spatial Manager™ for AutoCAD&#8217; 2016 compatible'
 date: 2015-04-02T11:04:59+00:00
 author: admin

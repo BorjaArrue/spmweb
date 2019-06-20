@@ -1,5 +1,5 @@
 ---
-id: 1674
+published: true
 title: Import 3D Shapefiles (SHP) in AutoCAD
 date: 2014-09-05T06:11:47+00:00
 author: admin

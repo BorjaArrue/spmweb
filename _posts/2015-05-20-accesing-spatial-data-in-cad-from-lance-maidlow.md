@@ -1,5 +1,5 @@
 ---
-id: 2509
+published: true
 title: Accesing Spatial Data in CAD
 date: 2015-05-20T12:29:25+00:00
 author: admin

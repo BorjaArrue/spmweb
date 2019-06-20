@@ -1,5 +1,5 @@
 ---
-id: 3188
+published: true
 title: 'New release 3.2. &#8216;Blocks&#8217; enhancements'
 date: 2016-05-02T14:27:50+00:00
 author: admin

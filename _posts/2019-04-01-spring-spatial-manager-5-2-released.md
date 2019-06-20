@@ -1,5 +1,5 @@
 ---
-id: 6268
+published: true
 title: 'Spring &#8216;Spatial Manager&#8217; 5.2 released'
 date: 2019-04-01T16:06:00+00:00
 author: admin

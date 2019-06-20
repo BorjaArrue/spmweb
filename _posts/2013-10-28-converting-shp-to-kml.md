@@ -1,5 +1,5 @@
 ---
-id: 279
+published: true
 title: Converting SHP to KML
 date: 2013-10-28T17:49:55+00:00
 author: admin

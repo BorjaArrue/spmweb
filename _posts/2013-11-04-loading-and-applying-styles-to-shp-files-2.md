@@ -1,5 +1,5 @@
 ---
-id: 285
+published: true
 title: Loading and applying styles to SHP files
 date: 2013-11-04T17:56:10+00:00
 author: admin

@@ -1,5 +1,5 @@
 ---
-id: 5122
+published: true
 title: Small automated things that make your life easier
 date: 2018-03-01T06:19:04+00:00
 author: admin

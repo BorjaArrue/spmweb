@@ -1,5 +1,5 @@
 ---
-id: 6516
+published: true
 title: New write functionality for GML export
 date: 2019-05-21T07:24:44+00:00
 author: admin

@@ -1,5 +1,5 @@
 ---
-id: 372
+published: true
 title: From WFS servers to SHP files easily
 date: 2013-12-13T17:27:41+00:00
 author: admin

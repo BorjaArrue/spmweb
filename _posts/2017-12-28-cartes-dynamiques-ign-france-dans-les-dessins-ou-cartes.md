@@ -1,5 +1,5 @@
 ---
-id: 4778
+published: true
 title: 'Cartes dynamiques de l&#8217;IGN dans vos dessins CAO ou cartes'
 date: 2017-12-28T10:23:42+00:00
 author: admin

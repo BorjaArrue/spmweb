@@ -1,5 +1,5 @@
 ---
-id: 5639
+published: true
 title: 'Summer release: &#8216;Spatial Manager&#8217; 4.2.1'
 date: 2018-06-20T16:26:41+00:00
 author: admin

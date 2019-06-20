@@ -1,5 +1,5 @@
 ---
-id: 4546
+published: true
 title: 'From Excel to CAD drawings: quick and easy'
 date: 2017-11-13T18:46:33+00:00
 author: admin

@@ -1,5 +1,5 @@
 ---
-id: 5361
+published: true
 title: Reducing images size when Publishing to Google Earth
 date: 2018-05-15T08:17:47+00:00
 author: admin

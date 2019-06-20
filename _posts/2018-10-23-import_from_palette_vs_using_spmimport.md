@@ -1,5 +1,5 @@
 ---
-id: 5903
+published: true
 title: Import from Palette vs using SPMIMPORT
 date: 2018-10-23T12:44:05+00:00
 author: admin

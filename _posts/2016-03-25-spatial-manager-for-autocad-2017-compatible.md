@@ -1,5 +1,5 @@
 ---
-id: 3130
+published: true
 title: 'V3: &#8216;Spatial Manager™ for AutoCAD&#8217; 2017 compatible'
 date: 2016-03-25T17:34:34+00:00
 author: admin

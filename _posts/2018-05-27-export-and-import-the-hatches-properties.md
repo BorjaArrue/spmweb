@@ -1,5 +1,5 @@
 ---
-id: 5446
+published: true
 title: Export and import Hatches properties
 date: 2018-05-27T11:13:59+00:00
 author: admin

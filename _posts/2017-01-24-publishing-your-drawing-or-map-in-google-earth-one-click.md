@@ -1,5 +1,5 @@
 ---
-id: 3739
+published: true
 title: Publishing your drawing or map in Google Earth (one click)
 date: 2017-01-24T11:14:21+00:00
 author: admin

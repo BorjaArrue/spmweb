@@ -1,5 +1,5 @@
 ---
-id: 3070
+published: true
 title: 'V3: Amazing Background Maps in AutoCAD and BricsCAD'
 date: 2016-03-01T11:06:03+00:00
 author: admin

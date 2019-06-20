@@ -1,5 +1,5 @@
 ---
-id: 1840
+published: true
 title: Label Z values in AutoCAD
 date: 2014-10-13T17:11:47+00:00
 author: admin

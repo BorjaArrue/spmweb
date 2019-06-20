@@ -1,5 +1,5 @@
 ---
-id: 4230
+published: true
 title: 'New v.4 &#8211; Enjoy the most superb set of geo-functions'
 date: 2017-10-05T10:18:09+00:00
 author: admin

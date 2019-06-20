@@ -1,5 +1,5 @@
 ---
-id: 4977
+published: true
 title: Sharing Background Maps, Data Sources, etc.
 date: 2018-01-31T11:57:55+00:00
 author: admin

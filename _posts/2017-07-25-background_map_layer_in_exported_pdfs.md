@@ -1,5 +1,5 @@
 ---
-id: 4132
+published: true
 title: Background Map Layer in exported PDFs
 date: 2017-07-25T13:26:34+00:00
 author: admin

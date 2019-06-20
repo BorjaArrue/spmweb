@@ -1,5 +1,5 @@
 ---
-id: 6480
+published: true
 title: NearMap Oblique maps
 date: 2019-05-27T16:33:57+00:00
 author: admin

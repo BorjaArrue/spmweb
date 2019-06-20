@@ -1,5 +1,5 @@
 ---
-id: 1005
+published: true
 title: Spatial Manager™ products estimated price list
 date: 2014-04-16T09:24:28+00:00
 author: admin

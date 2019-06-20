@@ -1,5 +1,5 @@
 ---
-id: 3621
+published: true
 title: '&#8216;Import all&#8217; from a folder and more: new version 3.3.1'
 date: 2016-12-01T19:40:26+00:00
 author: admin

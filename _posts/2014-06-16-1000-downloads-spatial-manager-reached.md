@@ -1,5 +1,5 @@
 ---
-id: 1253
+published: true
 title: 1000 downloads of Spatial Manager reached
 date: 2014-06-16T09:54:38+00:00
 author: admin

@@ -1,5 +1,5 @@
 ---
-id: 5537
+published: true
 title: Importing geo-referenced Raster Images
 date: 2018-06-12T14:00:18+00:00
 author: admin

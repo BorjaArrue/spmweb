@@ -1,5 +1,5 @@
 ---
-id: 3606
+published: true
 title: 'V3.3: Spatial Manager for BricsCAD 17 compatible'
 date: 2016-11-19T19:49:22+00:00
 author: admin

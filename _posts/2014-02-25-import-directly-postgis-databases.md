@@ -1,5 +1,5 @@
 ---
-id: 689
+published: true
 title: Import directly to PostGIS databases
 date: 2014-02-25T16:02:05+00:00
 author: admin

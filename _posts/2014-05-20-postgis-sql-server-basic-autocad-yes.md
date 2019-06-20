@@ -1,5 +1,5 @@
 ---
-id: 1143
+published: true
 title: PostGIS or SQL Spatial data to basic AutoCAD? Sure
 date: 2014-05-20T09:39:42+00:00
 author: admin

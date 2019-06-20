@@ -1,5 +1,5 @@
 ---
-id: 2125
+published: true
 title: 'JAN15 &#8211; New releases of Spatial Manager products'
 date: 2015-01-29T08:37:55+00:00
 author: admin

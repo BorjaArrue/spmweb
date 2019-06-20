@@ -1,5 +1,5 @@
 ---
-id: 306
+published: true
 title: Export tables from PostGIS or SQL Server Spatial
 date: 2013-11-27T15:11:24+00:00
 author: admin

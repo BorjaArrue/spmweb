@@ -1,5 +1,5 @@
 ---
-id: 2599
+published: true
 title: Use Polygon Objects even in vanilla AutoCAD
 date: 2015-09-10T13:50:35+00:00
 author: admin

@@ -1,5 +1,5 @@
 ---
-id: 3710
+published: true
 title: Snapshots of Background maps
 date: 2017-01-03T13:57:39+00:00
 author: admin

@@ -1,5 +1,5 @@
 ---
-id: 3891
+published: true
 title: '&#8216;Spatial Manager&#8217; is AutoCAD 2018 compatible'
 date: 2017-03-27T08:39:48+00:00
 author: admin

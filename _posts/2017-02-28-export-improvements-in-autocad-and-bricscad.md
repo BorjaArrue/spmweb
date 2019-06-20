@@ -1,5 +1,5 @@
 ---
-id: 3838
+published: true
 title: Export improvements in AutoCAD and BricsCAD
 date: 2017-02-28T11:35:04+00:00
 author: admin

@@ -1,5 +1,5 @@
 ---
-id: 4654
+published: true
 title: Enhance the Map images quality
 date: 2017-12-04T11:37:57+00:00
 author: admin

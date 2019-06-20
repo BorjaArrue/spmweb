@@ -1,5 +1,5 @@
 ---
-id: 780
+published: true
 title: Importing shapefile (SHP) into AutoCAD
 date: 2014-03-06T07:39:22+00:00
 author: admin

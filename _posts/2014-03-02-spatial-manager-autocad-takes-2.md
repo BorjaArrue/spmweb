@@ -1,5 +1,5 @@
 ---
-id: 718
+published: true
 title: '&#8216;Spatial Manager™ for AutoCAD&#8217; takes off'
 date: 2014-03-02T13:26:10+00:00
 author: admin

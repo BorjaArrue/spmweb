@@ -1,5 +1,5 @@
 ---
-id: 585
+published: true
 title: 'Properties: how to change the focus'
 date: 2014-02-02T13:14:56+00:00
 author: admin

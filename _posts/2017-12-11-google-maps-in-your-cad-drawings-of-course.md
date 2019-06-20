@@ -1,5 +1,5 @@
 ---
-id: 4718
+published: true
 title: Google Maps in your CAD drawings? Of course
 date: 2017-12-11T12:05:52+00:00
 author: admin

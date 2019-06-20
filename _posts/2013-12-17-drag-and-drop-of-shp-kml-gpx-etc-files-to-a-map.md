@@ -1,5 +1,5 @@
 ---
-id: 377
+published: true
 title: Drag and drop of SHP, KML, GPX, etc., files to a Map
 date: 2013-12-17T11:09:31+00:00
 author: admin

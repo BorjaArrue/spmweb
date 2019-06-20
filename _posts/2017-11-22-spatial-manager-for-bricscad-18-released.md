@@ -1,5 +1,5 @@
 ---
-id: 4593
+published: true
 title: 'Spatial Manager for &#8216;BricsCAD 18&#8217; released'
 date: 2017-11-22T19:45:11+00:00
 author: admin

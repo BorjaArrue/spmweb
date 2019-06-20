@@ -1,5 +1,5 @@
 ---
-id: 4375
+published: true
 title: 'Enhanced ASCII data provider (CSV, TXT, ASC, XYZ, &#8230;)'
 date: 2017-10-16T09:21:17+00:00
 author: admin

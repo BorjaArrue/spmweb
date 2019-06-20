@@ -1,5 +1,5 @@
 ---
-id: 3486
+published: true
 title: The productive new version 3.3
 date: 2016-11-09T20:05:09+00:00
 author: admin

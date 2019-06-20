@@ -1,5 +1,5 @@
 ---
-id: 2245
+published: true
 title: Now EXPORT from CAD to Google Earth, Shapefiles, etc.
 date: 2015-03-15T11:30:58+00:00
 author: admin

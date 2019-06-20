@@ -1,5 +1,5 @@
 ---
-id: 2478
+published: true
 title: New Spatial Manager™ partners
 date: 2015-05-26T13:52:47+00:00
 author: admin

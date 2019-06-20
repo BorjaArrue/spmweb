@@ -1,5 +1,5 @@
 ---
-id: 3319
+published: true
 title: 'Data Structure Management &#8211; Create, Modify, Select, Delete'
 date: 2016-06-28T10:56:42+00:00
 author: admin

@@ -1,5 +1,5 @@
 ---
-id: 5928
+published: true
 title: Spatial Manager for ZWCAD 2019 compatible
 date: 2018-11-12T11:57:29+00:00
 author: admin

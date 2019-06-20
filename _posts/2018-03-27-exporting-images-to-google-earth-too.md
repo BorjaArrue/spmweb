@@ -1,5 +1,5 @@
 ---
-id: 5207
+published: true
 title: Exporting images to Google Earth too
 date: 2018-03-27T12:38:18+00:00
 author: admin

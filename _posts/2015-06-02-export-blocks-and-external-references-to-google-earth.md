@@ -1,5 +1,5 @@
 ---
-id: 2533
+published: true
 title: Export Blocks and External References to Google Earth
 date: 2015-06-02T13:47:04+00:00
 author: admin

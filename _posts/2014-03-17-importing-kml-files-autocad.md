@@ -1,5 +1,5 @@
 ---
-id: 824
+published: true
 title: Importing KML files into AutoCAD
 date: 2014-03-17T13:16:43+00:00
 author: admin

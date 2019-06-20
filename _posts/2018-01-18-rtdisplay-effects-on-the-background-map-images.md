@@ -1,5 +1,5 @@
 ---
-id: 4856
+published: true
 title: RTDISPLAY effects on the Background Map images
 date: 2018-01-18T08:53:32+00:00
 author: admin

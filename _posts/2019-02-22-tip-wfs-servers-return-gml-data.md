@@ -1,5 +1,5 @@
 ---
-id: 6210
+published: true
 title: 'Tip &#8211; WFS servers return GML data'
 date: 2019-02-22T12:51:54+00:00
 author: admin

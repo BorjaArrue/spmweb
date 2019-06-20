@@ -1,5 +1,5 @@
 ---
-id: 4036
+published: true
 title: Little-known options when importing from OpenStreetMap
 date: 2017-06-06T13:10:59+00:00
 author: admin

@@ -1,5 +1,5 @@
 ---
-id: 1420
+published: true
 title: 'Trick &#8211; Spatial Manager Desktop. Copy from Data grid'
 date: 2014-07-29T15:27:00+00:00
 author: admin

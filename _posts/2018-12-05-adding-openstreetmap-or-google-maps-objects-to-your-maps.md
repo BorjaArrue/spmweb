@@ -1,5 +1,5 @@
 ---
-id: 6078
+published: true
 title: Adding OpenStreetMap or Google Maps objects to your maps
 date: 2018-12-05T10:03:20+00:00
 author: admin

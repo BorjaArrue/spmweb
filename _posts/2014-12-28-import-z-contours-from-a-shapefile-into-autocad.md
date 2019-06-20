@@ -1,5 +1,5 @@
 ---
-id: 1991
+published: true
 title: Import Z-Contours from a Shapefile into AutoCAD
 date: 2014-12-28T12:10:21+00:00
 author: admin

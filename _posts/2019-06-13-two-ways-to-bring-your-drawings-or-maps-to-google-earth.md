@@ -1,5 +1,5 @@
 ---
-id: 6632
+published: true
 title: Two ways to bring your drawings or maps to Google Earth
 date: 2019-06-13T18:22:42+00:00
 author: admin

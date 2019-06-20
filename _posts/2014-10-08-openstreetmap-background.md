@@ -1,5 +1,5 @@
 ---
-id: 1820
+published: true
 title: 'Release 1.0.4: OpenStreetMap background maps'
 date: 2014-10-08T13:56:30+00:00
 author: admin

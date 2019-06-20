@@ -1,5 +1,5 @@
 ---
-id: 5875
+published: true
 title: 'V5: A big leap in spatial data management'
 date: 2018-11-05T21:25:23+00:00
 author: admin

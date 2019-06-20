@@ -1,5 +1,5 @@
 ---
-id: 4757
+published: true
 title: New Coordinate Systems for Western Australia
 date: 2017-12-18T20:09:22+00:00
 author: admin

@@ -1,5 +1,5 @@
 ---
-id: 3286
+published: true
 title: Labeling objects while importing
 date: 2016-06-14T12:46:52+00:00
 author: admin

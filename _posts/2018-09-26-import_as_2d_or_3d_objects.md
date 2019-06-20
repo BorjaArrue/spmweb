@@ -1,5 +1,5 @@
 ---
-id: 5831
+published: true
 title: Import as 2D or 3D objects
 date: 2018-09-26T11:59:30+00:00
 author: admin

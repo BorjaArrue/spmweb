@@ -1,5 +1,5 @@
 ---
-id: 6242
+published: true
 title: Getting the Z-coordinate from label contents
 date: 2019-03-05T21:22:54+00:00
 author: admin

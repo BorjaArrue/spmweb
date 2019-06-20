@@ -1,5 +1,5 @@
 ---
-id: 1408
+published: true
 title: How to highlight some Features in Google Earth
 date: 2014-07-22T14:31:17+00:00
 author: admin

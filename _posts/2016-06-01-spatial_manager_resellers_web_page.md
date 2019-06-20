@@ -1,5 +1,5 @@
 ---
-id: 3265
+published: true
 title: Spatial Manager new partners and new resellers page
 date: 2016-06-01T18:41:52+00:00
 author: admin

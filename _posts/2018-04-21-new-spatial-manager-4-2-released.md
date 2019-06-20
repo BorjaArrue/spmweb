@@ -1,5 +1,5 @@
 ---
-id: 5225
+published: true
 title: 'New &#8216;Spatial Manager&#8217; 4.2 released'
 date: 2018-04-21T22:00:07+00:00
 author: admin

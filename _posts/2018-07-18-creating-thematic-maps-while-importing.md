@@ -1,5 +1,5 @@
 ---
-id: 5718
+published: true
 title: Creating thematic maps while importing
 date: 2018-07-18T10:50:32+00:00
 author: admin

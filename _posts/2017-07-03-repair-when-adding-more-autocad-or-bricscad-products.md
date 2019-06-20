@@ -1,5 +1,5 @@
 ---
-id: 4091
+published: true
 title: '&#8220;Repair&#8221; to add  or update AutoCAD / BricsCAD / ZWCAD'
 date: 2017-07-03T09:06:09+00:00
 author: admin

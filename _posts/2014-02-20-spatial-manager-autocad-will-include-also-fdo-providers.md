@@ -1,5 +1,5 @@
 ---
-id: 657
+published: true
 title: Spatial Manager™ for AutoCAD will include FDO Providers
 date: 2014-02-20T16:37:59+00:00
 author: admin

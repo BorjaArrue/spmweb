@@ -1,5 +1,5 @@
 ---
-id: 4487
+published: true
 title: '&#8216;Spatial Manager for ZWCAD&#8217; takes off'
 date: 2017-11-29T21:18:20+00:00
 author: admin

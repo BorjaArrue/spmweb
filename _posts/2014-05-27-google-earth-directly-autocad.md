@@ -1,5 +1,5 @@
 ---
-id: 1168
+published: true
 title: Search in Google Earth and use in AutoCAD
 date: 2014-05-27T09:37:50+00:00
 author: admin

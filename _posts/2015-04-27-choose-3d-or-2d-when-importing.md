@@ -1,5 +1,5 @@
 ---
-id: 2410
+published: true
 title: Choose 3D or 2D when importing
 date: 2015-04-27T14:42:25+00:00
 author: admin

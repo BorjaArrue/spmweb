@@ -1,5 +1,5 @@
 ---
-id: 555
+published: true
 title: Spatial Manager Desktop™ 0.9.8 (beta) released today
 date: 2014-01-28T17:08:46+00:00
 author: admin

@@ -1,5 +1,5 @@
 ---
-id: 288
+published: true
 title: Separate thematic Layers from GIS Tables
 date: 2013-11-11T18:00:22+00:00
 author: admin

@@ -1,5 +1,5 @@
 ---
-id: 1911
+published: true
 title: Spatial Manager App in Autodesk Exchange (App Store)
 date: 2014-11-12T18:09:31+00:00
 author: admin

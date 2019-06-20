@@ -1,5 +1,5 @@
 ---
-id: 2432
+published: true
 title: 'MAY15 – New releases. The powerful &#8220;Tasks&#8221; come in'
 date: 2015-05-08T16:50:44+00:00
 author: admin

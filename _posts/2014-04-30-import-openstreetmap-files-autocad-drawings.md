@@ -1,5 +1,5 @@
 ---
-id: 1087
+published: true
 title: Import OpenStreetMap data into AutoCAD drawings
 date: 2014-04-30T09:47:53+00:00
 author: admin

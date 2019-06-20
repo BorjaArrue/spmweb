@@ -1,5 +1,5 @@
 ---
-id: 5791
+published: true
 title: Map servers sub-domains
 date: 2018-09-06T09:52:31+00:00
 author: admin

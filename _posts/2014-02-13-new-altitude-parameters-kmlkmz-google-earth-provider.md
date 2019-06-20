@@ -1,5 +1,5 @@
 ---
-id: 639
+published: true
 title: Create 3D Buildings in Google Earth from SHP files
 date: 2014-02-13T22:06:36+00:00
 author: admin

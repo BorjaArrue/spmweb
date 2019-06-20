@@ -1,5 +1,5 @@
 ---
-id: 6118
+published: true
 title: Exporting-Importing user Background Map definitions
 date: 2019-01-10T09:38:22+00:00
 author: admin

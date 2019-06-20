@@ -1,5 +1,5 @@
 ---
-id: 5755
+published: true
 title: Tricks to optimize labeling while importing
 date: 2018-08-28T09:15:45+00:00
 author: admin

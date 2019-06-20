@@ -1,5 +1,5 @@
 ---
-id: 1085
+published: true
 title: Convert OpenStreetMap data to Shapefiles (SHP)
 date: 2014-04-30T09:36:24+00:00
 author: admin

@@ -1,5 +1,5 @@
 ---
-id: 6157
+published: true
 title: Scan and recovery of data tables from drawing objects
 date: 2019-01-15T13:33:14+00:00
 author: admin

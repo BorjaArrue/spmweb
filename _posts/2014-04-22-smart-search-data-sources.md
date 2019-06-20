@@ -1,5 +1,5 @@
 ---
-id: 945
+published: true
 title: Data sources smart search
 date: 2014-04-22T09:59:42+00:00
 author: admin

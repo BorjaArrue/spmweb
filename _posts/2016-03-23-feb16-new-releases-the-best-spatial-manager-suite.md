@@ -1,5 +1,5 @@
 ---
-id: 2712
+published: true
 title: 'MAR16 – New releases. The best &#8216;Spatial Manager&#8217; suite'
 date: 2016-03-23T19:08:05+00:00
 author: admin

@@ -1,5 +1,5 @@
 ---
-id: 3672
+published: true
 title: 'Labeling Polylines too. &#8216;Smart&#8217; labels and &#8230;'
 date: 2016-12-11T14:40:06+00:00
 author: admin

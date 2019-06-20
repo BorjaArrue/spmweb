@@ -1,5 +1,5 @@
 ---
-id: 873
+published: true
 title: New beta applications released
 date: 2014-04-04T11:19:03+00:00
 author: admin

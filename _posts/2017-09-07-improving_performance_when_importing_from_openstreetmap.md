@@ -1,5 +1,5 @@
 ---
-id: 4176
+published: true
 title: Improve performance when importing from OpenStreetMap
 date: 2017-09-07T13:42:55+00:00
 author: admin

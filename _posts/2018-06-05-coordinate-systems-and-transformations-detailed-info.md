@@ -1,5 +1,5 @@
 ---
-id: 5282
+published: true
 title: Coordinate Systems and Transformations detailed info
 date: 2018-06-05T09:49:11+00:00
 author: admin

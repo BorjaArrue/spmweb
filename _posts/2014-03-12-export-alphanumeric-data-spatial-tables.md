@@ -1,5 +1,5 @@
 ---
-id: 805
+published: true
 title: Export alphanumeric data from spatial tables
 date: 2014-03-12T22:14:47+00:00
 author: admin

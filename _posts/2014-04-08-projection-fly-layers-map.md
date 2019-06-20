@@ -1,5 +1,5 @@
 ---
-id: 912
+published: true
 title: Projecting Maps on the fly
 date: 2014-04-08T11:10:25+00:00
 author: admin

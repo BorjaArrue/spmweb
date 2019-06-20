@@ -1,5 +1,5 @@
 ---
-id: 1960
+published: true
 title: Spatial Manager and AutoCAD LT
 date: 2014-11-20T15:00:13+00:00
 author: admin

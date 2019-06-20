@@ -1,5 +1,5 @@
 ---
-id: 4436
+published: true
 title: Command-line Importing. Scripts
 date: 2017-11-02T11:26:36+00:00
 author: admin

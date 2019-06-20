@@ -1,5 +1,5 @@
 ---
-id: 919
+published: true
 title: Base maps as Map backgrounds
 date: 2014-04-15T08:59:06+00:00
 author: admin

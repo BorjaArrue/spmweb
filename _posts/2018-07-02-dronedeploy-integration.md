@@ -1,5 +1,5 @@
 ---
-id: 5687
+published: true
 title: DroneDeploy integration
 date: 2018-07-02T10:23:55+00:00
 author: admin

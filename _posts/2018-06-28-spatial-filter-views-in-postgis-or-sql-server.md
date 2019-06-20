@@ -1,5 +1,5 @@
 ---
-id: 5473
+published: true
 title: Spatial filter Views in PostGIS or SQL Server
 date: 2018-06-28T14:09:08+00:00
 author: admin

@@ -1,5 +1,5 @@
 ---
-id: 1450
+published: true
 title: How to use the Spatial Manager Wiki?
 date: 2014-08-12T10:41:18+00:00
 author: admin

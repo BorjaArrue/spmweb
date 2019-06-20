@@ -1,5 +1,5 @@
 ---
-id: 5993
+published: true
 title: Spatial Manager for BricsCAD 19 compatible
 date: 2018-12-18T18:59:28+00:00
 author: admin

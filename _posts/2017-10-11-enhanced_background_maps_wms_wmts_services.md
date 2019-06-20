@@ -1,5 +1,5 @@
 ---
-id: 4306
+published: true
 title: 'Enhanced Background Maps. WMS &#038; WMTS services'
 date: 2017-10-11T09:22:25+00:00
 author: admin

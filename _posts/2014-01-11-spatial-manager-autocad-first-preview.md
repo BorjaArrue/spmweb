@@ -1,5 +1,5 @@
 ---
-id: 488
+published: true
 title: 'Spatial Manager™ for AutoCAD: first preview'
 date: 2014-01-11T15:12:00+00:00
 author: admin

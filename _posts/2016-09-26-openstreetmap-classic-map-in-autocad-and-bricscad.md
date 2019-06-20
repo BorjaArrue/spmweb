@@ -1,5 +1,5 @@
 ---
-id: 3429
+published: true
 title: 'OpenStreetMap &#8220;classic look&#8221; in AutoCAD and BricsCAD'
 date: 2016-09-26T18:16:24+00:00
 author: admin

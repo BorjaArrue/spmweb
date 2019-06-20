@@ -1,5 +1,5 @@
 ---
-id: 6269
+published: true
 title: Spatial Manager for AutoCAD 2020 compatible
 date: 2019-04-05T08:04:51+00:00
 author: admin
