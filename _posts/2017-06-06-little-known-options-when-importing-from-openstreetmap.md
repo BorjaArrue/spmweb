@@ -98,5 +98,5 @@ tags:
 </h2>
 
 <p>
-  On a few<span><strong> <a href="http://www.spatialmanager.com/tag/openstreetmap/" target="_blank" rel="nofollow"><span>entries in this Blog</span></a> </strong></span>you can learn more about how to take advantage of the OpenStreetMap information (vector features or image maps) when using &#8216;Spatial Manager&#8217;
+  On a few<span><strong> <a href="/tag/openstreetmap/" target="_blank" rel="nofollow"><span>entries in this Blog</span></a> </strong></span>you can learn more about how to take advantage of the OpenStreetMap information (vector features or image maps) when using &#8216;Spatial Manager&#8217;
 </p>

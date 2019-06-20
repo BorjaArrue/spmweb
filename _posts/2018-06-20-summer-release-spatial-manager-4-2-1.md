@@ -51,7 +51,7 @@ tags:
       <em>Related video: <a href="https://youtu.be/ijNKzdyChx0?rel=0" target="_blank" rel="nofollow"><span><span>AutoCAD</span></span></a> / <a href="https://youtu.be/UcXFtTWDGK8?rel=0" target="_blank" rel="nofollow"><span><span>BricsCAD</span></span></a> / <a href="https://youtu.be/nW8kkOOLR6k?rel=0" target="_blank" rel="nofollow"><span><span>ZWCAD</span></span></a><span> / </span><a href="https://youtu.be/CAayAPTijWA?rel=0" target="_blank" rel="nofollow"><span><span><span>Desktop</span></span></span></a></em>
     </li>
     <li>
-      <a href="http://www.spatialmanager.com/dronedeploy-integration/" target="_blank" rel="nofollow"><span><em>Related Blog entry</em></span></a>
+      <a href="/dronedeploy-integration/" target="_blank" rel="nofollow"><span><em>Related Blog entry</em></span></a>
     </li>
   </ul>
 </li>
@@ -65,7 +65,7 @@ tags:
       Quick Map images downloads by automatic &#8220;balancing&#8221; between different servers
     </li>
     <li>
-      <a href="http://www.spatialmanager.com/map_servers_sub-domains/" target="_blank" rel="nofollow"><span><em>Related Blog entry</em></span></a>
+      <a href="/map_servers_sub-domains/" target="_blank" rel="nofollow"><span><em>Related Blog entry</em></span></a>
     </li>
   </ul>
 </li>

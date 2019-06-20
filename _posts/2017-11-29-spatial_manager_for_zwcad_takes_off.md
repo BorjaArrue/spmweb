@@ -58,9 +58,9 @@ Interested in &#8216;Spatial Manager for ZWCAD&#8217;? **More information**:
 
 ## 
 
-<a href="http://www.spatialmanager.com/download/spatial-manager-zwcad/" target="_blank" rel="nofollow"><em>Download</em></a> (commercial and free trial)
+<a href="/download/spatial-manager-zwcad/" target="_blank" rel="nofollow"><em>Download</em></a> (commercial and free trial)
   
-<a href="http://www.spatialmanager.com/spm-forzwcad/" target="_blank" rel="nofollow"><em>Product page</em></a>
+<a href="/spm-forzwcad/" target="_blank" rel="nofollow"><em>Product page</em></a>
 
 ## 
 
@@ -76,16 +76,16 @@ Interested in &#8216;Spatial Manager for ZWCAD&#8217;? **More information**:
 
 **Technical Pages** (Usual importing processes):
   
-<a href="http://www.spatialmanager.com/import-coordinates-from-excel-to-zwcad/" target="_blank" rel="nofollow"><em>Import coordinates from Excel to ZWCAD</em></a>
+<a href="/import-coordinates-from-excel-to-zwcad/" target="_blank" rel="nofollow"><em>Import coordinates from Excel to ZWCAD</em></a>
   
-<a href="http://www.spatialmanager.com/import-csv-into-zwcad/" target="_blank" rel="nofollow"><em> Import CSV into ZWCAD</em></a>
+<a href="/import-csv-into-zwcad/" target="_blank" rel="nofollow"><em> Import CSV into ZWCAD</em></a>
   
-<a href="http://www.spatialmanager.com/import-points-into-zwcad/" target="_blank" rel="nofollow"><em> Import points into ZWCAD</em></a>
+<a href="/import-points-into-zwcad/" target="_blank" rel="nofollow"><em> Import points into ZWCAD</em></a>
   
-<a href="http://www.spatialmanager.com/zwcad-xyz/" target="_blank" rel="nofollow"><em> ZWCAD XYZ</em></a>
+<a href="/zwcad-xyz/" target="_blank" rel="nofollow"><em> ZWCAD XYZ</em></a>
   
-<a href="http://www.spatialmanager.com/how-to-import-shapefiles-into-zwcad/" target="_blank" rel="nofollow"><em> How to import Shapefiles into ZWCAD</em></a>
+<a href="/how-to-import-shapefiles-into-zwcad/" target="_blank" rel="nofollow"><em> How to import Shapefiles into ZWCAD</em></a>
   
-_<a href="http://www.spatialmanager.com/import-kml-to-zwcad/" target="_blank" rel="nofollow">Import KML to ZWCAD</a>
+_<a href="/import-kml-to-zwcad/" target="_blank" rel="nofollow">Import KML to ZWCAD</a>
   
-<a href="http://www.spatialmanager.com/ordnance-survey-in-zwcad/" target="_blank" rel="nofollow">Ordnance Survey in ZWCAD</a>_
+<a href="/ordnance-survey-in-zwcad/" target="_blank" rel="nofollow">Ordnance Survey in ZWCAD</a>_

@@ -40,7 +40,7 @@ tags:
 </p>
 
 <p>
-  You can even set this color <strong>as Transparent</strong> which, combined with the possibility of <a href="http://www.spatialmanager.com/bring-background-maps-to-front/" target="_blank" rel="nofollow"><span><em>bringing the Background Map to front,</em></span></a> will allow you to overlay maps with void areas to the geometries in your drawing or map
+  You can even set this color <strong>as Transparent</strong> which, combined with the possibility of <a href="/bring-background-maps-to-front/" target="_blank" rel="nofollow"><span><em>bringing the Background Map to front,</em></span></a> will allow you to overlay maps with void areas to the geometries in your drawing or map
 </p>
 
 <p>

@@ -30,7 +30,7 @@ tags:
 
 **Videos:** <a href="https://youtu.be/zJ6A-bNu5dA" target="_blank" rel="nofollow">AutoCAD</a> / <a href="https://youtu.be/JoI9XeU6Yho" target="_blank" rel="nofollow">BricsCAD</a>
 
-A feature highly appreciated by the users of &#8216;Spatial Manager&#8217; software is the option to **Label the objects while importing** into an <a href="http://www.spatialmanager.com/spm-forautocad/" target="_blank" rel="nofollow">AutoCAD</a> or <a href="http://www.spatialmanager.com/spm-forbricscad/" target="_blank" rel="nofollow">BricsCAD</a> drawing
+A feature highly appreciated by the users of &#8216;Spatial Manager&#8217; software is the option to **Label the objects while importing** into an <a href="/spm-forautocad/" target="_blank" rel="nofollow">AutoCAD</a> or <a href="/spm-forbricscad/" target="_blank" rel="nofollow">BricsCAD</a> drawing
 
 Labeling the Polylines allows the user place the appropriate texts next to roads, pipes, power lines, etc., along their paths by using &#8220;smart&#8221; technology: the Labels will be **distributed** and **located** depending on their own size and based on the length and angle of the Polylines segments
 

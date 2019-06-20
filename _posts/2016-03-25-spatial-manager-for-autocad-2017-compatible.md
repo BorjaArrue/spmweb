@@ -20,10 +20,10 @@ If  you need to import/export spatial or GIS data into/from AutoCAD 2008 to 2
 
 ## 
 
-<a title="Spatial Manager™ for AutoCAD product page" href="http://www.spatialmanager.com/spm-forautocad/" target="_blank" rel="nofollow">Spatial Manager™ for AutoCAD product page</a>
+<a title="Spatial Manager™ for AutoCAD product page" href="/spm-forautocad/" target="_blank" rel="nofollow">Spatial Manager™ for AutoCAD product page</a>
 
 ## 
 
-<a href="http://www.spatialmanager.com/feb16-new-releases-the-best-spatial-manager-suite/" target="_blank" rel="nofollow">The version 3.1 in the blog</a>
+<a href="/feb16-new-releases-the-best-spatial-manager-suite/" target="_blank" rel="nofollow">The version 3.1 in the blog</a>
 
 <a href="/images/blog/2016/03/Spatial-Manager-for-AutoCAD-2017.png" target="_blank" rel="attachment wp-att-3132" rel="nofollow"><img src="/images/blog/2016/03/Spatial-Manager-for-AutoCAD-2017-1024x576.png" alt="Spatial Manager for AutoCAD 2017" width="625" height="352" srcset="/images/blog/2016/03/Spatial-Manager-for-AutoCAD-2017-1024x576.png 1024w, /images/blog/2016/03/Spatial-Manager-for-AutoCAD-2017-300x169.png 300w, /images/blog/2016/03/Spatial-Manager-for-AutoCAD-2017-768x432.png 768w, /images/blog/2016/03/Spatial-Manager-for-AutoCAD-2017-624x351.png 624w, /images/blog/2016/03/Spatial-Manager-for-AutoCAD-2017.png 1280w" sizes="(max-width: 625px) 100vw, 625px" /></a>

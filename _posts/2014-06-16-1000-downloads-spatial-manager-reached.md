@@ -35,16 +35,16 @@ _
   
 _ For those of you who want to **find out more** about the Spatial Manager™ suite of products, please use the following links:
 
-**&#8211; Spatial Manager™ website:** <a title="Spatial Manager website" href="http://www.spatialmanager.com/" target="_blank" rel="nofollow">http://www.spatialmanager.com/</a>
+**&#8211; Spatial Manager™ website:** <a title="Spatial Manager website" href="/" target="_blank" rel="nofollow">/</a>
   
 **&#8211; Products**
   
-\*** Spatial Manager Desktop™: <a title="Spatial Manager Desktop page" href="http://www.spatialmanager.com/spm-desktop/" target="_blank" rel="nofollow">http://www.spatialmanager.com/spm-desktop/</a>
+\*** Spatial Manager Desktop™: <a title="Spatial Manager Desktop page" href="/spm-desktop/" target="_blank" rel="nofollow">/spm-desktop/</a>
   
-\*** Spatial Manager™ for AutoCAD: <a title="Spatial Manager for AutoCAD page" href="http://www.spatialmanager.com/spm-forautocad/" target="_blank" rel="nofollow">http://www.spatialmanager.com/spm-forautocad/</a>
+\*** Spatial Manager™ for AutoCAD: <a title="Spatial Manager for AutoCAD page" href="/spm-forautocad/" target="_blank" rel="nofollow">/spm-forautocad/</a>
   
-**&#8211; Downloads:** <a title="Spatial Manager Downloads page" href="http://www.spatialmanager.com/downloads/" target="_blank" rel="nofollow">http://www.spatialmanager.com/downloads/</a>
+**&#8211; Downloads:** <a title="Spatial Manager Downloads page" href="/downloads/" target="_blank" rel="nofollow">/downloads/</a>
   
-**&#8211; Pricing page:** <a title="Spatial Manager Prices page" href="http://www.spatialmanager.com/prices/" target="_blank" rel="nofollow">http://www.spatialmanager.com/prices/</a>
+**&#8211; Pricing page:** <a title="Spatial Manager Prices page" href="/prices/" target="_blank" rel="nofollow">/prices/</a>
   
 **&#8211; Wiki:**  <a title="Spatial Manager Wiki" href="http://wiki.spatialmanager.com/index.php?title=Main_Page" target="_blank" rel="nofollow">http://wiki.spatialmanager.com/index.php?title=Main_Page</a>

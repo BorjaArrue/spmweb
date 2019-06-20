@@ -99,7 +99,7 @@ _Additional useful notes for ZWCAD users (from the <a href="http://wiki.spatial
 <h2>
 </h2>
 
-<span><em><a href="http://www.spatialmanager.com/tag/background-maps/" target="_blank" rel="nofollow">· Blog posts</a></em></span>
+<span><em><a href="/tag/background-maps/" target="_blank" rel="nofollow">· Blog posts</a></em></span>
 
 ## 
 

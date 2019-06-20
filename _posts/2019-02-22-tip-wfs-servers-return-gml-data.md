@@ -35,7 +35,7 @@ tags:
 </h2>
 
 <p>
-  <span><em><a href="http://www.spatialmanager.com/" target="_blank" rel="nofollow">&#8216;Spatial Manager&#8217;</a></em></span> includes two <strong>spatial data providers</strong> to access <span><a href="https://en.wikipedia.org/wiki/Web_Feature_Service" target="_blank" rel="nofollow"><em><span>WFS (Web Feature Service)</span></em></a></span> servers, one of them based on <span><em><a href="http://fdo.osgeo.org/" target="_blank" rel="nofollow">OSGeo FDO</a></em></span> and the other based on <a href="https://en.wikipedia.org/wiki/GDAL" target="_blank" rel="nofollow"><span><em>GDAL/OGR</em></span></a>
+  <span><em><a href="/" target="_blank" rel="nofollow">&#8216;Spatial Manager&#8217;</a></em></span> includes two <strong>spatial data providers</strong> to access <span><a href="https://en.wikipedia.org/wiki/Web_Feature_Service" target="_blank" rel="nofollow"><em><span>WFS (Web Feature Service)</span></em></a></span> servers, one of them based on <span><em><a href="http://fdo.osgeo.org/" target="_blank" rel="nofollow">OSGeo FDO</a></em></span> and the other based on <a href="https://en.wikipedia.org/wiki/GDAL" target="_blank" rel="nofollow"><span><em>GDAL/OGR</em></span></a>
 </p>
 
 <div>

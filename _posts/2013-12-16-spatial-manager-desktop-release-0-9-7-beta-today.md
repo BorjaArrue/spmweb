@@ -13,6 +13,6 @@ tags:
 ---
 <!--more-->A new release of Spatial Manager Desktop™ has been launched today. Try it or update your application: 
 
-<a title="Spatial Manager™ - Spatial Manager Desktop™" href="http://www.spatialmanager.com/spm-desktop/" target="_blank" rel="nofollow">Spatial Manager Desktop™</a>
+<a title="Spatial Manager™ - Spatial Manager Desktop™" href="/spm-desktop/" target="_blank" rel="nofollow">Spatial Manager Desktop™</a>
 
 Check all news for this and previous releases in our Wiki: <a title="Spatial Manager Desktop™ Changelog " href="http://wiki.spatialmanager.com/index.php/Spatial_Manager_Desktop%E2%84%A2_Changelog" target="_blank" rel="nofollow">Spatial Manager Desktop™ Changelog</a>

@@ -39,7 +39,7 @@ tags:
 </div>
 
 <p>
-  <em>Please, take a look to this <span><span><a href="http://www.spatialmanager.com/may15-new-releases-the-powerful-tasks-technology/" target="_blank" rel="nofollow">Blog post</a></span></span> and this Wiki article (<span><a href="http://wiki.spatialmanager.com/index.php/Spatial_Manager%E2%84%A2_for_AutoCAD_-_FAQs:_Import#What_are_the_Tasks.3F_.28.22Professional.22_edition_only.29" target="_blank" rel="nofollow">AutoCAD</a></span>/<span><a href="http://wiki.spatialmanager.com/index.php/Spatial_Manager™_for_BricsCAD_-_FAQs:_Import#What_are_the_Tasks.3F_.28.22Professional.22_edition_only.29" target="_blank" rel="nofollow">BricsCAD</a></span>) if you want to learn more about &#8220;Tasks&#8221;</em>
+  <em>Please, take a look to this <span><span><a href="/may15-new-releases-the-powerful-tasks-technology/" target="_blank" rel="nofollow">Blog post</a></span></span> and this Wiki article (<span><a href="http://wiki.spatialmanager.com/index.php/Spatial_Manager%E2%84%A2_for_AutoCAD_-_FAQs:_Import#What_are_the_Tasks.3F_.28.22Professional.22_edition_only.29" target="_blank" rel="nofollow">AutoCAD</a></span>/<span><a href="http://wiki.spatialmanager.com/index.php/Spatial_Manager™_for_BricsCAD_-_FAQs:_Import#What_are_the_Tasks.3F_.28.22Professional.22_edition_only.29" target="_blank" rel="nofollow">BricsCAD</a></span>) if you want to learn more about &#8220;Tasks&#8221;</em>
 </p>
 
 <h2>

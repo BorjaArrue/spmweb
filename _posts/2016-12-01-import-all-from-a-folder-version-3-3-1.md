@@ -63,7 +63,7 @@ _· First version in BETA state including minimum parameters_
   
 · The Export Options window has been rearranged and expanded to group the options relative to geometric data
 
-Have you missed the news in the previous version 3.3? Take a look at this <a href="http://www.spatialmanager.com/the-productive-new-version-3-3-spatial-manager/" target="_blank" rel="nofollow">Blog entry</a>
+Have you missed the news in the previous version 3.3? Take a look at this <a href="/the-productive-new-version-3-3-spatial-manager/" target="_blank" rel="nofollow">Blog entry</a>
 
 ## 
 

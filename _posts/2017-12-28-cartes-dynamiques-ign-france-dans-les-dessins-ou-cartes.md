@@ -34,7 +34,7 @@ tags:
 <h2>
 </h2>
 
-Avec la configuration des **Cartes de fond d&#8217;Utilisateur** en &#8216;Spatial Manager&#8217;, vous pouvez combiner ces informations cartographiques **dans vos dessins CAO** (<a href="http://www.spatialmanager.com/spm-forautocad/" target="_blank" rel="nofollow">AutoCAD</a>, <a href="http://www.spatialmanager.com/spm-forbricscad/" target="_blank" rel="nofollow">BricsCAD</a> ou <a href="http://www.spatialmanager.com/spm-forzwcad/" target="_blank" rel="nofollow">ZWCAD</a>) **ou dans vos cartes** (<a href="http://www.spatialmanager.com/spm-desktop/" target="_blank" rel="nofollow">Desktop</a>)
+Avec la configuration des **Cartes de fond d&#8217;Utilisateur** en &#8216;Spatial Manager&#8217;, vous pouvez combiner ces informations cartographiques **dans vos dessins CAO** (<a href="/spm-forautocad/" target="_blank" rel="nofollow">AutoCAD</a>, <a href="/spm-forbricscad/" target="_blank" rel="nofollow">BricsCAD</a> ou <a href="/spm-forzwcad/" target="_blank" rel="nofollow">ZWCAD</a>) **ou dans vos cartes** (<a href="/spm-desktop/" target="_blank" rel="nofollow">Desktop</a>)
 
 ## 
 
@@ -75,7 +75,7 @@ Lorsque vous avez les **données d&#8217;accès et les clés** pour un ou plus g
 <h2>
 </h2>
 
-<span><em><a href="http://www.spatialmanager.com/tag/background-maps/" target="_blank" rel="nofollow">· Blog posts</a></em></span>
+<span><em><a href="/tag/background-maps/" target="_blank" rel="nofollow">· Blog posts</a></em></span>
 
 ## 
 

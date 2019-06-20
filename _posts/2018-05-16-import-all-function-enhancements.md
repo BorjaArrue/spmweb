@@ -76,7 +76,7 @@ tags:
 </h2>
 
 <p>
-  Related Blog entry: <a href="http://www.spatialmanager.com/the-powerful-import-all-tool/" target="_blank" rel="nofollow"><span><em>The powerful ‘Import-all’ tool</em></span></a>
+  Related Blog entry: <a href="/the-powerful-import-all-tool/" target="_blank" rel="nofollow"><span><em>The powerful ‘Import-all’ tool</em></span></a>
 </p>
 
 <h2>
@@ -91,5 +91,5 @@ tags:
 </h2>
 
 <p>
-  Take a look at all the <span><em><a href="http://www.spatialmanager.com/new-spatial-manager-4-2-released" target="_blank" rel="nofollow"><span>news and improvements in &#8216;Spatial Manager 4.2&#8217;</span></a></em></span>
+  Take a look at all the <span><em><a href="/new-spatial-manager-4-2-released" target="_blank" rel="nofollow"><span>news and improvements in &#8216;Spatial Manager 4.2&#8217;</span></a></em></span>
 </p>

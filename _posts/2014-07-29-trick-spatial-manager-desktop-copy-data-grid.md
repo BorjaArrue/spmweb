@@ -14,7 +14,7 @@ tags:
 ---
 In applications that manage spatial data, it is very usual and useful to Copy or to Save alphanumeric data from data tables so it can be used in other Office, GIS or CAD applications<!--more-->
 
-Spatial Manager Desktop™ provides the ability to export this data from the Data grid, including interesting export options, to a text file (_\*.txt, \*.csv, \*.tab or \*.asc_), which can be imported into other applications such as MS Excel, MS Access or AutoCAD (<a title="Export alphanumeric data from spatial tables" href="http://www.spatialmanager.com/export-alphanumeric-data-spatial-tables/" target="_blank" rel="nofollow">see this post</a>)
+Spatial Manager Desktop™ provides the ability to export this data from the Data grid, including interesting export options, to a text file (_\*.txt, \*.csv, \*.tab or \*.asc_), which can be imported into other applications such as MS Excel, MS Access or AutoCAD (<a title="Export alphanumeric data from spatial tables" href="/export-alphanumeric-data-spatial-tables/" target="_blank" rel="nofollow">see this post</a>)
 
 <a href="/images/blog/2014/07/Spatial_Manager_DataGrid1.png" target="_blank" rel="nofollow"><img src="/images/blog/2014/07/Spatial_Manager_DataGrid1-1024x576.png" alt="Spatial_Manager_DataGrid1" width="625" height="351" srcset="/images/blog/2014/07/Spatial_Manager_DataGrid1-1024x576.png 1024w, /images/blog/2014/07/Spatial_Manager_DataGrid1-300x168.png 300w, /images/blog/2014/07/Spatial_Manager_DataGrid1-624x351.png 624w, /images/blog/2014/07/Spatial_Manager_DataGrid1.png 1280w" sizes="(max-width: 625px) 100vw, 625px" /></a>
 

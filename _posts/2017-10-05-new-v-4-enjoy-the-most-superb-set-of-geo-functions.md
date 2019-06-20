@@ -112,4 +112,4 @@ _· <a href="http://wiki.spatialmanager.com/index.php/Spatial_Manager_Desktop%E2
 
 ## 
 
-Or read the  <a href="http://www.spatialmanager.com/SpatialManagerDownload/press/Spatial%20Manager%20V4%20-%20New%20main%20release%20-%20OCT%2017.pdf" target="_blank" rel="nofollow"><em>v.4.0 press release </em></a>to review what is new from the v.3.0
+Or read the  <a href="/SpatialManagerDownload/press/Spatial%20Manager%20V4%20-%20New%20main%20release%20-%20OCT%2017.pdf" target="_blank" rel="nofollow"><em>v.4.0 press release </em></a>to review what is new from the v.3.0

@@ -67,7 +67,7 @@ tags:
       <em><span><span><a href="https://youtu.be/uKFJwIv7OAQ?rel=0" target="_blank" rel="nofollow">Related video</a></span></span></em>
     </li>
     <li>
-      <a href="http://www.spatialmanager.com/bring-background-maps-to-front/" target="_blank" rel="nofollow"><span><em>Related Blog entry</em></span></a>
+      <a href="/bring-background-maps-to-front/" target="_blank" rel="nofollow"><span><em>Related Blog entry</em></span></a>
     </li>
   </ul>
 </li>
@@ -84,14 +84,14 @@ tags:
       <em><span><span><a href="https://youtu.be/id6xtr-lDfo?rel=0" target="_blank" rel="nofollow">Related video</a></span></span></em>
     </li>
     <li>
-      <a href="http://www.spatialmanager.com/geo-referencing-captured-images-from-maps/" target="_blank" rel="nofollow"><span><em>Related Blog entry</em></span></a>
+      <a href="/geo-referencing-captured-images-from-maps/" target="_blank" rel="nofollow"><span><em>Related Blog entry</em></span></a>
     </li>
   </ul>
 </li>
 
   * **<span>New LiDAR files data provider</span>** 
       * _<span><span><a href="https://youtu.be/FvMHQ4bQb_U?rel=0" target="_blank" rel="nofollow">Related video</a></span></span>_
-      * <a href="http://www.spatialmanager.com/importing-lidar-data/" target="_blank" rel="nofollow"><span><em>Related Blog entry</em></span></a>
+      * <a href="/importing-lidar-data/" target="_blank" rel="nofollow"><span><em>Related Blog entry</em></span></a>
   * **<span>New georeferenced Raster images data provider</span>** 
     <li>
       References via &#8220;World File&#8221; (TFW, JGW, etc.) or Geotiff
@@ -100,7 +100,7 @@ tags:
       <em><span><span><a href="https://youtu.be/EVMsGN0nHLI?rel=0" target="_blank" rel="nofollow">Related video</a></span></span></em>
     </li>
     <li>
-      <a href="http://www.spatialmanager.com/importing-geo-referenced-raster-images/" target="_blank" rel="nofollow"><span><em>Related Blog entry</em></span></a>
+      <a href="/importing-geo-referenced-raster-images/" target="_blank" rel="nofollow"><span><em>Related Blog entry</em></span></a>
     </li>
 <li>
   <strong><span>Export Hatches properties</span></strong> <ul>
@@ -111,7 +111,7 @@ tags:
       <em><span><span><a href="https://youtu.be/iXECCyPt0JA?rel=0" target="_blank" rel="nofollow">Related video</a></span></span></em>
     </li>
     <li>
-      <a href="http://www.spatialmanager.com/export-and-import-the-hatches-properties/" target="_blank" rel="nofollow"><span><em>Related Blog entry</em></span></a>
+      <a href="/export-and-import-the-hatches-properties/" target="_blank" rel="nofollow"><span><em>Related Blog entry</em></span></a>
     </li>
   </ul>
 </li>
@@ -125,7 +125,7 @@ tags:
       <em><a href="https://youtu.be/f1Hweo94_ro?rel=0" target="_blank" rel="nofollow">Related video</a></em>
     </li>
     <li>
-      <a href="http://www.spatialmanager.com/reducing-images-size-when-publishing-to-google-earth/" target="_blank" rel="nofollow"><span><em>Related Blog entry</em></span></a>
+      <a href="/reducing-images-size-when-publishing-to-google-earth/" target="_blank" rel="nofollow"><span><em>Related Blog entry</em></span></a>
     </li>
   </ul>
 </li>
@@ -150,7 +150,7 @@ tags:
       <em><span><span><a href="https://youtu.be/XdBP3cM3YjI?rel=0" target="_blank" rel="nofollow">Related video</a></span></span></em>
     </li>
     <li>
-      <a href="http://www.spatialmanager.com/import-all-function-enhancements/" target="_blank" rel="nofollow"><span><em>Related Blog entry</em></span></a>
+      <a href="/import-all-function-enhancements/" target="_blank" rel="nofollow"><span><em>Related Blog entry</em></span></a>
     </li>
   </ul>
 </li>
@@ -161,7 +161,7 @@ tags:
 <li>
   <strong><span>Detailed information about Coordinate systems or transformations</span></strong> <ul>
     <li>
-      <a href="http://www.spatialmanager.com/coordinate-systems-and-transformations-detailed-info/" target="_blank" rel="nofollow"><span><em>Related Blog entry</em></span></a>
+      <a href="/coordinate-systems-and-transformations-detailed-info/" target="_blank" rel="nofollow"><span><em>Related Blog entry</em></span></a>
     </li>
   </ul>
 </li>

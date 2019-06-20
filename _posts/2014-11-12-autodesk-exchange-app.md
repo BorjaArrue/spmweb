@@ -19,7 +19,7 @@ Now, you can also find Spatial Manager™ for AutoCAD available in Autodesk Exc
 
 <a title="Autodesk Exchange main page" href="https://apps.exchange.autodesk.com/" target="_blank" rel="nofollow">Autodesk Exchange</a> is a software store which brings together developers and <a title="AutoCAD product page" href="http://www.autodesk.com/products/autocad/overview" target="_blank" rel="nofollow">AutoCAD</a> users. Great ideas and products come from all kinds of people and companies, and Autodesk Exchange Apps helps make it easier for great products to reach millions of AutoCAD users
 
-Autodesk has reviewed and tested <a title="Spatial Manager™ for AutoCAD product page" href="http://www.spatialmanager.com/spm-forautocad/" target="_blank" rel="nofollow">Spatial Manager™ for AutoCAD</a> to help **ensure it is of suitable quality** and that it follows certain usability requirements
+Autodesk has reviewed and tested <a title="Spatial Manager™ for AutoCAD product page" href="/spm-forautocad/" target="_blank" rel="nofollow">Spatial Manager™ for AutoCAD</a> to help **ensure it is of suitable quality** and that it follows certain usability requirements
 
 ## <span>What is the</span> <span>actual use</span> of <span>Autodesk</span> <span>Exchange</span> as a store <span>for AutoCAD</span> <span>products</span>?
 
@@ -47,4 +47,4 @@ Then you can open up the product description page and read through the help fi
   
 <a href="https://apps.exchange.autodesk.com/ACD/en/Detail/Index?id=appstore.exchange.autodesk.com%3aspatialmanagerforautocad_windows64%3aen" target="_blank" rel="nofollow">· Autodesk Exchange: Spatial Manager™ for AutoCAD &#8211; 64 bit English</a>
 
-When you download Spatial Manager™ for AutoCAD what you get is the &#8220;Trial version&#8221; which allows you to try out the application for up to 30 days. When this period ends, or if you want to use the unlimited version, you need to purchase a commercial license of Spatial Manager™ for AutoCAD through the <a title="Spatial Manager for AutoCAD product prices page" href="http://www.spatialmanager.com/spm-forautocad-prices/" target="_blank" rel="nofollow">product prices page in the Spatial Manager™ website</a>
+When you download Spatial Manager™ for AutoCAD what you get is the &#8220;Trial version&#8221; which allows you to try out the application for up to 30 days. When this period ends, or if you want to use the unlimited version, you need to purchase a commercial license of Spatial Manager™ for AutoCAD through the <a title="Spatial Manager for AutoCAD product prices page" href="/spm-forautocad-prices/" target="_blank" rel="nofollow">product prices page in the Spatial Manager™ website</a>

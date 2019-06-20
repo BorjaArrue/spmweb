@@ -35,7 +35,7 @@ tags:
 </h2>
 
 <p>
-  As said in the header of this post, although you can access Excel or Access files in ‘Spatial Manager’ by connecting through the Windows <a href="http://en.wikipedia.org/wiki/Odbc" target="_blank" rel="nofollow">ODBC</a> standard (Open Database Connectivity), it is usually faster to export from Excel to a CSV file and take advantage of the <a href="http://www.spatialmanager.com/enhanced_ascii_data_provider_v4/" target="_blank" rel="nofollow">Enhanced ASCII data provider</a>
+  As said in the header of this post, although you can access Excel or Access files in ‘Spatial Manager’ by connecting through the Windows <a href="http://en.wikipedia.org/wiki/Odbc" target="_blank" rel="nofollow">ODBC</a> standard (Open Database Connectivity), it is usually faster to export from Excel to a CSV file and take advantage of the <a href="/enhanced_ascii_data_provider_v4/" target="_blank" rel="nofollow">Enhanced ASCII data provider</a>
 </p>
 
 <p>

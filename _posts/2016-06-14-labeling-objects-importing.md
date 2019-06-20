@@ -18,7 +18,7 @@ tags:
 
 ##  **Videos: <span><span><a href="https://youtu.be/ap0TcsRe3g4?rel=0" target="_blank" rel="nofollow">AutoCAD</a> </span>/ <span><a href="https://youtu.be/J6mhPqiBgTQ?rel=0" target="_blank" rel="nofollow">BricsCAD</a></span></span>**
 
-Spatial Manager (<a href="http://www.spatialmanager.com/spm-forautocad/" target="_blank" rel="nofollow">AutoCAD</a> or <a href="http://www.spatialmanager.com/spm-forbricscad/" target="_blank" rel="nofollow">BricsCAD</a>) lets you select the option _&#8220;Label Points or Centroids using field value&#8221;_ while importing from a spatial data source. This option allows you to **select any Field to create Texts in AutoCAD or BricsCAD in order to Label** the incoming Points or polygon Centroids by reading the text strings from this Field
+Spatial Manager (<a href="/spm-forautocad/" target="_blank" rel="nofollow">AutoCAD</a> or <a href="/spm-forbricscad/" target="_blank" rel="nofollow">BricsCAD</a>) lets you select the option _&#8220;Label Points or Centroids using field value&#8221;_ while importing from a spatial data source. This option allows you to **select any Field to create Texts in AutoCAD or BricsCAD in order to Label** the incoming Points or polygon Centroids by reading the text strings from this Field
 
 If you select this option and the source data includes polygons, the Centroids options are automatically selected. If you have chosen the &#8220;Borders&#8221; option for polygons, it will be automatically changed to &#8220;Borders and Centroids&#8221;. The same applies between the &#8220;Polygons&#8221; and the &#8220;Polygons and Centroids&#8221; options
 

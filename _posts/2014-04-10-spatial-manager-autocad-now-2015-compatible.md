@@ -16,7 +16,7 @@ A new release of Spatial Manager™ for AutoCAD (0.9.9 beta) was launched yester
 
 Do you need to import spatial or GIS data into AutoCAD 2015? This is your solution. Download from:
 
-<a title="Spatial Manager™ download page" href="http://www.spatialmanager.com/downloads/" target="_blank" rel="nofollow">Spatial Manager™ download page</a>
+<a title="Spatial Manager™ download page" href="/downloads/" target="_blank" rel="nofollow">Spatial Manager™ download page</a>
 
 <a href="/images/blog/2014/04/SPM_AutoCAD_2015.png" target="_blank" rel="nofollow"><img src="/images/blog/2014/04/SPM_AutoCAD_2015.png" alt="SPM_AutoCAD_2015" width="610" height="186" /></a>
 

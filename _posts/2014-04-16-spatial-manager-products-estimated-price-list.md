@@ -17,9 +17,9 @@ tags:
   <span><span> </span></span>SEE CURRENT PRICES IN:
 </h1>
 
-  * <span><strong><a href="http://www.spatialmanager.com/spm-desktop-prices/" target="_blank" rel="nofollow">Spatial Manager Desktop™ (3 editions)</a></strong></span>
-  * <span><strong><a href="http://www.spatialmanager.com/spm-forautocad-prices/" target="_blank" rel="nofollow">Spatial Manager™ for AutoCAD (3 editions)</a></strong></span>
-  * <span><strong><a href="http://www.spatialmanager.com/spm-forbricscad-prices/" target="_blank" rel="nofollow">Spatial Manager™ for BricsCAD (3 editions)</a></strong></span>
+  * <span><strong><a href="/spm-desktop-prices/" target="_blank" rel="nofollow">Spatial Manager Desktop™ (3 editions)</a></strong></span>
+  * <span><strong><a href="/spm-forautocad-prices/" target="_blank" rel="nofollow">Spatial Manager™ for AutoCAD (3 editions)</a></strong></span>
+  * <span><strong><a href="/spm-forbricscad-prices/" target="_blank" rel="nofollow">Spatial Manager™ for BricsCAD (3 editions)</a></strong></span>
 
 <h1>
    <span>OBSOLETE INFO</span>

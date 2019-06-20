@@ -37,7 +37,7 @@ CAD applications users often need to import these kind of point data files into 
 
 ## Import XYZ files and label Z values in AutoCAD
 
-<a title="Spatial Manager™ for AutoCAD product page" href="http://www.spatialmanager.com/spm-forautocad/" target="_blank" rel="nofollow">Spatial Manager™ for AutoCAD</a> includes, in addition to many other access tools, a powerful &#8220;AutoCAD XYZ&#8221; data provider to import XYZ files into AutoCAD
+<a title="Spatial Manager™ for AutoCAD product page" href="/spm-forautocad/" target="_blank" rel="nofollow">Spatial Manager™ for AutoCAD</a> includes, in addition to many other access tools, a powerful &#8220;AutoCAD XYZ&#8221; data provider to import XYZ files into AutoCAD
 
 As when importing point type features using any other data provider included in the application, you can choose between Point objects or Block references and many other interesting drawing options through the import process
 

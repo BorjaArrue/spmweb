@@ -57,7 +57,7 @@ tags:
   <li>
     Data sources including necessary or <strong>relevant Z coordinate</strong>: The option is <strong>unchecked by default</strong> in order to import in 3D, but you can check it if only want to import the XY coordinates <ul>
       <li>
-        Some examples would be: <a href="http://www.spatialmanager.com/importing-lidar-data/" target="_blank" rel="nofollow"><span><em>LiDAR</em></span></a>, PointZ type Shapefiles, ASCII files XYZ, PNEZD, PENZD, XYZDesc, UPT, or Custom with a field defining the Z-coordinate, etc.
+        Some examples would be: <a href="/importing-lidar-data/" target="_blank" rel="nofollow"><span><em>LiDAR</em></span></a>, PointZ type Shapefiles, ASCII files XYZ, PNEZD, PENZD, XYZDesc, UPT, or Custom with a field defining the Z-coordinate, etc.
       </li>
     </ul>
   </li>
@@ -65,7 +65,7 @@ tags:
   <li>
     Data sources that <strong>do not include information about the Z Coordinate</strong>: The option is <strong>checked and disabled</strong> (it is not possible to uncheck it) as only 2D information can be imported <ul>
       <li>
-        Some examples would be: MultiPoint, MultipointM, NullShape, Point, PointM, Polygon, PolygonM, Polyline or PolylineM Shapefiles, <a href="http://www.spatialmanager.com/importing-geo-referenced-raster-images/" target="_blank" rel="nofollow"><span><em>Raster files</em></span></a>, ASCII files CodeXY, CodeYX, XYDesc, or Custom without  afield defining the Z-coordinate, etc.
+        Some examples would be: MultiPoint, MultipointM, NullShape, Point, PointM, Polygon, PolygonM, Polyline or PolylineM Shapefiles, <a href="/importing-geo-referenced-raster-images/" target="_blank" rel="nofollow"><span><em>Raster files</em></span></a>, ASCII files CodeXY, CodeYX, XYDesc, or Custom without  afield defining the Z-coordinate, etc.
       </li>
     </ul>
   </li>

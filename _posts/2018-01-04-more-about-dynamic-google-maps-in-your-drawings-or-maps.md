@@ -37,7 +37,7 @@ tags:
 
 &nbsp;
 
-In the previous entry (<a href="http://www.spatialmanager.com/google-maps-in-your-cad-drawings-of-course/" target="_blank" rel="nofollow">Google Maps in your CAD drawings? Of course</a>) you learn how to define User Background Maps for the &#8220;Hybrid&#8221; and &#8220;Standard Roadmap&#8221; Google Maps. The following value list for the parameter &#8220;lyrs&#8221; in the URL is a more **complete set of the available map types** in Google Maps:
+In the previous entry (<a href="/google-maps-in-your-cad-drawings-of-course/" target="_blank" rel="nofollow">Google Maps in your CAD drawings? Of course</a>) you learn how to define User Background Maps for the &#8220;Hybrid&#8221; and &#8220;Standard Roadmap&#8221; Google Maps. The following value list for the parameter &#8220;lyrs&#8221; in the URL is a more **complete set of the available map types** in Google Maps:
 
 ## 
 
@@ -130,7 +130,7 @@ https://mt1.google.com/vt/<span><strong>lyrs=h</strong></span>&hl=en&x={x}&y={y}
 <h2>
 </h2>
 
-<span><em><a href="http://www.spatialmanager.com/tag/background-maps/" target="_blank" rel="nofollow">· Blog posts</a></em></span>
+<span><em><a href="/tag/background-maps/" target="_blank" rel="nofollow">· Blog posts</a></em></span>
 
 ## 
 

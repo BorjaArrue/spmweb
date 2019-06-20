@@ -32,18 +32,18 @@ The new release 4.1 of &#8216;Spatial Manager™ for BricsCAD&#8217; is &#8216;B
 
 ## 
 
-· <a href="http://www.spatialmanager.com/download/spatial-manager-bricscad/" target="_blank" rel="nofollow">Download &#8216;Spatial Manager for BricsCAD&#8217; v.4.1 </a>
+· <a href="/download/spatial-manager-bricscad/" target="_blank" rel="nofollow">Download &#8216;Spatial Manager for BricsCAD&#8217; v.4.1 </a>
 
 ## 
 
 · <a href="https://blog.bricsys.com/bricscad-v18-core-features/" target="_blank" rel="nofollow">BricsCAD 18 news</a>
   
-· <a href="http://www.spatialmanager.com/new-v-4-enjoy-the-most-superb-set-of-geo-functions/" target="_blank" rel="nofollow">Spatial Manager v.4: Enjoy the most superb set of geo-functions</a>
+· <a href="/new-v-4-enjoy-the-most-superb-set-of-geo-functions/" target="_blank" rel="nofollow">Spatial Manager v.4: Enjoy the most superb set of geo-functions</a>
   
 · <a href="http://wiki.spatialmanager.com/index.php/Spatial_Manager%E2%84%A2_for_BricsCAD_Changelog" target="_blank" rel="nofollow">Application changelog</a>
 
 ## 
 
-· <a href="http://www.spatialmanager.com/spm-forbricscad/" target="_blank" rel="nofollow">&#8216;Spatial Manager for BricsCAD&#8217; product page</a>
+· <a href="/spm-forbricscad/" target="_blank" rel="nofollow">&#8216;Spatial Manager for BricsCAD&#8217; product page</a>
   
 · <a href="http://wiki.spatialmanager.com/index.php/Spatial_Manager™_for_BricsCAD" target="_blank" rel="nofollow">Technical Wiki</a>

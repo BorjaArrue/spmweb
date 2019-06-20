@@ -16,7 +16,7 @@ The next April release of Spatial Manager™ for AutoCAD will include Autodesk
 
 Do you need to import / export spatial or GIS data into / from AutoCAD 2008 to 2016 (and other related Autodesk products)? Spatial Manager™ for AutoCAD is the best solution for you
 
-<a title="Spatial Manager™ for AutoCAD product page" href="http://www.spatialmanager.com/spm-forautocad/" target="_blank" rel="nofollow">Spatial Manager™ for AutoCAD product page</a>
+<a title="Spatial Manager™ for AutoCAD product page" href="/spm-forautocad/" target="_blank" rel="nofollow">Spatial Manager™ for AutoCAD product page</a>
 
 &nbsp;
 

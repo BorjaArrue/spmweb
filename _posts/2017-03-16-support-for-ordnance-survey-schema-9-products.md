@@ -47,7 +47,7 @@ tags:
 
 ## 
 
-<span> </span>**<span>&#8216;Spatial Manager&#8217; OS Technical pages:</span> **<a href="http://www.spatialmanager.com/ordnance-survey-in-autocad/" target="_blank" rel="nofollow"><span>AutoCAD</span></a> <span>/</span><a href="http://www.spatialmanager.com/ordnance-survey-in-bricscad/" target="_blank" rel="nofollow"><span> BricsCAD</span></a>
+<span> </span>**<span>&#8216;Spatial Manager&#8217; OS Technical pages:</span> **<a href="/ordnance-survey-in-autocad/" target="_blank" rel="nofollow"><span>AutoCAD</span></a> <span>/</span><a href="/ordnance-survey-in-bricscad/" target="_blank" rel="nofollow"><span> BricsCAD</span></a>
 
 <h2>
 </h2>

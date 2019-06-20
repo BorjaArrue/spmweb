@@ -261,7 +261,7 @@ tags:
 </h2>
 
 <p>
-  <a href="http://www.spatialmanager.com/applications-configuration-files-backup-copy/" target="_blank" rel="nofollow"><em>· Blog entry</em></a>
+  <a href="/applications-configuration-files-backup-copy/" target="_blank" rel="nofollow"><em>· Blog entry</em></a>
 </p>
 
 <h2>

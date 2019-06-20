@@ -27,8 +27,8 @@ Take a look to the video: <a href="https://youtu.be/tPBWNkZOEEc?rel=0" target="_
 
 In addition, the <span></span>**Block properties** (Name and Attribute values) are shown in the application Palette, and more:
 
-· <a href="http://wiki.spatialmanager.com/index.php/Spatial_Manager%E2%84%A2_for_AutoCAD_Changelog" target="_blank" rel="nofollow">Spatial Manager for AutoCAD Changelog</a> / <a href="http://www.spatialmanager.com/download/spatial-manager-autocad/" target="_blank" rel="nofollow">Download</a>
+· <a href="http://wiki.spatialmanager.com/index.php/Spatial_Manager%E2%84%A2_for_AutoCAD_Changelog" target="_blank" rel="nofollow">Spatial Manager for AutoCAD Changelog</a> / <a href="/download/spatial-manager-autocad/" target="_blank" rel="nofollow">Download</a>
   
-· <a href="http://wiki.spatialmanager.com/index.php/Spatial_Manager%E2%84%A2_for_BricsCAD_Changelog" target="_blank" rel="nofollow">Spatial Manager for BricsCAD Changelog</a> / <a href="http://www.spatialmanager.com/download/spatial-manager-bricscad/" target="_blank" rel="nofollow">Download</a>
+· <a href="http://wiki.spatialmanager.com/index.php/Spatial_Manager%E2%84%A2_for_BricsCAD_Changelog" target="_blank" rel="nofollow">Spatial Manager for BricsCAD Changelog</a> / <a href="/download/spatial-manager-bricscad/" target="_blank" rel="nofollow">Download</a>
   
-· <a href="http://wiki.spatialmanager.com/index.php/Spatial_Manager_Desktop%E2%84%A2_Changelog" target="_blank" rel="nofollow">Spatial Manager Desktop Changelog</a> / <a href="http://www.spatialmanager.com/download/spatial-manager-desktop/" target="_blank" rel="nofollow">Download</a>
+· <a href="http://wiki.spatialmanager.com/index.php/Spatial_Manager_Desktop%E2%84%A2_Changelog" target="_blank" rel="nofollow">Spatial Manager Desktop Changelog</a> / <a href="/download/spatial-manager-desktop/" target="_blank" rel="nofollow">Download</a>

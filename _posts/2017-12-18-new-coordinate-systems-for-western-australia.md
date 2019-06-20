@@ -53,7 +53,7 @@ These Coordinate Systems were not in the latest <a href="https://en.wikipedia.or
 
 ## 
 
-These enhancements will not be included in the application until the next release, but if you need it or you want to try them, please send us an mail (<a href="mailto:info@spatialmanager.com" target="_blank" rel="nofollow">info@spatialmanager.com</a>) specifying the version you are interested in (<a href="http://www.spatialmanager.com/spm-forautocad/" target="_blank" rel="nofollow">AutoCAD</a> / <a href="http://www.spatialmanager.com/spm-forbricscad/" target="_blank" rel="nofollow">BricsCAD</a> / <a href="http://www.spatialmanager.com/spm-forzwcad/" target="_blank" rel="nofollow">ZWCAD</a> / <a href="http://www.spatialmanager.com/spm-desktop/" target="_blank" rel="nofollow">Desktop</a>), and we will send you the latest build of the application
+These enhancements will not be included in the application until the next release, but if you need it or you want to try them, please send us an mail (<a href="mailto:info@spatialmanager.com" target="_blank" rel="nofollow">info@spatialmanager.com</a>) specifying the version you are interested in (<a href="/spm-forautocad/" target="_blank" rel="nofollow">AutoCAD</a> / <a href="/spm-forbricscad/" target="_blank" rel="nofollow">BricsCAD</a> / <a href="/spm-forzwcad/" target="_blank" rel="nofollow">ZWCAD</a> / <a href="/spm-desktop/" target="_blank" rel="nofollow">Desktop</a>), and we will send you the latest build of the application
 
 ## 
 

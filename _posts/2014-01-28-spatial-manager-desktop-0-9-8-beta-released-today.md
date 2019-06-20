@@ -15,7 +15,7 @@ A new release of Spatial Manager Desktop™ has been launched today. Try it or u
 
 &nbsp;
 
-<a title="Spatial Manager™ - Spatial Manager Desktop™" href="http://www.spatialmanager.com/spm-desktop/" target="_blank" rel="nofollow">Spatial Manager Desktop™ product page</a>
+<a title="Spatial Manager™ - Spatial Manager Desktop™" href="/spm-desktop/" target="_blank" rel="nofollow">Spatial Manager Desktop™ product page</a>
 
 <center>
   <br /> <a href="/images/blog/2014/01/About-0.9.8.png" target="_blank" rel="nofollow"><img alt="About 0.9.8" src="/images/blog/2014/01/About-0.9.8.png" width="491" height="341" srcset="/images/blog/2014/01/About-0.9.8.png 491w, /images/blog/2014/01/About-0.9.8-300x208.png 300w" sizes="(max-width: 491px) 100vw, 491px" /></a>

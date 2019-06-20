@@ -39,7 +39,7 @@ tags:
 <h2>
 </h2>
 
-_Please take a look to <a href="http://www.spatialmanager.com/publishing-your-drawing-or-map-in-google-earth-one-click/" target="_blank" rel="nofollow">this previous Post</a> in order to learn more about &#8216;Publishing to Google Earth&#8217;_
+_Please take a look to <a href="/publishing-your-drawing-or-map-in-google-earth-one-click/" target="_blank" rel="nofollow">this previous Post</a> in order to learn more about &#8216;Publishing to Google Earth&#8217;_
 
 <p>
   <a href="/images/blog/2017/05/SPMCREATEKML.png" target="_blank" rel="nofollow"><img src="/images/blog/2017/05/SPMCREATEKML.png" alt="SPMCREATEKML" width="462" height="240" srcset="/images/blog/2017/05/SPMCREATEKML.png 462w, /images/blog/2017/05/SPMCREATEKML-300x156.png 300w" sizes="(max-width: 462px) 100vw, 462px" /></a>
@@ -70,7 +70,7 @@ _Please take a look to <a href="http://www.spatialmanager.com/publishing-your-dr
 
 Blog entry
   
-&#8211; <a href="http://www.spatialmanager.com/publishing-your-drawing-or-map-in-google-earth-one-click/" target="_blank" rel="nofollow">Publishing your drawing or map in Google Earth (one click)</a>
+&#8211; <a href="/publishing-your-drawing-or-map-in-google-earth-one-click/" target="_blank" rel="nofollow">Publishing your drawing or map in Google Earth (one click)</a>
 
 ## 
 
@@ -102,11 +102,11 @@ Technical Wiki
 
 Blog entries
   
-&#8211; <a href="http://www.spatialmanager.com/now-export-from-cad-to-google-earth-shapefiles-etc/" target="_blank" rel="nofollow">EXPORT from CAD to Google Earth, Shapefiles, etc.</a>
+&#8211; <a href="/now-export-from-cad-to-google-earth-shapefiles-etc/" target="_blank" rel="nofollow">EXPORT from CAD to Google Earth, Shapefiles, etc.</a>
   
-&#8211; <a href="http://www.spatialmanager.com/new-release-3-2-the-blocks-version/" target="_blank" rel="nofollow">‘Blocks’ Export enhancements</a>
+&#8211; <a href="/new-release-3-2-the-blocks-version/" target="_blank" rel="nofollow">‘Blocks’ Export enhancements</a>
   
-&#8211; <a href="http://www.spatialmanager.com/export-improvements-in-autocad-and-bricscad/" target="_blank" rel="nofollow">Export improvements in latest versions of &#8216;Spatial Manager&#8217;</a>
+&#8211; <a href="/export-improvements-in-autocad-and-bricscad/" target="_blank" rel="nofollow">Export improvements in latest versions of &#8216;Spatial Manager&#8217;</a>
 
 ## 
 

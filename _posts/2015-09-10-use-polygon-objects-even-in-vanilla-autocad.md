@@ -26,7 +26,7 @@ When you import Polygon-type features into AutoCAD using Spatial Manager™ you 
 
 The Polylines are well-known objects to any AutoCAD user but, **what about the MPolygons?** The MPolygons are custom objects which serve primarily for representing **multi-part polygons** (e.g. imported from GIS files). So, an MPoygon can define multiple filled or empty (holes) rings
 
-They are custom objects which can be created in AutoCAD Map 3D or AutoCAD Civil 3D, but are also available in vanilla (plain, basic, etc.) AutoCAD using certain applications, such as <a href="http://www.spatialmanager.com/spm-forautocad/" target="_blank" rel="nofollow">Spatial Manager™ for AutoCAD</a>
+They are custom objects which can be created in AutoCAD Map 3D or AutoCAD Civil 3D, but are also available in vanilla (plain, basic, etc.) AutoCAD using certain applications, such as <a href="/spm-forautocad/" target="_blank" rel="nofollow">Spatial Manager™ for AutoCAD</a>
 
 These objects also have the **&#8220;Fill&#8221; property**. You can set the type and color of the interior &#8220;Fill&#8221; independently to the MPolygon outline/border color, using the AutoCAD &#8220;Properties&#8221; window (Pattern section)
 

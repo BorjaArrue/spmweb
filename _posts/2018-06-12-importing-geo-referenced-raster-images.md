@@ -54,7 +54,7 @@ tags:
 </h2>
 
 <p>
-  As with any other application data provider, you can <strong>define a transformation of coordinates</strong> when importing, resulting in a new raster image on which the distortions required by such transformation will be applied. Noting that this data provider is also compatible with the powerful <a href="http://www.spatialmanager.com/import-all-function-enhancements/" target="_blank" rel="nofollow"><span><em><span>&#8216;Import-all&#8217;</span></em></span></a> function, which allows you to process <strong>batch importing</strong> of any spatial data files set, we can consider that &#8216;Spatial Manager&#8217; is the <strong>perfect complement to handle spatial raster</strong> data within any CAD application (<em>see the table below</em>)
+  As with any other application data provider, you can <strong>define a transformation of coordinates</strong> when importing, resulting in a new raster image on which the distortions required by such transformation will be applied. Noting that this data provider is also compatible with the powerful <a href="/import-all-function-enhancements/" target="_blank" rel="nofollow"><span><em><span>&#8216;Import-all&#8217;</span></em></span></a> function, which allows you to process <strong>batch importing</strong> of any spatial data files set, we can consider that &#8216;Spatial Manager&#8217; is the <strong>perfect complement to handle spatial raster</strong> data within any CAD application (<em>see the table below</em>)
 </p>
 
 <h2>
@@ -74,7 +74,7 @@ tags:
     </h2>
     
     <p>
-      You can explore the capabilities provided by this functionality in addition to the ability to <a href="http://www.spatialmanager.com/exporting-images-to-google-earth-too/" target="_blank" rel="nofollow"><span><em>Publish raster images in Google Earth</em></span></a> or <a href="http://www.spatialmanager.com/geo-referencing-captured-images-from-maps/" target="_blank" rel="nofollow"><span><em>Capturing geo-referenced snapshots from the dynamic Background Maps</em></span></a>
+      You can explore the capabilities provided by this functionality in addition to the ability to <a href="/exporting-images-to-google-earth-too/" target="_blank" rel="nofollow"><span><em>Publish raster images in Google Earth</em></span></a> or <a href="/geo-referencing-captured-images-from-maps/" target="_blank" rel="nofollow"><span><em>Capturing geo-referenced snapshots from the dynamic Background Maps</em></span></a>
     </p>
     
     <h2>
@@ -126,6 +126,6 @@ tags:
     </h2>
     
     <p>
-      Take a look at all the <span><em><a href="http://www.spatialmanager.com/new-spatial-manager-4-2-released" target="_blank" rel="nofollow"><span>news and improvements in &#8216;Spatial Manager 4.2&#8217;</span></a></em></span>
+      Take a look at all the <span><em><a href="/new-spatial-manager-4-2-released" target="_blank" rel="nofollow"><span>news and improvements in &#8216;Spatial Manager 4.2&#8217;</span></a></em></span>
     </p>
   </div>

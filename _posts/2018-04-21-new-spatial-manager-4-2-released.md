@@ -48,7 +48,7 @@ tags:
       <em>Related video: <span><span><a href="https://youtu.be/uKFJwIv7OAQ?rel=0" target="_blank" rel="nofollow">AutoCAD</a></span></span> / <span><span><a href="https://youtu.be/wP8GaoDTSpM?rel=0" target="_blank" rel="nofollow">BricsCAD</a></span></span> / <span><span><a href="https://youtu.be/HVe1XCxOh-8?rel=0" target="_blank" rel="nofollow">ZWCAD</a></span></span><span> / </span><span><span><span><a href="https://youtu.be/AzChN_B8VR8?rel=0" target="_blank" rel="nofollow">Desktop</a></span></span></span></em>
     </li>
     <li>
-      <a href="http://www.spatialmanager.com/bring-background-maps-to-front/" target="_blank" rel="nofollow"><span><em>Related Blog entry</em></span></a>
+      <a href="/bring-background-maps-to-front/" target="_blank" rel="nofollow"><span><em>Related Blog entry</em></span></a>
     </li>
   </ul>
 </li>
@@ -65,14 +65,14 @@ tags:
       <em>Related video: <span><span><a href="https://youtu.be/id6xtr-lDfo?rel=0" target="_blank" rel="nofollow">AutoCAD</a></span></span> / <span><span><a href="https://youtu.be/jxoM_Zr7pKk?rel=0" target="_blank" rel="nofollow">BricsCAD</a></span></span> / <span><span><a href="https://youtu.be/0PaQH-BrBwI?rel=0" target="_blank" rel="nofollow">ZWCAD</a></span></span></em>
     </li>
     <li>
-      <a href="http://www.spatialmanager.com/geo-referencing-captured-images-from-maps/" target="_blank" rel="nofollow"><span><em>Related Blog entry</em></span></a>
+      <a href="/geo-referencing-captured-images-from-maps/" target="_blank" rel="nofollow"><span><em>Related Blog entry</em></span></a>
     </li>
   </ul>
 </li>
 
   * **<span>New LiDAR files data provider</span>** 
       * _Related video: <span><span><a href="https://youtu.be/FvMHQ4bQb_U?rel=0" target="_blank" rel="nofollow">AutoCAD</a></span></span> / <span><span><a href="https://youtu.be/tcDqBdjWqzA?rel=0" target="_blank" rel="nofollow">BricsCAD</a></span></span> / <span><span><a href="https://youtu.be/0U5aYRilu8M?rel=0" target="_blank" rel="nofollow">ZWCAD</a></span></span>_
-      * <a href="http://www.spatialmanager.com/importing-lidar-data/" target="_blank" rel="nofollow"><span><em>Related Blog entry</em></span></a>
+      * <a href="/importing-lidar-data/" target="_blank" rel="nofollow"><span><em>Related Blog entry</em></span></a>
   * **<span>New georeferenced Raster images data provider</span>** 
     <li>
       References via &#8220;World File&#8221; (TFW, JGW, etc.) or GeoTIFF
@@ -81,7 +81,7 @@ tags:
       <em>Related video: <span><span><a href="https://youtu.be/EVMsGN0nHLI?rel=0" target="_blank" rel="nofollow">AutoCAD</a></span></span> / <span><span><a href="https://youtu.be/EUy0qEBQxVw?rel=0" target="_blank" rel="nofollow">BricsCAD</a></span></span> / <span><span><a href="https://youtu.be/2nmSmiCz2pw?rel=0" target="_blank" rel="nofollow">ZWCAD</a></span></span></em>
     </li>
     <li>
-      <a href="http://www.spatialmanager.com/importing-geo-referenced-raster-images/" target="_blank" rel="nofollow"><span><em>Related Blog entry</em></span></a>
+      <a href="/importing-geo-referenced-raster-images/" target="_blank" rel="nofollow"><span><em>Related Blog entry</em></span></a>
     </li>
 <li>
   <strong><span>Export Hatches properties</span></strong> <ul>
@@ -92,7 +92,7 @@ tags:
       <em>Related video: <span><span><a href="https://youtu.be/iXECCyPt0JA?rel=0" target="_blank" rel="nofollow">AutoCAD</a></span></span> / <span><span><a href="https://youtu.be/bzxESjr0ZQI?rel=0" target="_blank" rel="nofollow">BricsCAD</a></span></span> / <span><span><a href="https://youtu.be/MSXHUN4uXDk?rel=0" target="_blank" rel="nofollow">ZWCAD</a></span></span></em>
     </li>
     <li>
-      <a href="http://www.spatialmanager.com/export-and-import-the-hatches-properties/" target="_blank" rel="nofollow"><span><em>Related Blog entry</em></span></a>
+      <a href="/export-and-import-the-hatches-properties/" target="_blank" rel="nofollow"><span><em>Related Blog entry</em></span></a>
     </li>
   </ul>
 </li>
@@ -106,7 +106,7 @@ tags:
       <em>Related video: <span><span><a href="https://youtu.be/f1Hweo94_ro?rel=0" target="_blank" rel="nofollow">AutoCAD</a></span></span> / <span><span><a href="https://youtu.be/aFg4bKZ-eLo?rel=0" target="_blank" rel="nofollow">BricsCAD</a></span></span> / <span><span><a href="https://youtu.be/YYjKdMmK76c?rel=0" target="_blank" rel="nofollow">ZWCAD</a></span></span></em>
     </li>
     <li>
-      <a href="http://www.spatialmanager.com/reducing-images-size-when-publishing-to-google-earth/" target="_blank" rel="nofollow"><span><em>Related Blog entry</em></span></a>
+      <a href="/reducing-images-size-when-publishing-to-google-earth/" target="_blank" rel="nofollow"><span><em>Related Blog entry</em></span></a>
     </li>
   </ul>
 </li>
@@ -131,7 +131,7 @@ tags:
       <em>Related video: <span><span><a href="https://youtu.be/XdBP3cM3YjI?rel=0" target="_blank" rel="nofollow">AutoCAD</a></span></span> / <span><span><a href="https://youtu.be/0af1c6E6TcQ?rel=0" target="_blank" rel="nofollow">BricsCAD</a></span></span> / <span><span><a href="https://youtu.be/TD8qnf0uNCs?rel=0" target="_blank" rel="nofollow">ZWCAD</a></span></span></em>
     </li>
     <li>
-      <a href="http://www.spatialmanager.com/import-all-function-enhancements/" target="_blank" rel="nofollow"><span><em>Related Blog entry</em></span></a>
+      <a href="/import-all-function-enhancements/" target="_blank" rel="nofollow"><span><em>Related Blog entry</em></span></a>
     </li>
   </ul>
 </li>
@@ -142,7 +142,7 @@ tags:
 <li>
   <strong><span>Detailed information about Coordinate systems or transformations</span></strong> <ul>
     <li>
-      <a href="http://www.spatialmanager.com/coordinate-systems-and-transformations-detailed-info/" target="_blank" rel="nofollow"><span><em>Related Blog entry</em></span></a>
+      <a href="/coordinate-systems-and-transformations-detailed-info/" target="_blank" rel="nofollow"><span><em>Related Blog entry</em></span></a>
     </li>
   </ul>
 </li>

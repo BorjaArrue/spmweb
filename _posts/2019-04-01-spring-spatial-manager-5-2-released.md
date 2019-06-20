@@ -58,7 +58,7 @@ tags:
           <em>Related video: <span><a href="https://youtu.be/ovgiZP9VSFU?rel=0" target="_blank" rel="nofollow"><span>AutoCAD</span></a> / <a href="https://youtu.be/K5iu7LWB_Xk?rel=0" target="_blank" rel="nofollow"><span>BricsCAD</span></a> / <a href="https://youtu.be/tN2SZD_hx0o?rel=0" target="_blank" rel="nofollow"><span>ZWCAD</span></a></span></em>
         </li>
         <li>
-          <a href="http://www.spatialmanager.com/custom-areas-and-ole-objects-when-snapshoting/" target="_blank" rel="nofollow"><span><em>Related Blog post</em></span></a>
+          <a href="/custom-areas-and-ole-objects-when-snapshoting/" target="_blank" rel="nofollow"><span><em>Related Blog post</em></span></a>
         </li>
       </ul>
     </li>
@@ -77,7 +77,7 @@ tags:
           <em>Related video:<a href="https://youtu.be/i-5x-6QipIc?rel=0" target="_blank" rel="nofollow"> <span><span>AutoCAD</span></span></a> / <a href="https://youtu.be/tBS5U4taAAM?rel=0" target="_blank" rel="nofollow"><span><span>BricsCAD</span></span></a> / <a href="https://youtu.be/uUnz-XDZMAM?rel=0" target="_blank" rel="nofollow"><span><span>ZWCAD</span></span></a><span> / </span><span><a href="https://youtu.be/lT1axm_kmoA?rel=0" target="_blank" rel="nofollow"><span>Desktop</span></a></span></em>
         </li>
         <li>
-          <em><span><a href="http://www.spatialmanager.com/setting-up-the-bg-maps-transparency-or-background-color/" target="_blank" rel="nofollow">Related Blog post</a></span></em>
+          <em><span><a href="/setting-up-the-bg-maps-transparency-or-background-color/" target="_blank" rel="nofollow">Related Blog post</a></span></em>
         </li>
       </ul>
     </li>
@@ -88,7 +88,7 @@ tags:
           <em>Related video:<span><a href="https://youtu.be/K_uP1rUWD8I?rel=0" target="_blank" rel="nofollow"> <span>AutoCAD</span></a></span> /<span><a href="https://youtu.be/CrvnYQXRjBQ?rel=0" target="_blank" rel="nofollow"><span> BricsCAD</span></a></span> / <span><a href="https://youtu.be/Dyvt9YGB2iM?rel=0" target="_blank" rel="nofollow"><span>ZWCAD</span></a> / <a href="https://youtu.be/IF5XPhk-59k?rel=0" target="_blank" rel="nofollow"><span>Desktop</span></a></span></em>
         </li>
         <li>
-          <a href="http://www.spatialmanager.com/nearmap-oblique-maps/" target="_blank" rel="nofollow"><span><em>Related Blog post</em></span></a>
+          <a href="/nearmap-oblique-maps/" target="_blank" rel="nofollow"><span><em>Related Blog post</em></span></a>
         </li>
       </ul>
     </li>
@@ -113,7 +113,7 @@ tags:
           <em>Related video: <a href="https://youtu.be/ELLN_nnYZZE?rel=0" target="_blank" rel="nofollow"><span><span>AutoCAD</span></span></a> / <a href="https://youtu.be/3wcGSjOYRK4?rel=0" target="_blank" rel="nofollow"><span><span>BricsCAD</span></span></a> / <a href="https://youtu.be/L-F0GLc_HBs?rel=0" target="_blank" rel="nofollow"><span><span>ZWCAD</span></span></a></em>
         </li>
         <li>
-          <span><em><a href="http://www.spatialmanager.com/now-also-import-all-tables-from-udss-or-files/" target="_blank" rel="nofollow">Related Blog post</a></em></span>
+          <span><em><a href="/now-also-import-all-tables-from-udss-or-files/" target="_blank" rel="nofollow">Related Blog post</a></em></span>
         </li>
       </ul>
     </li>
@@ -124,7 +124,7 @@ tags:
           <em>Related video: <a href="https://youtu.be/QA-JhYCRno8?rel=0" target="_blank" rel="nofollow"><span><span>AutoCAD</span></span></a> / <a href="https://youtu.be/AtqyMwBmxY4?rel=0" target="_blank" rel="nofollow"><span><span>BricsCAD</span></span></a> / <a href="https://youtu.be/JYrEI7_TAPg?rel=0" target="_blank" rel="nofollow"><span><span>ZWCAD</span></span></a></em>
         </li>
         <li>
-          <a href="http://www.spatialmanager.com/replaying-an-erroneus-export-process/" target="_blank" rel="nofollow"><span><em>Related Blog post</em></span></a>
+          <a href="/replaying-an-erroneus-export-process/" target="_blank" rel="nofollow"><span><em>Related Blog post</em></span></a>
         </li>
       </ul>
     </li>
@@ -135,7 +135,7 @@ tags:
           <em>Related video: <span><a href="https://youtu.be/6mH8CuPNEos?rel=0" target="_blank" rel="nofollow"><span>AutoCAD</span></a> /<a href="https://youtu.be/LT2PaeIUk_Q?rel=0" target="_blank" rel="nofollow"><span> BricsCAD</span></a> / <a href="https://youtu.be/HS8XARBLUtI?rel=0" target="_blank" rel="nofollow"><span>ZWCAD</span></a></span></em>
         </li>
         <li>
-          <a href="http://www.spatialmanager.com/new-write-functionality-for-gml-export/" target="_blank" rel="nofollow"><span><em>Related Blog post</em></span></a>
+          <a href="/new-write-functionality-for-gml-export/" target="_blank" rel="nofollow"><span><em>Related Blog post</em></span></a>
         </li>
       </ul>
     </li>

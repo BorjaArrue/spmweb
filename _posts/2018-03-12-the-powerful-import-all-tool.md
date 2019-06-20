@@ -77,7 +77,7 @@ tags:
 ## 
 
   * **Blog**: 
-      * _<span><span><a href="http://www.spatialmanager.com/tag/import/" target="_blank" rel="nofollow">Importing posts</a></span></span>_
+      * _<span><span><a href="/tag/import/" target="_blank" rel="nofollow">Importing posts</a></span></span>_
 
 ## 
 

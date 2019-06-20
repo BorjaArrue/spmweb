@@ -89,7 +89,7 @@ tags:
 </h2>
 
 <p>
-  Although here we have only reviewed the possibilities of stylizing Point elements when importing, we remind you of <strong>many other options</strong> such as fill differentiation for Polygons (take a look at the samples in this <a href="http://www.spatialmanager.com/export-and-import-the-hatches-properties/" target="_blank" rel="nofollow"><span><em><span>Blog entry</span></em></span></a>), automatic object labeling (check out this other <a href="http://www.spatialmanager.com/labeling-polylines-smart-labels/" target="_blank" rel="nofollow"><span><em><span>Blog entry</span></em></span></a>), etc.
+  Although here we have only reviewed the possibilities of stylizing Point elements when importing, we remind you of <strong>many other options</strong> such as fill differentiation for Polygons (take a look at the samples in this <a href="/export-and-import-the-hatches-properties/" target="_blank" rel="nofollow"><span><em><span>Blog entry</span></em></span></a>), automatic object labeling (check out this other <a href="/labeling-polylines-smart-labels/" target="_blank" rel="nofollow"><span><em><span>Blog entry</span></em></span></a>), etc.
 </p>
 
 <h2>

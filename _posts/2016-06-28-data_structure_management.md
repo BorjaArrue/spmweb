@@ -29,7 +29,7 @@ tags:
 </h2>
 
 <p>
-  Spatial Manager™ (<a href="http://www.spatialmanager.com/spm-forautocad/" target="_blank" rel="nofollow">AutoCAD</a> and <a href="http://www.spatialmanager.com/spm-forbricscad/" target="_blank" rel="nofollow">BricsCAD</a>) lets you go beyond Block Attributes to <strong>add alphanumeric information </strong>to your drawings as you can now define structured data tables, which can  be attached to any object in the drawings (Lines, Blocks, Points, Polylines, Hatches, etc.)
+  Spatial Manager™ (<a href="/spm-forautocad/" target="_blank" rel="nofollow">AutoCAD</a> and <a href="/spm-forbricscad/" target="_blank" rel="nofollow">BricsCAD</a>) lets you go beyond Block Attributes to <strong>add alphanumeric information </strong>to your drawings as you can now define structured data tables, which can  be attached to any object in the drawings (Lines, Blocks, Points, Polylines, Hatches, etc.)
 </p>
 
 <p>

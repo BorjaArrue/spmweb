@@ -14,7 +14,7 @@ tags:
 ---
 A new release of Spatial Manager™ for AutoCAD (1.0.3) including support for OpenStreetMap PBF files in the OSM data provider, was launched on October 27. Try it or update your application<!--more-->
 
-See <a title="Spatial Manager™ for AutoCAD product page" href="http://www.spatialmanager.com/spm-forautocad/" target="_blank" rel="nofollow">Spatial Manager™ for AutoCAD product page</a> to know more about the application, and check all news for this and previous releases in our Wiki <a title="Spatial Manager™ for AutoCAD Changelog" href="http://wiki.spatialmanager.com/index.php/Spatial_Manager%E2%84%A2_for_AutoCAD_Changelog" target="_blank" rel="nofollow">Spatial Manager™ for AutoCAD </a>Changelog
+See <a title="Spatial Manager™ for AutoCAD product page" href="/spm-forautocad/" target="_blank" rel="nofollow">Spatial Manager™ for AutoCAD product page</a> to know more about the application, and check all news for this and previous releases in our Wiki <a title="Spatial Manager™ for AutoCAD Changelog" href="http://wiki.spatialmanager.com/index.php/Spatial_Manager%E2%84%A2_for_AutoCAD_Changelog" target="_blank" rel="nofollow">Spatial Manager™ for AutoCAD </a>Changelog
 
 ## Some interesting new features
 

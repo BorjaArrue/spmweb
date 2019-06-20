@@ -15,7 +15,7 @@ tags:
 ---
 One of the main problems of sharing maps with other users, and to be able to send a compact information, is the need to likewise share the data sources of the Map<!--more-->
 
-<a title="Spatial Manager Desktop page" href="http://www.spatialmanager.com/spm-desktop/" target="_blank" rel="nofollow">Spatial Manager Desktop™</a> uses an interesting technique to solve this problem: the Map files of the application (*.spm) have been designed based on an internal data structure, to include Layers which reference to external data sources and/or Layers which **include their data inside the Map file itself**
+<a title="Spatial Manager Desktop page" href="/spm-desktop/" target="_blank" rel="nofollow">Spatial Manager Desktop™</a> uses an interesting technique to solve this problem: the Map files of the application (*.spm) have been designed based on an internal data structure, to include Layers which reference to external data sources and/or Layers which **include their data inside the Map file itself**
 
 If we combine this technology with the functionality of &#8220;**Disconnecting&#8221; Layers** from their external data sources, which is also included in the application, we can save Maps to be sent to other users, who will not need access to external data for the disconnected Layers
 

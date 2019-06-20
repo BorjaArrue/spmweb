@@ -99,7 +99,7 @@ Finally, keep in mind that the command **&#8216;IMAGEQUALITY&#8217; (Draft/High)
 ## 
 
   * **Blog**: 
-      * _<span><span><a href="http://www.spatialmanager.com/tag/background-maps/" target="_blank" rel="nofollow">&#8216;Background Maps&#8217; posts</a></span></span>_
+      * _<span><span><a href="/tag/background-maps/" target="_blank" rel="nofollow">&#8216;Background Maps&#8217; posts</a></span></span>_
 
 ## 
 

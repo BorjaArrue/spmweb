@@ -63,7 +63,7 @@ tags:
   </li>
 </ul>
 
-_You can find more info about &#8216;Spatial Manager&#8217; Exporting tools through <a href="http://www.spatialmanager.com/tag/export/" target="_blank" rel="nofollow">these Blog posts</a>_
+_You can find more info about &#8216;Spatial Manager&#8217; Exporting tools through <a href="/tag/export/" target="_blank" rel="nofollow">these Blog posts</a>_
 
 <p>
   <em>Note: CAD versions full Export functionality is available in the Professional edition only</em>

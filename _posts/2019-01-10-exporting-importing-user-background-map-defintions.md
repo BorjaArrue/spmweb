@@ -46,7 +46,7 @@ tags:
 </p>
 
 <p>
-  <em>Note: This functionality will also allow you to Import Maps from services such as <span><a href="http://www.spatialmanager.com/dronedeploy-integration/" target="_blank" rel="nofollow">DroneDeploy</a></span> and others</em>
+  <em>Note: This functionality will also allow you to Import Maps from services such as <span><a href="/dronedeploy-integration/" target="_blank" rel="nofollow">DroneDeploy</a></span> and others</em>
 </p>
 
 _Learn more about setting up User Background Maps:_

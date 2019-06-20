@@ -73,7 +73,7 @@ tags:
 ## 
 
   * **Blog**: 
-      * _<span><span><a href="http://www.spatialmanager.com/tag/background-maps/" target="_blank" rel="nofollow">&#8216;Background Maps&#8217; posts</a></span></span>_
+      * _<span><span><a href="/tag/background-maps/" target="_blank" rel="nofollow">&#8216;Background Maps&#8217; posts</a></span></span>_
 
 ## 
 
@@ -93,5 +93,5 @@ tags:
 </h2>
 
 <p>
-  Take a look at all the <span><em><a href="http://www.spatialmanager.com/new-spatial-manager-4-2-released" target="_blank" rel="nofollow"><span>news and improvements in &#8216;Spatial Manager 4.2&#8217;</span></a></em></span>
+  Take a look at all the <span><em><a href="/new-spatial-manager-4-2-released" target="_blank" rel="nofollow"><span>news and improvements in &#8216;Spatial Manager 4.2&#8217;</span></a></em></span>
 </p>

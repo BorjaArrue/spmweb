@@ -25,11 +25,11 @@ tags:
 </h2>
 
 <p>
-  In the post <em><span><a href="http://www.spatialmanager.com/google-maps-in-your-cad-drawings-of-course/" target="_blank" rel="nofollow">&#8220;Google Maps in your CAD drawings? Of course&#8221;</a></span> </em>published in this Blog some months ago, you can review <strong>how to configure Google Maps</strong> in the Background Maps system of &#8216;Spatial Manager&#8217; and the use of basic parameters
+  In the post <em><span><a href="/google-maps-in-your-cad-drawings-of-course/" target="_blank" rel="nofollow">&#8220;Google Maps in your CAD drawings? Of course&#8221;</a></span> </em>published in this Blog some months ago, you can review <strong>how to configure Google Maps</strong> in the Background Maps system of &#8216;Spatial Manager&#8217; and the use of basic parameters
 </p>
 
 <p>
-  Also, in a later post <a href="http://www.spatialmanager.com/more-about-dynamic-google-maps-in-your-drawings-or-maps/" target="_blank" rel="nofollow"><span><em>&#8220;More about dynamic Google Maps in your drawings or Maps&#8221;</em></span></a> you can find out how to use a set of advanced map parameters in order to define <strong>the map type or the language</strong> of the texts and toponyms in the maps if available
+  Also, in a later post <a href="/more-about-dynamic-google-maps-in-your-drawings-or-maps/" target="_blank" rel="nofollow"><span><em>&#8220;More about dynamic Google Maps in your drawings or Maps&#8221;</em></span></a> you can find out how to use a set of advanced map parameters in order to define <strong>the map type or the language</strong> of the texts and toponyms in the maps if available
 </p>
 
 <p>

@@ -107,10 +107,10 @@ tags:
   <li>
     <strong>Blog</strong>: <ul>
       <li>
-        <a href="http://www.spatialmanager.com/exporting-images-to-google-earth-too/" target="_blank" rel="nofollow"><span><em><span>Exporting images to Google Earth too</span></em></span></a>
+        <a href="/exporting-images-to-google-earth-too/" target="_blank" rel="nofollow"><span><em><span>Exporting images to Google Earth too</span></em></span></a>
       </li>
       <li>
-        <em><span><span><a href="http://www.spatialmanager.com/tag/kml/" target="_blank" rel="nofollow">More Google Earth posts</a></span></span></em>
+        <em><span><span><a href="/tag/kml/" target="_blank" rel="nofollow">More Google Earth posts</a></span></span></em>
       </li>
     </ul>
   </li>
@@ -140,5 +140,5 @@ tags:
 </h2>
 
 <p>
-  Take a look at all the <span><em><a href="http://www.spatialmanager.com/new-spatial-manager-4-2-released" target="_blank" rel="nofollow"><span>news and improvements in &#8216;Spatial Manager 4.2&#8217;</span></a></em></span>
+  Take a look at all the <span><em><a href="/new-spatial-manager-4-2-released" target="_blank" rel="nofollow"><span>news and improvements in &#8216;Spatial Manager 4.2&#8217;</span></a></em></span>
 </p>

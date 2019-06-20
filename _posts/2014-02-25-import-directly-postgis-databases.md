@@ -21,7 +21,7 @@ When working in <a title="PostGIS website" href="http://postgis.net/" target="_b
 
 **The Import processes are very similar to the export processes** and may include the same options for the copy and the transformations. Only one difference: when executing Import processes the target of the data is known and now it is necessary to define the source data and its connection parameters and options. As in any Export process, **you can  immediately run the Import Task and/or save it** while defined
 
-_Note: to learn more about UDSs and Tasks, see the post <a title="Export tables from PostGIS or SQL Server Spatial" href="http://www.spatialmanager.com/export-tables-from-postgis-or-sql-server-spatial/" target="_blank" rel="nofollow">Export tables from PostGIS or SQL Server Spatial</a>_
+_Note: to learn more about UDSs and Tasks, see the post <a title="Export tables from PostGIS or SQL Server Spatial" href="/export-tables-from-postgis-or-sql-server-spatial/" target="_blank" rel="nofollow">Export tables from PostGIS or SQL Server Spatial</a>_
 
 In this example, several spatial data Tables are imported from different sources to the same Schema of a PostGIS database server to build spatial data information about a city
 

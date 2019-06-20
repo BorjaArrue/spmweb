@@ -64,8 +64,8 @@ tags:
 ## 
 
   * **Blog**: 
-      * <a href="http://www.spatialmanager.com/publishing-your-drawing-or-map-in-google-earth-one-click/" target="_blank" rel="nofollow"><span><em><span>Publishing your drawing or map in Google Earth</span></em></span></a>
-      * _<span><span><a href="http://www.spatialmanager.com/tag/kml/" target="_blank" rel="nofollow">More Google Earth posts</a></span></span>_
+      * <a href="/publishing-your-drawing-or-map-in-google-earth-one-click/" target="_blank" rel="nofollow"><span><em><span>Publishing your drawing or map in Google Earth</span></em></span></a>
+      * _<span><span><a href="/tag/kml/" target="_blank" rel="nofollow">More Google Earth posts</a></span></span>_
 
 ## 
 

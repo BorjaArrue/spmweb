@@ -14,7 +14,7 @@ tags:
 ---
 A new release of Spatial Manager Desktop™ (1.0.4) including OpenStreetMap background maps was launched on October 3. Try it or update your application<!--more-->
 
-See <a title="Spatial Manager™ - Spatial Manager Desktop™" href="http://www.spatialmanager.com/spm-desktop/" target="_blank" rel="nofollow"><span>Spatial Manager Desktop™ product page</span></a> to know more about the application, and check all news for this and previous releases in our Wiki <a title="Spatial Manager Desktop™ Wiki Changelog" href="http://wiki.spatialmanager.com/index.php?title=Spatial_Manager_Desktop%E2%84%A2_Changelog" target="_blank" rel="nofollow"><span>Spatial Manager Desktop™ Changelog</span></a>
+See <a title="Spatial Manager™ - Spatial Manager Desktop™" href="/spm-desktop/" target="_blank" rel="nofollow"><span>Spatial Manager Desktop™ product page</span></a> to know more about the application, and check all news for this and previous releases in our Wiki <a title="Spatial Manager Desktop™ Wiki Changelog" href="http://wiki.spatialmanager.com/index.php?title=Spatial_Manager_Desktop%E2%84%A2_Changelog" target="_blank" rel="nofollow"><span>Spatial Manager Desktop™ Changelog</span></a>
 
 ## Some important new features
 

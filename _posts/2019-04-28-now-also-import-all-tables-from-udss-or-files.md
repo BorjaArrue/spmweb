@@ -46,7 +46,7 @@ tags:
 </p>
 
 <p>
-  As you can see in <span><em><a href="http://www.spatialmanager.com/?s=import-all" target="_blank" rel="nofollow">some previous Blog entries</a></em></span>, you could so far easily do it for simple data files (Shapefiles, GML, Raster, etc.) that were stored inside a folder. Starting <strong>from the version 5.2</strong>, you can run the same right-click task over all tables included in a database schema (or multischema file, such as SDF), and also inside a complex file (SQLite, GPX, etc.)
+  As you can see in <span><em><a href="/?s=import-all" target="_blank" rel="nofollow">some previous Blog entries</a></em></span>, you could so far easily do it for simple data files (Shapefiles, GML, Raster, etc.) that were stored inside a folder. Starting <strong>from the version 5.2</strong>, you can run the same right-click task over all tables included in a database schema (or multischema file, such as SDF), and also inside a complex file (SQLite, GPX, etc.)
 </p>
 
 <h2>

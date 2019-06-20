@@ -34,7 +34,7 @@ tags:
 </p>
 
 <p>
-  This tool, very immediate and intuitive, will let you select objects, a Layer or the whole drawing/map and define a few more options to generate a <strong>&#8220;cloned&#8221; file that can be opened directly in Google Earth</strong> at the end of the process. All point type, linear, polygonal or even raster (<span><em><a href="http://www.spatialmanager.com/exporting-images-to-google-earth-too/" target="_blank" rel="nofollow">only CAD versions</a></em></span>) type objects included in the selection set will be <strong>converted to their equivalents in the KML file</strong>
+  This tool, very immediate and intuitive, will let you select objects, a Layer or the whole drawing/map and define a few more options to generate a <strong>&#8220;cloned&#8221; file that can be opened directly in Google Earth</strong> at the end of the process. All point type, linear, polygonal or even raster (<span><em><a href="/exporting-images-to-google-earth-too/" target="_blank" rel="nofollow">only CAD versions</a></em></span>) type objects included in the selection set will be <strong>converted to their equivalents in the KML file</strong>
 </p>
 
 <p>

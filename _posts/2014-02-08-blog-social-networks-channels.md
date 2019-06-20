@@ -22,4 +22,4 @@ This blog is linked to Facebook, Twitter and YouTube, to **keep you informed** a
   
 **<a title="YouTube" href="http://www.youtube.com/user/SpatialManager" target="_blank" rel="nofollow">Link to Youtube Channel</a>**
   
-**<a title="RSS feed" href="http://www.spatialmanager.com/blog/feed/" target="_blank" rel="nofollow">RSS feed</a>**
+**<a title="RSS feed" href="/blog/feed/" target="_blank" rel="nofollow">RSS feed</a>**

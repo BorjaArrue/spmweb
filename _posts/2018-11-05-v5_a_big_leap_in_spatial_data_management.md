@@ -61,7 +61,7 @@ tags:
         <em>Video: <a href="https://youtu.be/-hyHMrdFOww?rel=0" target="_blank" rel="nofollow"><span>AutoCAD</span></a> * <a href="https://youtu.be/hAbfKiopJwc?rel=0" target="_blank" rel="nofollow"><span>BricsCAD</span></a> * <a href="https://youtu.be/kO5qs3H9FAk?rel=0" target="_blank" rel="nofollow"><span>ZWCAD</span></a></em>
       </li>
       <li>
-        <em>Related</em> <a href="http://www.spatialmanager.com/the-new-data-grid/" target="_blank" rel="nofollow"><span><em>Blog post</em></span></a>
+        <em>Related</em> <a href="/the-new-data-grid/" target="_blank" rel="nofollow"><span><em>Blog post</em></span></a>
       </li>
       <li>
         <em>Learn more: <a href="http://wiki.spatialmanager.com/index.php/Spatial_Manager%E2%84%A2_for_AutoCAD_-_FAQs:_Data_Structure_Management_(%22Standard%22_and_%22Professional%22_editions_only)#Can_I_view_and_edit_the_objects_data_in_a_table_form.3F_.28.22Professional.22_edition_only.29" target="_blank" rel="nofollow"><span>AutoCAD</span></a> * <a href="http://wiki.spatialmanager.com/index.php/Spatial_Manager%E2%84%A2_for_BricsCAD_-_FAQs:_Data_Structure_Management_(%22Standard%22_and_%22Professional%22_editions_only)#Can_I_view_and_edit_the_entities_data_in_a_table_form.3F_.28.22Professional.22_edition_only.29" target="_blank" rel="nofollow"><span>BricsCAD</span></a> * <a href="http://wiki.spatialmanager.com/index.php/Spatial_Manager%E2%84%A2_for_ZWCAD_-_FAQs:_Data_Structure_Management_(%22Standard%22_and_%22Professional%22_editions_only)#Can_I_view_and_edit_the_entities_data_in_a_table_form.3F_.28.22Professional.22_edition_only.29" target="_blank" rel="nofollow"><span>ZWCAD</span></a></em>
@@ -78,7 +78,7 @@ tags:
         <em>Video: <a href="https://youtu.be/sniPHKBVmtw?rel=0" target="_blank" rel="nofollow"><span>AutoCAD</span></a> * <a href="https://youtu.be/E-2wUC99IRE?rel=0" target="_blank" rel="nofollow"><span>BricsCAD</span></a> * <a href="https://youtu.be/8UMcv7K3pXk?rel=0" target="_blank" rel="nofollow"><span>ZWCAD</span></a></em>
       </li>
       <li>
-        <em>Related</em> <a href="http://www.spatialmanager.com/scan-and-recovery-of-data-tables-from-drawing-objects/" target="_blank" rel="nofollow"><span><em>Blog post</em></span></a>
+        <em>Related</em> <a href="/scan-and-recovery-of-data-tables-from-drawing-objects/" target="_blank" rel="nofollow"><span><em>Blog post</em></span></a>
       </li>
       <li>
         <em>Learn more: <a href="http://wiki.spatialmanager.com/index.php/Spatial_Manager%E2%84%A2_for_AutoCAD_-_FAQs:_Data_Structure_Management_(%22Standard%22_and_%22Professional%22_editions_only)#How_can_I_define_data_tables_in_a_drawing.3F" target="_blank" rel="nofollow"><span>AutoCAD</span></a> * <a href="http://wiki.spatialmanager.com/index.php/Spatial_Manager%E2%84%A2_for_BricsCAD_-_FAQs:_Data_Structure_Management_(%22Standard%22_and_%22Professional%22_editions_only)#How_can_I_define_data_tables_in_a_drawing.3F" target="_blank" rel="nofollow"><span>BricsCAD</span></a> * <a href="http://wiki.spatialmanager.com/index.php/Spatial_Manager%E2%84%A2_for_ZWCAD_-_FAQs:_Data_Structure_Management_(%22Standard%22_and_%22Professional%22_editions_only)#How_can_I_define_data_tables_in_a_drawing.3F" target="_blank" rel="nofollow"><span>ZWCAD</span></a></em>
@@ -92,7 +92,7 @@ tags:
         <em>Video: <a href="https://youtu.be/FN7yJtHDiBo?rel=0" target="_blank" rel="nofollow"><span>AutoCAD</span></a> * <a href="https://youtu.be/TTtlug9Ckec?rel=0" target="_blank" rel="nofollow"><span>BricsCAD</span></a> * <a href="https://youtu.be/liruRM98B7E?rel=0" target="_blank" rel="nofollow"><span>ZWCAD</span></a> * <a href="https://youtu.be/cuMbNyf8J80?rel=0" target="_blank" rel="nofollow"><span>Desktop</span></a></em>
       </li>
       <li>
-        <em>Related</em> <a href="http://www.spatialmanager.com/retrieve-existing-data-values-when-querying/" target="_blank" rel="nofollow"><span><em>Blog post</em></span></a>
+        <em>Related</em> <a href="/retrieve-existing-data-values-when-querying/" target="_blank" rel="nofollow"><span><em>Blog post</em></span></a>
       </li>
       <li>
         <em>Learn more: <a href="http://wiki.spatialmanager.com/index.php/Spatial_Manager%E2%84%A2_for_AutoCAD_-_FAQs:_Data_Structure_Management_(%22Standard%22_and_%22Professional%22_editions_only)#Can_I_define_a_selection_of_objects_based_on_the_values_of_their_data.3F" target="_blank" rel="nofollow"><span>AutoCAD</span></a> * <a href="http://wiki.spatialmanager.com/index.php/Spatial_Manager%E2%84%A2_for_BricsCAD_-_FAQs:_Data_Structure_Management_(%22Standard%22_and_%22Professional%22_editions_only)#Can_I_define_a_selection_of_entities_based_on_the_values_of_their_data.3F" target="_blank" rel="nofollow"><span>BricsCAD</span></a> * <a href="http://wiki.spatialmanager.com/index.php/Spatial_Manager%E2%84%A2_for_ZWCAD_-_FAQs:_Data_Structure_Management_(%22Standard%22_and_%22Professional%22_editions_only)#Can_I_define_a_selection_of_entities_based_on_the_values_of_their_data.3F" target="_blank" rel="nofollow"><span>ZWCAD</span></a> * <a href="http://wiki.spatialmanager.com/index.php/Spatial_Manager_Desktop%E2%84%A2_-_FAQs:_Selecting_and_filtering#How_can_I_select_Features_of_a_Map.3F" target="_blank" rel="nofollow"><span>Desktop</span></a></em>
@@ -112,7 +112,7 @@ tags:
         <em>Video: <a href="https://youtu.be/FDus44SOObk?rel=0" target="_blank" rel="nofollow"><span>AutoCAD</span></a> * <a href="https://youtu.be/UUJxuF3Y3Ss?rel=0" target="_blank" rel="nofollow"><span>BricsCAD</span></a> * <a href="https://youtu.be/zPPnopXKnfU?rel=0" target="_blank" rel="nofollow"><span>ZWCAD</span></a> * <a href="https://youtu.be/kyY95OlOBz8?rel=0" target="_blank" rel="nofollow"><span>Desktop</span></a></em>
       </li>
       <li>
-        <em>Related</em> <a href="http://www.spatialmanager.com/exporting-importing-user-background-map-defintions/" target="_blank" rel="nofollow"><span><em>Blog post</em></span></a>
+        <em>Related</em> <a href="/exporting-importing-user-background-map-defintions/" target="_blank" rel="nofollow"><span><em>Blog post</em></span></a>
       </li>
       <li>
         <em>Learn more: <a href="http://wiki.spatialmanager.com/index.php/Spatial_Manager%E2%84%A2_for_AutoCAD_-_FAQs:_Background_Maps_(%22Standard%22_and_%22Professional%22_editions_only)#Can_I_configure_my_own_Web_Map_Services.3F" target="_blank" rel="nofollow"><span>AutoCAD</span></a> * <a href="http://wiki.spatialmanager.com/index.php/Spatial_Manager%E2%84%A2_for_BricsCAD_-_FAQs:_Background_Maps_(%22Standard%22_and_%22Professional%22_editions_only)#Can_I_configure_my_own_Web_Map_Services.3F" target="_blank" rel="nofollow"><span>BricsCAD</span></a> * <a href="http://wiki.spatialmanager.com/index.php/Spatial_Manager%E2%84%A2_for_ZWCAD_-_FAQs:_Background_Maps_(%22Standard%22_and_%22Professional%22_editions_only)#Can_I_configure_my_own_Web_Map_Services.3F" target="_blank" rel="nofollow"><span>ZWCAD</span></a> * <a href="http://wiki.spatialmanager.com/index.php/Spatial_Manager_Desktop%E2%84%A2_-_FAQs:_Background_Maps#Can_I_configure_my_own_Web_Map_Services.3F" target="_blank" rel="nofollow"><span>Desktop</span></a></em>
@@ -176,17 +176,17 @@ tags:
       * <a href="http://wiki.spatialmanager.com/index.php/Spatial_Manager%E2%84%A2_for_ZWCAD_Changelog" target="_blank" rel="nofollow"><span><em>Spatial Manager for ZWCAD</em></span></a>
       * <a href="http://wiki.spatialmanager.com/index.php/Spatial_Manager_Desktop%E2%84%A2_Changelog" target="_blank" rel="nofollow"><span><em>Spatial Manager Desktop</em></span></a>
   * Product pages 
-      * <a href="http://www.spatialmanager.com/spm-forautocad/" target="_blank" rel="nofollow"><span><em>Spatial Manager for AutoCAD</em></span></a>
-      * <a href="http://www.spatialmanager.com/spm-forbricscad/" target="_blank" rel="nofollow"><span><em>Spatial Manager for BricsCAD</em></span></a>
-      * <a href="http://www.spatialmanager.com/spm-forzwcad/" target="_blank" rel="nofollow"><span><em>Spatial Manager for ZWCAD</em></span></a>
-      * <a href="http://www.spatialmanager.com/spm-desktop/" target="_blank" rel="nofollow"><span><em>Spatial Manager Desktop</em></span></a>
+      * <a href="/spm-forautocad/" target="_blank" rel="nofollow"><span><em>Spatial Manager for AutoCAD</em></span></a>
+      * <a href="/spm-forbricscad/" target="_blank" rel="nofollow"><span><em>Spatial Manager for BricsCAD</em></span></a>
+      * <a href="/spm-forzwcad/" target="_blank" rel="nofollow"><span><em>Spatial Manager for ZWCAD</em></span></a>
+      * <a href="/spm-desktop/" target="_blank" rel="nofollow"><span><em>Spatial Manager Desktop</em></span></a>
   * Product Downloads 
-      * <a href="http://www.spatialmanager.com/downloads/" target="_blank" rel="nofollow"><span><em>http://www.spatialmanager.com/downloads/</em></span></a>
+      * <a href="/downloads/" target="_blank" rel="nofollow"><span><em>/downloads/</em></span></a>
   * Editions and prices 
-      * <a href="http://www.spatialmanager.com/spm-forautocad-prices/" target="_blank" rel="nofollow"><span><em>Spatial Manager for AutoCAD</em></span></a>
-      * <a href="http://www.spatialmanager.com/spm-forbricscad-prices/" target="_blank" rel="nofollow"><span><em>Spatial Manager for BricsCAD</em></span></a>
-      * <a href="http://www.spatialmanager.com/spm-forzwcad-prices/" target="_blank" rel="nofollow"><span><em>Spatial Manager for ZWCAD</em></span></a>
-      * <a href="http://www.spatialmanager.com/spm-desktop-prices/" target="_blank" rel="nofollow"><span><em>Spatial Manager Desktop</em></span></a>
+      * <a href="/spm-forautocad-prices/" target="_blank" rel="nofollow"><span><em>Spatial Manager for AutoCAD</em></span></a>
+      * <a href="/spm-forbricscad-prices/" target="_blank" rel="nofollow"><span><em>Spatial Manager for BricsCAD</em></span></a>
+      * <a href="/spm-forzwcad-prices/" target="_blank" rel="nofollow"><span><em>Spatial Manager for ZWCAD</em></span></a>
+      * <a href="/spm-desktop-prices/" target="_blank" rel="nofollow"><span><em>Spatial Manager Desktop</em></span></a>
   * User Guides, Help and Technical docs 
       * <a href="http://wiki.spatialmanager.com/index.php/Spatial_Manager%E2%84%A2_for_AutoCAD" target="_blank" rel="nofollow"><span><em>Spatial Manager for AutoCAD</em></span></a>
       * <a href="http://wiki.spatialmanager.com/index.php/Spatial_Manager%E2%84%A2_for_BricsCAD" target="_blank" rel="nofollow"><span><em>Spatial Manager for BricsCAD</em></span></a>

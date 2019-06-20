@@ -64,7 +64,7 @@ tags:
 </p>
 
 <p>
-  You can also <strong>take advantage of the advanced Field options</strong> of the OpenStreetMap data provider. Please read this <a href="http://www.spatialmanager.com/little-known-options-when-importing-from-openstreetmap/" target="_blank" rel="nofollow"><em>Blog post</em></a> to find out how
+  You can also <strong>take advantage of the advanced Field options</strong> of the OpenStreetMap data provider. Please read this <a href="/little-known-options-when-importing-from-openstreetmap/" target="_blank" rel="nofollow"><em>Blog post</em></a> to find out how
 </p>
 
 <p>

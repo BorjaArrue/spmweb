@@ -13,7 +13,7 @@ tags:
 ---
 A new release of Spatial Manager Desktop™ (0.9.9 beta) and a new release of Spatial Manager™ for AutoCAD (0.9.8 beta) were launched on March 27. Try them or update your applications<!--more-->
 
-<a title="Spatial Manager™ - Spatial Manager Desktop™" href="http://www.spatialmanager.com/spm-desktop/" target="_blank" rel="nofollow">Spatial Manager Desktop™ product page</a> or <a title="Spatial Manager™ - Spatial Manager™ for AutoCAD" href="http://www.spatialmanager.com/spm-forautocad/" target="_blank" rel="nofollow">Spatial Manager™ for AutoCAD product page</a>
+<a title="Spatial Manager™ - Spatial Manager Desktop™" href="/spm-desktop/" target="_blank" rel="nofollow">Spatial Manager Desktop™ product page</a> or <a title="Spatial Manager™ - Spatial Manager™ for AutoCAD" href="/spm-forautocad/" target="_blank" rel="nofollow">Spatial Manager™ for AutoCAD product page</a>
 
 Check all news for these and previous releases in our Wiki: <a title="Spatial Manager Desktop™ Wiki Changelog" href="http://wiki.spatialmanager.com/index.php?title=Spatial_Manager_Desktop%E2%84%A2_Changelog" target="_blank" rel="nofollow">Spatial Manager Desktop™ Changelog</a> or <a title="Spatial Manager™ for AutoCAD Wiki Changelog" href="http://wiki.spatialmanager.com/index.php/Spatial_Manager%E2%84%A2_for_AutoCAD_Changelog" target="_blank" rel="nofollow">Spatial Manager™ for AutoCAD Changelog</a>
 

@@ -54,7 +54,7 @@ tags:
 </h2>
 
 <p>
-  And, as you can see in the above videos, LiDAR is also supported by the <span><em><a href="http://www.spatialmanager.com/import-all-function-enhancements/" target="_blank" rel="nofollow">&#8216;Import-All&#8217;</a></em></span> functionality, which allows the <strong>bath import of LiDAR grids</strong> even together with other spatial data sources (Raster images, Shapefiles, etc.). In this case, the cloud density is set to 200,000 points for each imported file
+  And, as you can see in the above videos, LiDAR is also supported by the <span><em><a href="/import-all-function-enhancements/" target="_blank" rel="nofollow">&#8216;Import-All&#8217;</a></em></span> functionality, which allows the <strong>bath import of LiDAR grids</strong> even together with other spatial data sources (Raster images, Shapefiles, etc.). In this case, the cloud density is set to 200,000 points for each imported file
 </p>
 
 <h2>
@@ -102,5 +102,5 @@ tags:
 </h2>
 
 <p>
-  Take a look at all the <span><em><a href="http://www.spatialmanager.com/new-spatial-manager-4-2-released" target="_blank" rel="nofollow"><span>news and improvements in &#8216;Spatial Manager 4.2&#8217;</span></a></em></span>
+  Take a look at all the <span><em><a href="/new-spatial-manager-4-2-released" target="_blank" rel="nofollow"><span>news and improvements in &#8216;Spatial Manager 4.2&#8217;</span></a></em></span>
 </p>

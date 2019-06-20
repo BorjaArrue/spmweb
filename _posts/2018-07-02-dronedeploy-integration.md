@@ -99,7 +99,7 @@ tags:
 
 ## 
 
-Finally, just remind you that you can show the Dynamic Background Map either in front (<a href="http://www.spatialmanager.com/bring-background-maps-to-front/" target="_blank" rel="nofollow"><span><em>&#8220;Bring map to front&#8221;</em></span></a> option) or behind the objects in your drawing or map
+Finally, just remind you that you can show the Dynamic Background Map either in front (<a href="/bring-background-maps-to-front/" target="_blank" rel="nofollow"><span><em>&#8220;Bring map to front&#8221;</em></span></a> option) or behind the objects in your drawing or map
 
 ## 
 
@@ -145,5 +145,5 @@ Finally, just remind you that you can show the Dynamic Background Map either in 
 </h2>
 
 <p>
-  Take a look at all the <span><em><a href="http://www.spatialmanager.com/summer-release-spatial-manager-4-2-1/" target="_blank" rel="nofollow"><span>news and improvements in &#8216;Spatial Manager 4.2.1&#8217;</span></a></em></span>
+  Take a look at all the <span><em><a href="/summer-release-spatial-manager-4-2-1/" target="_blank" rel="nofollow"><span>news and improvements in &#8216;Spatial Manager 4.2.1&#8217;</span></a></em></span>
 </p>

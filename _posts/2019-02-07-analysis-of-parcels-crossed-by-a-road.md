@@ -53,7 +53,7 @@ tags:
 ## 
 
 <p>
-  If you are a &#8216;Spatial Manager Desktop&#8217; user, you will also find included tools for the geospatial analysis of the elements of a map. Take a look at this other <span><em><a href="http://www.spatialmanager.com/spatial-queries-using-shp-files/" target="_blank" rel="nofollow">Blog entry</a></em></span>
+  If you are a &#8216;Spatial Manager Desktop&#8217; user, you will also find included tools for the geospatial analysis of the elements of a map. Take a look at this other <span><em><a href="/spatial-queries-using-shp-files/" target="_blank" rel="nofollow">Blog entry</a></em></span>
 </p>
 
 <p>

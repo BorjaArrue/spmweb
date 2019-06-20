@@ -78,20 +78,20 @@ Please, watch this preview video to learn more about &#8220;Tasks&#8221;:
 ### To learn more about the products you can access the product pages:
 
 <p>
-  <a title="Spatial Manager™ - Spatial Manager Desktop™" href="http://www.spatialmanager.com/spm-desktop/" target="_blank" rel="nofollow"><span>Spatial Manager Desktop™ product page</span></a><br /> <a title="Spatial Manager™ - Spatial Manager™ for AutoCAD" href="http://www.spatialmanager.com/spm-forautocad/" target="_blank" rel="nofollow"><span>Spatial Manager™ for AutoCAD product page</span></a><br /> <a title="Spatial Manager™ - Spatial Manager™ for BricsCAD" href="http://www.spatialmanager.com/spm-forbricscad/" target="_blank" rel="nofollow"><span>Spatial Manager™ for BricsCAD product page</span></a>
+  <a title="Spatial Manager™ - Spatial Manager Desktop™" href="/spm-desktop/" target="_blank" rel="nofollow"><span>Spatial Manager Desktop™ product page</span></a><br /> <a title="Spatial Manager™ - Spatial Manager™ for AutoCAD" href="/spm-forautocad/" target="_blank" rel="nofollow"><span>Spatial Manager™ for AutoCAD product page</span></a><br /> <a title="Spatial Manager™ - Spatial Manager™ for BricsCAD" href="/spm-forbricscad/" target="_blank" rel="nofollow"><span>Spatial Manager™ for BricsCAD product page</span></a>
 </p>
 
 ### And some interesting related links:
 
-**· Download last trial or commercial versions:** <a title="Spatial Manager Desktop Download" href="http://www.spatialmanager.com/download/spatial-manager-desktop/" target="_blank" rel="nofollow"><span>Desktop</span></a> / <a title="Spatial Manager for AutoCAD Download" href="http://www.spatialmanager.com/download/spatial-manager-autocad/" target="_blank" rel="nofollow">AutoCAD</a> / <a title="Spatial Manager for BricsCAD Download" href="http://www.spatialmanager.com/download/spatial-manager-bricscad/" target="_blank" rel="nofollow">BricsCAD</a>
+**· Download last trial or commercial versions:** <a title="Spatial Manager Desktop Download" href="/download/spatial-manager-desktop/" target="_blank" rel="nofollow"><span>Desktop</span></a> / <a title="Spatial Manager for AutoCAD Download" href="/download/spatial-manager-autocad/" target="_blank" rel="nofollow">AutoCAD</a> / <a title="Spatial Manager for BricsCAD Download" href="/download/spatial-manager-bricscad/" target="_blank" rel="nofollow">BricsCAD</a>
   
-**· Prices and editions:** <a title="Spatial Manager Desktop prices page" href="http://www.spatialmanager.com/spm-desktop-prices/" target="_blank" rel="nofollow"><span>Desktop</span></a> / <a title="Spatial Manager for AutoCAD prices page" href="http://www.spatialmanager.com/spm-forautocad-prices/" target="_blank" rel="nofollow">AutoCAD</a> / <a title="Spatial Manager for BricsCAD prices page" href="http://www.spatialmanager.com/spm-forbricscad-prices/" target="_blank" rel="nofollow">BricsCAD</a>
+**· Prices and editions:** <a title="Spatial Manager Desktop prices page" href="/spm-desktop-prices/" target="_blank" rel="nofollow"><span>Desktop</span></a> / <a title="Spatial Manager for AutoCAD prices page" href="/spm-forautocad-prices/" target="_blank" rel="nofollow">AutoCAD</a> / <a title="Spatial Manager for BricsCAD prices page" href="/spm-forbricscad-prices/" target="_blank" rel="nofollow">BricsCAD</a>
   
 **· Technical Wiki:** <a title="Spatial Manager Desktop Wiki Introduction" href="http://wiki.spatialmanager.com/index.php/Spatial_Manager_Desktop%E2%84%A2" target="_blank" rel="nofollow"><span>Desktop</span></a> / <a title="Spatial Manager for AutoCAD Wiki Introduction" href="http://wiki.spatialmanager.com/index.php/Spatial_Manager%E2%84%A2_for_AutoCAD" target="_blank" rel="nofollow">AutoCAD</a> / <a title="Spatial Manager for BricsCAD Wiki Introduction" href="http://wiki.spatialmanager.com/index.php/Spatial_Manager%E2%84%A2_for_BricsCAD" target="_blank" rel="nofollow">BricsCAD</a>
   
 **· Contact Information**
   
-** Web: <a title="Spatial Manager Web" href="http://www.spatialmanager.com/" target="_blank" rel="nofollow">http://www.spatialmanager.com/<br /> </a>** LinkedIn: <a title="Spatial Manager on LinkedIn" href="https://www.linkedin.com/company/5386123" target="_blank" rel="nofollow">https://www.linkedin.com/company/5386123</a>
+** Web: <a title="Spatial Manager Web" href="/" target="_blank" rel="nofollow">/<br /> </a>** LinkedIn: <a title="Spatial Manager on LinkedIn" href="https://www.linkedin.com/company/5386123" target="_blank" rel="nofollow">https://www.linkedin.com/company/5386123</a>
   
 ** Twitter: <a title="Spatial Manager on Twitter" href="http://twitter.com/SpatialManager" target="_blank" rel="nofollow">http://twitter.com/SpatialManager</a>
   

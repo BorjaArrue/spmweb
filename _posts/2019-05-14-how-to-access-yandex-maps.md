@@ -38,7 +38,7 @@ tags:
 </p>
 
 <p>
-  As mentioned above, this map server uses the <span><em><a href="https://en.wikipedia.org/wiki/Tile_Map_Service" target="_blank" rel="nofollow">XYZ/TMS</a></em></span> specifications and protocols similar for example to Google Maps servers <a href="http://www.spatialmanager.com/tag/google-maps/" target="_blank" rel="nofollow"><span><em>widely discussed in this Blog</em></span></a>, although some differential nuances must be noted:
+  As mentioned above, this map server uses the <span><em><a href="https://en.wikipedia.org/wiki/Tile_Map_Service" target="_blank" rel="nofollow">XYZ/TMS</a></em></span> specifications and protocols similar for example to Google Maps servers <a href="/tag/google-maps/" target="_blank" rel="nofollow"><span><em>widely discussed in this Blog</em></span></a>, although some differential nuances must be noted:
 </p>
 
 <li>
@@ -64,14 +64,14 @@ _http://<span><strong>vec{01,02,03,04}</strong></span>.maps.yandex.net/tiles?**<
 
 _http://<span><strong>sat{01,02,03,04}</strong></span>.maps.yandex.net/tiles?**<span>l=sat</span>**<span>&</span>&v=2.26.0&x={x}&y={y}&z={level}_
 
-<u>Only Roads</u> (that you can <span><em><a href="http://www.spatialmanager.com/bring-background-maps-to-front/" target="_blank" rel="nofollow">Bring to front</a></em></span> above of your drawing/maps objects):
+<u>Only Roads</u> (that you can <span><em><a href="/bring-background-maps-to-front/" target="_blank" rel="nofollow">Bring to front</a></em></span> above of your drawing/maps objects):
 
 _http://<span><strong>vec{01,02,03,04}</strong></span>.maps.yandex.net/tiles?**<span>l=skl</span>**<span>&</span>v=2.26.0&x={x}&y={y}&z={level}_
 
 Parameters detail:
 
   * **&#8220;http://vec&#8221;** or **&#8220;http://sat&#8221;**: The map servers (read above)
-  * **&#8220;{01,02,03,04}&#8221;**: Sub-domains available on these servers (learn more on <span><em><a href="http://www.spatialmanager.com/map_servers_sub-domains/" target="_blank" rel="nofollow">this Blog post</a></em></span>)
+  * **&#8220;{01,02,03,04}&#8221;**: Sub-domains available on these servers (learn more on <span><em><a href="/map_servers_sub-domains/" target="_blank" rel="nofollow">this Blog post</a></em></span>)
   * &#8220;**l=**&#8220;: Map layer
   * **&#8220;lang=&#8221;** (optional): Language for the map Toponyms, according to the specifications of the <span><em><a href="https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes" target="_blank" rel="nofollow">standard two-characters ISO</a></em></span>
 

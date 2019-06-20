@@ -27,11 +27,11 @@ _Note: the prices and products shown in this image MAY CHANGE and they are displ
 
 **The following links may be useful for you:**
 
-· To find out more about the **products and their Editions**: go to the new &#8220;Product&#8221; pages for <a title="Spatial Manager Desktop™ page" href="http://www.spatialmanager.com/spm-desktop/" target="_blank" rel="nofollow">Spatial Manager Desktop™</a> or <a title="Spatial Manager™ for AutoCAD page" href="http://www.spatialmanager.com/spm-forautocad/" target="_blank" rel="nofollow">Spatial Manager™ for AutoCAD</a>
+· To find out more about the **products and their Editions**: go to the new &#8220;Product&#8221; pages for <a title="Spatial Manager Desktop™ page" href="/spm-desktop/" target="_blank" rel="nofollow">Spatial Manager Desktop™</a> or <a title="Spatial Manager™ for AutoCAD page" href="/spm-forautocad/" target="_blank" rel="nofollow">Spatial Manager™ for AutoCAD</a>
 
-· To **download any application** product: go to the refurbished <a title="Download page" href="http://www.spatialmanager.com/downloads/" target="_blank" rel="nofollow">&#8220;Download&#8221;</a> page (any downloaded free trial version becomes a commercial version when you apply a valid license to it)
+· To **download any application** product: go to the refurbished <a title="Download page" href="/downloads/" target="_blank" rel="nofollow">&#8220;Download&#8221;</a> page (any downloaded free trial version becomes a commercial version when you apply a valid license to it)
 
-· To **purchase licenses** of any product Edition (application or support): go to the new <a title="Prices page" href="http://www.spatialmanager.com/prices/" target="_blank" rel="nofollow">&#8220;Prices&#8221;</a> page
+· To **purchase licenses** of any product Edition (application or support): go to the new <a title="Prices page" href="/prices/" target="_blank" rel="nofollow">&#8220;Prices&#8221;</a> page
 
 · To find out more about the free trial versions, licensing or extending the applications support: go to the new **&#8220;Licenses&#8221; wiki pages** for <a title="Spatial Manager Desktop™ - FAQs: Licenses" href="http://wiki.spatialmanager.com/index.php/Spatial_Manager_Desktop%E2%84%A2_-_FAQs:_Licenses" target="_blank" rel="nofollow">Spatial Manager Desktop™</a> or <a title="Spatial Manager™ for AutoCAD - FAQs: Licenses" href="http://wiki.spatialmanager.com/index.php/Spatial_Manager%E2%84%A2_for_AutoCAD_-_FAQs:_Licenses" target="_blank" rel="nofollow">Spatial Manager™ for AutoCAD</a> __
 

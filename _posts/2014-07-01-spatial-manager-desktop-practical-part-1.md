@@ -22,7 +22,7 @@ Spatial Manager™ software is not designed to compete with most of the existin
 
 Despite the powerful tools included in traditional GIS applications (<a title="ESRI ArcGIS page" href="http://www.esri.com/software/arcgis" target="_blank" rel="nofollow">ArcGIS</a> and others), professionals using spatial data on their projects, maps or any task related to the territory, constantly **need to check, extract, simplify or transfer** their spatial data to other users
 
-If you still do not use <a title="Spatial Manager web" href="http://www.spatialmanager.com" target="_blank" rel="nofollow">Spatial Manager™</a>, discover a top quality and easy to use software. See how many processes which are necessary in the daily management of your spatial information, can be carried out by the functionality included in the application in a flexible and practical way:
+If you still do not use <a title="Spatial Manager web" href="/">Spatial Manager™</a>, discover a top quality and easy to use software. See how many processes which are necessary in the daily management of your spatial information, can be carried out by the functionality included in the application in a flexible and practical way:
 
 _<span>Scenario #1</span>: We need to quickly check which the appropriate file is, between three <a title="Shapefiles (SHP) wiki" href="http://es.wikipedia.org/wiki/Shapefile" target="_blank" rel="nofollow">Shapefiles (SHP)</a> files that include the same data but whose spatial geometric information is different_
 

@@ -24,7 +24,7 @@ Although the &#8216;Spatial Manager&#8217; applications include many Background 
   <strong>Videos: <span><span><a href="https://youtu.be/Cu4V6ln8YvY?rel=0" target="_blank" rel="nofollow">AutoCAD</a> </span>/ <span><a href="https://youtu.be/R1nMbAFqcUs?rel=0" target="_blank" rel="nofollow">BricsCAD</a></span></span></strong>
 </h2>
 
-<a href="http://www.spatialmanager.com/spm-forautocad/" target="_blank" rel="nofollow">&#8216;Spatial Manager for AutoCAD&#8217;</a> and <a href="http://www.spatialmanager.com/spm-forbricscad/" target="_blank" rel="nofollow">&#8216;Spatial Manager for BricsCAD&#8217;</a> allow you to set up any **&#8220;User map**&#8221; in a simple and fast way
+<a href="/spm-forautocad/" target="_blank" rel="nofollow">&#8216;Spatial Manager for AutoCAD&#8217;</a> and <a href="/spm-forbricscad/" target="_blank" rel="nofollow">&#8216;Spatial Manager for BricsCAD&#8217;</a> allow you to set up any **&#8220;User map**&#8221; in a simple and fast way
 
 You only need to know the **appropriate URL** to access the raster &#8220;Tiles&#8221; through any available <a href="https://en.wikipedia.org/wiki/Web_Map_Tile_Service" target="_blank" rel="nofollow">Web Map Tile Service (WMTS)</a>. This URL must include the following **dynamic parameters**:
 

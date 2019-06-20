@@ -33,7 +33,7 @@ tags:
 </p>
 
 <p>
-  The <a href="http://www.spatialmanager.com/v3-powerful-and-easy-to-use-background-maps/" target="_blank" rel="nofollow">dynamic &#8216;Background Maps&#8217;</a> lets you choose from among many models from many map providers such as <strong>OpenStreetMap, Bing, MapBox, ESRI, and others</strong> (the user can even configure new Maps sources). Now, this added functionality will allow you to get <strong>static &#8220;snapshots&#8221;</strong> as AutoCAD or BricsCAD Raster Images, well known to any user of these CAD programs
+  The <a href="/v3-powerful-and-easy-to-use-background-maps/" target="_blank" rel="nofollow">dynamic &#8216;Background Maps&#8217;</a> lets you choose from among many models from many map providers such as <strong>OpenStreetMap, Bing, MapBox, ESRI, and others</strong> (the user can even configure new Maps sources). Now, this added functionality will allow you to get <strong>static &#8220;snapshots&#8221;</strong> as AutoCAD or BricsCAD Raster Images, well known to any user of these CAD programs
 </p>
 
 <p>
