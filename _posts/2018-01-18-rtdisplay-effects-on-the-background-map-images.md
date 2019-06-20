@@ -79,17 +79,14 @@ tags:
   </p>
 </div>
 
-## 
-
+<h2></h2>
 _Additional useful notes for ZWCAD users (from the <a href="http://wiki.spatialmanager.com/index.php/Spatial_Manager™_for_ZWCAD" target="_blank" rel="nofollow">Technical Wiki</a>):_
 
-## 
-
+<h2></h2>
   * _Due to the particular behavior when Zooming in or out by using the mouse wheel in ZWCAD, if you cannot enlarge or reduce the view scale from a certain Zoom level (you will see a warning like this in the status line: &#8220;Can´t be further zoomed in/out&#8221;), please execute &#8220;REGEN&#8221; and you will be able to continue Zooming in or out on the Map_
   * _This warning is not about Background Maps but about Polygon fills: Remember to deactivate the option &#8220;Not display hatch while zooming&#8221; in ZWCAD Options\Display if you want to display the polygon fills while zooming or panning  (see the &#8220;yellowed&#8221; option in the image above)_
 
-## 
-
+<h2></h2>
 * * *
 
 <p>
@@ -101,12 +98,10 @@ _Additional useful notes for ZWCAD users (from the <a href="http://wiki.spatial
 
 <span><em><a href="/tag/background-maps/" target="_blank" rel="nofollow">· Blog posts</a></em></span>
 
-## 
-
+<h2></h2>
 Technical Wikis:
 
-## 
-
+<h2></h2>
 <p>
   <em><a href="http://wiki.spatialmanager.com/index.php/Spatial_Manager%E2%84%A2_for_AutoCAD_-_FAQs:_Background_Maps_(%22Standard%22_and_%22Professional%22_editions_only)" target="_blank" rel="nofollow">· Spatial Manager for AutoCAD</a></em><br /> <a href="http://wiki.spatialmanager.com/index.php/Spatial_Manager%E2%84%A2_for_BricsCAD_-_FAQs:_Background_Maps_(%22Standard%22_and_%22Professional%22_editions_only)" target="_blank" rel="nofollow"><em>· Spatial Manager for BricsCAD<br /> </em></a><em><a href="http://wiki.spatialmanager.com/index.php/Spatial_Manager%E2%84%A2_for_ZWCAD_-_FAQs:_Background_Maps_(%22Standard%22_and_%22Professional%22_editions_only)" target="_blank" rel="nofollow">· Spatial Manager for ZWCAD<br /> </a><a href="http://wiki.spatialmanager.com/index.php/Spatial_Manager_Desktop%E2%84%A2_-_FAQs:_Background_Maps" target="_blank" rel="nofollow">· Spatial Manager Desktop</a></em>
 </p>

@@ -18,8 +18,7 @@ tags:
 
 <!--more-->
 
-## 
-
+<h2></h2>
 <p>
   From version 4.2 onwards, &#8216;Spatial Manager&#8217; allows you obtain <strong>detailed information</strong> about Coordinate Systems and Transformations between different systems
 </p>
@@ -58,8 +57,7 @@ tags:
 
 Detailed CRS information:
 
-## 
-
+<h2></h2>
   * Datum
   * Prime Meridian
   * Ellipsoid
@@ -84,8 +82,7 @@ Detailed CRS information:
 
 Detailed Transformation information:
 
-## 
-
+<h2></h2>
   * Accuracy
   * Method
   * Scope
@@ -106,15 +103,13 @@ Detailed Transformation information:
   Learn more about <strong>Coordinate Systems and Transformations</strong> in the technical Wikis of &#8216;Spatial Manager&#8217;:
 </p>
 
-## 
-
+<h2></h2>
   * _<span><a href="http://wiki.spatialmanager.com/index.php/Spatial_Manager%E2%84%A2_for_AutoCAD_-_FAQs:_Import#How_can_I_define_a_Transformation_of_coordinates.3F" target="_blank" rel="nofollow">Spatial Manager for AutoCAD</a></span>_
   * _<span><a href="http://wiki.spatialmanager.com/index.php/Spatial_Manager%E2%84%A2_for_BricsCAD_-_FAQs:_Import#How_can_I_define_a_Transformation_of_coordinates.3F" target="_blank" rel="nofollow">Spatial Manager for BricsCAD</a></span>_
   * _<span><a href="http://wiki.spatialmanager.com/index.php/Spatial_Manager%E2%84%A2_for_ZWCAD_-_FAQs:_Import#How_can_I_define_a_Transformation_of_coordinates.3F" target="_blank" rel="nofollow">Spatial Manager for ZWCAD</a></span>_<span><br /> </span>
   * _<a href="http://wiki.spatialmanager.com/index.php/Spatial_Manager_Desktop%E2%84%A2_-_FAQs:_Import_and_export#How_can_I_define_a_Transformation_of_coordinates.3F" target="_blank" rel="nofollow">Spatial Manager Desktop</a>_
 
-## 
-
+<h2></h2>
 &nbsp;
 
 * * *

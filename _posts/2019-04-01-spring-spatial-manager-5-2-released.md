@@ -169,8 +169,7 @@ tags:
 
 Take a look at the application **Changelogs** in order to review the complete list of News, Improvements and Fixes in this version:
 
-_· <a href="http://wiki.spatialmanager.com/index.php/Spatial_Manager_Desktop%E2%84%A2_Changelog" target="_blank" rel="nofollow">Spatial Manager Desktop</a>_
-  
- _· <a href="http://wiki.spatialmanager.com/index.php/Spatial_Manager%E2%84%A2_for_AutoCAD_Changelog" target="_blank" rel="nofollow">Spatial Manager for AutoCAD</a>_
-  
- _· <a href="http://wiki.spatialmanager.com/index.php/Spatial_Manager%E2%84%A2_for_BricsCAD_Changelog" target="_blank" rel="nofollow">Spatial Manager for BricsCAD<br /> </a>· <a href="http://wiki.spatialmanager.com/index.php/Spatial_Manager%E2%84%A2_for_ZWCAD_Changelog" target="_blank" rel="nofollow">Spatial Manager for ZWCAD</a>_
+_· <a href="http://wiki.spatialmanager.com/index.php/Spatial_Manager_Desktop%E2%84%A2_Changelog" target="_blank" rel="nofollow">Spatial Manager Desktop</a>_<br />
+_· <a href="http://wiki.spatialmanager.com/index.php/Spatial_Manager%E2%84%A2_for_AutoCAD_Changelog" target="_blank" rel="nofollow">Spatial Manager for AutoCAD</a>_<br />
+_· <a href="http://wiki.spatialmanager.com/index.php/Spatial_Manager%E2%84%A2_for_BricsCAD_Changelog" target="_blank" rel="nofollow">Spatial Manager for BricsCAD</a>_<br />
+_· <a href="http://wiki.spatialmanager.com/index.php/Spatial_Manager%E2%84%A2_for_ZWCAD_Changelog" target="_blank" rel="nofollow">Spatial Manager for ZWCAD</a>_

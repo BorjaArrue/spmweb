@@ -18,8 +18,7 @@ tags:
 
 <!--more-->
 
-## 
-
+<h2></h2>
 <p>
   If  you need to import/export spatial or GIS data into/from AutoCAD 2008 to 2018 (*), and many other tools to manage spatial data, such as publishing to Google Earth, transformation of coordinates, background base maps, alphanumeric data tables, filtering, layer thematics, automatic labeling, etc.,  <a href="/spm-forautocad/" target="_blank" rel="nofollow">&#8216;Spatial Manager for AutoCAD&#8217;</a> is the best solution for you
 </p>

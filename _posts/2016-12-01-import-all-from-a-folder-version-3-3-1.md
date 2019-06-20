@@ -65,8 +65,7 @@ _· First version in BETA state including minimum parameters_
 
 Have you missed the news in the previous version 3.3? Take a look at this <a href="/the-productive-new-version-3-3-spatial-manager/" target="_blank" rel="nofollow">Blog entry</a>
 
-## 
-
+<h2></h2>
 * * *
 
 ### _Review all new features in the application Changelogs:_

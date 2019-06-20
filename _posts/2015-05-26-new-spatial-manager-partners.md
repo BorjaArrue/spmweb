@@ -43,8 +43,7 @@ _&#8211; SQL Server data provider beta tester_
   
 <a href="http://www.highsoftware.com.br" target="_blank" rel="nofollow"><em>www.highsoftware.com.br</em></a>
 
-## 
-
+<h2></h2>
 · **inQUBI** &#8211; (Bricsys Los Angeles) &#8211; California.USA (Reseller)
   
 _&#8211; <a href="http://www.inqubi.com/?page_id=866" target="_blank" rel="nofollow">Product page</a>
@@ -53,28 +52,23 @@ _&#8211; <a href="http://www.inqubi.com/?page_id=866" target="_blank" rel="nofol
   
 _<a href="http://www.inqubi.com" target="_blank" rel="nofollow">www.inqubi.com</a>_
 
-## 
-
+<h2></h2>
 **· Supportek** &#8211; Spain (Reseller)
   
 <a href="http://www.supportek.es" target="_blank" rel="nofollow"><em>www.supportek.es</em></a>
 
-## 
-
+<h2></h2>
 <p>
   <a href="https://chasmtech.wordpress.com/2015/05/14/accessing-spatial-data-in-cad-without-autocad-map/" target="_blank" rel="nofollow"><img src="/images/blog/2015/05/Chasmtech-blog-MAY15.jpg" alt="Chasmtech blog MAY15" width="400" height="488" srcset="/images/blog/2015/05/Chasmtech-blog-MAY15.jpg 839w, /images/blog/2015/05/Chasmtech-blog-MAY15-246x300.jpg 246w, /images/blog/2015/05/Chasmtech-blog-MAY15-624x760.jpg 624w" sizes="(max-width: 400px) 100vw, 400px" /></a>
 </p>
 
-## 
-
+<h2></h2>
 _&#8211; **Chasmtech Blog** (above) &#8211;_
 
-## 
-
+<h2></h2>
 <p>
   <a href="http://www.inqubi.com/?page_id=866" target="_blank" rel="nofollow"><img src="/images/blog/2015/05/inQUBI-page-product-MAY15-1024x887.jpg" alt="inQUBI page product MAY15" width="400" height="347" srcset="/images/blog/2015/05/inQUBI-page-product-MAY15-1024x887.jpg 1024w, /images/blog/2015/05/inQUBI-page-product-MAY15-300x259.jpg 300w, /images/blog/2015/05/inQUBI-page-product-MAY15-624x540.jpg 624w, /images/blog/2015/05/inQUBI-page-product-MAY15.jpg 1144w" sizes="(max-width: 400px) 100vw, 400px" /></a>
 </p>
 
-## 
-
+<h2></h2>
 _&#8211; **inQUBI page product** (above) &#8211;_

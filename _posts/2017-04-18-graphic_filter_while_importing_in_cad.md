@@ -18,8 +18,7 @@ tags:
 
 <!--more-->
 
-## 
-
+<h2></h2>
 <div>
   <a href="/images/blog/2017/04/SPM_Filter_by_Area.png" target="_blank" rel="nofollow"><img src="/images/blog/2017/04/SPM_Filter_by_Area-1024x451.png" alt="Importing restricted to an area" width="625" height="275" srcset="/images/blog/2017/04/SPM_Filter_by_Area-1024x451.png 1024w, /images/blog/2017/04/SPM_Filter_by_Area-300x132.png 300w, /images/blog/2017/04/SPM_Filter_by_Area-768x338.png 768w, /images/blog/2017/04/SPM_Filter_by_Area-624x275.png 624w, /images/blog/2017/04/SPM_Filter_by_Area.png 1103w" sizes="(max-width: 625px) 100vw, 625px" /></a>
   
@@ -51,8 +50,7 @@ tags:
 
 &nbsp;
 
-## 
-
+<h2></h2>
 <p>
   <a href="/images/blog/2017/04/SPM_Import-only-in-the-current-view-parameter.png" target="_blank" rel="nofollow"><img src="/images/blog/2017/04/SPM_Import-only-in-the-current-view-parameter.png" alt="Import only in the current view option" width="553" height="643" srcset="/images/blog/2017/04/SPM_Import-only-in-the-current-view-parameter.png 553w, /images/blog/2017/04/SPM_Import-only-in-the-current-view-parameter-258x300.png 258w" sizes="(max-width: 553px) 100vw, 553px" /></a>
 </p>

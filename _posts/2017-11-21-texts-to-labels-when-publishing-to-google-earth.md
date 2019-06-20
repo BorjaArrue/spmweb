@@ -36,8 +36,7 @@ tags:
 
 The &#8216;Export to Google Earth&#8217; (publish) tool in &#8216;Spatial Manager&#8217; assumes the following automations:
 
-## 
-
+<h2></h2>
   * _The process considers the current Layers organization and the properties of the Layers and objects_
   * _The elements in the KML/KMZ file will assume the colors, line weights, etc. of the objects in the drawing_
   * _A subdivision based on the type(s) of the objects in the Layers will also be created for each Layer, allowing you a high level of visibility control in Google Earth_
@@ -48,13 +47,11 @@ The &#8216;Export to Google Earth&#8217; (publish) tool in &#8216;Spatial Manage
 
 The processes performed when Publishing to Google Earth make use internally of **two application components** (_see the image below_):
 
-## 
-
+<h2></h2>
   * The **Export engine**, whose parameter set includes the options to export several sets of Text data such as the Contents, which will go to a new data field named &#8220;TxtString&#8221;
   * The **KML/KMZ Data Provider**, which allows you to select a data field to set the NAME of the exported objects. In the Publishing processes the field &#8220;TxtString&#8221; is automatically selected
 
-## 
-
+<h2></h2>
 <div>
   <a href="/images/blog/2017/11/Export-KML-Parameters.png" target="_blank" rel="nofollow"><img src="/images/blog/2017/11/Export-KML-Parameters.png" alt="Application Export parameters set, and KML data provider parameters set" width="782" height="643" srcset="/images/blog/2017/11/Export-KML-Parameters.png 782w, /images/blog/2017/11/Export-KML-Parameters-300x247.png 300w, /images/blog/2017/11/Export-KML-Parameters-768x631.png 768w, /images/blog/2017/11/Export-KML-Parameters-624x513.png 624w" sizes="(max-width: 782px) 100vw, 782px" /></a>
   

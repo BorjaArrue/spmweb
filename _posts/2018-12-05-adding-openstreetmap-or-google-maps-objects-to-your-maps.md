@@ -69,12 +69,10 @@ tags:
 <h2>
 </h2>
 
-## 
-
+<h2></h2>
 &nbsp;
 
-## 
-
+<h2></h2>
 <p>
   <em>Learn more about Importing spatial data in your drawings or maps:</em>
 </p>
@@ -92,8 +90,7 @@ tags:
   <a href="http://wiki.spatialmanager.com/index.php/Spatial_Manager%E2%84%A2_for_ZWCAD_-_FAQs:_Import#How_can_I_Import_spatial_Features_as_ZWCAD_Entities.3F" target="_blank" rel="nofollow"><span><em>Spatial Manager for ZWCAD</em></span></a>
 </li>
 
-## 
-
+<h2></h2>
 <p>
   <em>Learn more about the Dynamic Background Maps:</em>
 </p>

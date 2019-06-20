@@ -77,8 +77,7 @@ _-SPMIMPORT Build*_, will run consecutively all saved Tasks whose names start wi
   It is also convenient to point out here that <em>-SPMIMPORT</em> can be <strong>executed from within a CAD Script</strong> (<em>*.SCR</em>), which will facilitate the execution of multiple import Tasks, using or not wildcards, when executing the Script. As an example:
 </p>
 
-## 
-
+<h2></h2>
 _;Script to import Buildings (Areas 22 / 23) and Parcels_
   
 _-SPMIMPORT Buildings_Area22_
@@ -87,8 +86,7 @@ _-SPMIMPORT Buildings_Area23_
   
 _-SPMIMPORT Parcels*_
 
-## 
-
+<h2></h2>
 &nbsp;
 
 <p>

@@ -39,8 +39,7 @@ tags:
 
 In the previous entry (<a href="/google-maps-in-your-cad-drawings-of-course/" target="_blank" rel="nofollow">Google Maps in your CAD drawings? Of course</a>) you learn how to define User Background Maps for the &#8220;Hybrid&#8221; and &#8220;Standard Roadmap&#8221; Google Maps. The following value list for the parameter &#8220;lyrs&#8221; in the URL is a more **complete set of the available map types** in Google Maps:
 
-## 
-
+<h2></h2>
   * h = Roads only
   * _m = Standard Roadmap (as seen in the previous entry)_
   * p = Terrain
@@ -89,8 +88,7 @@ In the previous entry (<a href="/google-maps-in-your-cad-drawings-of-course/" ta
       The valid values for the language parameter fit the <span><a href="https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes" target="_blank" rel="nofollow">&#8220;standard two-characters ISO&#8221;</a></span>: &#8220;en&#8221; for English, &#8220;fr&#8221; for French, etc.
     </li>
 
-## 
-
+<h2></h2>
 <div>
   <a href="/images/blog/2017/12/SPM-Google-Maps-hl-en-and-pl.png" target="_blank" rel="nofollow"><img src="/images/blog/2017/12/SPM-Google-Maps-hl-en-and-pl.png" alt="Google Maps Language parameter" width="800" height="985" srcset="/images/blog/2017/12/SPM-Google-Maps-hl-en-and-pl.png 800w, /images/blog/2017/12/SPM-Google-Maps-hl-en-and-pl-244x300.png 244w, /images/blog/2017/12/SPM-Google-Maps-hl-en-and-pl-768x946.png 768w, /images/blog/2017/12/SPM-Google-Maps-hl-en-and-pl-624x768.png 624w" sizes="(max-width: 800px) 100vw, 800px" /></a>
   
@@ -105,12 +103,10 @@ In the previous entry (<a href="/google-maps-in-your-cad-drawings-of-course/" ta
   Since &#8216;Spatial Manager&#8217; supports Transparent Background Maps, through the transparent areas you will<strong> see the background color of the drawings and maps or any background element</strong>, such as grids, etc.. Check this feature when configuring and showing the Google &#8220;Roads only&#8221; Map:
 </p>
 
-## 
-
+<h2></h2>
 https://mt1.google.com/vt/<span><strong>lyrs=h</strong></span>&hl=en&x={x}&y={y}&z={level}
 
-## 
-
+<h2></h2>
 <div>
   <a href="/images/blog/2017/12/SPM-Transparent-Maps-Google-Maps-Road-only-sample.png" target="_blank" rel="nofollow"><img src="/images/blog/2017/12/SPM-Transparent-Maps-Google-Maps-Road-only-sample-1024x521.png" alt="Spatial Manager Transparent Maps (Google Maps-Road only sample)" width="625" height="318" srcset="/images/blog/2017/12/SPM-Transparent-Maps-Google-Maps-Road-only-sample-1024x521.png 1024w, /images/blog/2017/12/SPM-Transparent-Maps-Google-Maps-Road-only-sample-300x153.png 300w, /images/blog/2017/12/SPM-Transparent-Maps-Google-Maps-Road-only-sample-768x391.png 768w, /images/blog/2017/12/SPM-Transparent-Maps-Google-Maps-Road-only-sample-624x318.png 624w, /images/blog/2017/12/SPM-Transparent-Maps-Google-Maps-Road-only-sample.png 1061w" sizes="(max-width: 625px) 100vw, 625px" /></a>
   
@@ -119,8 +115,7 @@ https://mt1.google.com/vt/<span><strong>lyrs=h</strong></span>&hl=en&x={x}&y={y}
   </p>
 </div>
 
-## 
-
+<h2></h2>
 * * *
 
 <p>
@@ -132,12 +127,10 @@ https://mt1.google.com/vt/<span><strong>lyrs=h</strong></span>&hl=en&x={x}&y={y}
 
 <span><em><a href="/tag/background-maps/" target="_blank" rel="nofollow">· Blog posts</a></em></span>
 
-## 
-
+<h2></h2>
 Technical Wikis:
 
-## 
-
+<h2></h2>
 <p>
   <em><a href="http://wiki.spatialmanager.com/index.php/Spatial_Manager%E2%84%A2_for_AutoCAD_-_FAQs:_Background_Maps_(%22Standard%22_and_%22Professional%22_editions_only)#Can_I_configure_my_own_Web_Map_Services.3F" target="_blank" rel="nofollow">· Spatial Manager for AutoCAD</a></em><br /> <a href="http://wiki.spatialmanager.com/index.php/Spatial_Manager%E2%84%A2_for_BricsCAD_-_FAQs:_Background_Maps_(%22Standard%22_and_%22Professional%22_editions_only)#Can_I_configure_my_own_Web_Map_Services.3F" target="_blank" rel="nofollow"><em>· Spatial Manager for BricsCAD<br /> </em></a><em><a href="http://wiki.spatialmanager.com/index.php/Spatial_Manager%E2%84%A2_for_ZWCAD_-_FAQs:_Background_Maps_(%22Standard%22_and_%22Professional%22_editions_only)#Can_I_configure_my_own_Web_Map_Services.3F" target="_blank" rel="nofollow">· Spatial Manager for ZWCAD<br /> </a><a href="http://wiki.spatialmanager.com/index.php/Spatial_Manager_Desktop%E2%84%A2_-_FAQs:_Background_Maps#Can_I_configure_my_own_Web_Map_Services.3F" target="_blank" rel="nofollow">· Spatial Manager Desktop</a></em>
 </p>

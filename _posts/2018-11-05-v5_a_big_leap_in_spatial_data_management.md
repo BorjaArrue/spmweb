@@ -168,8 +168,7 @@ tags:
 
 **Related links:**
 
-## 
-
+<h2></h2>
   * Application V5 Changelogs 
       * <a href="http://wiki.spatialmanager.com/index.php/Spatial_Manager%E2%84%A2_for_AutoCAD_Changelog" target="_blank" rel="nofollow"><span><em>Spatial Manager for AutoCAD</em></span></a>
       * <a href="http://wiki.spatialmanager.com/index.php/Spatial_Manager%E2%84%A2_for_BricsCAD_Changelog" target="_blank" rel="nofollow"><span><em>Spatial Manager for BricsCAD</em></span></a>

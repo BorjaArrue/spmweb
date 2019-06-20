@@ -52,8 +52,7 @@ When **printing or exporting from AutoCAD** be sure to activate the &#8220;Inclu
 
 &nbsp;
 
-## 
-
+<h2></h2>
 If you are **printing or exporting from BricsCAD** select &#8220;Use all layers&#8230;&#8221; in the &#8220;Layers support&#8221; option:
 
 <div>

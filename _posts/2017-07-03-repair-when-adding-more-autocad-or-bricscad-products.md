@@ -92,8 +92,7 @@ tags:
   <em>Also, although you can do it through Windows 10 ‘Settings’, you still have the classic ‘Control Panel’ in Windows 10. Simply go to Windows 10 ‘Settings’ and search for “Control Panel” (see the image below)</em>
 </li>
 
-## 
-
+<h2></h2>
 <div>
   <a href="/images/blog/2017/07/Windows10_ControlPanel.png" target="_blank" rel="nofollow"><img src="/images/blog/2017/07/Windows10_ControlPanel.png" alt="Windows 10 Settings" width="1022" height="726" srcset="/images/blog/2017/07/Windows10_ControlPanel.png 1022w, /images/blog/2017/07/Windows10_ControlPanel-300x213.png 300w, /images/blog/2017/07/Windows10_ControlPanel-768x546.png 768w, /images/blog/2017/07/Windows10_ControlPanel-624x443.png 624w" sizes="(max-width: 1022px) 100vw, 1022px" /></a>
   

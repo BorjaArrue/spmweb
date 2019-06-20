@@ -59,8 +59,7 @@ tags:
 
 &nbsp;
 
-## 
-
+<h2></h2>
 * * *
 
 <h2>
@@ -70,21 +69,18 @@ tags:
   Learn more about the <strong>use and configuration of &#8216;Background Maps&#8217;</strong> in &#8216;Spatial Manager&#8217;:
 </p>
 
-## 
-
+<h2></h2>
   * **Blog**: 
       * _<span><span><a href="/tag/background-maps/" target="_blank" rel="nofollow">&#8216;Background Maps&#8217; posts</a></span></span>_
 
-## 
-
+<h2></h2>
   * **Technical Wiki**: 
       * _<span><a href="http://wiki.spatialmanager.com/index.php/Spatial_Manager™_for_AutoCAD_-_FAQs:_Background_Maps_(%22Standard%22_and_%22Professional%22_editions_only)" target="_blank" rel="nofollow">Spatial Manager for AutoCAD</a></span>_
       * _<span><a href="http://wiki.spatialmanager.com/index.php/Spatial_Manager™_for_BricsCAD_-_FAQs:_Background_Maps_(%22Standard%22_and_%22Professional%22_editions_only)" target="_blank" rel="nofollow">Spatial Manager for BricsCAD</a></span>_
       * _<span><a href="http://wiki.spatialmanager.com/index.php/Spatial_Manager™_for_ZWCAD_-_FAQs:_Background_Maps_(%22Standard%22_and_%22Professional%22_editions_only)" target="_blank" rel="nofollow">Spatial Manager for ZWCAD</a></span>_<span><br /> </span>
       * _<a href="http://wiki.spatialmanager.com/index.php/Spatial_Manager_Desktop™_-_FAQs:_Background_Maps" target="_blank" rel="nofollow">Spatial Manager Desktop</a>_
 
-## 
-
+<h2></h2>
 &nbsp;
 
 * * *

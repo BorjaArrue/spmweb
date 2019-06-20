@@ -18,8 +18,7 @@ tags:
 
 <!--more-->
 
-## 
-
+<h2></h2>
 <div>
   <a href="/images/blog/2017/03/OS-Schema-9.png" target="_blank" rel="nofollow"><img src="/images/blog/2017/03/OS-Schema-9-1024x577.png" alt="'OS MasterMap Topography Layer' data imported using 'Spatial Manager' (GML data provider)" width="625" height="352" srcset="/images/blog/2017/03/OS-Schema-9-1024x577.png 1024w, /images/blog/2017/03/OS-Schema-9-300x169.png 300w, /images/blog/2017/03/OS-Schema-9-768x433.png 768w, /images/blog/2017/03/OS-Schema-9-624x351.png 624w, /images/blog/2017/03/OS-Schema-9.png 1266w" sizes="(max-width: 625px) 100vw, 625px" /></a>
   
@@ -28,8 +27,7 @@ tags:
   </p>
 </div>
 
-## 
-
+<h2></h2>
 <span><strong>&#8216;Spatial Manager&#8217; OS related videos (AutoCAD): </strong></span><a href="https://youtu.be/4zZnsf-i7JQ" target="_blank" rel="nofollow">Part #1</a> / <a href="https://youtu.be/QYjlbdlAnkg" target="_blank" rel="nofollow">Part #2</a>
   
 <span><strong>&#8216;Spatial Manager&#8217; OS r</strong><strong>elated videos (BricsCAD): </strong></span><a href="https://youtu.be/LqTmq4k35UE" target="_blank" rel="nofollow">Part #1</a> / <a href="https://youtu.be/e_G1uMtL6NM" target="_blank" rel="nofollow">Part #2</a>
@@ -45,8 +43,7 @@ tags:
   </p>
 </div>
 
-## 
-
+<h2></h2>
 <span> </span>**<span>&#8216;Spatial Manager&#8217; OS Technical pages:</span> **<a href="/ordnance-survey-in-autocad/" target="_blank" rel="nofollow"><span>AutoCAD</span></a> <span>/</span><a href="/ordnance-survey-in-bricscad/" target="_blank" rel="nofollow"><span> BricsCAD</span></a>
 
 <h2>

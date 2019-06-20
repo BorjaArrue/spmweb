@@ -34,15 +34,13 @@ tags:
 
 These Coordinate Systems were not in the latest <a href="https://en.wikipedia.org/wiki/International_Association_of_Oil_%26_Gas_Producers#European_Petroleum_Survey_Group" target="_blank" rel="nofollow">EPSG</a> 9.0 objects database included in the version 4.1 of &#8216;Spatial Manager&#8217;. To add them:
 
-## 
-
+<h2></h2>
   1. We have **updated EPSG to version 9.2**. It includes the projections based on **GDA2020** (Geocentric Datum of Australia 2020) 
       * These CRSs are identified by their EPSG code
   2. We have include in the application core the projections based on **GDA94** (Geocentric Datum of Australia 1994) and **AGD84** (Australian Geodetic Datum 84) 
       * In this group, the CRSs are identified by the codes 90000001 to 90000037
 
-## 
-
+<h2></h2>
 <div>
   <a href="/images/blog/2017/12/Western-Australia-in-SPM-Catalog.png" target="_blank" rel="nofollow"><img src="/images/blog/2017/12/Western-Australia-in-SPM-Catalog.png" alt="Western Australia CRSs in SPM Catalog" width="717" height="529" srcset="/images/blog/2017/12/Western-Australia-in-SPM-Catalog.png 717w, /images/blog/2017/12/Western-Australia-in-SPM-Catalog-300x221.png 300w, /images/blog/2017/12/Western-Australia-in-SPM-Catalog-624x460.png 624w" sizes="(max-width: 717px) 100vw, 717px" /></a>
   
@@ -51,12 +49,10 @@ These Coordinate Systems were not in the latest <a href="https://en.wikipedia.or
   </p>
 </div>
 
-## 
-
+<h2></h2>
 These enhancements will not be included in the application until the next release, but if you need it or you want to try them, please send us an mail (<a href="mailto:info@spatialmanager.com" target="_blank" rel="nofollow">info@spatialmanager.com</a>) specifying the version you are interested in (<a href="/spm-forautocad/" target="_blank" rel="nofollow">AutoCAD</a> / <a href="/spm-forbricscad/" target="_blank" rel="nofollow">BricsCAD</a> / <a href="/spm-forzwcad/" target="_blank" rel="nofollow">ZWCAD</a> / <a href="/spm-desktop/" target="_blank" rel="nofollow">Desktop</a>), and we will send you the latest build of the application
 
-## 
-
+<h2></h2>
 * * *
 
 <p>

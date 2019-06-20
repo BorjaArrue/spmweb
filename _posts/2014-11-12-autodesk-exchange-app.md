@@ -27,14 +27,12 @@ Autodesk Exchange creates a single marketplace where you can quickly find the u
 
 <span><span>On these grounds</span> <span>the use</span> <span>of the store</span> <span>grows daily</span>:<br /> </span>
 
-###### 
-
+####<h2></h2>
 <p>
   <a href="/images/blog/2014/11/Autodesk_Exchange_3.png" target="_blank" rel="nofollow"><img src="/images/blog/2014/11/Autodesk_Exchange_3-199x300.png" alt="Autodesk Exchange Statistic" width="199" height="300" srcset="/images/blog/2014/11/Autodesk_Exchange_3-199x300.png 199w, /images/blog/2014/11/Autodesk_Exchange_3.png 474w" sizes="(max-width: 199px) 100vw, 199px" /></a>
 </p>
 
-## 
-
+<h2></h2>
 ## How to access to the products in Autodesk Exchange?
 
 You can key in the name of the product that you are looking for or to search by key word in its features <a href="/images/blog/2014/11/Autodesk_Exchange_1.png" target="_blank" rel="nofollow"><img src="/images/blog/2014/11/Autodesk_Exchange_1-1024x480.png" alt="Spatial Manager for AutoCAD in Autodesk Exchange" width="625" height="292" srcset="/images/blog/2014/11/Autodesk_Exchange_1-1024x480.png 1024w, /images/blog/2014/11/Autodesk_Exchange_1-300x140.png 300w, /images/blog/2014/11/Autodesk_Exchange_1-624x292.png 624w, /images/blog/2014/11/Autodesk_Exchange_1.png 1280w" sizes="(max-width: 625px) 100vw, 625px" /></a>

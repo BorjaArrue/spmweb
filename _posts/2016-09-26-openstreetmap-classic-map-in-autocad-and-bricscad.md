@@ -34,18 +34,15 @@ You only need to know the **appropriate URL** to access the raster &#8220;Tiles
   
 {y}: _vertical position of tile_
 
-## 
-
+<h2></h2>
 For example: http://mytileserver.com/mymap/{level}/{x}/{y}.png
 
-## 
-
+<h2></h2>
 In the case at hand, the following is the URL that you need to enter:
 
 **http://a.tile.openstreetmap.org/{level}/{x}/{y}.png**
 
-## 
-
+<h2></h2>
 As you will see in the parameters window, you can also **assign a Name** to the new map and include it into a new or an existing **Group of user maps**
 
 <a href="/images/blog/2016/09/Spatial-Manager-User-Maps.png" target="_blank" rel="nofollow"><img src="/images/blog/2016/09/Spatial-Manager-User-Maps.png" alt="spatial-manager-user-maps" width="646" height="557" srcset="/images/blog/2016/09/Spatial-Manager-User-Maps.png 646w, /images/blog/2016/09/Spatial-Manager-User-Maps-300x259.png 300w, /images/blog/2016/09/Spatial-Manager-User-Maps-624x538.png 624w" sizes="(max-width: 646px) 100vw, 646px" /></a>

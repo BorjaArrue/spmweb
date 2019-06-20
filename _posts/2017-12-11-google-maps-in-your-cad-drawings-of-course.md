@@ -36,12 +36,10 @@ tags:
 
 Even if you do not find <a href="https://en.wikipedia.org/wiki/Google_Maps" target="_blank" rel="nofollow">Google Maps</a> in the application Background Maps selection window, you can **configure them as User Background Maps**, then select and apply them in the same way as predefined ones. Click on the button &#8220;Configure Background Maps&#8221; to access the User Maps settings
 
-## 
-
+<h2></h2>
 There are **various servers and services that provide Google Maps information** in the format that the dynamic Background Maps engine of &#8216;Spatial Manager&#8217; needs to show these Maps. For example, as shown in the above videos, the following URLs correspond to Google Maps <a href="https://en.wikipedia.org/wiki/Tile_Map_Service" target="_blank" rel="nofollow">TMS</a> services whereby you can manage the Google Maps **&#8220;Roads&#8221;** and **&#8220;Hybrid&#8221;**
 
-## 
-
+<h2></h2>
 <div>
   <strong>Roads:    </strong>https://mt1.google.com/vt/lyrs=m&x={x}&y={y}&z={level}
 </div>
@@ -56,12 +54,10 @@ There are **various servers and services that provide Google Maps information** 
 <div>
 </div>
 
-## 
-
+<h2></h2>
 Please, follow the steps shown in the videos if you want to add Google Maps to your Dynamic Background Maps **list and then show** them in your maps or drawings
 
-## 
-
+<h2></h2>
 * * *
 
 <p>
@@ -73,12 +69,10 @@ Please, follow the steps shown in the videos if you want to add Google Maps to 
 
 <span><em><a href="/tag/background-maps/" target="_blank" rel="nofollow">· Blog posts</a></em></span>
 
-## 
-
+<h2></h2>
 Technical Wikis:
 
-## 
-
+<h2></h2>
 <p>
   <em><a href="http://wiki.spatialmanager.com/index.php/Spatial_Manager%E2%84%A2_for_AutoCAD_-_FAQs:_Background_Maps_(%22Standard%22_and_%22Professional%22_editions_only)#Can_I_configure_my_own_Web_Map_Services.3F" target="_blank" rel="nofollow">· Spatial Manager for AutoCAD</a></em><br /> <a href="http://wiki.spatialmanager.com/index.php/Spatial_Manager%E2%84%A2_for_BricsCAD_-_FAQs:_Background_Maps_(%22Standard%22_and_%22Professional%22_editions_only)#Can_I_configure_my_own_Web_Map_Services.3F" target="_blank" rel="nofollow"><em>· Spatial Manager for BricsCAD<br /> </em></a><em><a href="http://wiki.spatialmanager.com/index.php/Spatial_Manager%E2%84%A2_for_ZWCAD_-_FAQs:_Background_Maps_(%22Standard%22_and_%22Professional%22_editions_only)#Can_I_configure_my_own_Web_Map_Services.3F" target="_blank" rel="nofollow">· Spatial Manager for ZWCAD<br /> </a><a href="http://wiki.spatialmanager.com/index.php/Spatial_Manager_Desktop%E2%84%A2_-_FAQs:_Background_Maps#Can_I_configure_my_own_Web_Map_Services.3F" target="_blank" rel="nofollow">· Spatial Manager Desktop</a></em>
 </p>

@@ -17,8 +17,7 @@ tags:
 
 <!--more-->
 
-## 
-
+<h2></h2>
 <div>
   <a href="/images/blog/2017/02/CAD-Export-Improvments.png" target="_blank" rel="nofollow"><img src="/images/blog/2017/02/CAD-Export-Improvments-1024x702.png" alt="CAD Export Improvments" width="625" height="428" srcset="/images/blog/2017/02/CAD-Export-Improvments-1024x702.png 1024w, /images/blog/2017/02/CAD-Export-Improvments-300x206.png 300w, /images/blog/2017/02/CAD-Export-Improvments-768x527.png 768w, /images/blog/2017/02/CAD-Export-Improvments-624x428.png 624w, /images/blog/2017/02/CAD-Export-Improvments.png 1037w" sizes="(max-width: 625px) 100vw, 625px" /></a>
   
@@ -27,8 +26,7 @@ tags:
   </p>
 </div>
 
-## 
-
+<h2></h2>
 <p>
   <strong>Related videos: </strong><a href="https://youtu.be/lEm017kOkzc" target="_blank" rel="nofollow">AutoCAD</a> / <a href="https://youtu.be/PM05LrwVQ8w" target="_blank" rel="nofollow">BricsCAD</a>
 </p>

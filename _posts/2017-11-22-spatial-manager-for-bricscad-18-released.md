@@ -16,8 +16,7 @@ The new release 4.1 of &#8216;Spatial Manager™ for BricsCAD&#8217; is &#8216;B
 
 **Import/export** <a href="http://wiki.spatialmanager.com/index.php/Spatial_Manager%E2%84%A2_for_BricsCAD_-_FAQs:_Providers" target="_blank" rel="nofollow">spatial or GIS data</a> into/from **BricsCAD**, and enjoy of advanced tools to manage spatial data, such as **dynamic background maps**, quick drawing **publishing in Google Earth**, data structures, **queries**, layer thematics, automatic labeling, etc.
 
-## 
-
+<h2></h2>
 <div>
   <a href="/images/blog/2017/11/SPM_BCAD18_V4.1.png" target="_blank" rel="nofollow"><img src="/images/blog/2017/11/SPM_BCAD18_V4.1-1024x576.png" alt="Spatial Manager for BricsCAD 18" width="625" height="352" srcset="/images/blog/2017/11/SPM_BCAD18_V4.1-1024x576.png 1024w, /images/blog/2017/11/SPM_BCAD18_V4.1-300x169.png 300w, /images/blog/2017/11/SPM_BCAD18_V4.1-768x432.png 768w, /images/blog/2017/11/SPM_BCAD18_V4.1-624x351.png 624w, /images/blog/2017/11/SPM_BCAD18_V4.1.png 1280w" sizes="(max-width: 625px) 100vw, 625px" /></a>
   
@@ -26,24 +25,20 @@ The new release 4.1 of &#8216;Spatial Manager™ for BricsCAD&#8217; is &#8216;B
   </p>
 </div>
 
-## 
-
+<h2></h2>
 <span>Useful links</span>:
 
-## 
-
+<h2></h2>
 · <a href="/download/spatial-manager-bricscad/" target="_blank" rel="nofollow">Download &#8216;Spatial Manager for BricsCAD&#8217; v.4.1 </a>
 
-## 
-
+<h2></h2>
 · <a href="https://blog.bricsys.com/bricscad-v18-core-features/" target="_blank" rel="nofollow">BricsCAD 18 news</a>
   
 · <a href="/new-v-4-enjoy-the-most-superb-set-of-geo-functions/" target="_blank" rel="nofollow">Spatial Manager v.4: Enjoy the most superb set of geo-functions</a>
   
 · <a href="http://wiki.spatialmanager.com/index.php/Spatial_Manager%E2%84%A2_for_BricsCAD_Changelog" target="_blank" rel="nofollow">Application changelog</a>
 
-## 
-
+<h2></h2>
 · <a href="/spm-forbricscad/" target="_blank" rel="nofollow">&#8216;Spatial Manager for BricsCAD&#8217; product page</a>
   
 · <a href="http://wiki.spatialmanager.com/index.php/Spatial_Manager™_for_BricsCAD" target="_blank" rel="nofollow">Technical Wiki</a>

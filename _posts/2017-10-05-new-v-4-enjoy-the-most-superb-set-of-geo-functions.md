@@ -13,8 +13,7 @@ tags:
 ---
 The main version 4 (_October 2017_) collects and improves all the tools included over the last nineteen months adding amazing news
 
-## 
-
+<h2></h2>
 <h3>
   <em>Desktop &#8211; AutoCAD &#8211; BricsCAD</em>
 </h3>
@@ -40,8 +39,7 @@ The main version 4 (_October 2017_) collects and improves all the tools included
       * Maps defined using any Coordinate SYSTEM, any graphic format and any resolution
       * &#8220;Single image&#8221; maps (WMS only)
 
-## 
-
+<h2></h2>
 <div>
   <a href="/images/blog/2017/10/SPM_New_WMS-WMTS_User_BGMaps_V4.png" target="_blank" rel="nofollow"><img src="/images/blog/2017/10/SPM_New_WMS-WMTS_User_BGMaps_V4-300x138.png" alt="Spatial Manager - New WMS/WMTS User Maps" width="625" height="287" srcset="/images/blog/2017/10/SPM_New_WMS-WMTS_User_BGMaps_V4-300x138.png 300w, /images/blog/2017/10/SPM_New_WMS-WMTS_User_BGMaps_V4-768x352.png 768w, /images/blog/2017/10/SPM_New_WMS-WMTS_User_BGMaps_V4-624x286.png 624w, /images/blog/2017/10/SPM_New_WMS-WMTS_User_BGMaps_V4.png 977w" sizes="(max-width: 625px) 100vw, 625px" /></a>
   
@@ -50,12 +48,10 @@ The main version 4 (_October 2017_) collects and improves all the tools included
   </p>
 </div>
 
-## 
-
+<h2></h2>
 **_Video:_** <a href="https://youtu.be/zmH8Cdi5DPk?rel=0" target="_blank" rel="nofollow"><em>Desktop</em></a> _/_ <a href="https://youtu.be/jlBf9xs-GyE?rel=0" target="_blank" rel="nofollow"><em>AutoCAD</em></a> _/_ <a href="https://youtu.be/vo6UEi_r7Cs?rel=0" target="_blank" rel="nofollow"><em>BricsCAD<br /> </em></a>**_Learn more:_** <a href="http://wiki.spatialmanager.com/index.php/Spatial_Manager_Desktop%E2%84%A2_-_FAQs:_Background_Maps#Can_I_configure_my_own_Web_Map_Services.3F" target="_blank" rel="nofollow"><em>Desktop /</em></a> <a href="http://wiki.spatialmanager.com/index.php/Spatial_Manager%E2%84%A2_for_AutoCAD_-_FAQs:_Background_Maps_(%22Standard%22_and_%22Professional%22_editions_only)#Can_I_configure_my_own_Web_Map_Services.3F" target="_blank" rel="nofollow"><em>AutoCAD /</em></a> <a href="http://wiki.spatialmanager.com/index.php/Spatial_Manager%E2%84%A2_for_BricsCAD_-_FAQs:_Background_Maps_(%22Standard%22_and_%22Professional%22_editions_only)#Can_I_configure_my_own_Web_Map_Services.3F" target="_blank" rel="nofollow"><em>BricsCAD</em></a>
 
-## 
-
+<h2></h2>
 &nbsp;
 
 ## <span><strong>Enhanced ASCII data provider</strong> (CSV, TXT, ASC, XYZ, etc.)</span>
@@ -72,12 +68,10 @@ The main version 4 (_October 2017_) collects and improves all the tools included
   </p>
 </div>
 
-## 
-
+<h2></h2>
 **_Video:_** <a href="https://youtu.be/EJG26apAFM4?rel=0" target="_blank" rel="nofollow"><em>Desktop /</em></a> <a href="https://youtu.be/IIYQLKIuuj0?rel=0" target="_blank" rel="nofollow"><em>AutoCAD /</em></a> <a href="https://youtu.be/G-y0Reu6sWs?rel=0" target="_blank" rel="nofollow"><em>BricsCAD</em></a>
 
-## 
-
+<h2></h2>
 &nbsp;
 
 ## <span><strong>&#8216;Command-line&#8217; Importing in CAD</strong>: &#8216;<strong>-SPMIMPORT&#8217;</strong></span>
@@ -86,8 +80,7 @@ The main version 4 (_October 2017_) collects and improves all the tools included
 
 **_Video:_**_ _ <a href="https://youtu.be/8K-MGjy7sAg?rel=0" target="_blank" rel="nofollow"><em>AutoCAD /</em></a> <a href="https://youtu.be/oS-UyRPMzQ8?rel=0" target="_blank" rel="nofollow"><em>BricsCAD</em></a>
 
-## 
-
+<h2></h2>
 &nbsp;
 
 ## <span><em><strong>And&#8230;</strong></em></span>
@@ -100,8 +93,7 @@ The main version 4 (_October 2017_) collects and improves all the tools included
   * _New language added to the applications: French/Français_
   *  _&#8230;_
 
-## 
-
+<h2></h2>
 Take a look to the applications **Changelog** to learn more about all the news and improvements:
 
 _· <a href="http://wiki.spatialmanager.com/index.php/Spatial_Manager_Desktop%E2%84%A2_Changelog" target="_blank" rel="nofollow">Spatial Manager Desktop</a>_
@@ -110,6 +102,5 @@ _· <a href="http://wiki.spatialmanager.com/index.php/Spatial_Manager_Desktop%E2
   
  _· <a href="http://wiki.spatialmanager.com/index.php/Spatial_Manager%E2%84%A2_for_BricsCAD_Changelog" target="_blank" rel="nofollow">Spatial Manager for BricsCAD</a>_
 
-## 
-
+<h2></h2>
 Or read the  <a href="/SpatialManagerDownload/press/Spatial%20Manager%20V4%20-%20New%20main%20release%20-%20OCT%2017.pdf" target="_blank" rel="nofollow"><em>v.4.0 press release </em></a>to review what is new from the v.3.0

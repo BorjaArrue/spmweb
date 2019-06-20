@@ -57,8 +57,7 @@ tags:
   </p>
 </div>
 
-## 
-
+<h2></h2>
 <p>
   This new option simplifies, among other benefits, the <strong>storage or sending of the map in a single file</strong> without the need to depend on other auxiliary files. This new capture method allows you (as with raster images) to define <strong>up to four levels of map detail</strong> for the captured area
 </p>

@@ -29,8 +29,7 @@ tags:
   </p>
 </div>
 
-## 
-
+<h2></h2>
 <p>
   One of the essential settings for configuring user dynamic Background Maps in &#8216;Spatial Manager&#8217; is the <strong>URL of the map server</strong>. When typing this parameter in the User Map configuration window for the map server you are configuring, just enter the beginnings of the sub-domain names <strong>between curly brackets { } and separated by commas</strong>
 </p>
@@ -88,12 +87,10 @@ https://**{mt,mt0,mt1,mt2,mt3}**.google.com/&#8230;
 
 Read more about other **parameters in the Google Maps settings** in this other <a href="/more-about-dynamic-google-maps-in-your-drawings-or-maps/" target="_blank" rel="nofollow"><span><em>Blog entry</em></span></a>
 
-## 
-
+<h2></h2>
 &nbsp;
 
-## 
-
+<h2></h2>
 <p>
   To learn more about <b>how to configure user dynamic Background Maps</b> in &#8216;Spatial Manager&#8217;, take a look at the following articles in the products technical Wikis:
 </p>

@@ -97,12 +97,10 @@ tags:
   </p>
 </div>
 
-## 
-
+<h2></h2>
 Finally, just remind you that you can show the Dynamic Background Map either in front (<a href="/bring-background-maps-to-front/" target="_blank" rel="nofollow"><span><em>&#8220;Bring map to front&#8221;</em></span></a> option) or behind the objects in your drawing or map
 
-## 
-
+<h2></h2>
 * * *
 
 <h2>

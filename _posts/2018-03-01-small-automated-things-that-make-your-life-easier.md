@@ -76,8 +76,7 @@ tags:
   </p>
 </div>
 
-## 
-
+<h2></h2>
 * * *
 
 <h2>
@@ -87,13 +86,11 @@ tags:
   Learn more about <strong>Importing geo-spatial data</strong> in &#8216;Spatial Manager&#8217;:
 </p>
 
-## 
-
+<h2></h2>
   * **Blog**: 
       * _<span><span><a href="/tag/import/" target="_blank" rel="nofollow">Importing posts</a></span></span>_
 
-## 
-
+<h2></h2>
   * **Technical Wiki**: 
       * _<span><a href="http://wiki.spatialmanager.com/index.php/Spatial_Manager™_for_AutoCAD_-_FAQs:_Import" target="_blank" rel="nofollow">Spatial Manager for AutoCAD</a></span>_
       * _<span><a href="http://wiki.spatialmanager.com/index.php/Spatial_Manager™_for_BricsCAD_-_FAQs:_Import" target="_blank" rel="nofollow">Spatial Manager for BricsCAD</a></span>_

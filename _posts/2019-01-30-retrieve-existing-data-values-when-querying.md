@@ -84,6 +84,5 @@ _Learn more about selecting objects by defining object data queries:_
   <a href="http://wiki.spatialmanager.com/index.php/Spatial_Manager_Desktop%E2%84%A2_-_FAQs:_Selecting_and_filtering#How_can_I_select_Features_of_a_Map.3F" target="_blank" rel="nofollow"><span><em>Spatial Manager Desktop</em></span></a>
 </li>
 
-## 
-
+<h2></h2>
 _Note for CAD applications: &#8220;Selecting by Query&#8221; feature is available in the Standard and Professional editions only_

@@ -24,12 +24,10 @@ tags:
   </p>
 </div>
 
-## 
-
+<h2></h2>
 Import, export, manage data and tables, background maps, selection queries, etc., are the main features in &#8216;Spatial Manager for ZWCAD&#8217;, as you will see in the following **videos**:
 
-## 
-
+<h2></h2>
 <a href="https://youtu.be/SsaPaxIwAd4?rel=0" target="_blank" rel="nofollow"><em>Importing 1 (SHP, GPX, KML, &#8230;)</em></a>
   
 <a href="http://youtu.be/wDvQY07EIYM?rel=0" target="_blank" rel="nofollow"><em> Importing 2 (Shapefile)</em></a>
@@ -52,18 +50,15 @@ Import, export, manage data and tables, background maps, selection queries, etc.
   
 <a href="http://youtu.be/IhP0O16fBOw?rel=0" target="_blank" rel="nofollow"><em> Data sources</em></a>
 
-## 
-
+<h2></h2>
 Interested in &#8216;Spatial Manager for ZWCAD&#8217;? **More information**:
 
-## 
-
+<h2></h2>
 <a href="/download/spatial-manager-zwcad/" target="_blank" rel="nofollow"><em>Download</em></a> (commercial and free trial)
   
 <a href="/spm-forzwcad/" target="_blank" rel="nofollow"><em>Product page</em></a>
 
-## 
-
+<h2></h2>
 **Technical Wiki**:
   
 <a href="http://wiki.spatialmanager.com/index.php/Spatial_Manager™_for_ZWCAD" target="_blank" rel="nofollow"><em>Application introduction</em></a>
@@ -72,8 +67,7 @@ Interested in &#8216;Spatial Manager for ZWCAD&#8217;? **More information**:
   
 <a href="http://wiki.spatialmanager.com/index.php/Spatial_Manager™_for_ZWCAD#FAQs" target="_blank" rel="nofollow"><em> FAQs</em></a> (Wiki-style User Guide)
 
-## 
-
+<h2></h2>
 **Technical Pages** (Usual importing processes):
   
 <a href="/import-coordinates-from-excel-to-zwcad/" target="_blank" rel="nofollow"><em>Import coordinates from Excel to ZWCAD</em></a>

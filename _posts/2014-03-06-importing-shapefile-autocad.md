@@ -14,28 +14,23 @@ tags:
 ---
 One of the basic needs of any AutoCAD user to handle geospatial information, by downloading files from the web or by collaborating with others GIS users, is importing into AutoCAD ESRI shapefiles (SHP file format)<!--more-->
 
-## 
-
+<h2></h2>
 * * *
 
-## 
-
+<h2></h2>
 &nbsp;
 
 <span><strong>Please, also take a look at the following updated (MAY18) videos for all CAD systems</strong>:</span>
 
-## 
-
+<h2></h2>
 <span><strong><span><em><a href="https://youtu.be/wgwoMvq9tIk?rel=0" target="_blank" rel="nofollow">AutoCAD</a></em></span> / <span><em><a href="https://youtu.be/sOfDVtCinnk?rel=0" target="_blank" rel="nofollow">BricsCAD</a></em></span> / <span><em><a href="https://youtu.be/i1Q9jVaEbVM?rel=0" target="_blank" rel="nofollow">ZWCAD</a></em></span></strong></span>
 
-## 
-
+<h2></h2>
 &nbsp;
 
 * * *
 
-## 
-
+<h2></h2>
 <a href="/spm-forautocad/" target="_blank" rel="nofollow">Spatial Manager™ for AutoCAD</a> lets you to import graphic objects into **<a title="Autodesk" href="http://www.autodesk.com/" target="_blank" rel="nofollow">AutoCAD</a>** from a large number of GIS sources including **ESRI shapefile** format
 
 The application detects what type of information the **shapefile** contains to import (points, lines or polygons) and presents to the user only those import options that are valid for that type of object. In the case of polygonal objects, the closed borders can be automatically filled by using **AutoCAD Hatches,** or import not only the border of the polygons but also their centroids by using Points or **AutoCAD Blocks**

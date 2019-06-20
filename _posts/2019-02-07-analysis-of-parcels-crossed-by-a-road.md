@@ -50,8 +50,7 @@ tags:
   </p>
 </div>
 
-## 
-
+<h2></h2>
 <p>
   If you are a &#8216;Spatial Manager Desktop&#8217; user, you will also find included tools for the geospatial analysis of the elements of a map. Take a look at this other <span><em><a href="/spatial-queries-using-shp-files/" target="_blank" rel="nofollow">Blog entry</a></em></span>
 </p>
@@ -76,6 +75,5 @@ tags:
   <a href="http://wiki.spatialmanager.com/index.php/Spatial_Manager_Desktop%E2%84%A2_-_FAQs:_Selecting_and_filtering#How_can_I_select_Features_of_a_Map.3F" target="_blank" rel="nofollow"><span><em>Spatial Manager Desktop</em></span></a>
 </li>
 
-## 
-
+<h2></h2>
 _Note: Some features in the videos are available in the Standard and/or Professional editions only_

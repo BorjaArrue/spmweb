@@ -51,8 +51,7 @@ tags:
   Although the most widely used CAD applications have always pursued the option of managing MPolygons, an object defined as native in AutoCAD Map, in most cases <strong>these objects cause problems in multiple processes</strong> such as printing, vertices or segments editing, and others
 </p>
 
-## 
-
+<h2></h2>
 <p>
   &#8216;Spatial Manager&#8217; software includes the <strong>option to fill Polygonal or Multi-Polygonal</strong> features with a single Hatch object<em> (*)</em> when importing from a data source containing polygons
 </p>
@@ -68,20 +67,16 @@ tags:
   </p>
 </div>
 
-## 
-
+<h2></h2>
 In the above videos you can see the complete import process and learn how to comfortably select the Polylines that shape the Polygons or Multi-Polygons borders in order to **erase them, or simply Detach them** from the Data Table so that **only the Hatch remains Attached** to the Table
 
-## 
-
+<h2></h2>
 _(*) Note: &#8216;Spatial Manager for AutoCAD&#8217; also includes the option to use MPolygons when importing, as AutoCAD allows to programmatically create this type of objects_
 
-## 
-
+<h2></h2>
 &nbsp;
 
-## 
-
+<h2></h2>
 <p>
   Learn more about how to<strong> import and customize spatial objects</strong> and data into your drawings:
 </p>

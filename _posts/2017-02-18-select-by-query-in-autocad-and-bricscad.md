@@ -18,8 +18,7 @@ tags:
 
 <!--more-->
 
-## 
-
+<h2></h2>
 <div>
   <a href="/images/blog/2017/02/Spatial-Manager-Select-by-query-BCAD.png" target="_blank" rel="nofollow"><img src="/images/blog/2017/02/Spatial-Manager-Select-by-query-BCAD-1024x567.png" alt="Spatial Manager - Select by query BCAD" width="625" height="346" srcset="/images/blog/2017/02/Spatial-Manager-Select-by-query-BCAD-1024x567.png 1024w, /images/blog/2017/02/Spatial-Manager-Select-by-query-BCAD-300x166.png 300w, /images/blog/2017/02/Spatial-Manager-Select-by-query-BCAD-768x425.png 768w, /images/blog/2017/02/Spatial-Manager-Select-by-query-BCAD-624x346.png 624w, /images/blog/2017/02/Spatial-Manager-Select-by-query-BCAD.png 1136w" sizes="(max-width: 625px) 100vw, 625px" /></a>
   
@@ -36,8 +35,7 @@ tags:
   </p>
 </div>
 
-## 
-
+<h2></h2>
 <p>
   <strong>Related videos: </strong><a href="https://youtu.be/b-j_AFHF0aY" target="_blank" rel="nofollow">AutoCAD</a> / <a href="https://youtu.be/i9-PqDRcKy4" target="_blank" rel="nofollow">BricsCAD</a>
 </p>

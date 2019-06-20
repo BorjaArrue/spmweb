@@ -72,8 +72,7 @@ Blog entry
   
 &#8211; <a href="/publishing-your-drawing-or-map-in-google-earth-one-click/" target="_blank" rel="nofollow">Publishing your drawing or map in Google Earth (one click)</a>
 
-## 
-
+<h2></h2>
 Technical Wiki
   
 &#8211; <a href="http://wiki.spatialmanager.com/index.php/Spatial_Manager%E2%84%A2_for_AutoCAD_-_FAQs:_Export_(%22Professional%22_edition_only)#Can_I_quickly_Export_the_current_drawing_status_.28Publish.29_to_Google_Earth_.28.22Standard.22_and_.22Professional.22_editions.29" target="_blank" rel="nofollow">AutoCAD<br /> </a>&#8211; <a href="http://wiki.spatialmanager.com/index.php/Spatial_Manager%E2%84%A2_for_BricsCAD_-_FAQs:_Export_(%22Professional%22_edition_only)#Can_I_quickly_Export_the_current_drawing_status_.28Publish.29_to_Google_Earth_.28.22Standard.22_and_.22Professional.22_editions.29" target="_blank" rel="nofollow">BricsCAD</a>
@@ -108,8 +107,7 @@ Blog entries
   
 &#8211; <a href="/export-improvements-in-autocad-and-bricscad/" target="_blank" rel="nofollow">Export improvements in latest versions of &#8216;Spatial Manager&#8217;</a>
 
-## 
-
+<h2></h2>
 Technical Wiki
   
 &#8211; <a href="http://wiki.spatialmanager.com/index.php/Spatial_Manager%E2%84%A2_for_BricsCAD_-_FAQs:_Export_(%22Professional%22_edition_only)" target="_blank" rel="nofollow">AutoCAD</a>

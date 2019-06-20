@@ -20,8 +20,7 @@ When you import Polygon-type features into AutoCAD using Spatial Manager™ you 
 
 ## Please, watch this video and read below:
 
-## 
-
+<h2></h2>
 ## What are MPolygons?
 
 The Polylines are well-known objects to any AutoCAD user but, **what about the MPolygons?** The MPolygons are custom objects which serve primarily for representing **multi-part polygons** (e.g. imported from GIS files). So, an MPoygon can define multiple filled or empty (holes) rings

@@ -52,8 +52,7 @@ tags:
 
 These two enhancements will also help you better **share your geographic information** with other users
 
-## 
-
+<h2></h2>
 * * *
 
 <h2>
@@ -63,8 +62,7 @@ These two enhancements will also help you better **share your geographic informa
   Learn more about <strong>&#8216;Background Maps&#8217; Snapshots</strong> in &#8216;Spatial Manager&#8217;:
 </p>
 
-## 
-
+<h2></h2>
   * **Technical Wiki**: 
       * _<span><a href="http://wiki.spatialmanager.com/index.php/Spatial_Manager%E2%84%A2_for_AutoCAD_-_FAQs:_Background_Maps_(%22Standard%22_and_%22Professional%22_editions_only)#Is_there_any_way_to_get_static_.22Snapshots.22_of_the_.27Background_Maps.27.3F" target="_blank" rel="nofollow">Spatial Manager for AutoCAD</a></span>_
       * _<span><a href="http://wiki.spatialmanager.com/index.php/Spatial_Manager%E2%84%A2_for_BricsCAD_-_FAQs:_Background_Maps_(%22Standard%22_and_%22Professional%22_editions_only)#Is_there_any_way_to_get_static_.22Snapshots.22_of_the_.27Background_Maps.27.3F" target="_blank" rel="nofollow">Spatial Manager for BricsCAD</a></span>_

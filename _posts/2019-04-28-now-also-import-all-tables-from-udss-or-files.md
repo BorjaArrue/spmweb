@@ -60,8 +60,7 @@ tags:
   </p>
 </div>
 
-## 
-
+<h2></h2>
 The above videos will show you three &#8220;Import-All&#8221; samples and how to proceed in various cases
 
 <h2>

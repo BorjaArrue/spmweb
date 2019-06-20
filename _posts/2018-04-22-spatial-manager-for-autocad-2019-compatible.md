@@ -18,8 +18,7 @@ tags:
 
 <!--more-->
 
-## 
-
+<h2></h2>
 <p>
   <strong>Import/export</strong> <em><span><span><a href="http://wiki.spatialmanager.com/index.php/Spatial_Manager™_for_AutoCAD_-_FAQs:_Providers" target="_blank" rel="nofollow">spatial or GIS data</a></span></span></em> into/from <strong>AutoCAD (2008 to 2019)</strong> (*), and experience the advanced tools to manage spatial data, such as <strong>dynamic background maps</strong>, quick drawing <strong>publishing in Google Earth</strong>, data structures, <strong>queries</strong>, layer thematics, automatic labeling, etc.
 </p>
@@ -52,8 +51,7 @@ tags:
 
 &nbsp;
 
-## 
-
+<h2></h2>
 <h2>
   <span>New features and improvements:</span>
 </h2>
