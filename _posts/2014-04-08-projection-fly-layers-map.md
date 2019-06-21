@@ -25,3 +25,7 @@ Because the application works with Layers defined using different CRSs,  in add
 In the example shown in this video, we analyze a typical case of **combining Layers defined using different CRSs** and the tools which Spatial Manager Desktop™ provides to work in the Maps
 
 Please, watch the video:
+
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/77Kgd39QB7M" allowfullscreen></iframe>
+</div>

@@ -21,3 +21,7 @@ The Maps background technology in Spatial Manager Desktop™ includes, in additi
 In the following example, we will use some <a title="Bing Maps" href="http://en.wikipedia.org/wiki/Bing_Maps" target="_blank" rel="nofollow">Bing maps</a>, integrated into the application, as Map backgrounds in a sample Map, and, in addition to the changes between the base maps, you will see how the image grids are re-calculated according to the different scales of the Map
 
 Please, watch the video:
+
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/0c7nstlhZ5A" allowfullscreen></iframe>
+</div>

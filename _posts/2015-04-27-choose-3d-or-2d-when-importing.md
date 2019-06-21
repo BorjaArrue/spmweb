@@ -31,8 +31,14 @@ There is a quite common situation in which it is handy to obtain a 2D map from 
 
 ## Please, watch these videos:
 
-### AutoCAD importing
+## AutoCAD importing
 
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/mjH-AxNQNl8" allowfullscreen></iframe>
+</div>
 
+## BricsCAD importing
 
-### BricsCAD importing
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/6NnvNYM-LaY" allowfullscreen></iframe>
+</div>

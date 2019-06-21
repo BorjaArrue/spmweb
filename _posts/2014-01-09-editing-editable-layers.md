@@ -22,5 +22,6 @@ You cannot undo this operation so you should avoid saving the original Map. It i
 
 Please, watch the video:
 
-<center>
-</center>
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Dzkh85lX1J4" allowfullscreen></iframe>
+</div>

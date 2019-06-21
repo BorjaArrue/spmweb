@@ -23,3 +23,7 @@ In this example, over the map of a city drawn in <a title="AutoCAD page" href="h
 To represent these locators inside the <a title="AutoCAD page" href="http://www.autodesk.com/products/autodesk-autocad/overview" target="_blank" rel="nofollow">AutoCAD</a> drawing, a simple <a title="AutoCAD page" href="http://www.autodesk.com/products/autodesk-autocad/overview" target="_blank" rel="nofollow">AutoCAD</a> Block will be used. The Block definition incorporates an Attribute for the name of the hospitals
 
 Please, watch the video:
+
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/RP-FOUwBW1Y" allowfullscreen></iframe>
+</div>

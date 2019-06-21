@@ -26,3 +26,7 @@ _Note: to learn more about UDSs and Tasks, see the post <a title="Export tables 
 In this example, several spatial data Tables are imported from different sources to the same Schema of a PostGIS database server to build spatial data information about a city
 
 Please, watch the video:
+
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/2jK6XD6yELQ" allowfullscreen></iframe>
+</div>

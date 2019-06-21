@@ -24,3 +24,7 @@ The data Provider for <a title="Google Earth website" href="http://www.google.co
 In the sample analyzed in this video, some buildings of a city are exported to a KML file from a Map Layer whose data table includes the height of the buildings
 
 Please watch the video:
+
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/1TJwQIljqBQ" allowfullscreen></iframe>
+</div>

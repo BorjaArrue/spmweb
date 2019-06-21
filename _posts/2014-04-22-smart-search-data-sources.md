@@ -22,3 +22,7 @@ For example, if a set of spatial files, which includes the information of the e
 In the example shown in this video, a Map is composed and saved using some external Layers from <a title="Shapefiles Wiki" href="http://en.wikipedia.org/wiki/Shapefiles" target="_blank" rel="nofollow">Shapefiles (SHP files)</a>, which are then moved to another folder. Notice how this technology works, **by locating spatial files and what information is provided to the user** once the complete Map loading operation is performed
 
 Please, watch the video:
+
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/TdOSiXqbZSc" allowfullscreen></iframe>
+</div>

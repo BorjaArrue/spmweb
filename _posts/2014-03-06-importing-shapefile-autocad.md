@@ -40,3 +40,7 @@ For any imported table or file, regardless of its format or type, it is possible
 In this first example in the Blog on a practical application of <a href="/spm-forautocad/" target="_blank" rel="nofollow">Spatial Manager™ for AutoCAD</a>, an **SHP** Parcels file is imported on a drawing, which already contains other Objects belonging to the city. The import process fills every Parcel using a Solid transparent Hatch, distributes every Parcel into new Layers according to the zones to which each Parcel belongs and applies random colors for every new Layer created. The alphanumeric data of every Parcel is also imported using **AutoCAD Extended Entity Data** (EED or XDATA)!
 
 Please, watch the video:
+
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/JYZv5g5fnUk" allowfullscreen></iframe>
+</div>

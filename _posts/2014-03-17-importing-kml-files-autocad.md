@@ -29,3 +29,7 @@ The second folder holds linear type Features corresponding to the previous netwo
 Also, in both import processes carried out in this second part of the example, the Coordinates of the imported Objects are transformed from the original system of the <a title="KML file format" href="http://en.wikipedia.org/wiki/Kml" target="_blank" rel="nofollow">KML</a> file (<a title="WGS84" href="http://en.wikipedia.org/wiki/WGS84" target="_blank" rel="nofollow">WGS84</a>) to that of the drawing (<a title="UTM" href="http://en.wikipedia.org/wiki/Universal_Transverse_Mercator_coordinate_system" target="_blank" rel="nofollow">UTM30-ED50</a>)
 
 Please, watch the video:
+
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/F_TZ1PTmbsI" allowfullscreen></iframe>
+</div>

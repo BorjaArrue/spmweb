@@ -25,3 +25,7 @@ The application uses the same import engine and the same internal structure that
 We encourage you to review these first application features in the following video, and we recommend that you be aware of its release for download, in beta version, in the next few days
 
 Please, watch the video:
+
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/CH9d6u5kv5E" allowfullscreen></iframe>
+</div>

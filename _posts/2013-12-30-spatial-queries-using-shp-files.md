@@ -27,6 +27,6 @@ The results of these queries can be **exported from the Data Grid** and can be o
 
 Please, watch the video:
 
-<center>
-  <br />
-</center>
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/PCUjYRT3j10" allowfullscreen></iframe>
+</div>

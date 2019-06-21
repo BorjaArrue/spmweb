@@ -38,6 +38,12 @@ Spatial Manager™ has a **&#8220;Skip&#8221; button** to quickly cancel reading
 
 ### AutoCAD sample
 
-
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/tghpVo_gaOo" allowfullscreen></iframe>
+</div>
 
 ### BricsCAD sample
+
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/AiMOdzzIARI" allowfullscreen></iframe>
+</div>

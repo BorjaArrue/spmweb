@@ -21,3 +21,7 @@ Spatial Manager™ for AutoCAD includes this functionality, applying the same ea
 In this example, you can analyze how to **access a PostGIS server**, and their <a title="Schema Wiki" href="https://en.wikipedia.org/wiki/Database_schema" target="_blank" rel="nofollow">schemas</a>, and to import data from various tables of a schema, using the same import options as if it were imported from spatial files
 
 Please, watch the video:
+
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/UuDXOHytvMY" allowfullscreen></iframe>
+</div>

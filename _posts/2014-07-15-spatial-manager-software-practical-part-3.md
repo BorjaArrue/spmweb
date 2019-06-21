@@ -29,3 +29,7 @@ _We can load those files in <a title="Spatial Manager Desktop™ product page" h
 _If we need to get a separate layer in <a title="AutoCAD page" href="http://www.autodesk.com/products/autocad/overview" target="_blank" rel="nofollow">AutoCAD</a> for each file, we can to export every <a title="Shapefiles (SHP) wiki" href="http://es.wikipedia.org/wiki/Shapefile" target="_blank" rel="nofollow">Shapefile (SHP)</a> to a separate <a title="DXF file wiki" href="http://es.wikipedia.org/wiki/DXF" target="_blank" rel="nofollow">DXF</a> file or import them in <a title="AutoCAD page" href="http://www.autodesk.com/products/autocad/overview" target="_blank" rel="nofollow">AutoCAD</a> if we have a <a title="Spatial Manager™ for AutoCAD product page" href="/spm-forautocad/" target="_blank" rel="nofollow">Spatial Manager™ for AutoCAD</a> license, as we will see in the last seconds of the video_
 
 Please, watch the video:
+
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/D7Pd4Wu4XcY" allowfullscreen></iframe>
+</div>

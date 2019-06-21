@@ -20,6 +20,10 @@ When you import Polygon-type features into AutoCAD using Spatial Manager™ you 
 
 ## Please, watch this video and read below:
 
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/mfq910dCFSM" allowfullscreen></iframe>
+</div>
+
 <h2></h2>
 ## What are MPolygons?
 

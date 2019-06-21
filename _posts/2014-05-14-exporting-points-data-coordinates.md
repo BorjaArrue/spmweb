@@ -24,3 +24,7 @@ In the following example, we will get a table which includes the data of the ca
 After extracting the Point Features relevant for the establishments from a data source such as <a title="OpenStreetMap Wiki" href="https://en.wikipedia.org/wiki/OpenStreetMap" target="_blank" rel="nofollow">OpenStreetMap</a>, we run the procedures explained in the previous paragraphs
 
 Please, watch the video:
+
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Q63xG8JRf-4" allowfullscreen></iframe>
+</div>

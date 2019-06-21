@@ -29,3 +29,7 @@ Almost all such steps shown in the video would apply equally in <a title="Spatia
 _Note: This video also discusses what the right way is to create or edit <a title="ODBC Wiki" href="http://en.wikipedia.org/wiki/Odbc" target="_blank" rel="nofollow">ODBC</a> access for 32-bit and 64-bit applications, when using 64-bit operating systems_
 
 Please, watch the video:
+
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/wOybx5wmUso" allowfullscreen></iframe>
+</div>

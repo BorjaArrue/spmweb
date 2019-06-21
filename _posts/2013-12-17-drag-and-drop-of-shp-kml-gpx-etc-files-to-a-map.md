@@ -27,6 +27,6 @@ tags:
 
 Please, watch the video:
 
-<center>
-  <br />
-</center>
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/dB2BrYp3bxo" allowfullscreen></iframe>
+</div>

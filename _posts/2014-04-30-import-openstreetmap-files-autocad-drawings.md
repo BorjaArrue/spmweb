@@ -25,3 +25,7 @@ The information to be imported into <a title="AutoCAD web page" href="http://www
 Also, we configure the application to perform a **Coordinate Transformation** to project the objects over the import process (<a title="OpenStreetMap main website" href="http://www.openstreetmap.org" target="_blank" rel="nofollow">OpenStreetMap</a> information is defined using the <a title="World Geodetic System" href="http://en.wikipedia.org/wiki/WGS_84" target="_blank" rel="nofollow">WGS 84 </a>Latitude-Longitude system &#8211; <a title="EPSG Geodetic Parameter Dataset" href="http://www.epsg-registry.org/" target="_blank" rel="nofollow">EPSG</a>: 4326)
 
 Please, watch the video:
+
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/yb5kZa1GYPc" allowfullscreen></iframe>
+</div>

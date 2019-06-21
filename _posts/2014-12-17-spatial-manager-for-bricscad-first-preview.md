@@ -27,3 +27,7 @@ The application uses the same import engine and the same internal structure that
 We encourage you to review these first application features in the following video, and we recommend that you be aware of its release for download the free trial version in the next few days
 
 Please, watch the video:
+
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/ffoS2Eoo1fc" allowfullscreen></iframe>
+</div>

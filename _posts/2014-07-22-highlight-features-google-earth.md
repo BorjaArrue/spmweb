@@ -26,3 +26,7 @@ In the example shown in the video below, we analyze the required process to high
 We apply **easy to use but effective tools**, such as restrict Feature selections by Layers or the spatial queries. You can also note some advanced features in the <a title="KML file Wikipedia" href="http://en.wikipedia.org/wiki/Keyhole_Markup_Language" target="_blank" rel="nofollow">KML/KMZ</a> provider of <a title="Spatial Manager Desktop™ page" href="/spm-desktop/" target="_blank" rel="nofollow">Spatial Manager Desktop™, </a>such as the option to define structures of complex folders, to differentiate the information contained in the exported file
 
 Please, watch the video:
+
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/tllrcraqQI4" allowfullscreen></iframe>
+</div>

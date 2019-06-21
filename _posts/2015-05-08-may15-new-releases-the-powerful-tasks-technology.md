@@ -33,8 +33,10 @@ _Note: Tasks are available on the &#8220;Professional&#8221; editions only_
 
 Please, watch this preview video to learn more about &#8220;Tasks&#8221;:
 
-
-
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/uLFDuJ_8qUM" allowfullscreen></iframe>
+</div>
+<br />
 <span>More new functions or improvements can be found</span> in this version:
 
 **·** **Spatial Manager™ for AutoCAD / Spatial Manager™ for BricsCAD

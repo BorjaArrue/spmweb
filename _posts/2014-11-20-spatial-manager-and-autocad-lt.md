@@ -47,3 +47,7 @@ tags:
 <span><span>We need to bring</span> <span>a layer of</span> <span>road axes </span>to the drawing</span> <span>of</span> <span>a city that</span> <span>we are</span> <span>editing in</span> <span>AutoCAD</span> <span>LT</span>. <span>First</span> we <span>seek</span> <span>at</span> <span>OpenStreetMap</span> <span>the city</span> <span>and</span> we <span>download</span> its <span>mapping information as</span> <span>an OSM</span> <span>file.</span> <span>Then</span> <span>we export</span> <span>the</span> features <span>corresponding</span> <span>to the roads</span> <span>from</span> <span>the</span> <span>OSM</span> <span>file to a</span> <span>DXF</span> <span>file to</span> <span>insert</span> it <span>into</span> the city<span> drawing</span>
 
 Please, watch the video:
+
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/hyNFSnbrOfM" allowfullscreen></iframe>
+</div>

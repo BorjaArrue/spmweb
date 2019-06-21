@@ -26,3 +26,7 @@ If all the Layers are Disconnected in a Map, **we end up with a standalone Map
 In this example, we load various Layers into a Map, coming from a variety of spatial data sources. Next, all the Map Layers are Disconnected and the original used data sources are deleted. Finally, the Map is saved and reopened as a standalone Map, which contains all the information in the created SPM file itself. If the SPM file was sent to another user, he would have all the Map information inside this file, without the need to access any external data source
 
 Please, watch the video:
+
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Jo8ANsSU_o4" allowfullscreen></iframe>
+</div>

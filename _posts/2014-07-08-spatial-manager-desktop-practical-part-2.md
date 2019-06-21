@@ -41,3 +41,7 @@ _The easy steps to follow are:_
 When we have finished, we can check the resulting file by opening it in <a title="Google Earth page" href="https://www.google.com/earth/" target="_blank" rel="nofollow">Google Earth</a>_
 
 Please, watch the video:
+
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/yWnihcmAtwA" allowfullscreen></iframe>
+</div>

@@ -34,3 +34,7 @@ In this example, which includes spatial information Layers in the Map of a city,
 Finally, we want to create an image of the Map, to include in the Excel sheet, highlighting the selected Parcels by using a garish color in order to differentiate them, and define a graphic chart on the sheet itself which represents the area values of the Parcels
 
 Please, watch the video:
+
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/XyKA78jh0W4" allowfullscreen></iframe>
+</div>

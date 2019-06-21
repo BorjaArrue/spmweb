@@ -36,3 +36,7 @@ Now, in AutoCAD we can set the geographic location for the city and to get the i
 As we have imported the buildings using a pseudo-3D technique the comparison may also be carried out using 3D views
 
 Please, watch the video:
+
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/dzSNkOBtQnU" allowfullscreen></iframe>
+</div>

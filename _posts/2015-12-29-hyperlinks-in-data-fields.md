@@ -17,23 +17,20 @@ Sometimes, certain data of the spatial elements in a table include references to
 
 ## Please, watch the video and read below:
 
-**Spatial Manager™ for AutoCAD:
-  
-** 
-  
-
-
-**Spatial Manager™ for BricsCAD:
-  
-** 
-  
-
-
-**Spatial Manager Desktop™:
-  
-** 
-  
-
+### Spatial Manager™ for AutoCAD:
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/-mS2W2NXJTU" allowfullscreen></iframe>
+</div>
+<br />
+### Spatial Manager™ for BricsCAD:
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/ts4l4E0c_XY" allowfullscreen></iframe>
+</div>
+<br />
+### Spatial Manager Desktop™:
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/WarVtEBxx7c" allowfullscreen></iframe>
+</div>
 
 ## Hyperlinks fields
 

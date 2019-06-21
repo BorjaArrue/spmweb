@@ -34,3 +34,7 @@ In addition, there are multiple applications for AutoCAD that allow you to get a
 <a title="Spatial Manager™ for AutoCAD Product page" href="/spm-forautocad/" target="_blank" rel="nofollow">Spatial Manager™ for AutoCAD</a> allows you to set many parameters when importing objects from <a title="Shapefile Wiki page" href="http://en.wikipedia.org/wiki/Shapefile" target="_blank" rel="nofollow">Shapefiles</a>, or from many other types of spatial files and data sources. One of these parameters defines the Elevations of the imported Objects by reading them from the numeric value in a Field of the associated data table
 
 Please, watch this video to learn how to import Z-Contours from a Shapefile into AutoCAD:
+
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/kLxSshsM2cA" allowfullscreen></iframe>
+</div>

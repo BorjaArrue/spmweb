@@ -32,6 +32,13 @@ The following example shows you what the difference is when exporting an &#8220;
 
 ### AutoCAD sample
 
-
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/1mdEO4a9TDA" allowfullscreen></iframe>
+</div>
+<br />
 
 ### BricsCAD sample
+
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/TXFi-Z_gcMU" allowfullscreen></iframe>
+</div>

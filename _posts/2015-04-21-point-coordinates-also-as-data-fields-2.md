@@ -36,10 +36,18 @@ This option allows the user to include the coordinates of the Points in any proc
 
 Spatial Manager™ for AutoCAD &#8211; Labeling the Z coordinate of the imported Points:
 
-
-
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/guwD_0MIltI" allowfullscreen></iframe>
+</div>
+<br>
 Spatial Manager™ for BricsCAD  &#8211; Labeling the Z coordinate of the imported Points:
 
-
-
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/1Da81O7X2BI" allowfullscreen></iframe>
+</div>
+<br />
 Spatial Manager Desktop™ &#8211; Querying Points based on their coordinates:
+
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/UzhZUr_ravE" allowfullscreen></iframe>
+</div>

@@ -31,6 +31,6 @@ The steps to follow are:
 
 Please, watch the video:
 
-<center>
-  <br />
-</center>
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/T-f4Xdk1_4I" allowfullscreen></iframe>
+</div>

@@ -21,3 +21,7 @@ Access to certain file types when using any Spatial Manager™ product may requi
 In these video samples, we create and use a UDS to access an OSM file, and another UDS to access a KML file including subfolders, in Spatial Manager Desktop™ (creating the UDSs of these samples would be similar in Spatial Manager™ for AutoCAD)
 
 Please, watch the video:
+
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/muqSS1Wa_hw" allowfullscreen></iframe>
+</div>

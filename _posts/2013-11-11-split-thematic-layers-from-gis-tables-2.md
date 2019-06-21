@@ -24,6 +24,6 @@ This video shows this process by **creating new Tables in ESRI Shape (SHP) files
 
 Please, watch the video:
 
-<center>
-  <br />
-</center>
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/IYKC-XSNh4c" allowfullscreen></iframe>
+</div>

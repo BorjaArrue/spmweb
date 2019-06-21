@@ -50,3 +50,7 @@ First, we will choose AutoCAD Block references to import the Points as 3D object
 Next, we will **apply a nice trick by adding an Attribute to the Block** definition and by catching the Z coordinate inside the Attribute to get 2D Points with the Z coordinate <span>labeled</span> <span>right next to the</span> <span>point, when <strong>selecting &#8220;XY Description&#8221;</strong> as the file format</span>
 
 Please, watch the video:
+
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/b2BhXfZsNXE" allowfullscreen></iframe>
+</div>

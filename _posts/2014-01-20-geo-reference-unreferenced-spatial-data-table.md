@@ -21,3 +21,7 @@ This is as **simple as running an export (or import) process**, activating the T
 When the Transformation of coordinates operation is running, if you have chosen the same CRS for the source and the target data, the application does not perform any geometric transformation of the Features, and warns you about it, but **the resulting target data includes this CRS as the geo-referencing information of the Table**
 
 Please, watch the video:
+
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/d9cWNGZQTCs" allowfullscreen></iframe>
+</div>
