@@ -4,7 +4,7 @@
     font-weight: 400;
     color: #4b4b4b;
     max-width: 675px;
-        text-align: justify
+    text-align: justify
 }
 
 .old-post .post-header{
@@ -12,7 +12,6 @@
     color: #ffffff;
     display: block;
     padding: 13px 10px 20px 10px;
-    font-family: 'Open Sans', sans-serif, Arial, sans-serif;
     font-weight: lighter;
     font-size: 22px;
     margin-bottom: 12px;
@@ -20,20 +19,19 @@
 
 .old-post .post-data{
     display: flex;
-    font-family: 'Open Sans',sans-serif,Arial,sans-serif;
     color: rgb(129, 129, 129);
     font-style: italic;
     margin-bottom: 7px;
+}
+
+.old-post .post-data .date{
+    flex: none;
 }
 
 .old-post .post-data,
 .old-post .post-content{
     padding-left: 10px;
     padding-right: 10px;
-}
-
-.old-post .post-data .date{
-    flex: none;
 }
 
 .old-post .post-content div p{
