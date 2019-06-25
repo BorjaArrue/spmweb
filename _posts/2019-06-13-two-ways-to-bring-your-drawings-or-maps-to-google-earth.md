@@ -6,6 +6,7 @@ author: admin
 layout: old-post
 permalink: /two-ways-to-bring-your-drawings-or-maps-to-google-earth/
 image: /images/blog/2019/06/DwgToGEarth85.png
+big_image: /images/blog/2019/06/ExportKML.png
 categories:
   - CAD L1 (Basic)
   - Desktop L1 (Basic)

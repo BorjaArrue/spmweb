@@ -11,7 +11,7 @@ categories:
 tags:
   - Preview
 ---
-<span>This time we are sharing an article published on the blog &#8220;<em>Taking the Challenge Out of Field Data Collection</em>&#8220;, which develops a complete analysis about <em>how Spatial Manager</em></span>_<span>™ </span><span>provides users with everything they need to add geospatial functionality to CAD</span>_
+This time we are sharing an article published on the blog &#8220;<em>Taking the Challenge Out of Field Data Collection</em>&#8220;, which develops a complete analysis about <em>how Spatial Manager</em>™ provides users with everything they need to add geospatial functionality to CAD
 
 <!--more-->
 

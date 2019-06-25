@@ -6,6 +6,7 @@ author: admin
 layout: old-post
 permalink: /nearmap-oblique-maps/
 image: /images/blog/2019/05/SPMNearMap852.png
+big_image: /images/blog/2019/05/SPMNearMapOblique2.png
 categories:
   - CAD L2 (Medium)
   - Desktop L2 (Medium)
