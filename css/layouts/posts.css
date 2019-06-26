@@ -1,0 +1,21 @@
+.big_post img{
+	max-width: 100%;
+    height: auto;
+}
+
+.big_post #header{
+    text-align: justify;
+}
+
+.small_post #text{
+	flex: 1;
+}
+
+.small_post #text #header{
+	font-size: 1.7rem;
+}
+
+.big_post #text #excerpt,
+.small_post #text #excerpt{
+	text-align: justify;
+}
