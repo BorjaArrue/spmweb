@@ -26,6 +26,11 @@ css_file: /layouts/posts.css
         <div class="{{ text_div_class }}" id="text">
           <div class="h2" id="header"><a href="{{ post.url }}">{{ post.title }}</a></div>
           <div id="excerpt">{{ post.excerpt | truncatewords: words }}<a href="{{ post.url }}">&nbspmore</a></div>
+          <div id="categories">
+            {% for category in post.categories %}
+              <span class="badge badge-secondary">{{ category }}</span>
+            {% endfor %}
+          </div>
         </div>
       </div>
 
