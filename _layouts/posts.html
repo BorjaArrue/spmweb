@@ -4,8 +4,8 @@ css_file: /layouts/posts.css
 ---
 
 <div class="posts">
-   {% for post in site.posts%}
-      {% if forloop.first %}
+   {% for post in paginator.posts%}
+      {% if forloop.first and paginator.page == 1 %}
         {% assign post_div_class = 'big_post' %}
         {% assign image_div_class = 'col-md-6' %}
         {% assign image_img_class = 'border' %}
@@ -25,7 +25,7 @@ css_file: /layouts/posts.css
         <div class="{{ image_div_class }}"><img class="{{ image_img_class }}" src="{{ image }}" alt="{{ post.title }}"></div>
         <div class="{{ text_div_class }}" id="text">
           <div class="h2" id="header"><a href="{{ post.url }}">{{ post.title }}</a></div>
-          <div id="excerpt">{{ post.excerpt | truncatewords: words }}<a href="{{ post.url }}">(Read more...)</a></div>
+          <div id="excerpt">{{ post.excerpt | truncatewords: words }}<a href="{{ post.url }}">&nbspmore</a></div>
         </div>
       </div>
 
@@ -33,4 +33,30 @@ css_file: /layouts/posts.css
       <hr>
     {% endif %}
   {% endfor %}
+
+  {% if paginator.total_pages > 1 %}
+    <div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path | relative_url }}">&laquo; Prev</a>
+  {% else %}
+    <span>&laquo; Prev</span>
+  {% endif %}
+
+  {% for page in (1..paginator.total_pages) %}
+    {% if page == paginator.page %}
+      <em>{{ page }}</em>
+    {% elsif page == 1 %}
+      <a href="{{ paginator.previous_page_path | relative_url }}">{{ page }}</a>
+    {% else %}
+      <a href="{{ site.paginate_path | relative_url | replace: ':num', page }}">{{ page }}</a>
+    {% endif %}
+  {% endfor %}
+
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path | relative_url }}">Next &raquo;</a>
+  {% else %}
+    <span>Next &raquo;</span>
+  {% endif %}
+    </div>
+  {% endif %}
 </div>
