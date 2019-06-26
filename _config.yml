@@ -5,10 +5,10 @@ markdown: kramdown
 # Sass settings
 sass:
     sass_dir: css
-#    style: compressed
+    style: compressed
 
 paginate: 5
-paginate_path: /blog/page_:num/
+paginate_path: /blog/page/:num/
   
 collections:
   articles:
